@@ -1,14 +1,17 @@
 {
-  "name": "navigation",
+  "name": "echart",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "update": "node ./src/update"
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "echarts": "^4.9.0",
+    "jsonp": "^0.2.1",
     "vant": "^3.4.6",
     "vue": "^3.2.13",
     "vue-router": "^4.0.14"
