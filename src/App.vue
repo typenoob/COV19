@@ -8,8 +8,7 @@
 <script>
 import echarts from "echarts"; //引入echarts
 import "echarts/map/js/china"; //引入中国地图
-import jsonp from "jsonp"; //引入jsonp
-
+import axios from "axios";
 //ES6中let、const和var的区别,var定义的变量，作用域是整个封闭函数，是全域的；
 //let定义的变量，作用域是在块级
 //const用来专门声明一个常量，它跟let一样作用于块级作用域。
@@ -118,26 +117,24 @@ export default {
   methods: {
     getData() {
       console.log(option.series[0]);
-      jsonp("https://lab.isaaclin.cn/nCoV/api/provinceName", (err, data) => {
-        // console.log(data.data.list)
-        //data.data.list
-        //使用js里面map()方法，循环遍历后，获取数据里面一部分值。
-        console.log(data);
-        var province = data.results[0].slice(0, 33);
-        console.log(province);
-      });
       //获取网络接口数据
       //jsonp('url',function(){})    //1585397547284
-      jsonp(
-        "https://interface.sina.cn/news/wap/fymap2020_data.d.json",
-        (err, data) => {
-          // console.log(data.data.list)
-          //data.data.list
-          //使用js里面map()方法，循环遍历后，获取数据里面一部分值。
-          console.log(data);
+      // console.log(data.data.list)
+      //data.data.list
+      //使用js里面map()方法，循环遍历后，获取数据里面一部分值。
+      axios
+        .get(
+          "https://raw.githubusercontent.com/typenoob/navigation/master/src/data/area.json"
+        )
+        .then((response) => {
+          option.series[0].data = response.data.map((item) => {
+            return { name: item.name, value: item.currentConfirmedCount };
+          });
           this.covidMap.setOption(option);
-        }
-      );
+        })
+        .catch(function (error) {
+          console.log(error);
+        });
     },
   },
 };
