@@ -4,7 +4,7 @@ vue练手项目
 
 ## 网页展示
 
-(Here)[https://typenoob.github.io/navigation]
+[Here](https://typenoob.github.io/navigation)
 
 ## npm run update
 
