@@ -1,24 +1,11 @@
-# navigation
+# 丁香园疫情数据可视化
 
-## Project setup
-```
-npm install
-```
+vue练手项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 网页展示
 
-### Compiles and minifies for production
-```
-npm run build
-```
+(Here)[https://typenoob.github.io/navigation]
 
-### Lints and fixes files
-```
-npm run lint
-```
+## npm run update
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+更新数据库（已部署于github action，每一个小时自动运行）
