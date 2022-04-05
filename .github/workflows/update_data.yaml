@@ -31,6 +31,7 @@ jobs:
           git diff
           git config --global user.email "chenyutao0706@gmail.com"
           git config --global user.name "coyote"
-          git add db.json
+          git add ./src/data/overall.json
+          git add ./src/data/area.json
           git commit -m "Github Action Auto Updated" || true
           git push
