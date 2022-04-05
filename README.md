@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/typenoob/COV19/actions/workflows/update_data.yaml/badge.svg)](https://github.com/typenoob/COV19/actions/workflows/update_data.yaml)
 # 丁香园疫情数据可视化
 
 vue练手项目
