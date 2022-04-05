@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkechart"]=self["webpackChunkechart"]||[]).push([[94],{60094:function(e,n,r){function t(e,n,r,t,u,c){return"收藏"}r.r(n),r.d(n,{default:function(){return s}});var u={setup(){}},c=r(40089);const a=(0,c.Z)(u,[["render",t]]);var s=a}}]);
+//# sourceMappingURL=94.759190e6.js.map

@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunknavigation"]=self["webpackChunknavigation"]||[]).push([[219],{3219:function(n,t,e){function u(n,t,e,u,r,a){return"首页"}e.r(t),e.d(t,{default:function(){return c}});var r={setup(){}},a=e(89);const i=(0,a.Z)(r,[["render",u]]);var c=i}}]);
-//# sourceMappingURL=219.a5720184.js.map
