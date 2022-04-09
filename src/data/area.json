@@ -867,8 +867,8 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 11668,
-    "confirmedCount": 26263,
+    "currentConfirmedCount": 12241,
+    "confirmedCount": 26836,
     "suspectedCount": 485,
     "curedCount": 13742,
     "deadCount": 853,
@@ -2491,15 +2491,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 35,
+        "currentConfirmedCount": 33,
         "confirmedCount": 2353,
         "suspectedCount": 3,
-        "curedCount": 2317,
+        "curedCount": 2319,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 1,
         "locationId": 440100,
-        "currentConfirmedCountStr": "35",
+        "currentConfirmedCountStr": "33",
         "fullCityName": "广州市"
       },
       {
@@ -2751,15 +2751,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -21,
+        "currentConfirmedCount": -19,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 21,
+        "curedCount": 19,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-21",
+        "currentConfirmedCountStr": "-19",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3941,7 +3941,7 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 0,
+    "highDangerCount": 1,
     "midDangerCount": 0,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
@@ -3966,7 +3966,7 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 110105,
         "currentConfirmedCountStr": "71",
@@ -4206,7 +4206,13 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "朝阳区",
+        "areaName": "朝阳区酒仙桥街道二街坊",
+        "dangerLevel": 1
+      }
+    ]
   },
   {
     "pinyin": "guangxi",
