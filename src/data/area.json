@@ -2051,7 +2051,7 @@
         "curedCount": 782,
         "deadCount": 4,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 230100,
         "currentConfirmedCountStr": "90",
         "fullCityName": "哈尔滨市"
@@ -2077,7 +2077,7 @@
         "curedCount": 71,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 8,
+        "midDangerCount": 9,
         "locationId": 231000,
         "currentConfirmedCountStr": "20",
         "fullCityName": "牡丹江市"
@@ -2328,6 +2328,11 @@
       },
       {
         "cityName": "牡丹江",
+        "areaName": "爱民区中华社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "牡丹江",
         "areaName": "地明安居社区",
         "dangerLevel": 2
       },
@@ -2354,11 +2359,6 @@
       {
         "cityName": "哈尔滨",
         "areaName": "哈达村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "南岗区鲁商凤凰城3栋",
         "dangerLevel": 2
       }
     ]
@@ -5079,7 +5079,7 @@
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 0,
+    "midDangerCount": 2,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -5091,7 +5091,7 @@
         "curedCount": 2211,
         "deadCount": 3,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 610100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -5277,7 +5277,18 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "西安",
+        "areaName": "西咸新区沣东新城建章路街道祥云物流中心",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "西咸新区沣东新城孟家村",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "tianjin",
@@ -5788,7 +5799,7 @@
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 10,
+    "midDangerCount": 8,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -5865,7 +5876,7 @@
         "curedCount": 39,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 2,
         "locationId": 340200,
         "currentConfirmedCountStr": "1",
         "fullCityName": "芜湖市"
@@ -6016,26 +6027,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "芜湖",
-        "areaName": "栖霞小区31栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "芜湖",
-        "areaName": "新城华府小区1号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "芜湖",
-        "areaName": "新港镇建华建材职工宿舍5栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "芜湖",
-        "areaName": "阳光花园C区14栋",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "淮南",
         "areaName": "凤台县李冲回族乡李冲村",
         "dangerLevel": 2
@@ -6058,6 +6049,16 @@
       {
         "cityName": "阜阳",
         "areaName": "颍州学村北区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "芜湖",
+        "areaName": "新城华府小区1号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "芜湖",
+        "areaName": "新港镇建华建材职工宿舍5栋",
         "dangerLevel": 2
       },
       {
