@@ -1381,7 +1381,7 @@
     "locationId": 350000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 27,
+    "midDangerCount": 26,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 156,
     "cities": [
@@ -1393,7 +1393,7 @@
         "curedCount": 889,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 25,
+        "midDangerCount": 24,
         "locationId": 350500,
         "currentConfirmedCountStr": "298",
         "fullCityName": "泉州市"
@@ -1572,11 +1572,6 @@
       },
       {
         "cityName": "泉州",
-        "areaName": "丰泽街道东涂社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "泉州",
         "areaName": "丰泽区城东街道美仙山二期20栋",
         "dangerLevel": 2
       },
@@ -1690,7 +1685,7 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 2,
+    "highDangerCount": 1,
     "midDangerCount": 1,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
@@ -1715,7 +1710,7 @@
         "suspectedCount": 0,
         "curedCount": 59,
         "deadCount": 0,
-        "highDangerCount": 2,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 371600,
         "currentConfirmedCountStr": "158",
@@ -1924,11 +1919,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "滨州",
-        "areaName": "邹平市黄山街道办事处张山村",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "威海",
         "areaName": "文登区环山办城西西街1-3号",
         "dangerLevel": 2
@@ -1940,10 +1930,10 @@
     "name": "广东",
     "provinceName": "广东省",
     "provinceShortName": "广东",
-    "currentConfirmedCount": 183,
+    "currentConfirmedCount": 166,
     "confirmedCount": 6723,
     "suspectedCount": 25,
-    "curedCount": 6532,
+    "curedCount": 6549,
     "deadCount": 8,
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
@@ -2228,15 +2218,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -6,
+        "currentConfirmedCount": -23,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 6,
+        "curedCount": 23,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-6",
+        "currentConfirmedCountStr": "-23",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3204,251 +3194,6 @@
       {
         "cityName": "宿迁",
         "areaName": "宿城区双庄街道浙富世贸广场3号楼",
-        "dangerLevel": 2
-      }
-    ]
-  },
-  {
-    "pinyin": "hebei",
-    "name": "河北",
-    "provinceName": "河北省",
-    "provinceShortName": "河北",
-    "currentConfirmedCount": 92,
-    "confirmedCount": 1981,
-    "suspectedCount": 0,
-    "curedCount": 1882,
-    "deadCount": 7,
-    "comment": "河北卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
-    "locationId": 130000,
-    "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
-    "highDangerCount": 3,
-    "midDangerCount": 5,
-    "detectOrgCount": 566,
-    "vaccinationOrgCount": 178,
-    "cities": [
-      {
-        "cityName": "廊坊",
-        "currentConfirmedCount": 140,
-        "confirmedCount": 314,
-        "suspectedCount": 0,
-        "curedCount": 174,
-        "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 3,
-        "locationId": 131000,
-        "currentConfirmedCountStr": "140",
-        "fullCityName": "廊坊市"
-      },
-      {
-        "cityName": "沧州",
-        "currentConfirmedCount": 89,
-        "confirmedCount": 138,
-        "suspectedCount": 0,
-        "curedCount": 46,
-        "deadCount": 3,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130900,
-        "currentConfirmedCountStr": "89",
-        "fullCityName": "沧州市"
-      },
-      {
-        "cityName": "唐山",
-        "currentConfirmedCount": 31,
-        "confirmedCount": 89,
-        "suspectedCount": 0,
-        "curedCount": 57,
-        "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
-        "locationId": 130200,
-        "currentConfirmedCountStr": "31",
-        "fullCityName": "唐山市"
-      },
-      {
-        "cityName": "邯郸",
-        "currentConfirmedCount": 20,
-        "confirmedCount": 63,
-        "suspectedCount": 0,
-        "curedCount": 43,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 1,
-        "locationId": 130400,
-        "currentConfirmedCountStr": "20",
-        "fullCityName": "邯郸市"
-      },
-      {
-        "cityName": "保定",
-        "currentConfirmedCount": 16,
-        "confirmedCount": 56,
-        "suspectedCount": 0,
-        "curedCount": 40,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130600,
-        "currentConfirmedCountStr": "16",
-        "fullCityName": "保定市"
-      },
-      {
-        "cityName": "石家庄",
-        "currentConfirmedCount": 8,
-        "confirmedCount": 1048,
-        "suspectedCount": 0,
-        "curedCount": 1039,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130100,
-        "currentConfirmedCountStr": "8",
-        "fullCityName": "石家庄市"
-      },
-      {
-        "cityName": "秦皇岛",
-        "currentConfirmedCount": 7,
-        "confirmedCount": 17,
-        "suspectedCount": 0,
-        "curedCount": 9,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130300,
-        "currentConfirmedCountStr": "7",
-        "fullCityName": "秦皇岛市"
-      },
-      {
-        "cityName": "邢台",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 136,
-        "suspectedCount": 0,
-        "curedCount": 129,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130500,
-        "currentConfirmedCountStr": "6",
-        "fullCityName": "邢台市"
-      },
-      {
-        "cityName": "雄安新区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 19,
-        "suspectedCount": 0,
-        "curedCount": 18,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "雄安新区"
-      },
-      {
-        "cityName": "承德",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 8,
-        "suspectedCount": 0,
-        "curedCount": 7,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130800,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "承德市"
-      },
-      {
-        "cityName": "张家口",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 43,
-        "suspectedCount": 0,
-        "curedCount": 43,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 130700,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "张家口市"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 37,
-        "suspectedCount": 0,
-        "curedCount": 37,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "境外输入"
-      },
-      {
-        "cityName": "衡水",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 13,
-        "suspectedCount": 0,
-        "curedCount": 13,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 131100,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "衡水市"
-      },
-      {
-        "cityName": "待明确",
-        "currentConfirmedCount": -223,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 223,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "notShowCurrentConfirmedCount": true,
-        "currentConfirmedCountStr": "-",
-        "fullCityName": "待明确"
-      }
-    ],
-    "dangerAreas": [
-      {
-        "cityName": "廊坊",
-        "areaName": "安次区葛渔城镇全域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "廊坊",
-        "areaName": "霸州市胜芳镇欧韵城小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "唐山",
-        "areaName": "高新技术开发区盛华世家仓储购物市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "廊坊",
-        "areaName": "安次区东沽港镇淘河村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "廊坊",
-        "areaName": "霸州市杨芬港镇褚西村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "廊坊",
-        "areaName": "桃园村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "唐山",
-        "areaName": "路北区君瑞联合农贸市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邯郸",
-        "areaName": "鸡泽县浮图店镇",
         "dangerLevel": 2
       }
     ]
@@ -4466,6 +4211,251 @@
         "cityName": "朝阳区",
         "areaName": "朝阳区酒仙桥街道二街坊",
         "dangerLevel": 1
+      }
+    ]
+  },
+  {
+    "pinyin": "hebei",
+    "name": "河北",
+    "provinceName": "河北省",
+    "provinceShortName": "河北",
+    "currentConfirmedCount": 57,
+    "confirmedCount": 1981,
+    "suspectedCount": 0,
+    "curedCount": 1917,
+    "deadCount": 7,
+    "comment": "河北卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
+    "locationId": 130000,
+    "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
+    "highDangerCount": 3,
+    "midDangerCount": 5,
+    "detectOrgCount": 566,
+    "vaccinationOrgCount": 178,
+    "cities": [
+      {
+        "cityName": "廊坊",
+        "currentConfirmedCount": 101,
+        "confirmedCount": 314,
+        "suspectedCount": 0,
+        "curedCount": 213,
+        "deadCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 3,
+        "locationId": 131000,
+        "currentConfirmedCountStr": "101",
+        "fullCityName": "廊坊市"
+      },
+      {
+        "cityName": "沧州",
+        "currentConfirmedCount": 89,
+        "confirmedCount": 138,
+        "suspectedCount": 0,
+        "curedCount": 46,
+        "deadCount": 3,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130900,
+        "currentConfirmedCountStr": "89",
+        "fullCityName": "沧州市"
+      },
+      {
+        "cityName": "唐山",
+        "currentConfirmedCount": 31,
+        "confirmedCount": 89,
+        "suspectedCount": 0,
+        "curedCount": 57,
+        "deadCount": 1,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
+        "locationId": 130200,
+        "currentConfirmedCountStr": "31",
+        "fullCityName": "唐山市"
+      },
+      {
+        "cityName": "邯郸",
+        "currentConfirmedCount": 20,
+        "confirmedCount": 63,
+        "suspectedCount": 0,
+        "curedCount": 43,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
+        "locationId": 130400,
+        "currentConfirmedCountStr": "20",
+        "fullCityName": "邯郸市"
+      },
+      {
+        "cityName": "保定",
+        "currentConfirmedCount": 16,
+        "confirmedCount": 56,
+        "suspectedCount": 0,
+        "curedCount": 40,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130600,
+        "currentConfirmedCountStr": "16",
+        "fullCityName": "保定市"
+      },
+      {
+        "cityName": "石家庄",
+        "currentConfirmedCount": 8,
+        "confirmedCount": 1048,
+        "suspectedCount": 0,
+        "curedCount": 1039,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130100,
+        "currentConfirmedCountStr": "8",
+        "fullCityName": "石家庄市"
+      },
+      {
+        "cityName": "秦皇岛",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 17,
+        "suspectedCount": 0,
+        "curedCount": 9,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130300,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "秦皇岛市"
+      },
+      {
+        "cityName": "邢台",
+        "currentConfirmedCount": 6,
+        "confirmedCount": 136,
+        "suspectedCount": 0,
+        "curedCount": 129,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130500,
+        "currentConfirmedCountStr": "6",
+        "fullCityName": "邢台市"
+      },
+      {
+        "cityName": "雄安新区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 19,
+        "suspectedCount": 0,
+        "curedCount": 18,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "雄安新区"
+      },
+      {
+        "cityName": "承德",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 8,
+        "suspectedCount": 0,
+        "curedCount": 7,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130800,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "承德市"
+      },
+      {
+        "cityName": "张家口",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 43,
+        "suspectedCount": 0,
+        "curedCount": 43,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 130700,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "张家口市"
+      },
+      {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 37,
+        "suspectedCount": 0,
+        "curedCount": 37,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "境外输入"
+      },
+      {
+        "cityName": "衡水",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 13,
+        "suspectedCount": 0,
+        "curedCount": 13,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 131100,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "衡水市"
+      },
+      {
+        "cityName": "待明确",
+        "currentConfirmedCount": -223,
+        "confirmedCount": 0,
+        "suspectedCount": 0,
+        "curedCount": 223,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "notShowCurrentConfirmedCount": true,
+        "currentConfirmedCountStr": "-",
+        "fullCityName": "待明确"
+      }
+    ],
+    "dangerAreas": [
+      {
+        "cityName": "廊坊",
+        "areaName": "安次区葛渔城镇全域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "廊坊",
+        "areaName": "霸州市胜芳镇欧韵城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "唐山",
+        "areaName": "高新技术开发区盛华世家仓储购物市场",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "廊坊",
+        "areaName": "安次区东沽港镇淘河村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "廊坊",
+        "areaName": "霸州市杨芬港镇褚西村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "廊坊",
+        "areaName": "桃园村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "唐山",
+        "areaName": "路北区君瑞联合农贸市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邯郸",
+        "areaName": "鸡泽县浮图店镇",
+        "dangerLevel": 2
       }
     ]
   },
