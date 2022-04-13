@@ -53,7 +53,7 @@
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 114,
+    "midDangerCount": 95,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -65,7 +65,7 @@
         "curedCount": 16587,
         "deadCount": 0,
         "highDangerCount": 3,
-        "midDangerCount": 77,
+        "midDangerCount": 58,
         "locationId": 220100,
         "currentConfirmedCountStr": "6953",
         "fullCityName": "长春市"
@@ -216,21 +216,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "长春",
-        "areaName": "九郊街道新州社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "长春",
-        "areaName": "青年路街道宇航社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "长春",
-        "areaName": "团山街道小南街社区",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "吉林市",
         "areaName": "昌邑区桦皮厂镇桦皮厂社区",
         "dangerLevel": 1
@@ -243,6 +228,21 @@
       {
         "cityName": "吉林市",
         "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "九郊街道新州社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "青年路街道宇航社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "团山街道小南街社区",
         "dangerLevel": 1
       },
       {
@@ -297,17 +297,7 @@
       },
       {
         "cityName": "长春",
-        "areaName": "九台区胡家回族乡周家村6社",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
         "areaName": "九台区纪家街道纪家村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区纪家街道坐山村",
         "dangerLevel": 2
       },
       {
@@ -322,32 +312,7 @@
       },
       {
         "cityName": "长春",
-        "areaName": "九台区沐石河街道横道村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区沐石河街道河南村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
         "areaName": "九台区沐石河街道卢家村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区沐石河街道沐石河村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区沐石河街道太和村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区沐石河街道于家村",
         "dangerLevel": 2
       },
       {
@@ -367,62 +332,7 @@
       },
       {
         "cityName": "长春",
-        "areaName": "九台区上河湾镇南甸子村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区上河湾镇双顶村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区上河湾镇万福花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区上河湾镇吴文祥小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区上河湾镇幸福家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区上河湾镇友谊小区老楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
         "areaName": "九台区苇子沟街道大苇村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区苇子沟街道官地村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区苇子沟街道拉拉村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区苇子沟街道西山村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区苇子沟街道小苇村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "九台区兴隆街道大荒地村",
         "dangerLevel": 2
       },
       {
@@ -433,11 +343,6 @@
       {
         "cityName": "长春",
         "areaName": "净月区德容街道福临花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "净月区德容街道亚泰华府",
         "dangerLevel": 2
       },
       {
@@ -1675,7 +1580,7 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 1,
+    "highDangerCount": 0,
     "midDangerCount": 1,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
@@ -1700,7 +1605,7 @@
         "suspectedCount": 0,
         "curedCount": 68,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 371600,
         "currentConfirmedCountStr": "149",
@@ -1904,11 +1809,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "滨州",
-        "areaName": "阳信县翟王镇",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "威海",
         "areaName": "文登区环山办城西西街1-3号",
         "dangerLevel": 2
@@ -1929,7 +1829,7 @@
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 5,
+    "midDangerCount": 6,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -1941,7 +1841,7 @@
         "curedCount": 2324,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 3,
         "locationId": 440100,
         "currentConfirmedCountStr": "98",
         "fullCityName": "广州市"
@@ -1967,7 +1867,7 @@
         "curedCount": 475,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 441900,
         "currentConfirmedCountStr": "18",
         "fullCityName": "东莞市"
@@ -2237,8 +2137,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "东莞",
-        "areaName": "高埗镇北王路高埗段86号百茂物流园",
+        "cityName": "广州",
+        "areaName": "白云区黄石街道黄石东路488号江夏灯饰建材城",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区人和镇穗和东大街12号205-208迪鹿酒吧",
         "dangerLevel": 2
       },
       {
@@ -5726,7 +5631,7 @@
     "locationId": 430000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 4,
+    "midDangerCount": 3,
     "detectOrgCount": 286,
     "vaccinationOrgCount": 65,
     "cities": [
@@ -5751,7 +5656,7 @@
         "curedCount": 245,
         "deadCount": 2,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 430100,
         "currentConfirmedCountStr": "22",
         "fullCityName": "长沙市"
@@ -5943,11 +5848,6 @@
       {
         "cityName": "长沙",
         "areaName": "天心区城南路街道席草田巷2、3、5、7、9、11、13、15、17、19、20号，天心街1—11号、12-74号（双号），白沙街8号二单元，席草田巷1号含（萝卜白菜）经营场所，熙台岭巷41—45号（单号）、52-98号（双号），南福巷6-8号，里仁坡1—7号、11—37号、45号，城南西路93号（德雅村）—109号（好牙医华盛店）以南，里仁坡2—10号以北",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长沙",
-        "areaName": "天心区新开铺街道天翔新新家园A栋",
         "dangerLevel": 2
       },
       {
@@ -6521,7 +6421,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -6546,7 +6446,7 @@
         "curedCount": 9,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 150400,
         "currentConfirmedCountStr": "2",
         "fullCityName": "赤峰市"
@@ -6695,13 +6595,7 @@
         "fullCityName": "乌海市"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "赤峰",
-        "areaName": "巴林左旗西城街道赛汗小区",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "guizhou",
