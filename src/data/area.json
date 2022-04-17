@@ -400,7 +400,7 @@
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
     "highDangerCount": 5,
-    "midDangerCount": 74,
+    "midDangerCount": 75,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -425,7 +425,7 @@
         "curedCount": 11207,
         "deadCount": 3,
         "highDangerCount": 2,
-        "midDangerCount": 28,
+        "midDangerCount": 29,
         "locationId": 220200,
         "currentConfirmedCountStr": "2859",
         "fullCityName": "吉林省"
@@ -860,6 +860,11 @@
       {
         "cityName": "吉林市",
         "areaName": "昌邑区桦皮厂镇平胜村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "吉林市",
+        "areaName": "昌邑区延江街道江山帝景小区",
         "dangerLevel": 2
       },
       {
@@ -1997,7 +2002,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 34,
+    "midDangerCount": 36,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -2009,7 +2014,7 @@
         "curedCount": 862,
         "deadCount": 4,
         "highDangerCount": 0,
-        "midDangerCount": 10,
+        "midDangerCount": 12,
         "locationId": 230100,
         "currentConfirmedCountStr": "81",
         "fullCityName": "哈尔滨市"
@@ -2270,6 +2275,66 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "哈尔滨",
+        "areaName": "哈达村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "南岗区王岗镇红星凯悦小区13栋 ",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "南岗区王岗镇红星凯悦小区19栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "南岗区王岗镇红星凯悦小区B栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "南岗区王岗镇靠山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "双城区承旭街道社保局东边胡同平房片区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "双城区乐群满族乡乐民村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "双城区幸福街道庆宁村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "双城区永治街道奋斗社区温馨小区1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "双城区永治街道团结大街235号幸福e家1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "香坊区朝阳镇前进村居民区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "永胜村居民区",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "牡丹江",
         "areaName": "爱民区庆达社区",
         "dangerLevel": 2
@@ -2317,56 +2382,6 @@
       {
         "cityName": "牡丹江",
         "areaName": "兴平社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "哈达村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "南岗区王岗镇红星凯悦小区13栋、19栋、B栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "南岗区王岗镇靠山村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "双城区承旭街道社保局东边胡同平房片区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "双城区乐群满族乡乐民村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "双城区幸福街道庆宁村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "双城区永治街道奋斗社区温馨小区1栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "双城区永治街道团结大街235号幸福e家1栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "香坊区朝阳镇前进村居民区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "永胜村居民区",
         "dangerLevel": 2
       }
     ]
