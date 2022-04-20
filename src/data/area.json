@@ -24,8 +24,8 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 23112,
-    "confirmedCount": 37710,
+    "currentConfirmedCount": 25588,
+    "confirmedCount": 40186,
     "suspectedCount": 485,
     "curedCount": 13742,
     "deadCount": 856,
@@ -1411,7 +1411,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 36,
+    "midDangerCount": 33,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -1475,7 +1475,7 @@
         "curedCount": 55,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 0,
         "locationId": 230800,
         "currentConfirmedCountStr": "1",
         "fullCityName": "佳木斯市"
@@ -1787,21 +1787,6 @@
         "cityName": "牡丹江",
         "areaName": "兴平社区",
         "dangerLevel": 2
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "汤原县东湖城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "汤原县阳光河畔小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "汤原镇西凤鸣村",
-        "dangerLevel": 2
       }
     ]
   },
@@ -1889,19 +1874,6 @@
         "fullCityName": "厦门市"
       },
       {
-        "cityName": "漳州",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 40,
-        "suspectedCount": 0,
-        "curedCount": 38,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350600,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "漳州市"
-      },
-      {
         "cityName": "福州",
         "currentConfirmedCount": 1,
         "confirmedCount": 74,
@@ -1941,6 +1913,19 @@
         "fullCityName": "三明市"
       },
       {
+        "cityName": "漳州",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 40,
+        "suspectedCount": 0,
+        "curedCount": 40,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350600,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "漳州市"
+      },
+      {
         "cityName": "龙岩",
         "currentConfirmedCount": 0,
         "confirmedCount": 6,
@@ -1955,15 +1940,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -15,
+        "currentConfirmedCount": -13,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 15,
+        "curedCount": 13,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-15",
+        "currentConfirmedCountStr": "-13",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3452,8 +3437,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 0,
+    "highDangerCount": 0,
+    "midDangerCount": 1,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -3491,8 +3476,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 110105,
         "currentConfirmedCountStr": "74",
         "fullCityName": "朝阳区"
@@ -3721,7 +3706,7 @@
       {
         "cityName": "朝阳区",
         "areaName": "朝阳区酒仙桥街道二街坊",
-        "dangerLevel": 1
+        "dangerLevel": 2
       }
     ]
   },
@@ -4015,19 +4000,6 @@
         "fullCityName": "临沧市"
       },
       {
-        "cityName": "文山州",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 12,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "文山壮族苗族自治州"
-      },
-      {
         "cityName": "昆明",
         "currentConfirmedCount": 7,
         "confirmedCount": 65,
@@ -4039,6 +4011,19 @@
         "locationId": 530100,
         "currentConfirmedCountStr": "7",
         "fullCityName": "昆明市"
+      },
+      {
+        "cityName": "文山州",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 12,
+        "suspectedCount": 0,
+        "curedCount": 5,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "文山壮族苗族自治州"
       },
       {
         "cityName": "普洱",
@@ -4159,15 +4144,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -139,
+        "currentConfirmedCount": -136,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 139,
+        "curedCount": 136,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-139",
+        "currentConfirmedCountStr": "-136",
         "fullCityName": "待明确地区"
       }
     ],
