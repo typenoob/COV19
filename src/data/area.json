@@ -24,8 +24,8 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 25588,
-    "confirmedCount": 40186,
+    "currentConfirmedCount": 28645,
+    "confirmedCount": 43243,
     "suspectedCount": 485,
     "curedCount": 13742,
     "deadCount": 856,
@@ -1047,28 +1047,28 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 241,
+        "currentConfirmedCount": 233,
         "confirmedCount": 2595,
         "suspectedCount": 3,
-        "curedCount": 2353,
+        "curedCount": 2361,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 440100,
-        "currentConfirmedCountStr": "241",
+        "currentConfirmedCountStr": "233",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 39,
+        "currentConfirmedCount": 37,
         "confirmedCount": 2507,
         "suspectedCount": 3,
-        "curedCount": 2465,
+        "curedCount": 2467,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440300,
-        "currentConfirmedCountStr": "39",
+        "currentConfirmedCountStr": "37",
         "fullCityName": "深圳市"
       },
       {
@@ -1320,15 +1320,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -12,
+        "currentConfirmedCount": -2,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 12,
+        "curedCount": 2,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-12",
+        "currentConfirmedCountStr": "-2",
         "fullCityName": "待明确地区"
       }
     ],
@@ -2055,19 +2055,6 @@
         "fullCityName": "青岛市"
       },
       {
-        "cityName": "烟台",
-        "currentConfirmedCount": 15,
-        "confirmedCount": 85,
-        "suspectedCount": 0,
-        "curedCount": 70,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 370600,
-        "currentConfirmedCountStr": "15",
-        "fullCityName": "烟台市"
-      },
-      {
         "cityName": "境外输入",
         "currentConfirmedCount": 7,
         "confirmedCount": 438,
@@ -2133,6 +2120,19 @@
         "fullCityName": "枣庄市"
       },
       {
+        "cityName": "烟台",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 85,
+        "suspectedCount": 0,
+        "curedCount": 85,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 370600,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "烟台市"
+      },
+      {
         "cityName": "潍坊",
         "currentConfirmedCount": 0,
         "confirmedCount": 52,
@@ -2186,15 +2186,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -203,
+        "currentConfirmedCount": -188,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 203,
+        "curedCount": 188,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-203",
+        "currentConfirmedCountStr": "-188",
         "fullCityName": "待明确地区"
       }
     ],
@@ -4737,7 +4737,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 2,
+    "midDangerCount": 3,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -4788,7 +4788,7 @@
         "curedCount": 46,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 130400,
         "currentConfirmedCountStr": "18",
         "fullCityName": "邯郸市"
@@ -4929,6 +4929,11 @@
       {
         "cityName": "邯郸",
         "areaName": "鸡泽县浮图店镇",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邯郸",
+        "areaName": "魏县双井镇野庄村",
         "dangerLevel": 2
       },
       {
