@@ -400,7 +400,7 @@
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
     "highDangerCount": 3,
-    "midDangerCount": 33,
+    "midDangerCount": 29,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -425,7 +425,7 @@
         "curedCount": 13654,
         "deadCount": 3,
         "highDangerCount": 0,
-        "midDangerCount": 15,
+        "midDangerCount": 11,
         "locationId": 220200,
         "currentConfirmedCountStr": "450",
         "fullCityName": "吉林省"
@@ -664,16 +664,6 @@
       },
       {
         "cityName": "吉林市",
-        "areaName": "  吉林市昌邑区兴华街道兴田上城7号楼A座",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "昌邑区孤店子镇孤店子村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
         "areaName": "昌邑区桦皮厂镇桦皮厂社区",
         "dangerLevel": 2
       },
@@ -685,11 +675,6 @@
       {
         "cityName": "吉林市",
         "areaName": "昌邑区左家镇王家岭村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "丰满区江南街道恒东花园小区1号楼2单元",
         "dangerLevel": 2
       },
       {
@@ -730,11 +715,6 @@
       {
         "cityName": "吉林市",
         "areaName": "吉林市昌邑区两家子乡李屯村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "吉林市丰满区龙城帝景小区103栋",
         "dangerLevel": 2
       },
       {
@@ -2583,8 +2563,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 0,
+    "highDangerCount": 1,
+    "midDangerCount": 1,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -2608,8 +2588,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 110105,
         "currentConfirmedCountStr": "97",
         "fullCityName": "朝阳区"
@@ -2848,7 +2828,18 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "朝阳区",
+        "areaName": "潘家园街道松榆里社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "潘家园街道松榆东里社区",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "guangxi",
@@ -4875,7 +4866,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 3,
+    "midDangerCount": 4,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -4913,7 +4904,7 @@
         "curedCount": 57,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 130200,
         "currentConfirmedCountStr": "34",
         "fullCityName": "唐山市"
@@ -5078,6 +5069,11 @@
         "cityName": "邢台",
         "areaName": "南和区史召乡李牌村片区（史召乡果寨村以北、340国道以南、留垒河以西、史召桥村以东合围区域）",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "唐山",
+        "areaName": "迁安市野鸡坨镇邵家营村",
+        "dangerLevel": 2
       }
     ]
   },
@@ -5095,7 +5091,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 2,
+    "midDangerCount": 3,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -5120,7 +5116,7 @@
         "curedCount": 611,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 3,
         "locationId": 150700,
         "currentConfirmedCountStr": "6",
         "fullCityName": "呼伦贝尔市"
@@ -5279,6 +5275,11 @@
         "cityName": "呼伦贝尔",
         "areaName": "满洲里市南区街道",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "呼伦贝尔",
+        "areaName": "满洲里市兴华街道",
+        "dangerLevel": 2
       }
     ]
   },
@@ -5296,7 +5297,7 @@
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -5386,7 +5387,7 @@
         "curedCount": 83,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 341500,
         "currentConfirmedCountStr": "1",
         "fullCityName": "六安市"
@@ -5522,13 +5523,7 @@
         "fullCityName": "黄山市"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "六安",
-        "areaName": "霍邱县孟集镇姜嘴村",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "liaoning",
