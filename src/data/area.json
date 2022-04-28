@@ -24,8 +24,8 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 62338,
-    "confirmedCount": 76938,
+    "currentConfirmedCount": 73846,
+    "confirmedCount": 88446,
     "suspectedCount": 485,
     "curedCount": 13742,
     "deadCount": 858,
@@ -841,7 +841,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 35,
+    "midDangerCount": 36,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -853,7 +853,7 @@
         "curedCount": 908,
         "deadCount": 4,
         "highDangerCount": 2,
-        "midDangerCount": 35,
+        "midDangerCount": 36,
         "locationId": 230100,
         "currentConfirmedCountStr": "387",
         "fullCityName": "哈尔滨市"
@@ -1121,6 +1121,11 @@
       {
         "cityName": "哈尔滨",
         "areaName": "南岗区新境街10号新华印刷厂家属楼小区10栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "松北区浦江国际小区",
         "dangerLevel": 2
       },
       {
@@ -3590,7 +3595,7 @@
     "locationId": 140000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 183,
     "vaccinationOrgCount": 70,
     "cities": [
@@ -3602,7 +3607,7 @@
         "curedCount": 72,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 140100,
         "currentConfirmedCountStr": "36",
         "fullCityName": "太原市"
@@ -3751,13 +3756,7 @@
         "fullCityName": "临汾市"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "太原",
-        "areaName": "清徐县王答乡元跃物流园区",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "guangxi",
