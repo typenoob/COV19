@@ -1452,7 +1452,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 5,
-    "midDangerCount": 16,
+    "midDangerCount": 19,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -1477,7 +1477,7 @@
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 3,
-        "midDangerCount": 14,
+        "midDangerCount": 15,
         "locationId": 110105,
         "currentConfirmedCountStr": "171",
         "fullCityName": "朝阳区"
@@ -1504,7 +1504,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 2,
+        "midDangerCount": 4,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -1769,6 +1769,11 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "劲松街道农光东里社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "南磨房乡南新园社区",
         "dangerLevel": 2
       },
@@ -1819,7 +1824,17 @@
       },
       {
         "cityName": "房山区",
+        "areaName": "窦店镇瓦窑头村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "房山区",
         "areaName": "窦店镇小高舍村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "房山区",
+        "areaName": "长阳镇加州水郡东区社区金桥国际公寓",
         "dangerLevel": 2
       }
     ]
@@ -5081,7 +5096,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 4,
+    "midDangerCount": 3,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -5145,7 +5160,7 @@
         "curedCount": 46,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 130400,
         "currentConfirmedCountStr": "18",
         "fullCityName": "邯郸市"
@@ -5271,16 +5286,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "邯郸",
-        "areaName": "鸡泽县浮图店镇",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邯郸",
-        "areaName": "魏县双井镇野庄村",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "邢台",
         "areaName": "南和区史召乡李牌村片区（史召乡果寨村以北、340国道以南、留垒河以西、史召桥村以东合围区域）",
         "dangerLevel": 2
@@ -5288,6 +5293,11 @@
       {
         "cityName": "唐山",
         "areaName": "迁安市野鸡坨镇邵家营村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邯郸",
+        "areaName": "魏县双井镇野庄村",
         "dangerLevel": 2
       }
     ]
@@ -5803,7 +5813,7 @@
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -5815,7 +5825,7 @@
         "curedCount": 2211,
         "deadCount": 3,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 610100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -6001,13 +6011,7 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "西安",
-        "areaName": "西咸新区沣东新城三桥街道秦汉酒店（天台路店）",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "chongqing",
