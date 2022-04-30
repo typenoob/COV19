@@ -24,11 +24,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 86149,
-    "confirmedCount": 100753,
+    "currentConfirmedCount": 101276,
+    "confirmedCount": 115883,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 862,
+    "deadCount": 865,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -1194,7 +1194,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 19,
+    "midDangerCount": 23,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -1219,7 +1219,7 @@
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 4,
-        "midDangerCount": 14,
+        "midDangerCount": 16,
         "locationId": 110105,
         "currentConfirmedCountStr": "186",
         "fullCityName": "朝阳区"
@@ -1246,7 +1246,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 5,
+        "midDangerCount": 6,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -1286,7 +1286,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 110112,
         "currentConfirmedCountStr": "30",
         "fullCityName": "通州区"
@@ -1521,6 +1521,11 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "建外街道北郎东社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "南磨房乡南新园社区",
         "dangerLevel": 2
       },
@@ -1560,6 +1565,11 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "朝阳区",
+        "areaName": "小红门乡鸿博家园第一社区",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "房山区",
         "areaName": "窦店镇田家园村",
         "dangerLevel": 2
@@ -1576,12 +1586,22 @@
       },
       {
         "cityName": "房山区",
+        "areaName": "窦店镇一街村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "房山区",
         "areaName": "琉璃河镇兴礼村",
         "dangerLevel": 2
       },
       {
         "cityName": "房山区",
         "areaName": "长阳镇加州水郡东区社区金桥国际公寓",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "通运街道通胡大街78号",
         "dangerLevel": 2
       }
     ]
@@ -1809,41 +1829,41 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 167,
+        "currentConfirmedCount": 155,
         "confirmedCount": 2668,
         "suspectedCount": 3,
-        "curedCount": 2500,
+        "curedCount": 2512,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "167",
+        "currentConfirmedCountStr": "155",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 15,
+        "currentConfirmedCount": 13,
         "confirmedCount": 2511,
         "suspectedCount": 3,
-        "curedCount": 2493,
+        "curedCount": 2495,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440300,
-        "currentConfirmedCountStr": "15",
+        "currentConfirmedCountStr": "13",
         "fullCityName": "深圳市"
       },
       {
         "cityName": "湛江",
-        "currentConfirmedCount": 8,
+        "currentConfirmedCount": 6,
         "confirmedCount": 56,
         "suspectedCount": 2,
-        "curedCount": 48,
+        "curedCount": 50,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440800,
-        "currentConfirmedCountStr": "8",
+        "currentConfirmedCountStr": "6",
         "fullCityName": "湛江市"
       },
       {
@@ -2082,15 +2102,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -22,
+        "currentConfirmedCount": -6,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 22,
+        "curedCount": 6,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-22",
+        "currentConfirmedCountStr": "-6",
         "fullCityName": "待明确地区"
       }
     ],
