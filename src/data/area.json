@@ -785,8 +785,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 7,
-    "midDangerCount": 28,
+    "highDangerCount": 10,
+    "midDangerCount": 26,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -810,8 +810,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 17,
+        "highDangerCount": 7,
+        "midDangerCount": 16,
         "locationId": 110105,
         "currentConfirmedCountStr": "213",
         "fullCityName": "朝阳区"
@@ -837,8 +837,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 7,
+        "highDangerCount": 3,
+        "midDangerCount": 6,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -1058,6 +1058,16 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "劲松街道农光东里社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "建外街道北郎东社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "潘家园街道松榆里社区",
         "dangerLevel": 1
       },
@@ -1079,6 +1089,11 @@
       {
         "cityName": "房山区",
         "areaName": "窦店镇燕都世界名园社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "房山区",
+        "areaName": "窦店镇一街村",
         "dangerLevel": 1
       },
       {
@@ -1113,16 +1128,6 @@
       },
       {
         "cityName": "朝阳区",
-        "areaName": "劲松街道农光东里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "建外街道北郎东社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
         "areaName": "南磨房乡南新园社区",
         "dangerLevel": 2
       },
@@ -1144,6 +1149,11 @@
       {
         "cityName": "朝阳区",
         "areaName": "十八里店乡吕家营村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "十八里店乡周家庄村",
         "dangerLevel": 2
       },
       {
@@ -1189,11 +1199,6 @@
       {
         "cityName": "房山区",
         "areaName": "窦店镇小高舍村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "房山区",
-        "areaName": "窦店镇一街村",
         "dangerLevel": 2
       },
       {
