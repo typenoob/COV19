@@ -391,10 +391,10 @@
     "name": "浙江",
     "provinceName": "浙江省",
     "provinceShortName": "浙江",
-    "currentConfirmedCount": 721,
+    "currentConfirmedCount": 705,
     "confirmedCount": 3128,
     "suspectedCount": 68,
-    "curedCount": 2406,
+    "curedCount": 2422,
     "deadCount": 1,
     "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
     "locationId": 330000,
@@ -575,15 +575,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -324,
+        "currentConfirmedCount": -340,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 324,
+        "curedCount": 340,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-324",
+        "currentConfirmedCountStr": "-340",
         "fullCityName": "待明确地区"
       }
     ],
@@ -602,7 +602,7 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 20,
+    "highDangerCount": 21,
     "midDangerCount": 33,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
@@ -614,7 +614,7 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 11,
+        "highDangerCount": 12,
         "midDangerCount": 14,
         "locationId": 110105,
         "currentConfirmedCountStr": "339",
@@ -898,6 +898,11 @@
       {
         "cityName": "朝阳区",
         "areaName": "潘家园街道潘家园社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "潘家园松榆西里社区街道",
         "dangerLevel": 1
       },
       {
@@ -1945,7 +1950,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 20,
+    "midDangerCount": 19,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -1957,7 +1962,7 @@
         "curedCount": 1285,
         "deadCount": 4,
         "highDangerCount": 0,
-        "midDangerCount": 19,
+        "midDangerCount": 18,
         "locationId": 230100,
         "currentConfirmedCountStr": "52",
         "fullCityName": "哈尔滨市"
@@ -2235,11 +2240,6 @@
       {
         "cityName": "哈尔滨",
         "areaName": "永胜村居民区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "永治街道财富名苑小区",
         "dangerLevel": 2
       },
       {
@@ -2621,8 +2621,8 @@
     "name": "山东",
     "provinceName": "山东省",
     "provinceShortName": "山东",
-    "currentConfirmedCount": 54,
-    "confirmedCount": 2734,
+    "currentConfirmedCount": 53,
+    "confirmedCount": 2733,
     "suspectedCount": 14,
     "curedCount": 2673,
     "deadCount": 7,
@@ -2701,15 +2701,15 @@
       },
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 5,
-        "confirmedCount": 444,
+        "currentConfirmedCount": 4,
+        "confirmedCount": 443,
         "suspectedCount": 1,
         "curedCount": 439,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "5",
+        "currentConfirmedCountStr": "4",
         "fullCityName": "境外输入"
       },
       {
@@ -3631,7 +3631,7 @@
     "locationId": 430000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 2,
+    "midDangerCount": 0,
     "detectOrgCount": 286,
     "vaccinationOrgCount": 65,
     "cities": [
@@ -3643,7 +3643,7 @@
         "curedCount": 102,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 430500,
         "currentConfirmedCountStr": "51",
         "fullCityName": "邵阳市"
@@ -3844,18 +3844,7 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "邵阳",
-        "areaName": "北塔区陈家桥镇杨旗岭社区安置小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "双清区石桥街道裕丰家园小区（1期）",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "hainan",
@@ -5024,7 +5013,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -5127,7 +5116,7 @@
         "curedCount": 129,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 130500,
         "currentConfirmedCountStr": "6",
         "fullCityName": "邢台市"
@@ -5212,13 +5201,7 @@
         "fullCityName": "待明确"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "邢台",
-        "areaName": "南和区史召乡李牌村片区（史召乡果寨村以北、340国道以南、留垒河以西、史召桥村以东合围区域）",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "chongqing",
