@@ -602,8 +602,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 17,
-    "midDangerCount": 37,
+    "highDangerCount": 14,
+    "midDangerCount": 34,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -614,8 +614,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 10,
-        "midDangerCount": 11,
+        "highDangerCount": 9,
+        "midDangerCount": 10,
         "locationId": 110105,
         "currentConfirmedCountStr": "380",
         "fullCityName": "朝阳区"
@@ -680,8 +680,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 11,
+        "highDangerCount": 1,
+        "midDangerCount": 9,
         "locationId": 110112,
         "currentConfirmedCountStr": "72",
         "fullCityName": "通州区"
@@ -896,11 +896,6 @@
       },
       {
         "cityName": "朝阳区",
-        "areaName": "十八里店乡吕家营村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "朝阳区",
         "areaName": "十八里店乡周家庄村",
         "dangerLevel": 1
       },
@@ -937,16 +932,6 @@
       {
         "cityName": "通州区",
         "areaName": "新华街道如意社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "新华街道盛业家园社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "中仓街道新华园社区",
         "dangerLevel": 1
       },
       {
@@ -991,12 +976,12 @@
       },
       {
         "cityName": "房山区",
-        "areaName": "琉璃河镇兴礼村",
+        "areaName": "西潞街道苏庄三里社区",
         "dangerLevel": 2
       },
       {
         "cityName": "房山区",
-        "areaName": "西潞街道苏庄三里社区",
+        "areaName": "阎村镇大董村",
         "dangerLevel": 2
       },
       {
@@ -1025,68 +1010,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "通州区",
-        "areaName": "北苑街道官园社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "九棵树街道翠景北里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "潞城镇后北营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "梨园镇大方居社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "梨园镇颐瑞西里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "马驹桥镇样本小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "通运街道通胡大街78号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "于家务回族乡聚福园开发区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "于家务回族乡西里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "玉桥街道葛布店北里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "永顺镇永顺西里社区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "朝阳区",
         "areaName": "豆各庄乡朝丰家园社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "高碑店乡方家园社区",
         "dangerLevel": 2
       },
       {
@@ -1132,6 +1057,51 @@
       {
         "cityName": "朝阳区",
         "areaName": "双井街道和平村一社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "北苑街道官园社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "九棵树街道翠景北里社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "潞城镇后北营村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "梨园镇大方居社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "梨园镇颐瑞西里社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "马驹桥镇样本小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "于家务回族乡聚福园开发区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "于家务回族乡西里社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "中仓街道新华园社区",
         "dangerLevel": 2
       }
     ]
@@ -1930,10 +1900,10 @@
     "name": "福建",
     "provinceName": "福建省",
     "provinceShortName": "福建",
-    "currentConfirmedCount": 71,
+    "currentConfirmedCount": 70,
     "confirmedCount": 3096,
     "suspectedCount": 15,
-    "curedCount": 3024,
+    "curedCount": 3025,
     "deadCount": 1,
     "comment": "",
     "locationId": 350000,
@@ -1958,42 +1928,16 @@
       },
       {
         "cityName": "厦门",
-        "currentConfirmedCount": 6,
+        "currentConfirmedCount": 3,
         "confirmedCount": 317,
         "suspectedCount": 0,
-        "curedCount": 311,
+        "curedCount": 314,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 350200,
-        "currentConfirmedCountStr": "6",
+        "currentConfirmedCountStr": "3",
         "fullCityName": "厦门市"
-      },
-      {
-        "cityName": "南平",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 23,
-        "suspectedCount": 0,
-        "curedCount": 21,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350700,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "南平市"
-      },
-      {
-        "cityName": "宁德",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 77,
-        "suspectedCount": 0,
-        "curedCount": 76,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350900,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "宁德市"
       },
       {
         "cityName": "泉州",
@@ -2022,6 +1966,19 @@
         "fullCityName": "莆田市"
       },
       {
+        "cityName": "宁德",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 77,
+        "suspectedCount": 0,
+        "curedCount": 77,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350900,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "宁德市"
+      },
+      {
         "cityName": "福州",
         "currentConfirmedCount": 0,
         "confirmedCount": 74,
@@ -2048,6 +2005,19 @@
         "fullCityName": "漳州市"
       },
       {
+        "cityName": "南平",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 23,
+        "suspectedCount": 0,
+        "curedCount": 23,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350700,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "南平市"
+      },
+      {
         "cityName": "三明",
         "currentConfirmedCount": 0,
         "confirmedCount": 15,
@@ -2072,19 +2042,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -5,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 5,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-5",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
