@@ -4,8 +4,8 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 621119,
-    "confirmedCount": 635870,
+    "currentConfirmedCount": 685073,
+    "confirmedCount": 699824,
     "suspectedCount": 485,
     "curedCount": 13742,
     "deadCount": 1009,
@@ -602,8 +602,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 14,
-    "midDangerCount": 34,
+    "highDangerCount": 15,
+    "midDangerCount": 31,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -614,8 +614,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 9,
-        "midDangerCount": 10,
+        "highDangerCount": 8,
+        "midDangerCount": 11,
         "locationId": 110105,
         "currentConfirmedCountStr": "384",
         "fullCityName": "朝阳区"
@@ -640,8 +640,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 15,
+        "highDangerCount": 6,
+        "midDangerCount": 14,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -681,7 +681,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 9,
+        "midDangerCount": 6,
         "locationId": 110112,
         "currentConfirmedCountStr": "72",
         "fullCityName": "通州区"
@@ -905,8 +905,8 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "朝阳区",
-        "areaName": "双井街道广和南里二条",
+        "cityName": "房山区",
+        "areaName": "窦店镇窦店产业园",
         "dangerLevel": 1
       },
       {
@@ -930,14 +930,14 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "通州区",
-        "areaName": "新华街道如意社区",
+        "cityName": "房山区",
+        "areaName": "长阳镇韵达快递长阳分部",
         "dangerLevel": 1
       },
       {
-        "cityName": "房山区",
-        "areaName": "窦店镇窦店产业园",
-        "dangerLevel": 2
+        "cityName": "通州区",
+        "areaName": "新华街道如意社区",
+        "dangerLevel": 1
       },
       {
         "cityName": "房山区",
@@ -1056,6 +1056,11 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "双井街道广和南里二条",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "双井街道和平村一社区",
         "dangerLevel": 2
       },
@@ -1066,17 +1071,7 @@
       },
       {
         "cityName": "通州区",
-        "areaName": "九棵树街道翠景北里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
         "areaName": "潞城镇后北营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "梨园镇大方居社区",
         "dangerLevel": 2
       },
       {
@@ -1087,11 +1082,6 @@
       {
         "cityName": "通州区",
         "areaName": "马驹桥镇样本小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "于家务回族乡聚福园开发区",
         "dangerLevel": 2
       },
       {
@@ -1304,15 +1294,15 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 137,
+        "currentConfirmedCount": 127,
         "confirmedCount": 2803,
         "suspectedCount": 3,
-        "curedCount": 2665,
+        "curedCount": 2675,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "137",
+        "currentConfirmedCountStr": "127",
         "fullCityName": "广州市"
       },
       {
@@ -1379,19 +1369,6 @@
         "locationId": 442000,
         "currentConfirmedCountStr": "2",
         "fullCityName": "中山市"
-      },
-      {
-        "cityName": "韶关",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 12,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 440200,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "韶关市"
       },
       {
         "cityName": "东莞",
@@ -1524,6 +1501,19 @@
         "fullCityName": "汕尾市"
       },
       {
+        "cityName": "韶关",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 12,
+        "suspectedCount": 0,
+        "curedCount": 11,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 440200,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "韶关市"
+      },
+      {
         "cityName": "揭阳",
         "currentConfirmedCount": 0,
         "confirmedCount": 11,
@@ -1577,15 +1567,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -17,
+        "currentConfirmedCount": -6,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 17,
+        "curedCount": 6,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-17",
+        "currentConfirmedCountStr": "-6",
         "fullCityName": "待明确地区"
       }
     ],
