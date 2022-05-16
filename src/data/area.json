@@ -602,8 +602,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 15,
-    "midDangerCount": 31,
+    "highDangerCount": 18,
+    "midDangerCount": 26,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -614,8 +614,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 8,
-        "midDangerCount": 11,
+        "highDangerCount": 9,
+        "midDangerCount": 7,
         "locationId": 110105,
         "currentConfirmedCountStr": "397",
         "fullCityName": "朝阳区"
@@ -641,7 +641,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 6,
-        "midDangerCount": 14,
+        "midDangerCount": 13,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -655,7 +655,7 @@
         "curedCount": 286,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 110106,
         "currentConfirmedCountStr": "153",
         "fullCityName": "丰台区"
@@ -667,8 +667,8 @@
         "suspectedCount": 0,
         "curedCount": 82,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 110108,
         "currentConfirmedCountStr": "127",
         "fullCityName": "海淀区"
@@ -681,7 +681,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 6,
+        "midDangerCount": 4,
         "locationId": 110112,
         "currentConfirmedCountStr": "75",
         "fullCityName": "通州区"
@@ -891,6 +891,11 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "南磨房乡南新园社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "潘家园街道潘家园社区",
         "dangerLevel": 1
       },
@@ -935,14 +940,19 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "通州区",
-        "areaName": "新华街道如意社区",
+        "cityName": "海淀区",
+        "areaName": "北太平庄街道金晖远洋社区远洋风景小区",
         "dangerLevel": 1
       },
       {
-        "cityName": "房山区",
-        "areaName": "窦店镇芦村",
-        "dangerLevel": 2
+        "cityName": "海淀区",
+        "areaName": "清河街道安宁北路社区安宁佳园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "新华街道如意社区",
+        "dangerLevel": 1
       },
       {
         "cityName": "房山区",
@@ -1011,17 +1021,7 @@
       },
       {
         "cityName": "朝阳区",
-        "areaName": "豆各庄乡朝丰家园社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
         "areaName": "劲松街道大郊亭社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "南磨房乡南新园社区",
         "dangerLevel": 2
       },
       {
@@ -1032,16 +1032,6 @@
       {
         "cityName": "朝阳区",
         "areaName": "潘家园街道松榆东里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "潘家园街道松榆里社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "潘家园街道松榆西里社区",
         "dangerLevel": 2
       },
       {
@@ -1066,11 +1056,6 @@
       },
       {
         "cityName": "通州区",
-        "areaName": "北苑街道官园社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
         "areaName": "潞城镇后北营村",
         "dangerLevel": 2
       },
@@ -1086,12 +1071,17 @@
       },
       {
         "cityName": "通州区",
-        "areaName": "于家务回族乡西里社区",
+        "areaName": "中仓街道新华园社区",
         "dangerLevel": 2
       },
       {
-        "cityName": "通州区",
-        "areaName": "中仓街道新华园社区",
+        "cityName": "海淀区",
+        "areaName": "北太平庄街道索家坟社区首钢小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丰台区",
+        "areaName": "五里店街道彩虹北社区",
         "dangerLevel": 2
       }
     ]
@@ -3414,8 +3404,8 @@
     "name": "云南",
     "provinceName": "云南省",
     "provinceShortName": "云南",
-    "currentConfirmedCount": 13,
-    "confirmedCount": 2127,
+    "currentConfirmedCount": 14,
+    "confirmedCount": 2128,
     "suspectedCount": 23,
     "curedCount": 2112,
     "deadCount": 2,
@@ -3455,15 +3445,15 @@
       },
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 12,
-        "confirmedCount": 1497,
+        "currentConfirmedCount": 13,
+        "confirmedCount": 1498,
         "suspectedCount": 23,
         "curedCount": 1485,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "12",
+        "currentConfirmedCountStr": "13",
         "fullCityName": "境外输入"
       },
       {
@@ -3652,7 +3642,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 14,
+    "midDangerCount": 2,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -3664,7 +3654,7 @@
         "curedCount": 1330,
         "deadCount": 4,
         "highDangerCount": 0,
-        "midDangerCount": 14,
+        "midDangerCount": 2,
         "locationId": 230100,
         "currentConfirmedCountStr": "7",
         "fullCityName": "哈尔滨市"
@@ -3856,72 +3846,12 @@
     "dangerAreas": [
       {
         "cityName": "哈尔滨",
-        "areaName": "宾安镇立新村李八仙屯",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
         "areaName": "宾县宾州镇金穗小区",
         "dangerLevel": 2
       },
       {
         "cityName": "哈尔滨",
         "areaName": "宾县宾州镇绿海家园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇盛鑫嘉园13号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇盛鑫嘉园14号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇天福缘新区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇迎宾尚城A区1号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇迎宾尚城A区2号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾县宾州镇迎宾尚城A区3号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾州镇迎宾尚城1号高层",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "宾州镇迎宾尚城3号高层",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "泓山水阳光小区1期",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "山水庭苑小区9号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "鑫福家园高层",
         "dangerLevel": 2
       }
     ]
