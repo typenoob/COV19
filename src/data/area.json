@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 881182,
-    "confirmedCount": 896059,
+    "currentConfirmedCount": 966223,
+    "confirmedCount": 981141,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 1135,
+    "deadCount": 1176,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -602,8 +602,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 17,
-    "midDangerCount": 29,
+    "highDangerCount": 15,
+    "midDangerCount": 32,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -614,8 +614,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 9,
-        "midDangerCount": 6,
+        "highDangerCount": 7,
+        "midDangerCount": 8,
         "locationId": 110105,
         "currentConfirmedCountStr": "406",
         "fullCityName": "朝阳区"
@@ -641,7 +641,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 5,
-        "midDangerCount": 18,
+        "midDangerCount": 19,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -876,17 +876,7 @@
       },
       {
         "cityName": "朝阳区",
-        "areaName": "建外街道北郎东社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "朝阳区",
         "areaName": "建外街道南郎社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "金盏乡金盏嘉园二社区",
         "dangerLevel": 1
       },
       {
@@ -956,6 +946,11 @@
       },
       {
         "cityName": "房山区",
+        "areaName": "窦店镇苏村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "房山区",
         "areaName": "窦店镇腾龙家园社区",
         "dangerLevel": 2
       },
@@ -976,12 +971,12 @@
       },
       {
         "cityName": "房山区",
-        "areaName": "窦店镇袁庄村",
+        "areaName": "拱辰街道世茂维拉社区",
         "dangerLevel": 2
       },
       {
         "cityName": "房山区",
-        "areaName": "拱辰街道世茂维拉社区",
+        "areaName": "琉璃河镇滨水雅园小区西区",
         "dangerLevel": 2
       },
       {
@@ -1042,6 +1037,16 @@
       {
         "cityName": "朝阳区",
         "areaName": "劲松街道大郊亭社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "建外街道北郎东社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏乡金盏嘉园二社区",
         "dangerLevel": 2
       },
       {
@@ -1605,29 +1610,16 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 76,
+        "currentConfirmedCount": 70,
         "confirmedCount": 2808,
         "suspectedCount": 3,
-        "curedCount": 2731,
+        "curedCount": 2737,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "76",
+        "currentConfirmedCountStr": "70",
         "fullCityName": "广州市"
-      },
-      {
-        "cityName": "深圳",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 2514,
-        "suspectedCount": 3,
-        "curedCount": 2507,
-        "deadCount": 3,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 440300,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "深圳市"
       },
       {
         "cityName": "佛山",
@@ -1641,6 +1633,19 @@
         "locationId": 440600,
         "currentConfirmedCountStr": "4",
         "fullCityName": "佛山市"
+      },
+      {
+        "cityName": "深圳",
+        "currentConfirmedCount": 3,
+        "confirmedCount": 2514,
+        "suspectedCount": 3,
+        "curedCount": 2508,
+        "deadCount": 3,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 440300,
+        "currentConfirmedCountStr": "3",
+        "fullCityName": "深圳市"
       },
       {
         "cityName": "中山",
@@ -1865,15 +1870,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -12,
+        "currentConfirmedCount": -5,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 12,
+        "curedCount": 5,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-12",
+        "currentConfirmedCountStr": "-5",
         "fullCityName": "待明确地区"
       }
     ],
@@ -2694,15 +2699,15 @@
     "cities": [
       {
         "cityName": "北辰区",
-        "currentConfirmedCount": 3,
-        "confirmedCount": 26,
+        "currentConfirmedCount": 6,
+        "confirmedCount": 29,
         "suspectedCount": 0,
         "curedCount": 23,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 120113,
-        "currentConfirmedCountStr": "3",
+        "currentConfirmedCountStr": "6",
         "fullCityName": "北辰区"
       },
       {
@@ -2915,15 +2920,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": 20,
-        "confirmedCount": 20,
+        "currentConfirmedCount": 17,
+        "confirmedCount": 17,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "20",
+        "currentConfirmedCountStr": "17",
         "fullCityName": "待明确地区"
       }
     ],
