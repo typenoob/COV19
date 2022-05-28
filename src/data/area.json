@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 1719541,
-    "confirmedCount": 1735067,
+    "currentConfirmedCount": 1800014,
+    "confirmedCount": 1815703,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 1784,
+    "deadCount": 1947,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -53,7 +53,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 4,
+    "midDangerCount": 5,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -208,7 +208,7 @@
         "curedCount": 2968,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310117,
         "currentConfirmedCountStr": "5",
         "fullCityName": "松江区"
@@ -337,6 +337,11 @@
       {
         "cityName": "青浦区",
         "areaName": "徐泾镇迮庵村（杨巷西区）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "松江区",
+        "areaName": "方松街道滨湖路58",
         "dangerLevel": 2
       }
     ]
@@ -2161,41 +2166,41 @@
     "cities": [
       {
         "cityName": "湛江",
-        "currentConfirmedCount": 42,
+        "currentConfirmedCount": 38,
         "confirmedCount": 141,
         "suspectedCount": 2,
-        "curedCount": 99,
+        "curedCount": 103,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440800,
-        "currentConfirmedCountStr": "42",
+        "currentConfirmedCountStr": "38",
         "fullCityName": "湛江市"
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 21,
+        "currentConfirmedCount": 18,
         "confirmedCount": 2821,
         "suspectedCount": 3,
-        "curedCount": 2799,
+        "curedCount": 2802,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "21",
+        "currentConfirmedCountStr": "18",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 5,
+        "currentConfirmedCount": 4,
         "confirmedCount": 2518,
         "suspectedCount": 3,
-        "curedCount": 2510,
+        "curedCount": 2511,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440300,
-        "currentConfirmedCountStr": "5",
+        "currentConfirmedCountStr": "4",
         "fullCityName": "深圳市"
       },
       {
@@ -2434,15 +2439,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -16,
+        "currentConfirmedCount": -8,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 16,
+        "curedCount": 8,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-16",
+        "currentConfirmedCountStr": "-8",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3795,7 +3800,7 @@
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 12,
+    "midDangerCount": 8,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -3807,7 +3812,7 @@
         "curedCount": 11,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 0,
         "locationId": 210800,
         "currentConfirmedCountStr": "207",
         "fullCityName": "营口市"
@@ -4047,26 +4052,6 @@
       {
         "cityName": "丹东",
         "areaName": "振兴区知春园小区一期",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "营口",
-        "areaName": "大石桥市百寨街道四季春城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "营口",
-        "areaName": "大石桥市三元井村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "营口",
-        "areaName": "大石桥市汤池镇二道河村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "营口",
-        "areaName": "大石桥市鑫盛家园",
         "dangerLevel": 2
       }
     ]
