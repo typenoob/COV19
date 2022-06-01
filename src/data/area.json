@@ -53,7 +53,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 6,
+    "midDangerCount": 5,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -182,7 +182,7 @@
         "curedCount": 5382,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 310112,
         "currentConfirmedCountStr": "14",
         "fullCityName": "闵行区"
@@ -320,16 +320,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "闵行区",
-        "areaName": "华漕镇许浦村三队、",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "吴泾镇剑川路165号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "青浦区",
         "areaName": "徐泾镇迮庵村（杨巷西区）",
         "dangerLevel": 2
@@ -347,6 +337,11 @@
       {
         "cityName": "浦东新区",
         "areaName": "花木街道丁香路910弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "吴泾镇剑川路165号",
         "dangerLevel": 2
       }
     ]
@@ -736,15 +731,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 31,
+        "currentConfirmedCount": 28,
         "confirmedCount": 1668,
         "suspectedCount": 0,
-        "curedCount": 1634,
+        "curedCount": 1637,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "31",
+        "currentConfirmedCountStr": "28",
         "fullCityName": "成都市"
       },
       {
@@ -996,15 +991,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -57,
+        "currentConfirmedCount": -54,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 57,
+        "curedCount": 54,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-57",
+        "currentConfirmedCountStr": "-54",
         "fullCityName": "待明确地区"
       }
     ],
