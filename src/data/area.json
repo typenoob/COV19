@@ -53,7 +53,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 5,
+    "midDangerCount": 8,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -91,7 +91,7 @@
         "curedCount": 3053,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 310106,
         "currentConfirmedCountStr": "172",
         "fullCityName": "静安区"
@@ -111,15 +111,15 @@
       },
       {
         "cityName": "黄浦区",
-        "currentConfirmedCount": 99,
-        "confirmedCount": 6616,
+        "currentConfirmedCount": 100,
+        "confirmedCount": 6617,
         "suspectedCount": 0,
         "curedCount": 6517,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 310101,
-        "currentConfirmedCountStr": "99",
+        "currentConfirmedCountStr": "100",
         "fullCityName": "黄浦区"
       },
       {
@@ -130,7 +130,7 @@
         "curedCount": 17037,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 3,
         "locationId": 310115,
         "currentConfirmedCountStr": "77",
         "fullCityName": "浦东新区"
@@ -227,19 +227,6 @@
         "fullCityName": "嘉定区"
       },
       {
-        "cityName": "青浦区",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 1326,
-        "suspectedCount": 0,
-        "curedCount": 1324,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 1,
-        "locationId": 310118,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "青浦区"
-      },
-      {
         "cityName": "奉贤区",
         "currentConfirmedCount": 2,
         "confirmedCount": 248,
@@ -251,6 +238,19 @@
         "locationId": 310120,
         "currentConfirmedCountStr": "2",
         "fullCityName": "奉贤区"
+      },
+      {
+        "cityName": "青浦区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 1325,
+        "suspectedCount": 0,
+        "curedCount": 1324,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 310118,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "青浦区"
       },
       {
         "cityName": "崇明区",
@@ -320,6 +320,31 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "浦东新区",
+        "areaName": "花木街道丁香路910弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "花木街道银霄路39弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "惠南镇梅花新邨",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "静安区",
+        "areaName": "曹家渡街道武定西路1189号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "静安区",
+        "areaName": "天目西路街道芷江西路593弄",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "嘉定区",
         "areaName": "菊园新区永靖路898弄（北区）",
         "dangerLevel": 2
@@ -332,16 +357,6 @@
       {
         "cityName": "闵行区",
         "areaName": "吴泾镇剑川路165号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "青浦区",
-        "areaName": "徐泾镇迮庵村（杨巷西区）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "花木街道丁香路910弄",
         "dangerLevel": 2
       }
     ]
