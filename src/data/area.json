@@ -53,7 +53,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 20,
+    "midDangerCount": 24,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -78,7 +78,7 @@
         "curedCount": 4501,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 310104,
         "currentConfirmedCountStr": "176",
         "fullCityName": "徐汇区"
@@ -117,7 +117,7 @@
         "curedCount": 5282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 3,
         "locationId": 310112,
         "currentConfirmedCountStr": "115",
         "fullCityName": "闵行区"
@@ -169,7 +169,7 @@
         "curedCount": 3068,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 310113,
         "currentConfirmedCountStr": "22",
         "fullCityName": "宝山区"
@@ -380,8 +380,18 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "宝山区",
+        "areaName": "张庙街道泗塘一村四号地块",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "徐汇区",
         "areaName": "湖南路街道新乐路58弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "南路街道淮海中路1352号-1372号",
         "dangerLevel": 2
       },
       {
@@ -392,6 +402,21 @@
       {
         "cityName": "徐汇区",
         "areaName": "天平路街道永嘉路172弄住宅小区（含永嘉路172弄、170号、166弄1-3号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "浦江镇召楼路2056弄博雅苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "吴泾镇剑川路165号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "莘庄镇报春路388弄新梅花苑小区",
         "dangerLevel": 2
       },
       {
@@ -407,11 +432,6 @@
       {
         "cityName": "松江区",
         "areaName": "方松街道滨湖路585弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "吴泾镇剑川路165号",
         "dangerLevel": 2
       },
       {
@@ -435,7 +455,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 3,
+    "midDangerCount": 2,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -473,7 +493,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 110111,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -704,11 +724,6 @@
       {
         "cityName": "朝阳区",
         "areaName": "十八里店乡小武基村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "房山区",
-        "areaName": "青龙湖镇果各庄村",
         "dangerLevel": 2
       }
     ]
@@ -1723,7 +1738,7 @@
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 0,
+    "midDangerCount": 2,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -1735,7 +1750,7 @@
         "curedCount": 54,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 210600,
         "currentConfirmedCountStr": "11",
         "fullCityName": "丹东市"
@@ -1936,7 +1951,18 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "丹东",
+        "areaName": "元宝区御景苑回迁楼区（御景苑41号楼、42号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "振兴区锦绣花园三期",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "tianjin",
