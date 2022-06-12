@@ -295,56 +295,56 @@
     "name": "上海",
     "provinceName": "上海市",
     "provinceShortName": "上海",
-    "currentConfirmedCount": 231,
-    "confirmedCount": 63087,
+    "currentConfirmedCount": 215,
+    "confirmedCount": 63098,
     "suspectedCount": 393,
-    "curedCount": 62261,
+    "curedCount": 62288,
     "deadCount": 595,
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 28,
+    "midDangerCount": 31,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
       {
         "cityName": "浦东新区",
-        "currentConfirmedCount": 384,
-        "confirmedCount": 17122,
+        "currentConfirmedCount": 386,
+        "confirmedCount": 17124,
         "suspectedCount": 0,
         "curedCount": 16737,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 310115,
-        "currentConfirmedCountStr": "384",
+        "currentConfirmedCountStr": "386",
         "fullCityName": "浦东新区"
       },
       {
         "cityName": "徐汇区",
-        "currentConfirmedCount": 176,
-        "confirmedCount": 4678,
+        "currentConfirmedCount": 177,
+        "confirmedCount": 4679,
         "suspectedCount": 0,
         "curedCount": 4501,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 5,
         "locationId": 310104,
-        "currentConfirmedCountStr": "176",
+        "currentConfirmedCountStr": "177",
         "fullCityName": "徐汇区"
       },
       {
         "cityName": "黄浦区",
-        "currentConfirmedCount": 162,
-        "confirmedCount": 6620,
+        "currentConfirmedCount": 163,
+        "confirmedCount": 6621,
         "suspectedCount": 0,
         "curedCount": 6458,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 1,
         "locationId": 310101,
-        "currentConfirmedCountStr": "162",
+        "currentConfirmedCountStr": "163",
         "fullCityName": "黄浦区"
       },
       {
@@ -362,28 +362,28 @@
       },
       {
         "cityName": "闵行区",
-        "currentConfirmedCount": 121,
-        "confirmedCount": 5403,
+        "currentConfirmedCount": 122,
+        "confirmedCount": 5404,
         "suspectedCount": 0,
         "curedCount": 5282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 310112,
-        "currentConfirmedCountStr": "121",
+        "currentConfirmedCountStr": "122",
         "fullCityName": "闵行区"
       },
       {
         "cityName": "静安区",
-        "currentConfirmedCount": 116,
-        "confirmedCount": 3230,
+        "currentConfirmedCount": 118,
+        "confirmedCount": 3232,
         "suspectedCount": 0,
         "curedCount": 3113,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 6,
+        "midDangerCount": 7,
         "locationId": 310106,
-        "currentConfirmedCountStr": "116",
+        "currentConfirmedCountStr": "118",
         "fullCityName": "静安区"
       },
       {
@@ -428,9 +428,9 @@
       {
         "cityName": "境外输入",
         "currentConfirmedCount": 23,
-        "confirmedCount": 4641,
+        "confirmedCount": 4642,
         "suspectedCount": 8,
-        "curedCount": 4618,
+        "curedCount": 4619,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
@@ -459,10 +459,23 @@
         "curedCount": 2968,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 310117,
         "currentConfirmedCountStr": "8",
         "fullCityName": "松江区"
+      },
+      {
+        "cityName": "奉贤区",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 250,
+        "suspectedCount": 0,
+        "curedCount": 246,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
+        "locationId": 310120,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "奉贤区"
       },
       {
         "cityName": "嘉定区",
@@ -478,29 +491,16 @@
         "fullCityName": "嘉定区"
       },
       {
-        "cityName": "奉贤区",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 248,
-        "suspectedCount": 0,
-        "curedCount": 246,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 1,
-        "locationId": 310120,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "奉贤区"
-      },
-      {
         "cityName": "青浦区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1325,
+        "currentConfirmedCount": 2,
+        "confirmedCount": 1326,
         "suspectedCount": 0,
         "curedCount": 1324,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 310118,
-        "currentConfirmedCountStr": "1",
+        "currentConfirmedCountStr": "2",
         "fullCityName": "青浦区"
       },
       {
@@ -557,19 +557,24 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1100,
+        "currentConfirmedCount": -1126,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 512,
+        "curedCount": 538,
         "deadCount": 588,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1100",
+        "currentConfirmedCountStr": "-1126",
         "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "静安区",
+        "areaName": "宝山路街道芷江中路413弄",
+        "dangerLevel": 2
+      },
       {
         "cityName": "静安区",
         "areaName": "曹家渡街道武定西路1189号",
@@ -601,6 +606,31 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "徐汇区",
+        "areaName": "湖南路街道新乐路58弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "湖南路街道长乐路335号—339弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "南路街道淮海中路1352号-1372号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "田林街道田林十一村（多层住宅区）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "天平路街道永嘉路172弄住宅小区（含永嘉路172弄、170号、166弄1-3号）",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "虹口区",
         "areaName": "北外滩街道昆明路56号",
         "dangerLevel": 2
@@ -618,26 +648,6 @@
       {
         "cityName": "虹口区",
         "areaName": "四川北路街道山阴路55号所在小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "湖南路街道新乐路58弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "南路街道淮海中路1352号-1372号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "田林街道田林十一村（多层住宅区）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "天平路街道永嘉路172弄住宅小区（含永嘉路172弄、170号、166弄1-3号）",
         "dangerLevel": 2
       },
       {
@@ -661,18 +671,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "浦东新区",
-        "areaName": "花木街道樱花路801弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "花木街道银霄路39弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "惠南镇梅花新邨",
+        "cityName": "闵行区",
+        "areaName": "梅陇镇普乐路665弄",
         "dangerLevel": 2
       },
       {
@@ -691,8 +691,28 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "松江区",
-        "areaName": "方松街道滨湖路585弄",
+        "cityName": "浦东新区",
+        "areaName": "花木街道樱花路801弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "花木街道银霄路39弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "惠南镇梅花新邨",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "塘桥街道浦建路60弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "奉贤区",
+        "areaName": "南桥镇新建中路394号小区",
         "dangerLevel": 2
       },
       {
@@ -703,11 +723,6 @@
       {
         "cityName": "杨浦区",
         "areaName": "五角场街道邯郸路585号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "奉贤区",
-        "areaName": "南桥镇新建中路394号小区",
         "dangerLevel": 2
       }
     ]
