@@ -304,7 +304,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 31,
+    "midDangerCount": 35,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -329,7 +329,7 @@
         "curedCount": 4501,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 5,
+        "midDangerCount": 7,
         "locationId": 310104,
         "currentConfirmedCountStr": "179",
         "fullCityName": "徐汇区"
@@ -368,7 +368,7 @@
         "curedCount": 5282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 3,
         "locationId": 310112,
         "currentConfirmedCountStr": "125",
         "fullCityName": "闵行区"
@@ -381,7 +381,7 @@
         "curedCount": 3113,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 7,
+        "midDangerCount": 8,
         "locationId": 310106,
         "currentConfirmedCountStr": "119",
         "fullCityName": "静安区"
@@ -498,7 +498,7 @@
         "curedCount": 1324,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310118,
         "currentConfirmedCountStr": "2",
         "fullCityName": "青浦区"
@@ -511,7 +511,7 @@
         "curedCount": 397,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310151,
         "currentConfirmedCountStr": "1",
         "fullCityName": "崇明区"
@@ -606,6 +606,11 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "静安区",
+        "areaName": "芷江西路街道芷江西路270弄",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "徐汇区",
         "areaName": "湖南路街道新乐路58弄",
         "dangerLevel": 2
@@ -613,6 +618,16 @@
       {
         "cityName": "徐汇区",
         "areaName": "湖南路街道长乐路335号—339弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "凌云路街道梅陇三村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "凌云路街道梅陇四村",
         "dangerLevel": 2
       },
       {
@@ -671,26 +686,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "闵行区",
-        "areaName": "梅陇镇普乐路665弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "浦江镇召楼路2056弄博雅苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "吴泾镇剑川路165号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "莘庄镇报春路388弄新梅花苑小区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "虹口区",
         "areaName": "北外滩街道昆明路56号",
         "dangerLevel": 2
@@ -711,6 +706,21 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "闵行区",
+        "areaName": "梅陇镇普乐路665弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "浦江镇召楼路2056弄博雅苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "莘庄镇报春路388弄新梅花苑小区",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "奉贤区",
         "areaName": "南桥镇新建中路394号小区",
         "dangerLevel": 2
@@ -723,6 +733,16 @@
       {
         "cityName": "杨浦区",
         "areaName": "五角场街道邯郸路585号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "青浦区",
+        "areaName": "练塘镇芦潼村芦花自然村（泖阳港以西、老松蒸公路以北、小蒸港以南、贞溪路以东合围地块）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "崇明区",
+        "areaName": "新海镇跃进新村65-68号",
         "dangerLevel": 2
       }
     ]
@@ -5472,7 +5492,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -5497,7 +5517,7 @@
         "curedCount": 315,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 131000,
         "currentConfirmedCountStr": "0",
         "fullCityName": "廊坊市"
@@ -5646,13 +5666,7 @@
         "fullCityName": "承德市"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "廊坊",
-        "areaName": "永清县海森威工业小区",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "jiangxi",
