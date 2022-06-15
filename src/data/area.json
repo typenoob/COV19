@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 2985356,
-    "confirmedCount": 3003501,
+    "currentConfirmedCount": 3054144,
+    "confirmedCount": 3072432,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 4403,
+    "deadCount": 4546,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -304,7 +304,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 3,
+    "midDangerCount": 4,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -316,7 +316,7 @@
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 110105,
         "currentConfirmedCountStr": "509",
         "fullCityName": "朝阳区"
@@ -578,6 +578,11 @@
       {
         "cityName": "朝阳区",
         "areaName": "平房乡姚家园西社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "十八里店乡吕家营村",
         "dangerLevel": 2
       }
     ]
@@ -1230,15 +1235,15 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 32,
+        "currentConfirmedCount": 27,
         "confirmedCount": 2863,
         "suspectedCount": 3,
-        "curedCount": 2830,
+        "curedCount": 2835,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "32",
+        "currentConfirmedCountStr": "27",
         "fullCityName": "广州市"
       },
       {
@@ -1503,15 +1508,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -6,
+        "currentConfirmedCount": -1,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 6,
+        "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-6",
+        "currentConfirmedCountStr": "-1",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1537,42 +1542,42 @@
     "cities": [
       {
         "cityName": "广安",
-        "currentConfirmedCount": 95,
+        "currentConfirmedCount": 94,
         "confirmedCount": 255,
         "suspectedCount": 0,
-        "curedCount": 160,
+        "curedCount": 161,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 511600,
-        "currentConfirmedCountStr": "95",
+        "currentConfirmedCountStr": "94",
         "fullCityName": "广安市"
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 16,
+        "currentConfirmedCount": 15,
         "confirmedCount": 1690,
         "suspectedCount": 0,
-        "curedCount": 1671,
+        "curedCount": 1672,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "16",
+        "currentConfirmedCountStr": "15",
         "fullCityName": "成都市"
       },
       {
-        "cityName": "巴中",
-        "currentConfirmedCount": 3,
-        "confirmedCount": 35,
+        "cityName": "绵阳",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 23,
         "suspectedCount": 0,
-        "curedCount": 32,
+        "curedCount": 21,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
-        "locationId": 511900,
-        "currentConfirmedCountStr": "3",
-        "fullCityName": "巴中市"
+        "locationId": 510700,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "绵阳市"
       },
       {
         "cityName": "广元",
@@ -1586,19 +1591,6 @@
         "locationId": 510800,
         "currentConfirmedCountStr": "2",
         "fullCityName": "广元市"
-      },
-      {
-        "cityName": "达州",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 45,
-        "suspectedCount": 0,
-        "curedCount": 44,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511700,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "达州市"
       },
       {
         "cityName": "德阳",
@@ -1627,19 +1619,6 @@
         "fullCityName": "宜宾市"
       },
       {
-        "cityName": "资阳",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 6,
-        "suspectedCount": 0,
-        "curedCount": 5,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 512000,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "资阳市"
-      },
-      {
         "cityName": "甘孜州",
         "currentConfirmedCount": 0,
         "confirmedCount": 78,
@@ -1651,6 +1630,19 @@
         "locationId": 513300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "甘孜藏族自治州"
+      },
+      {
+        "cityName": "达州",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 45,
+        "suspectedCount": 0,
+        "curedCount": 45,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511700,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "达州市"
       },
       {
         "cityName": "南充",
@@ -1666,6 +1658,19 @@
         "fullCityName": "南充市"
       },
       {
+        "cityName": "巴中",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 35,
+        "suspectedCount": 0,
+        "curedCount": 35,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511900,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "巴中市"
+      },
+      {
         "cityName": "泸州",
         "currentConfirmedCount": 0,
         "confirmedCount": 25,
@@ -1677,19 +1682,6 @@
         "locationId": 510500,
         "currentConfirmedCountStr": "0",
         "fullCityName": "泸州市"
-      },
-      {
-        "cityName": "绵阳",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 23,
-        "suspectedCount": 0,
-        "curedCount": 23,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510700,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "绵阳市"
       },
       {
         "cityName": "内江",
@@ -1796,6 +1788,19 @@
         "fullCityName": "雅安市"
       },
       {
+        "cityName": "资阳",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 6,
+        "suspectedCount": 0,
+        "curedCount": 6,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 512000,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "资阳市"
+      },
+      {
         "cityName": "阿坝州",
         "currentConfirmedCount": 0,
         "confirmedCount": 1,
@@ -1810,15 +1815,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -90,
+        "currentConfirmedCount": -82,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 90,
+        "curedCount": 82,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-90",
+        "currentConfirmedCountStr": "-82",
         "fullCityName": "待明确地区"
       }
     ],
