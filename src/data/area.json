@@ -313,7 +313,7 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 0,
+    "highDangerCount": 1,
     "midDangerCount": 3,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
@@ -417,7 +417,7 @@
         "suspectedCount": 0,
         "curedCount": 50,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 110114,
         "notShowCurrentConfirmedCount": true,
@@ -575,6 +575,11 @@
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "昌平区",
+        "areaName": "小汤山镇大汤山村双兴苑小区",
+        "dangerLevel": 1
+      },
       {
         "cityName": "朝阳区",
         "areaName": "平房乡姚家园东社区",
