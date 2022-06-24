@@ -52,7 +52,7 @@
     "comment": "",
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-    "highDangerCount": 11,
+    "highDangerCount": 4,
     "midDangerCount": 3,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
@@ -64,7 +64,7 @@
         "suspectedCount": 0,
         "curedCount": 192,
         "deadCount": 0,
-        "highDangerCount": 11,
+        "highDangerCount": 4,
         "midDangerCount": 0,
         "locationId": 152500,
         "currentConfirmedCountStr": "113",
@@ -230,47 +230,12 @@
     "dangerAreas": [
       {
         "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市北疆社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市东城社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
         "areaName": "二连浩特市额仁社区",
         "dangerLevel": 1
       },
       {
         "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市格日勒敖都苏木",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市呼和社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市南苑社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市乌兰社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
         "areaName": "二连浩特市西城社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "areaName": "二连浩特市锡林社区",
         "dangerLevel": 1
       },
       {
@@ -611,7 +576,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 28,
+    "midDangerCount": 23,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -662,7 +627,7 @@
         "curedCount": 3544,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 1,
         "locationId": 310109,
         "currentConfirmedCountStr": "151",
         "fullCityName": "虹口区"
@@ -688,7 +653,7 @@
         "curedCount": 3113,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 7,
+        "midDangerCount": 6,
         "locationId": 310106,
         "currentConfirmedCountStr": "131",
         "fullCityName": "静安区"
@@ -701,7 +666,7 @@
         "curedCount": 2282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 310110,
         "currentConfirmedCountStr": "116",
         "fullCityName": "杨浦区"
@@ -779,7 +744,7 @@
         "curedCount": 246,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 310120,
         "currentConfirmedCountStr": "4",
         "fullCityName": "奉贤区"
@@ -889,11 +854,6 @@
       },
       {
         "cityName": "静安区",
-        "areaName": "共和新路街道共和新路1302号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "静安区",
         "areaName": "共和新路街道柳营路588弄",
         "dangerLevel": 2
       },
@@ -933,36 +893,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道国顺路81弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道邯郸路585号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道四平路2100弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "虹口区",
-        "areaName": "欧阳路街道大连西路165弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "虹口区",
-        "areaName": "欧阳路街道天宝西路248弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "虹口区",
-        "areaName": "四川北路街道山阴路55号所在小区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "宝山区",
         "areaName": "大场镇文华苑小区",
         "dangerLevel": 2
@@ -988,8 +918,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "奉贤区",
-        "areaName": "南桥镇新建中路394号小区",
+        "cityName": "杨浦区",
+        "areaName": "五角场街道国顺路81弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "杨浦区",
+        "areaName": "五角场街道四平路2100弄",
         "dangerLevel": 2
       },
       {
@@ -1015,6 +950,11 @@
       {
         "cityName": "浦东新区",
         "areaName": "塘桥街道浦建路60弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "虹口区",
+        "areaName": "欧阳路街道天宝西路248弄",
         "dangerLevel": 2
       }
     ]
