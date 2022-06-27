@@ -53,7 +53,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 11,
+    "midDangerCount": 12,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -130,7 +130,7 @@
         "curedCount": 3113,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 310106,
         "currentConfirmedCountStr": "133",
         "fullCityName": "静安区"
@@ -143,7 +143,7 @@
         "curedCount": 2282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 310110,
         "currentConfirmedCountStr": "116",
         "fullCityName": "杨浦区"
@@ -221,7 +221,7 @@
         "curedCount": 246,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310120,
         "currentConfirmedCountStr": "4",
         "fullCityName": "奉贤区"
@@ -335,6 +335,11 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "静安区",
+        "areaName": "芷江西路街道西藏北路新赵家宅（36号、51-112号、119-120号）",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "宝山区",
         "areaName": "大场镇文华苑小区",
         "dangerLevel": 2
@@ -370,8 +375,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道四平路2100弄",
+        "cityName": "奉贤区",
+        "areaName": "金汇镇梅园村部分区域（东至航塘港，西至航塘公路，南至梅园9组小排河，北至浦东/奉贤界河）",
         "dangerLevel": 2
       }
     ]
@@ -697,7 +702,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 3,
+    "midDangerCount": 0,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -722,7 +727,7 @@
         "curedCount": 56,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 0,
         "locationId": 150400,
         "currentConfirmedCountStr": "21",
         "fullCityName": "赤峰市"
@@ -871,23 +876,7 @@
         "fullCityName": "乌海市"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "赤峰",
-        "areaName": "林西县城北街道金海社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "赤峰",
-        "areaName": "林西县城北街道佳顺社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "赤峰",
-        "areaName": "林西县城南街道学府社区",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "beijing",
@@ -903,7 +892,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 3,
+    "midDangerCount": 2,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -915,7 +904,7 @@
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 110105,
         "currentConfirmedCountStr": "525",
         "fullCityName": "朝阳区"
@@ -1168,11 +1157,6 @@
         "cityName": "昌平区",
         "areaName": "小汤山镇大汤山村双兴苑小区",
         "dangerLevel": 1
-      },
-      {
-        "cityName": "朝阳区",
-        "areaName": "平房乡姚家园东社区",
-        "dangerLevel": 2
       },
       {
         "cityName": "朝阳区",
