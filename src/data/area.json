@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 3782535,
-    "confirmedCount": 3803049,
+    "currentConfirmedCount": 3817246,
+    "confirmedCount": 3837856,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 6772,
+    "deadCount": 6868,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -79,28 +79,28 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 61,
+        "currentConfirmedCount": 53,
         "confirmedCount": 2940,
         "suspectedCount": 3,
-        "curedCount": 2878,
+        "curedCount": 2886,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "61",
+        "currentConfirmedCountStr": "53",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 13,
+        "currentConfirmedCount": 12,
         "confirmedCount": 2542,
         "suspectedCount": 3,
-        "curedCount": 2526,
+        "curedCount": 2527,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440300,
-        "currentConfirmedCountStr": "13",
+        "currentConfirmedCountStr": "12",
         "fullCityName": "深圳市"
       },
       {
@@ -349,19 +349,6 @@
         "locationId": 445300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "云浮市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -9,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 9,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-9",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
@@ -822,8 +809,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 52,
-    "midDangerCount": 2,
+    "highDangerCount": 56,
+    "midDangerCount": 3,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -834,8 +821,8 @@
         "suspectedCount": 0,
         "curedCount": 42,
         "deadCount": 0,
-        "highDangerCount": 52,
-        "midDangerCount": 2,
+        "highDangerCount": 56,
+        "midDangerCount": 3,
         "locationId": 341300,
         "currentConfirmedCountStr": "43",
         "fullCityName": "宿州市"
@@ -1262,6 +1249,16 @@
       },
       {
         "cityName": "宿州",
+        "areaName": "韦集镇：代家村、韦集村、藕庄村、永久村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "温州商城",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
         "areaName": "西城丽苑",
         "dangerLevel": 1
       },
@@ -1273,6 +1270,11 @@
       {
         "cityName": "宿州",
         "areaName": "西苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "向阳镇：新湖村、官庄村",
         "dangerLevel": 1
       },
       {
@@ -1297,6 +1299,11 @@
       },
       {
         "cityName": "宿州",
+        "areaName": "中安江山印小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
         "areaName": "长沟镇：长沟村、大高圩村、汴河村、洋城湖村",
         "dangerLevel": 1
       },
@@ -1313,6 +1320,11 @@
       {
         "cityName": "宿州",
         "areaName": "墩集镇、黑塔镇、长沟镇、大庄镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "东蔬社区、山南社区、太平社区、滨河社区、韦集镇、向阳镇除封控区外的其他区域。",
         "dangerLevel": 2
       },
       {
@@ -2560,15 +2572,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 16,
+        "currentConfirmedCount": 15,
         "confirmedCount": 1708,
         "suspectedCount": 0,
-        "curedCount": 1689,
+        "curedCount": 1690,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "16",
+        "currentConfirmedCountStr": "15",
         "fullCityName": "成都市"
       },
       {
@@ -2820,15 +2832,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -84,
+        "currentConfirmedCount": -83,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 84,
+        "curedCount": 83,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-84",
+        "currentConfirmedCountStr": "-83",
         "fullCityName": "待明确地区"
       }
     ],
