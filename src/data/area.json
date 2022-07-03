@@ -72,8 +72,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 66,
-    "midDangerCount": 3,
+    "highDangerCount": 101,
+    "midDangerCount": 18,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -84,8 +84,8 @@
         "suspectedCount": 0,
         "curedCount": 42,
         "deadCount": 0,
-        "highDangerCount": 66,
-        "midDangerCount": 3,
+        "highDangerCount": 101,
+        "midDangerCount": 18,
         "locationId": 341300,
         "currentConfirmedCountStr": "104",
         "fullCityName": "宿州市"
@@ -302,57 +302,57 @@
     "dangerAreas": [
       {
         "cityName": "宿州",
-        "areaName": "汴河国际（南区、北区）",
+        "areaName": " 大庄镇王官村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "百合花园小区",
+        "areaName": " 运河街道衡尤社区",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "草沟镇：大张村、瓦韩村、草沟村、王楼村、孙巷村、街南村、大梁村、秦桥村",
+        "areaName": "草沟镇草沟村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "草沟镇：于韩村",
+        "areaName": "草沟镇大梁村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "春暖花开",
+        "areaName": "草沟镇大张村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "城市花园",
+        "areaName": "草沟镇街南村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "城市之光中区",
+        "areaName": "草沟镇秦桥村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "城市之光（东区）",
+        "areaName": "草沟镇孙巷村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "东城虹郡",
+        "areaName": "草沟镇瓦韩村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "东城康居",
+        "areaName": "草沟镇王楼村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "东城美郡",
+        "areaName": "草沟镇于韩村",
         "dangerLevel": 1
       },
       {
@@ -362,37 +362,92 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "丁湖镇：春韩村、文湖村、樊集村、张彭村、丁湖村、苗尤村、丁陈村",
+        "areaName": "丁湖镇春韩村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "墩集镇：霸王村、石梁河村、界牌张村、石龙岗村",
+        "areaName": "丁湖镇丁陈村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "大路口镇：大季村、网周村、渔民上岸小区、邓公村、石霸村、西李村",
+        "areaName": "丁湖镇丁湖村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "大庄镇：朝阳村、王官村",
+        "areaName": "丁湖镇樊集村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "富贵苑",
+        "areaName": "丁湖镇苗尤村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "凤凰城（南区、北区）",
+        "areaName": "丁湖镇文湖村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "阜康联邦花园",
+        "areaName": "丁湖镇张彭村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "墩集镇霸王村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "墩集镇界牌张村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "墩集镇石龙岗村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "墩集镇石梁河村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇邓公村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇大季村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇石霸村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇网周村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇西李村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇渔民上岸小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大庄镇朝阳村",
         "dangerLevel": 1
       },
       {
@@ -402,32 +457,77 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "国际装饰城小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "高尤社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "高尤社区小石庄",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "惠民苑",
+        "areaName": "虹城街道城市花园",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "黑塔镇：马厂村、韩徐村",
+        "areaName": "虹城街道城市之光东区",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "虹乡家园",
+        "areaName": "虹城街道城市之光中区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道凤凰城（南区、北区）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道虹乡家园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道荣辉名门府邸",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道石梁景苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道尚品公馆",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道桃花源小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道西苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道御景城",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道御龙公馆",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "黑塔镇韩徐村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "黑塔镇马厂村",
         "dangerLevel": 1
       },
       {
@@ -437,92 +537,72 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "衡尤社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "锦绣华庭小区",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "康庄家园",
+        "areaName": "屏山镇陈刘村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "南都贵苑",
+        "areaName": "屏山镇大李村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "南关社区",
+        "areaName": "屏山镇老山村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "南柳小区",
+        "areaName": "屏山镇屏北村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "屏山镇：大李村、屏北村、张乔村、陈刘村、老山村、涂山村",
+        "areaName": "屏山镇涂山村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "清水湾景苑小区",
+        "areaName": "屏山镇张乔村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "荣辉名门府邸",
+        "areaName": "泗城镇大吴村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "瑞兴花园",
+        "areaName": "泗城镇泗州华府",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "丝绸厂北楼",
+        "areaName": "泗城镇西城丽苑",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "泗城镇：大吴村",
+        "areaName": "泗水街道东城康居",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "石梁景苑",
+        "areaName": "泗水街道惠民苑",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "商南街、人民路、新市街、学士中路合围区域",
+        "areaName": "泗水街道康庄家园",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "尚品公馆",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "盛世豪庭",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "泗水文苑",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "泗州华府",
+        "areaName": "泗水街道盛世豪庭",
         "dangerLevel": 1
       },
       {
@@ -532,27 +612,27 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "泗州名城南区",
+        "areaName": "韦集镇代家村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "桃花源小区",
+        "areaName": "韦集镇藕庄村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "韦集镇：代家村、韦集村、藕庄村、永久村",
+        "areaName": "韦集镇韦集村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "韦集镇永久村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
         "areaName": "温州商城",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "西城丽苑",
         "dangerLevel": 1
       },
       {
@@ -567,42 +647,132 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "香格里拉",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "西关社区天和鞋服宿舍",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "西苑小区",
+        "areaName": "向阳镇官庄村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "向阳镇：新湖村、官庄村",
+        "areaName": "向阳镇新湖村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "御景城",
+        "areaName": "运河街道汴河国际（南区、北区）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道百合花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道春暖花开",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道东城虹郡",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道东城美郡",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道富贵苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道阜康联邦花园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道国际装饰城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道高尤社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道南都贵苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道南关社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道南柳小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道清水湾景苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道瑞兴花园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道丝绸厂北楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道商南街、人民路、新市街、学士中路合围区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道泗水文苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道泗州名城南区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道香格里拉",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道玉兰公馆",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道赵魏社区孙湾庄",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道紫悦府",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
         "areaName": "玉兰菜市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "御龙公馆",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "玉兰公馆",
         "dangerLevel": 1
       },
       {
@@ -617,32 +787,112 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "长沟镇：长沟村、大高圩村、汴河村、洋城湖村",
+        "areaName": "长沟镇汴河村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "赵魏社区孙湾庄",
+        "areaName": "长沟镇大高圩村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "紫悦府",
+        "areaName": "长沟镇洋城湖村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
-        "areaName": "墩集镇、黑塔镇、长沟镇、大庄镇除高风险区外的其他区域",
+        "areaName": "长沟镇长沟村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "滨河社区除封控区外的其他社区",
         "dangerLevel": 2
       },
       {
         "cityName": "宿州",
-        "areaName": "东蔬社区、山南社区、太平社区、滨河社区、韦集镇、向阳镇除封控区外的其他区域。",
+        "areaName": "草沟镇除高风险区外的其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "宿州",
-        "areaName": "运河街道、虹城街道、泗水街道、泗城镇、大路口镇、草沟镇、丁湖镇、屏山镇除封控区外的其他区域",
+        "areaName": "丁湖镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "墩集镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大路口镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "东蔬社区除封控区外的其他社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大庄镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "虹城街道除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "黑塔镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "屏山镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "泗城镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "山南社区除封控区外的其他社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "泗水街道除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "太平社区除封控区外的其他社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "韦集镇除封控区外的其他社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "向阳镇除封控区外的其他社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "运河街道除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "长沟镇除高风险区外的其他区域",
         "dangerLevel": 2
       }
     ]
