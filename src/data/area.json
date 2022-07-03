@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 3817246,
-    "confirmedCount": 3837856,
+    "currentConfirmedCount": 3849830,
+    "confirmedCount": 3870528,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 6868,
+    "deadCount": 6956,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -44,8 +44,8 @@
     "name": "澳门",
     "provinceName": "澳门",
     "provinceShortName": "澳门",
-    "currentConfirmedCount": 265,
-    "confirmedCount": 348,
+    "currentConfirmedCount": 272,
+    "confirmedCount": 355,
     "suspectedCount": 9,
     "curedCount": 83,
     "deadCount": 0,
@@ -917,15 +917,15 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 57,
+        "currentConfirmedCount": 54,
         "confirmedCount": 2944,
         "suspectedCount": 3,
-        "curedCount": 2886,
+        "curedCount": 2889,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "57",
+        "currentConfirmedCountStr": "54",
         "fullCityName": "广州市"
       },
       {
@@ -1190,15 +1190,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -4,
+        "currentConfirmedCount": -1,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 4,
+        "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-4",
+        "currentConfirmedCountStr": "-1",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1217,8 +1217,8 @@
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 2,
+    "highDangerCount": 1,
+    "midDangerCount": 4,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -1321,7 +1321,7 @@
         "curedCount": 3068,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310113,
         "currentConfirmedCountStr": "46",
         "fullCityName": "宝山区"
@@ -1359,8 +1359,8 @@
         "suspectedCount": 0,
         "curedCount": 1770,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 310107,
         "currentConfirmedCountStr": "15",
         "fullCityName": "普陀区"
@@ -1485,6 +1485,11 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "普陀区",
+        "areaName": "长风新村街道光复西路2077弄小区",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "奉贤区",
         "areaName": "金汇镇梅园村部分区域（东至航塘港，西至航塘公路，南至梅园9组小排河，北至浦东/奉贤界河）",
         "dangerLevel": 2
@@ -1492,6 +1497,16 @@
       {
         "cityName": "静安区",
         "areaName": "芷江西路街道西藏北路新赵家宅（36号、51-112号、119-120号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "高境镇殷高西路333号长江国际生活广场东区二楼老炉家木炭烤肉店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "普陀区",
+        "areaName": "曹杨新村街道兰溪路148号耕耘茶室",
         "dangerLevel": 2
       }
     ]
@@ -3713,15 +3728,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 16,
+        "currentConfirmedCount": 15,
         "confirmedCount": 1709,
         "suspectedCount": 0,
-        "curedCount": 1690,
+        "curedCount": 1691,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "16",
+        "currentConfirmedCountStr": "15",
         "fullCityName": "成都市"
       },
       {
@@ -3973,15 +3988,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -84,
+        "currentConfirmedCount": -83,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 84,
+        "curedCount": 83,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-84",
+        "currentConfirmedCountStr": "-83",
         "fullCityName": "待明确地区"
       }
     ],
@@ -5894,8 +5909,8 @@
     "comment": "",
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 10,
-    "midDangerCount": 14,
+    "highDangerCount": 13,
+    "midDangerCount": 18,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -5971,8 +5986,8 @@
         "suspectedCount": 0,
         "curedCount": 83,
         "deadCount": 0,
-        "highDangerCount": 10,
-        "midDangerCount": 14,
+        "highDangerCount": 13,
+        "midDangerCount": 18,
         "locationId": 210600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "丹东市"
@@ -6111,6 +6126,31 @@
     "dangerAreas": [
       {
         "cityName": "丹东",
+        "areaName": "临江街道振四街15号/17号/19号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "帽盔山街道知春园小区5号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "汤池镇集环路47号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "汤池镇集贤新村二期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "纤维街道和谐家园小区10号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
         "areaName": "元宝区兴东街道环球小区",
         "dangerLevel": 1
       },
@@ -6121,17 +6161,12 @@
       },
       {
         "cityName": "丹东",
-        "areaName": "振安区珍珠街道紫光福郡一期15号楼",
+        "areaName": "站前街道三纬路90号/92号/94号/锦山大街58号",
         "dangerLevel": 1
       },
       {
         "cityName": "丹东",
         "areaName": "振兴区合作区中央大街31-2至31-18号楼，文庆路70-19至70-43号楼、文庆路70-45号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": "振兴区临江街道东升佳园二期",
         "dangerLevel": 1
       },
       {
@@ -6146,11 +6181,6 @@
       },
       {
         "cityName": "丹东",
-        "areaName": "振兴区汤池镇复兴村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
         "areaName": "振兴区纤维街道福馨佳园小区",
         "dangerLevel": 1
       },
@@ -6161,7 +6191,22 @@
       },
       {
         "cityName": "丹东",
-        "areaName": "元宝区广济街到御景苑小区二期2号楼",
+        "areaName": "广济街道御景苑小区二期2号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "临江街道东升佳园二期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "汤池镇复兴村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "纤维街道和谐家园小区",
         "dangerLevel": 2
       },
       {
@@ -6227,6 +6272,11 @@
       {
         "cityName": "丹东",
         "areaName": "振兴区永昌街道保利一期A2区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "珍珠街道紫光福郡一期15号楼",
         "dangerLevel": 2
       }
     ]
