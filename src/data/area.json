@@ -72,8 +72,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 118,
-    "midDangerCount": 18,
+    "highDangerCount": 120,
+    "midDangerCount": 19,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -84,8 +84,8 @@
         "suspectedCount": 0,
         "curedCount": 42,
         "deadCount": 0,
-        "highDangerCount": 118,
-        "midDangerCount": 18,
+        "highDangerCount": 120,
+        "midDangerCount": 19,
         "locationId": 341300,
         "currentConfirmedCountStr": "133",
         "fullCityName": "宿州市"
@@ -587,6 +587,11 @@
       },
       {
         "cityName": "宿州",
+        "areaName": "灵城镇灵璧县技工学校工地",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
         "areaName": "灵城镇：星和湾小区（南区）及附属门面",
         "dangerLevel": 1
       },
@@ -683,6 +688,11 @@
       {
         "cityName": "宿州",
         "areaName": "韦集镇藕庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "韦集镇双龙村",
         "dangerLevel": 1
       },
       {
@@ -933,6 +943,11 @@
       {
         "cityName": "宿州",
         "areaName": "黑塔镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "灵璧县灵城镇刘赵村除封控区外的其他区域",
         "dangerLevel": 2
       },
       {
@@ -1302,8 +1317,8 @@
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 4,
+    "highDangerCount": 2,
+    "midDangerCount": 5,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -1314,7 +1329,7 @@
         "suspectedCount": 0,
         "curedCount": 16737,
         "deadCount": 1,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 310115,
         "currentConfirmedCountStr": "395",
@@ -1341,7 +1356,7 @@
         "curedCount": 6458,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 310101,
         "currentConfirmedCountStr": "163",
         "fullCityName": "黄浦区"
@@ -1575,6 +1590,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "浦东新区",
+        "areaName": "上钢新村街道上钢二村小区",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "奉贤区",
         "areaName": "金汇镇梅园村部分区域（东至航塘港，西至航塘公路，南至梅园9组小排河，北至浦东/奉贤界河）",
         "dangerLevel": 2
@@ -1592,6 +1612,11 @@
       {
         "cityName": "普陀区",
         "areaName": "曹杨新村街道兰溪路148号耕耘茶室",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黄浦区",
+        "areaName": "打浦桥街道建国东路391号浅草37度1皮肤管理定制中心（新天地店）",
         "dangerLevel": 2
       }
     ]
@@ -2305,8 +2330,8 @@
     "comment": "",
     "locationId": 320000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
-    "highDangerCount": 11,
-    "midDangerCount": 11,
+    "highDangerCount": 32,
+    "midDangerCount": 23,
     "detectOrgCount": 395,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -2344,7 +2369,7 @@
         "curedCount": 153,
         "deadCount": 0,
         "highDangerCount": 8,
-        "midDangerCount": 5,
+        "midDangerCount": 10,
         "locationId": 320300,
         "currentConfirmedCountStr": "5",
         "fullCityName": "徐州市"
@@ -2356,8 +2381,8 @@
         "suspectedCount": 0,
         "curedCount": 74,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 5,
+        "highDangerCount": 24,
+        "midDangerCount": 12,
         "locationId": 320200,
         "currentConfirmedCountStr": "3",
         "fullCityName": "无锡市"
@@ -2495,33 +2520,153 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "无锡",
+        "areaName": "滨湖区蠡园街道隐秀苑线泾浜西侧",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "滨湖区荣巷街道集景花园东北片区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "惠山区堰桥街道阳光壹佰北区阿尔勒二期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区广益街道华东商贸城",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区惠山街道盛岸二村东区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区惠盛路小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区扬名花园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区扬名街道时代上城C8",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "梁溪区银仁御墅",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "锡山区春雷苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "锡山区国泰精密机件无锡有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "锡山区云林街道皮革城北门木材市场",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区春潮花园二区北苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区江溪街道中海海雅锦园二期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区丽景佳苑二期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区联心嘉园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区梅村街道梅荆五期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区硕放街道香楠佳苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区尚品尚农家菜馆",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区泰伯花苑二期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区万科东郡",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区无锡威孚高科技集团股份有限公司（锡兴路30号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区旺庄街道无锡威孚精密机械制造有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区新安街道新安花苑一区南区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "泉山区翡翠城高端幼儿园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "泉山区翡翠路（北至姚庄路南至欣欣路）沿街商铺",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "徐州",
         "areaName": "泉山区翟山街道滨湖御景湾 9 号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "徐州",
-        "areaName": "泉州区翡翠城高端幼儿园",
+        "areaName": "泉山区翟山街道东南郡三期",
         "dangerLevel": 1
       },
       {
         "cityName": "徐州",
-        "areaName": "泉州区翡翠路（北至姚庄路南至欣欣路）沿街商铺",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "徐州",
-        "areaName": "泉州区翟山街道东南郡三期",
+        "areaName": "泉山区翟山街道翡翠城38号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "徐州",
         "areaName": "泉州区翟山街道翡翠城 29 号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "徐州",
-        "areaName": "泉州区翟山街道翡翠城 38 号楼",
         "dangerLevel": 1
       },
       {
@@ -2536,18 +2681,13 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "梁溪区广益街道华东商贸城",
-        "dangerLevel": 1
+        "areaName": "滨湖区蠡园街道隐秀苑线泾滨东侧",
+        "dangerLevel": 2
       },
       {
         "cityName": "无锡",
-        "areaName": "锡山区云林街道皮革城北门木材市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "新吴区无锡威孚高科技集团股份有限公司（锡兴路30号）",
-        "dangerLevel": 1
+        "areaName": "滨湖区荣巷街道集景花园其他片区",
+        "dangerLevel": 2
       },
       {
         "cityName": "无锡",
@@ -2556,37 +2696,77 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "惠山区堰桥街道阳光壹佰北区阿尔勒二期",
+        "areaName": "梁溪区北大街街道凤宾家园",
         "dangerLevel": 2
       },
       {
         "cityName": "无锡",
-        "areaName": "江溪街道海雅锦园二期",
+        "areaName": "梁溪区惠山街道锡园",
         "dangerLevel": 2
       },
       {
         "cityName": "无锡",
-        "areaName": "梁溪区惠山街道盛岸二村",
+        "areaName": "梁溪区山北街道二泉东园",
         "dangerLevel": 2
       },
       {
         "cityName": "无锡",
-        "areaName": "新吴区新安街道新安花苑一区",
+        "areaName": "梁溪区扬名街道芦村新村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区汉溪街道中海海雅锦园一期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区硕放街道吉祥花园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区硕放街道南星苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区硕放街道如家公寓",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区旺庄街道春潮花园一区",
         "dangerLevel": 2
       },
       {
         "cityName": "徐州",
-        "areaName": "泉州区翟山街道东南郡",
+        "areaName": "泉山区翟山街道东南郡",
         "dangerLevel": 2
       },
       {
         "cityName": "徐州",
-        "areaName": "泉州区翟山街道翡翠城",
+        "areaName": "泉山区翟山街道翡翠城",
         "dangerLevel": 2
       },
       {
         "cityName": "徐州",
-        "areaName": "泉州区翟山街道御景湾社区",
+        "areaName": "泉山区翟山街道花语社区花语城二期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "泉山区翟山街道文欣花园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "泉山区翟山街道御景湾社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "泉山区翟山街道姚庄社区昆仑御小区",
         "dangerLevel": 2
       },
       {
@@ -2596,7 +2776,17 @@
       },
       {
         "cityName": "徐州",
+        "areaName": "铜山区铜山街道玉泉河社区万科新都会小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐州",
         "areaName": "云龙区大郭庄街道如意社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐州",
+        "areaName": "云龙区子房街道梁庄社区利群小区",
         "dangerLevel": 2
       },
       {
@@ -5265,7 +5455,7 @@
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
     "highDangerCount": 15,
-    "midDangerCount": 19,
+    "midDangerCount": 17,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -5342,7 +5532,7 @@
         "curedCount": 83,
         "deadCount": 0,
         "highDangerCount": 14,
-        "midDangerCount": 18,
+        "midDangerCount": 16,
         "locationId": 210600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "丹东市"
@@ -5576,27 +5766,12 @@
       },
       {
         "cityName": "丹东",
-        "areaName": "元宝区金山镇绿地海域香庭3号楼（降）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "丹东",
         "areaName": "振安区珍珠街道曙光家园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "丹东",
         "areaName": "振安区珍珠街道紫光福郡一期16号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "丹东",
-        "areaName": "振兴区高新区丹东高新技术产业开发区C21工业园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "丹东",
-        "areaName": "振兴区江海街道胜利村第十村民组1-17号区域",
         "dangerLevel": 2
       },
       {
@@ -5617,6 +5792,11 @@
       {
         "cityName": "丹东",
         "areaName": "振兴区帽盔山街道桃源逸景小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "振兴区汤池镇复兴村",
         "dangerLevel": 2
       },
       {
