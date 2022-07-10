@@ -2209,42 +2209,29 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 68,
+        "currentConfirmedCount": 64,
         "confirmedCount": 2980,
         "suspectedCount": 3,
-        "curedCount": 2911,
+        "curedCount": 2915,
         "deadCount": 1,
         "highDangerCount": 1,
         "midDangerCount": 3,
         "locationId": 440100,
-        "currentConfirmedCountStr": "68",
+        "currentConfirmedCountStr": "64",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 40,
+        "currentConfirmedCount": 39,
         "confirmedCount": 2575,
         "suspectedCount": 3,
-        "curedCount": 2532,
+        "curedCount": 2533,
         "deadCount": 3,
         "highDangerCount": 9,
         "midDangerCount": 10,
         "locationId": 440300,
-        "currentConfirmedCountStr": "40",
+        "currentConfirmedCountStr": "39",
         "fullCityName": "深圳市"
-      },
-      {
-        "cityName": "佛山",
-        "currentConfirmedCount": 13,
-        "confirmedCount": 395,
-        "suspectedCount": 1,
-        "curedCount": 382,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 440600,
-        "currentConfirmedCountStr": "13",
-        "fullCityName": "佛山市"
       },
       {
         "cityName": "茂名",
@@ -2260,17 +2247,17 @@
         "fullCityName": "茂名市"
       },
       {
-        "cityName": "珠海",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 356,
-        "suspectedCount": 2,
-        "curedCount": 349,
-        "deadCount": 1,
+        "cityName": "佛山",
+        "currentConfirmedCount": 11,
+        "confirmedCount": 395,
+        "suspectedCount": 1,
+        "curedCount": 384,
+        "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
-        "locationId": 440400,
-        "currentConfirmedCountStr": "6",
-        "fullCityName": "珠海市"
+        "locationId": 440600,
+        "currentConfirmedCountStr": "11",
+        "fullCityName": "佛山市"
       },
       {
         "cityName": "汕头",
@@ -2299,17 +2286,17 @@
         "fullCityName": "江门市"
       },
       {
-        "cityName": "中山",
+        "cityName": "珠海",
         "currentConfirmedCount": 2,
-        "confirmedCount": 127,
-        "suspectedCount": 0,
-        "curedCount": 125,
-        "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
-        "locationId": 442000,
+        "confirmedCount": 356,
+        "suspectedCount": 2,
+        "curedCount": 353,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 440400,
         "currentConfirmedCountStr": "2",
-        "fullCityName": "中山市"
+        "fullCityName": "珠海市"
       },
       {
         "cityName": "河源",
@@ -2349,6 +2336,19 @@
         "locationId": 440800,
         "currentConfirmedCountStr": "1",
         "fullCityName": "湛江市"
+      },
+      {
+        "cityName": "中山",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 127,
+        "suspectedCount": 0,
+        "curedCount": 126,
+        "deadCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
+        "locationId": 442000,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "中山市"
       },
       {
         "cityName": "惠州",
@@ -2479,19 +2479,6 @@
         "locationId": 445300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "云浮市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -12,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 12,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-12",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
@@ -2626,11 +2613,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "中山",
-        "areaName": "高平大道西侧1、3、5、7、9、11、13号、蔡份北街59号、60号之一至六号",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "阳江",
         "areaName": "阳东区合山镇江畔明珠小区",
         "dangerLevel": 1
@@ -2638,6 +2620,11 @@
       {
         "cityName": "广州",
         "areaName": "海珠区顺意花园A5、A6、A7、A8、A9栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "中山",
+        "areaName": "高平大道西侧1、3、5、7、9、11、13号、蔡份北街59号、60号之一至六号",
         "dangerLevel": 1
       },
       {
@@ -6463,15 +6450,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 18,
+        "currentConfirmedCount": 16,
         "confirmedCount": 1716,
         "suspectedCount": 0,
-        "curedCount": 1695,
+        "curedCount": 1697,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "18",
+        "currentConfirmedCountStr": "16",
         "fullCityName": "成都市"
       },
       {
@@ -6723,15 +6710,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -86,
+        "currentConfirmedCount": -84,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 86,
+        "curedCount": 84,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-86",
+        "currentConfirmedCountStr": "-84",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7269,15 +7256,15 @@
     "cities": [
       {
         "cityName": "兰州",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 359,
+        "currentConfirmedCount": 9,
+        "confirmedCount": 364,
         "suspectedCount": 0,
         "curedCount": 353,
         "deadCount": 2,
         "highDangerCount": 2,
         "midDangerCount": 2,
         "locationId": 620100,
-        "currentConfirmedCountStr": "4",
+        "currentConfirmedCountStr": "9",
         "fullCityName": "兰州市"
       },
       {
@@ -7461,19 +7448,6 @@
         "locationId": 620900,
         "currentConfirmedCountStr": "0",
         "fullCityName": "酒泉市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": 5,
-        "confirmedCount": 5,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "5",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
