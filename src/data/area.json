@@ -920,7 +920,7 @@
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-    "highDangerCount": 12,
+    "highDangerCount": 13,
     "midDangerCount": 188,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
@@ -945,7 +945,7 @@
         "suspectedCount": 0,
         "curedCount": 4501,
         "deadCount": 1,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 8,
         "locationId": 310104,
         "currentConfirmedCountStr": "193",
@@ -1245,6 +1245,11 @@
       {
         "cityName": "黄浦区",
         "areaName": "黄浦区南京东路街道西藏中路180号高盛商厦5楼（HD PUB汉登喝酒公司人民广场店）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "华泾镇华泾路1000弄",
         "dangerLevel": 1
       },
       {
@@ -2058,46 +2063,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "徐汇区",
-        "areaName": "漕河泾街道漕宝路86号F座",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "漕河泾街道融水路99弄石龙春晓C区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "枫林街道小木桥路440弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "枫林街道医学院路110弄中山新村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "徐家汇街道番禺路650弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "徐家汇街道柿子湾小区（宜山路250弄14-28号、宜山路220弄1-4号、徐虹北路28弄1-4号）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "斜土街道大木桥路600弄江南新村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "徐汇区",
-        "areaName": "斜土路街道肇嘉浜路407号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "杨浦区",
         "areaName": "定海路街道隆昌路394号",
         "dangerLevel": 2
@@ -2135,6 +2100,46 @@
       {
         "cityName": "杨浦区",
         "areaName": "五角场街道文化花园301街坊",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "漕河泾街道漕宝路86号F座",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "漕河泾街道融水路99弄石龙春晓C区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "枫林街道小木桥路440弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "枫林街道医学院路110弄中山新村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "徐家汇街道番禺路650弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "徐家汇街道柿子湾小区（宜山路250弄14-28号、宜山路220弄1-4号、徐虹北路28弄1-4号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "斜土街道大木桥路600弄江南新村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "斜土路街道肇嘉浜路407号",
         "dangerLevel": 2
       },
       {
@@ -4077,7 +4082,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 8,
+    "midDangerCount": 7,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -4089,7 +4094,7 @@
         "curedCount": 12,
         "deadCount": 1,
         "highDangerCount": 6,
-        "midDangerCount": 8,
+        "midDangerCount": 7,
         "locationId": 150800,
         "currentConfirmedCountStr": "22",
         "fullCityName": "巴彦淖尔市"
@@ -4290,11 +4295,6 @@
       {
         "cityName": "巴彦淖尔",
         "areaName": "春苑新城小区门口水泥路以北、生态园油路以南、海流图河槽以东、东山四合院河槽以西平房区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "海流图镇",
         "dangerLevel": 2
       },
       {
@@ -8473,8 +8473,8 @@
     "comment": "",
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-    "highDangerCount": 4,
-    "midDangerCount": 1,
+    "highDangerCount": 5,
+    "midDangerCount": 2,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
     "cities": [
@@ -8581,8 +8581,8 @@
         "suspectedCount": 0,
         "curedCount": 143,
         "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 1,
+        "highDangerCount": 5,
+        "midDangerCount": 2,
         "locationId": 411700,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -8766,7 +8766,17 @@
       },
       {
         "cityName": "驻马店",
+        "areaName": "县城文化路与花园巷南交叉口以南、自该交叉口沿花园巷向南50来处巷西第一条居民出入道口以北、沿巷西第一条居民出入口向西100米处一条南北通道以东、花园巷东侧大门朝西的住户及门面以西的合围区域。",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "驻马店",
         "areaName": "泌阳县付庄乡所有区域（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "驻马店",
+        "areaName": "县城区花园街道曹庄居委花园居民小组所辖的文化路以南、花园路以北县粮食储备库以东、团结路以西的合围区域。",
         "dangerLevel": 2
       }
     ]
