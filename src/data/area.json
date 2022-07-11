@@ -73,7 +73,7 @@
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
     "highDangerCount": 75,
-    "midDangerCount": 45,
+    "midDangerCount": 41,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -85,7 +85,7 @@
         "curedCount": 81,
         "deadCount": 0,
         "highDangerCount": 75,
-        "midDangerCount": 45,
+        "midDangerCount": 41,
         "locationId": 341300,
         "currentConfirmedCountStr": "328",
         "fullCityName": "宿州市"
@@ -677,11 +677,6 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "滨河社区除封控区外的其他社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宿州",
         "areaName": "草沟镇除高风险区外的其他区域",
         "dangerLevel": 2
       },
@@ -698,11 +693,6 @@
       {
         "cityName": "宿州",
         "areaName": "大路口镇除高风险区外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "东蔬社区除封控区外的其他社区",
         "dangerLevel": 2
       },
       {
@@ -733,16 +723,6 @@
       {
         "cityName": "宿州",
         "areaName": "灵璧县娄庄镇除高风险区外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "灵璧县韦集镇永久村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "灵璧县向阳镇官庄村",
         "dangerLevel": 2
       },
       {
@@ -916,21 +896,21 @@
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
     "highDangerCount": 47,
-    "midDangerCount": 48,
+    "midDangerCount": 57,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 68,
+        "currentConfirmedCount": 60,
         "confirmedCount": 2984,
         "suspectedCount": 3,
-        "curedCount": 2915,
+        "curedCount": 2923,
         "deadCount": 1,
         "highDangerCount": 1,
         "midDangerCount": 3,
         "locationId": 440100,
-        "currentConfirmedCountStr": "68",
+        "currentConfirmedCountStr": "60",
         "fullCityName": "广州市"
       },
       {
@@ -954,7 +934,7 @@
         "curedCount": 24,
         "deadCount": 0,
         "highDangerCount": 15,
-        "midDangerCount": 12,
+        "midDangerCount": 13,
         "locationId": 440900,
         "currentConfirmedCountStr": "17",
         "fullCityName": "茂名市"
@@ -980,7 +960,7 @@
         "curedCount": 126,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 442000,
         "currentConfirmedCountStr": "6",
         "fullCityName": "中山市"
@@ -993,7 +973,7 @@
         "curedCount": 107,
         "deadCount": 0,
         "highDangerCount": 5,
-        "midDangerCount": 13,
+        "midDangerCount": 16,
         "locationId": 440700,
         "currentConfirmedCountStr": "5",
         "fullCityName": "江门市"
@@ -1045,7 +1025,7 @@
         "curedCount": 494,
         "deadCount": 1,
         "highDangerCount": 2,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 441900,
         "currentConfirmedCountStr": "1",
         "fullCityName": "东莞市"
@@ -1058,7 +1038,7 @@
         "curedCount": 141,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 440800,
         "currentConfirmedCountStr": "1",
         "fullCityName": "湛江市"
@@ -1084,7 +1064,7 @@
         "curedCount": 52,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 441700,
         "currentConfirmedCountStr": "1",
         "fullCityName": "阳江市"
@@ -1097,7 +1077,7 @@
         "curedCount": 11,
         "deadCount": 1,
         "highDangerCount": 1,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 440200,
         "currentConfirmedCountStr": "1",
         "fullCityName": "韶关市"
@@ -1195,15 +1175,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -12,
+        "currentConfirmedCount": -4,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 12,
+        "curedCount": 4,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-12",
+        "currentConfirmedCountStr": "-4",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1424,6 +1404,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "韶关",
+        "areaName": "乐昌市乐城街道大昌路九巷小区",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "阳江",
         "areaName": "阳东区合山镇江畔明珠小区",
         "dangerLevel": 1
@@ -1439,11 +1424,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "韶关",
-        "areaName": "乐昌市乐城街道大昌路九巷小区",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "江门",
         "areaName": "百合镇上洞村委会北成村",
         "dangerLevel": 2
@@ -1456,6 +1436,21 @@
       {
         "cityName": "江门",
         "areaName": "东坡楼餐馆",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江门",
+        "areaName": "恩平市君堂镇城乡饭店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江门",
+        "areaName": "恩平市沙湖镇六古头市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江门",
+        "areaName": "恩平市圣堂镇惠良加油站",
         "dangerLevel": 2
       },
       {
@@ -1541,6 +1536,11 @@
       {
         "cityName": "茂名",
         "areaName": "红旗街道兴富楼2-4梯",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "茂名",
+        "areaName": "鉴江街道山背村荣华楼",
         "dangerLevel": 2
       },
       {
@@ -1639,18 +1639,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "广州",
-        "areaName": "翠城花园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "翡翠轩花园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "富力顺意花园小区（高风险区除外）",
+        "cityName": "东莞",
+        "areaName": "凤岗镇金凤凰工业区(东、北至国道G220，南至金鹏路，西侧边界由凤凰围延长线及自然山体接金鹏路)",
         "dangerLevel": 2
       },
       {
@@ -1669,6 +1659,21 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "广州",
+        "areaName": "翠城花园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "翡翠轩花园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "富力顺意花园小区（高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "清远",
         "areaName": "九龙镇墟镇区域",
         "dangerLevel": 2
@@ -1680,7 +1685,27 @@
       },
       {
         "cityName": "中山",
+        "areaName": "蟠龙村东至新华路、西至和合东路、北至南三公路、南至联安东路及爱国南路的合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中山",
         "areaName": "三角镇高平村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "乐昌市乐城街道大瑶山路西南至南塔路西北区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "吴川市（除高风险区之外的塘㙍镇板桥圩（包括新桥村委会、郊桥村委会、板桥村委会）所有区域）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阳江",
+        "areaName": "阳东区325国道、兴阳路、运朗街、沿江路围绕区域",
         "dangerLevel": 2
       }
     ]
@@ -6054,15 +6079,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 23,
+        "currentConfirmedCount": 21,
         "confirmedCount": 1723,
         "suspectedCount": 0,
-        "curedCount": 1697,
+        "curedCount": 1699,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "23",
+        "currentConfirmedCountStr": "21",
         "fullCityName": "成都市"
       },
       {
@@ -6314,15 +6339,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -86,
+        "currentConfirmedCount": -84,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 86,
+        "curedCount": 84,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-86",
+        "currentConfirmedCountStr": "-84",
         "fullCityName": "待明确地区"
       }
     ],
