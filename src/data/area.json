@@ -72,8 +72,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 33,
-    "midDangerCount": 58,
+    "highDangerCount": 26,
+    "midDangerCount": 64,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -84,8 +84,8 @@
         "suspectedCount": 0,
         "curedCount": 161,
         "deadCount": 0,
-        "highDangerCount": 33,
-        "midDangerCount": 58,
+        "highDangerCount": 26,
+        "midDangerCount": 64,
         "locationId": 341300,
         "currentConfirmedCountStr": "260",
         "fullCityName": "宿州市"
@@ -312,11 +312,6 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "城市之光西区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "大路口镇大季村",
         "dangerLevel": 1
       },
@@ -332,22 +327,12 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "大杨镇大杨镇卫生院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "大庄镇东风村",
         "dangerLevel": 1
       },
       {
         "cityName": "宿州",
         "areaName": "灵璧经济开发区罗河社区日月星城小区（含附属门面）及莱迪购物街",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "灵璧县娄庄镇汴河村",
         "dangerLevel": 1
       },
       {
@@ -368,11 +353,6 @@
       {
         "cityName": "宿州",
         "areaName": "灵城镇：星和湾小区（南区）及附属门面",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
-        "areaName": "南一环、人民路、老工业大棚、铁市街西合围区域。",
         "dangerLevel": 1
       },
       {
@@ -427,11 +407,6 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "学士苑小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "向阳镇新湖村",
         "dangerLevel": 1
       },
@@ -447,11 +422,6 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "运河街道东城虹郡",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宿州",
         "areaName": "运河街道清水湾景苑小区",
         "dangerLevel": 1
       },
@@ -462,8 +432,18 @@
       },
       {
         "cityName": "宿州",
-        "areaName": "长沟镇汴河村",
-        "dangerLevel": 1
+        "areaName": "城市之光西区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "东城虹郡",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "大杨镇卫生院",
+        "dangerLevel": 2
       },
       {
         "cityName": "宿州",
@@ -518,6 +498,11 @@
       {
         "cityName": "宿州",
         "areaName": "灵城镇西关社区除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "南一环、人民路、老工业大棚、铁市街西合围区域",
         "dangerLevel": 2
       },
       {
@@ -742,6 +727,11 @@
       },
       {
         "cityName": "宿州",
+        "areaName": "学士苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
         "areaName": "向阳镇除封控区外的其他社区",
         "dangerLevel": 2
       },
@@ -753,6 +743,11 @@
       {
         "cityName": "宿州",
         "areaName": "运河街道丝绸厂北楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宿州",
+        "areaName": "长沟镇汴河村",
         "dangerLevel": 2
       }
     ]
@@ -770,35 +765,35 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 81,
-    "midDangerCount": 86,
+    "highDangerCount": 84,
+    "midDangerCount": 87,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 68,
-        "confirmedCount": 2992,
+        "currentConfirmedCount": 71,
+        "confirmedCount": 2995,
         "suspectedCount": 3,
         "curedCount": 2923,
         "deadCount": 1,
         "highDangerCount": 5,
         "midDangerCount": 8,
         "locationId": 440100,
-        "currentConfirmedCountStr": "68",
+        "currentConfirmedCountStr": "71",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 54,
-        "confirmedCount": 2599,
+        "currentConfirmedCount": 51,
+        "confirmedCount": 2596,
         "suspectedCount": 3,
         "curedCount": 2542,
         "deadCount": 3,
         "highDangerCount": 11,
         "midDangerCount": 12,
         "locationId": 440300,
-        "currentConfirmedCountStr": "54",
+        "currentConfirmedCountStr": "51",
         "fullCityName": "深圳市"
       },
       {
@@ -821,8 +816,8 @@
         "suspectedCount": 1,
         "curedCount": 384,
         "deadCount": 0,
-        "highDangerCount": 12,
-        "midDangerCount": 8,
+        "highDangerCount": 13,
+        "midDangerCount": 9,
         "locationId": 440600,
         "currentConfirmedCountStr": "20",
         "fullCityName": "佛山市"
@@ -847,7 +842,7 @@
         "suspectedCount": 2,
         "curedCount": 353,
         "deadCount": 1,
-        "highDangerCount": 18,
+        "highDangerCount": 20,
         "midDangerCount": 12,
         "locationId": 440400,
         "currentConfirmedCountStr": "10",
@@ -1150,6 +1145,16 @@
       },
       {
         "cityName": "珠海",
+        "areaName": "香洲区吉大街道吉莲新村小区23栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "珠海",
+        "areaName": "香洲区吉大街道园林路航天综合楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "珠海",
         "areaName": "园林路航天综合楼",
         "dangerLevel": 1
       },
@@ -1256,6 +1261,11 @@
       {
         "cityName": "佛山",
         "areaName": "南海区狮山镇联和大道19号广东壹江电线电缆有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "佛山",
+        "areaName": "南海区狮山镇联和社区大朗经济社",
         "dangerLevel": 1
       },
       {
@@ -1751,6 +1761,11 @@
       {
         "cityName": "佛山",
         "areaName": "南海区大沥镇银丰花园南区21、22、23、29、30座",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佛山",
+        "areaName": "南海区狮山镇联和大道以东、机场涌以南，丰岗村涌、塱新大道以西、中区五路、东区十一路以北",
         "dangerLevel": 2
       },
       {
@@ -3892,8 +3907,8 @@
     "comment": "",
     "locationId": 320000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
-    "highDangerCount": 34,
-    "midDangerCount": 65,
+    "highDangerCount": 23,
+    "midDangerCount": 70,
     "detectOrgCount": 395,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -3904,8 +3919,8 @@
         "suspectedCount": 0,
         "curedCount": 74,
         "deadCount": 0,
-        "highDangerCount": 32,
-        "midDangerCount": 46,
+        "highDangerCount": 21,
+        "midDangerCount": 51,
         "locationId": 320200,
         "currentConfirmedCountStr": "27",
         "fullCityName": "无锡市"
@@ -4101,37 +4116,7 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "惠山街道盛岸二村6-174号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
         "areaName": "惠山街道造船二村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "黄巷街道前盛岸",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "黄巷街道盛岸里",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "黄巷街道田屠里",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区广益街道华东商贸城",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区惠盛路小区",
         "dangerLevel": 1
       },
       {
@@ -4142,11 +4127,6 @@
       {
         "cityName": "无锡",
         "areaName": "梁溪区山北街道盛岸市场周边片区（东至惠峰路、南至惠钱路、西至石门路、北至盛岸路区域：阅山花园小区，惠麓苑一期，惠麓苑二期A区、B区、C区、D区，惠峰新村，二泉花园小区）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区山北街道盛岸一村",
         "dangerLevel": 1
       },
       {
@@ -4186,11 +4166,6 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "锡山区东亭街道蓝光五彩华庭",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
         "areaName": "锡山区云林街道春雷苑（除B区、D区）",
         "dangerLevel": 1
       },
@@ -4211,17 +4186,7 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "新吴区无锡威孚高科技集团股份有限公司（锡兴路30号）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
         "areaName": "新吴区旺庄街道科园路科技产业园93-C",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "新吴区旺庄街道无锡威孚精密机械制造有限公司",
         "dangerLevel": 1
       },
       {
@@ -4237,11 +4202,6 @@
       {
         "cityName": "无锡",
         "areaName": "新吴区新安街道协信星光商业广场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "新吴区长欣公寓C区",
         "dangerLevel": 1
       },
       {
@@ -4276,11 +4236,6 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "滨湖区蠡园街道隐秀苑线泾浜西侧",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "无锡",
         "areaName": "滨湖区荣巷街道集景花园东北片区",
         "dangerLevel": 2
       },
@@ -4296,7 +4251,12 @@
       },
       {
         "cityName": "无锡",
-        "areaName": "广益街道广益星苑",
+        "areaName": "广益街道华东商贸城",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "惠山街道盛岸二村6-174号",
         "dangerLevel": 2
       },
       {
@@ -4307,6 +4267,11 @@
       {
         "cityName": "无锡",
         "areaName": "鸿山街道一品旺快餐店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "惠盛路小区",
         "dangerLevel": 2
       },
       {
@@ -4331,17 +4296,22 @@
       },
       {
         "cityName": "无锡",
+        "areaName": "黄巷街道前盛岸",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "黄巷街道盛岸里",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "黄巷街道田屠里",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
         "areaName": "锦硕苑二期片区（东北至锦硕苑二期工地，西至南星路，南至墙宅路）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区北大街街道凤宾家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区广益街道金科东方水榭",
         "dangerLevel": 2
       },
       {
@@ -4352,16 +4322,6 @@
       {
         "cityName": "无锡",
         "areaName": "梁溪区惠山街道锡园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区山北街道二泉东园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "无锡",
-        "areaName": "梁溪区扬名街道芦村新村",
         "dangerLevel": 2
       },
       {
@@ -4386,6 +4346,11 @@
       },
       {
         "cityName": "无锡",
+        "areaName": "盛岸一村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
         "areaName": "硕放街道丽富社区片区（北至新农路，东至丽富社区东围墙，南至长江东路，西至里夫泾浜）",
         "dangerLevel": 2
       },
@@ -4401,7 +4366,22 @@
       },
       {
         "cityName": "无锡",
+        "areaName": "无锡威孚高科技集团股份有限公司（锡兴路30号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "无锡威孚精密机械制造有限公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
         "areaName": "香梅二社区锡梅花园（金白领）小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "锡山区东亭街道蓝光五彩华庭",
         "dangerLevel": 2
       },
       {
@@ -4492,6 +4472,11 @@
       {
         "cityName": "无锡",
         "areaName": "新吴区旺庄街道联心嘉园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "无锡",
+        "areaName": "新吴区旺庄街道长欣公寓C区",
         "dangerLevel": 2
       },
       {
@@ -5706,8 +5691,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 3,
-    "midDangerCount": 3,
+    "highDangerCount": 1,
+    "midDangerCount": 4,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -5784,8 +5769,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 110112,
         "currentConfirmedCountStr": "95",
         "fullCityName": "通州区"
@@ -5904,7 +5889,7 @@
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 2,
         "locationId": 110119,
         "currentConfirmedCountStr": "9",
@@ -5968,11 +5953,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "通州区",
-        "areaName": "潞邑街道珠江拉维小镇小区",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "昌平区",
         "areaName": "中东路121号院",
         "dangerLevel": 1
@@ -5980,7 +5960,7 @@
       {
         "cityName": "延庆区",
         "areaName": "八达岭镇石佛寺村",
-        "dangerLevel": 1
+        "dangerLevel": 2
       },
       {
         "cityName": "延庆区",
@@ -5988,13 +5968,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "延庆区",
-        "areaName": "康庄镇小美好麻辣烫板面店",
+        "cityName": "顺义区",
+        "areaName": "顺义区空港街道龙湾别墅5702栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "顺义区",
-        "areaName": "顺义区空港街道龙湾别墅5702栋",
+        "cityName": "通州区",
+        "areaName": "潞邑街道珠江拉维小镇小区",
         "dangerLevel": 2
       }
     ]
