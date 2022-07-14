@@ -72,7 +72,7 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 89,
+    "highDangerCount": 90,
     "midDangerCount": 89,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
@@ -136,7 +136,7 @@
         "suspectedCount": 1,
         "curedCount": 385,
         "deadCount": 0,
-        "highDangerCount": 14,
+        "highDangerCount": 15,
         "midDangerCount": 10,
         "locationId": 440600,
         "currentConfirmedCountStr": "21",
@@ -575,6 +575,11 @@
       {
         "cityName": "佛山",
         "areaName": "南海区狮山镇联和社区大朗经济社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "佛山",
+        "areaName": "南海区狮山镇石碣朗大道、联和大道以东，机场涌、西区14路以南，兴和路、丰岗村涌、塱新大道以西，行桂西路、行桂中路、中区五路、东区十一路以北",
         "dangerLevel": 1
       },
       {
@@ -3839,8 +3844,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 41,
-    "midDangerCount": 51,
+    "highDangerCount": 43,
+    "midDangerCount": 53,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -3865,7 +3870,7 @@
         "curedCount": 23,
         "deadCount": 0,
         "highDangerCount": 4,
-        "midDangerCount": 14,
+        "midDangerCount": 15,
         "locationId": 620400,
         "currentConfirmedCountStr": "3",
         "fullCityName": "白银市"
@@ -3942,7 +3947,7 @@
         "suspectedCount": 0,
         "curedCount": 9,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 2,
         "midDangerCount": 0,
         "locationId": 621100,
         "currentConfirmedCountStr": "0",
@@ -3994,8 +3999,8 @@
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 622900,
         "currentConfirmedCountStr": "0",
         "fullCityName": "临夏回族自治州"
@@ -4233,17 +4238,27 @@
       },
       {
         "cityName": "定西",
+        "areaName": "临洮县南屏镇安川村柯柴社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "定西",
         "areaName": "通渭县常河镇老湾村老湾社",
         "dangerLevel": 1
       },
       {
-        "cityName": "陇南",
-        "areaName": "中寨镇中寨一村永兴修理厂至李代代、马贵平住宅以东，峡沟路至赵宝元住宅垂直以西，中寨一村中街以南，滨河路以北区域",
+        "cityName": "临夏",
+        "areaName": "广河县三甲集镇东关村中心大道以南、兰郎公路以北、人市巷商铺以西、法庭巷道以东区域",
         "dangerLevel": 1
       },
       {
         "cityName": "临夏",
         "areaName": "红园街道红园社区北院小区1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "陇南",
+        "areaName": "中寨镇中寨一村永兴修理厂至李代代、马贵平住宅以东，峡沟路至赵宝元住宅垂直以西，中寨一村中街以南，滨河路以北区域",
         "dangerLevel": 1
       },
       {
@@ -4423,6 +4438,11 @@
       },
       {
         "cityName": "白银",
+        "areaName": "会宁县河畔镇两迎水村温家坪社",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
         "areaName": "会宁县亚欧桥汽车站",
         "dangerLevel": 2
       },
@@ -4499,6 +4519,11 @@
       {
         "cityName": "陇南",
         "areaName": "中寨镇中寨一村除高风险区外的其他区域及中寨二村和三村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "广河县三甲集镇沙家村茶叶巷道、尕场巷道、二社巷道、大场市场、皮子巷道区域",
         "dangerLevel": 2
       }
     ]
@@ -6291,7 +6316,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 4,
+    "midDangerCount": 3,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -6369,7 +6394,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 110112,
         "currentConfirmedCountStr": "95",
         "fullCityName": "通州区"
@@ -6569,11 +6594,6 @@
       {
         "cityName": "顺义区",
         "areaName": "顺义区空港街道龙湾别墅5702栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "潞邑街道珠江拉维小镇小区",
         "dangerLevel": 2
       }
     ]
