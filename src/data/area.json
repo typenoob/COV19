@@ -79,29 +79,16 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 77,
+        "currentConfirmedCount": 68,
         "confirmedCount": 3010,
         "suspectedCount": 3,
-        "curedCount": 2932,
+        "curedCount": 2941,
         "deadCount": 1,
         "highDangerCount": 4,
         "midDangerCount": 6,
         "locationId": 440100,
-        "currentConfirmedCountStr": "77",
+        "currentConfirmedCountStr": "68",
         "fullCityName": "广州市"
-      },
-      {
-        "cityName": "深圳",
-        "currentConfirmedCount": 64,
-        "confirmedCount": 2615,
-        "suspectedCount": 3,
-        "curedCount": 2548,
-        "deadCount": 3,
-        "highDangerCount": 8,
-        "midDangerCount": 15,
-        "locationId": 440300,
-        "currentConfirmedCountStr": "64",
-        "fullCityName": "深圳市"
       },
       {
         "cityName": "珠海",
@@ -115,6 +102,19 @@
         "locationId": 440400,
         "currentConfirmedCountStr": "55",
         "fullCityName": "珠海市"
+      },
+      {
+        "cityName": "深圳",
+        "currentConfirmedCount": 54,
+        "confirmedCount": 2615,
+        "suspectedCount": 3,
+        "curedCount": 2558,
+        "deadCount": 3,
+        "highDangerCount": 8,
+        "midDangerCount": 15,
+        "locationId": 440300,
+        "currentConfirmedCountStr": "54",
+        "fullCityName": "深圳市"
       },
       {
         "cityName": "茂名",
@@ -352,15 +352,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -28,
+        "currentConfirmedCount": -9,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 28,
+        "curedCount": 9,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-28",
+        "currentConfirmedCountStr": "-9",
         "fullCityName": "待明确地区"
       }
     ],
@@ -896,81 +896,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "深圳",
-        "areaName": "福田区福田街道皇岗新村一期A区（第149号-第156号）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "福田区沙头街道新洲社区祠堂村文化广场以北区域（新洲七街—新洲二街—祠堂村一街—金福苑以东围合区域）、南溪新苑小区、祠堂村文化广场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区东湖街道观山祥苑、观山瑞苑、深港驾校围合区域（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区东门街道一品雅园东门168北座",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区黄贝街道东深大院中区（7、8、9栋）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区黄贝街道黄贝岭中村50、54、55、56、64、65栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区莲塘街道兰亭国际二座（5楼至50楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区莲塘街道鹏兴花园五期（除高风险区外）、鹏莲花园、城市东座、名骏豪庭、港莲一村（1至17栋、101栋、102栋）、港莲二村、莲南小学、莲塘房地产幼儿园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "龙华区民治街道北站社区龙悦居2期（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "龙华区民治街道民乐社区民乐翠园第1至14栋（除高风险区外）、民乐老村、民乐花园第40栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "龙华区民治街道民乐社区民乐新村第63栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区南湖街道罗湖桥社区房地产大厦",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "罗湖区南湖街道罗湖新村东区（81、82、83、84、85、86、87、88、89、90号）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "南山区粤海街道龙城花园（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "南山区粤海街道铜鼓社区华润润府三期（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "茂名",
         "areaName": "鳌头镇塘边村委会上官地村黄某新屋为中心，东至环村路、南至黄某明屋、西至黄某福屋、北至黄某荣屋（除高风险区外）",
         "dangerLevel": 2
@@ -1043,6 +968,81 @@
       {
         "cityName": "茂名",
         "areaName": "站前街道名晟佳园（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福田区福田街道皇岗新村一期A区（第149号-第156号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福田区沙头街道新洲社区祠堂村文化广场以北区域（新洲七街—新洲二街—祠堂村一街—金福苑以东围合区域）、南溪新苑小区、祠堂村文化广场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东湖街道观山祥苑、观山瑞苑、深港驾校围合区域（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东门街道一品雅园东门168北座",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道东深大院中区（7、8、9栋）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道黄贝岭中村50、54、55、56、64、65栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区莲塘街道兰亭国际二座（5楼至50楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区莲塘街道鹏兴花园五期（除高风险区外）、鹏莲花园、城市东座、名骏豪庭、港莲一村（1至17栋、101栋、102栋）、港莲二村、莲南小学、莲塘房地产幼儿园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "龙华区民治街道北站社区龙悦居2期（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "龙华区民治街道民乐社区民乐翠园第1至14栋（除高风险区外）、民乐老村、民乐花园第40栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "龙华区民治街道民乐社区民乐新村第63栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区南湖街道罗湖桥社区房地产大厦",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区南湖街道罗湖新村东区（81、82、83、84、85、86、87、88、89、90号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山区粤海街道龙城花园（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山区粤海街道铜鼓社区华润润府三期（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -1121,36 +1121,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "广州",
-        "areaName": "白云湖街道北至桑下街三巷，东至桑下街，西至谭家街四巷，南至大朗中学围墙",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "凤凰城北至凤翠苑18街、南至凤翠苑22街、西至游园小路（接壤2街）、东至游园小路（接壤31街）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "海珠区南石头街道富力顺意花园小区A5、A6、A7、A8、A9栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "京溪古道以北，京溪路以南，沙太路西侧的临街商铺。竹园小区2，3，4，5栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "京溪街春兰花园除16至19栋外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "京溪街道北至京溪路，南至益和二巷1号之一，东至沙太路，西至善和巷15号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "江门",
         "areaName": "恩平市君堂镇城乡饭店",
         "dangerLevel": 2
@@ -1178,6 +1148,36 @@
       {
         "cityName": "江门",
         "areaName": "蓬江区白沙街道中远大厦",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云湖街道北至桑下街三巷，东至桑下街，西至谭家街四巷，南至大朗中学围墙",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "凤凰城北至凤翠苑18街、南至凤翠苑22街、西至游园小路（接壤2街）、东至游园小路（接壤31街）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "海珠区南石头街道富力顺意花园小区A5、A6、A7、A8、A9栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "京溪古道以北，京溪路以南，沙太路西侧的临街商铺。竹园小区2，3，4，5栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "京溪街春兰花园除16至19栋外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "京溪街道北至京溪路，南至益和二巷1号之一，东至沙太路，西至善和巷15号",
         "dangerLevel": 2
       },
       {
@@ -4212,15 +4212,15 @@
       },
       {
         "cityName": "宁德",
-        "currentConfirmedCount": 16,
+        "currentConfirmedCount": 14,
         "confirmedCount": 93,
         "suspectedCount": 0,
-        "curedCount": 77,
+        "curedCount": 79,
         "deadCount": 0,
         "highDangerCount": 9,
         "midDangerCount": 43,
         "locationId": 350900,
-        "currentConfirmedCountStr": "16",
+        "currentConfirmedCountStr": "14",
         "fullCityName": "宁德市"
       },
       {
@@ -4326,19 +4326,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -2,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-2",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
