@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 4260811,
-    "confirmedCount": 4282777,
+    "currentConfirmedCount": 4287901,
+    "confirmedCount": 4309904,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 8224,
+    "deadCount": 8261,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -72,22 +72,22 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 54,
-    "midDangerCount": 97,
+    "highDangerCount": 55,
+    "midDangerCount": 94,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 81,
+        "currentConfirmedCount": 80,
         "confirmedCount": 3032,
         "suspectedCount": 3,
-        "curedCount": 2950,
+        "curedCount": 2951,
         "deadCount": 1,
         "highDangerCount": 3,
         "midDangerCount": 5,
         "locationId": 440100,
-        "currentConfirmedCountStr": "81",
+        "currentConfirmedCountStr": "80",
         "fullCityName": "广州市"
       },
       {
@@ -105,29 +105,16 @@
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 64,
+        "currentConfirmedCount": 51,
         "confirmedCount": 2638,
         "suspectedCount": 3,
-        "curedCount": 2571,
+        "curedCount": 2584,
         "deadCount": 3,
-        "highDangerCount": 21,
-        "midDangerCount": 21,
+        "highDangerCount": 22,
+        "midDangerCount": 22,
         "locationId": 440300,
-        "currentConfirmedCountStr": "64",
+        "currentConfirmedCountStr": "51",
         "fullCityName": "深圳市"
-      },
-      {
-        "cityName": "茂名",
-        "currentConfirmedCount": 27,
-        "confirmedCount": 52,
-        "suspectedCount": 0,
-        "curedCount": 25,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 17,
-        "locationId": 440900,
-        "currentConfirmedCountStr": "27",
-        "fullCityName": "茂名市"
       },
       {
         "cityName": "佛山",
@@ -150,10 +137,23 @@
         "curedCount": 130,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 442000,
         "currentConfirmedCountStr": "21",
         "fullCityName": "中山市"
+      },
+      {
+        "cityName": "茂名",
+        "currentConfirmedCount": 9,
+        "confirmedCount": 52,
+        "suspectedCount": 0,
+        "curedCount": 43,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 17,
+        "locationId": 440900,
+        "currentConfirmedCountStr": "9",
+        "fullCityName": "茂名市"
       },
       {
         "cityName": "江门",
@@ -163,7 +163,7 @@
         "curedCount": 106,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 0,
         "locationId": 440700,
         "currentConfirmedCountStr": "8",
         "fullCityName": "江门市"
@@ -352,15 +352,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -38,
+        "currentConfirmedCount": -6,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 38,
+        "curedCount": 6,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-38",
+        "currentConfirmedCountStr": "-6",
         "fullCityName": "待明确地区"
       }
     ],
@@ -523,6 +523,11 @@
       {
         "cityName": "深圳",
         "areaName": "福保街道福保社区丽港湾丽湾阁",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福保街道福源花园二期D1栋",
         "dangerLevel": 1
       },
       {
@@ -748,6 +753,11 @@
       {
         "cityName": "深圳",
         "areaName": "福保街道福保社区福源花园三期（高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福保街道福源花园一期、二期（高风险区除外）",
         "dangerLevel": 2
       },
       {
@@ -1071,23 +1081,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "江门",
-        "areaName": "蓬江区白沙街道侧贤里38号、39号",
+        "cityName": "湛江",
+        "areaName": "塘㙍镇新桥村委会水口大村",
         "dangerLevel": 2
       },
       {
-        "cityName": "江门",
-        "areaName": "蓬江区白沙街道凤阳里117号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江门",
-        "areaName": "蓬江区白沙街道中远大厦",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中山",
-        "areaName": "高平大道1、3、5、7、9、11、13号，蔡份北街59号、60号之一至六号",
+        "cityName": "湛江",
+        "areaName": "以板桥市场烤奶先生店、福万家超市为中心的区域（东至张某明房屋、南至荣大药店、西至广发饲料店、北至锦锋门窗店）",
         "dangerLevel": 2
       },
       {
@@ -1098,16 +1098,6 @@
       {
         "cityName": "中山",
         "areaName": "小榄镇九洲基社区兴洲路、利成三街、利成巷、利成二街、兴洲路合围区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "湛江",
-        "areaName": "塘㙍镇新桥村委会水口大村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "湛江",
-        "areaName": "以板桥市场烤奶先生店、福万家超市为中心的区域（东至张某明房屋、南至荣大药店、西至广发饲料店、北至锦锋门窗店）",
         "dangerLevel": 2
       },
       {
@@ -1135,8 +1125,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 182,
-    "midDangerCount": 319,
+    "highDangerCount": 186,
+    "midDangerCount": 316,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -1225,8 +1215,8 @@
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "highDangerCount": 19,
-        "midDangerCount": 22,
+        "highDangerCount": 23,
+        "midDangerCount": 19,
         "locationId": 622900,
         "currentConfirmedCountStr": "2",
         "fullCityName": "临夏回族自治州"
@@ -1898,6 +1888,26 @@
       {
         "cityName": "临夏",
         "areaName": "城关镇赵家村泉力大巷道为中心，泉力西巷道以东、泉力东巷道以西、兰郎路以南、南山根以北区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "达板社区（含达板综合市场）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县达板镇上科妥村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县董岭乡苏尚村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县锁南镇张王家村",
         "dangerLevel": 1
       },
       {
@@ -3537,17 +3547,27 @@
       },
       {
         "cityName": "临夏",
+        "areaName": "白王乡白王村中街骡马市场巷北至入口南至流川河河谷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
         "areaName": "城关镇马家村、李家河村、潘家村、李家坪村、双泉村、马力庄村、牟家窑村、十里墩村",
         "dangerLevel": 2
       },
       {
         "cityName": "临夏",
-        "areaName": "城关镇石那奴村",
+        "areaName": "东乡族自治县达板镇崔家村、下科妥村、凤凰山社区",
         "dangerLevel": 2
       },
       {
         "cityName": "临夏",
-        "areaName": "吹麻滩镇前庄旧加油站上隔壁金丰装饰材料城",
+        "areaName": "东乡族自治县董岭乡董家岭村董岭街道",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县龙泉镇老庄村龙泉街道",
         "dangerLevel": 2
       },
       {
@@ -3558,11 +3578,6 @@
       {
         "cityName": "临夏",
         "areaName": "公路段下家属院内其他楼栋（临夏公路段办公楼、小二楼12号、9号楼、10号楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "积石山县大河家镇梅坡村七社",
         "dangerLevel": 2
       },
       {
@@ -3587,6 +3602,11 @@
       },
       {
         "cityName": "临夏",
+        "areaName": "南塬乡张河西村水漫滩社",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
         "areaName": "祁家集镇寺后子村、孙家村、朱家坪村、谢家村、蔡王家村、何家湾村、果园山村、黄家沟村、陈家湾村",
         "dangerLevel": 2
       },
@@ -3597,37 +3617,7 @@
       },
       {
         "cityName": "临夏",
-        "areaName": "三甲集镇白庄头村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "三甲集镇上集村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "三甲集镇头家村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "三甲集镇五户村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "三甲集镇宗家村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
         "areaName": "水泉乡园子村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
-        "areaName": "石塬镇肖红坪街道西街刘集路12号方圆50米",
         "dangerLevel": 2
       },
       {
@@ -3638,6 +3628,11 @@
       {
         "cityName": "临夏",
         "areaName": "天华苑小区其余12栋及城北街道天华社区、天华苑物业中心、小区内商铺",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "先锋乡前韩村寨五二社",
         "dangerLevel": 2
       },
       {
@@ -6237,15 +6232,15 @@
       },
       {
         "cityName": "宁德",
-        "currentConfirmedCount": 13,
+        "currentConfirmedCount": 12,
         "confirmedCount": 93,
         "suspectedCount": 0,
-        "curedCount": 80,
+        "curedCount": 81,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 2,
         "locationId": 350900,
-        "currentConfirmedCountStr": "13",
+        "currentConfirmedCountStr": "12",
         "fullCityName": "宁德市"
       },
       {
@@ -6351,19 +6346,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -1,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-1",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
