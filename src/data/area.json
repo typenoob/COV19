@@ -10028,7 +10028,7 @@
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 0,
+    "midDangerCount": 5,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -10547,13 +10547,39 @@
         "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 5,
         "locationId": -1,
         "currentConfirmedCountStr": "0",
         "fullCityName": "万盛街道"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "万盛经开区",
+        "areaName": "万盛经开区芙蓉丽苑2、3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "万盛经开区",
+        "areaName": "万盛经开区芙蓉丽苑小区外芙蓉副食店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "万盛经开区",
+        "areaName": "万盛经开区煤苑小区9栋2单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "万盛经开区",
+        "areaName": "万盛经开区南天门小商店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "万盛经开区",
+        "areaName": "万盛经开区万盛桃子加油站超市",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "liaoning",
