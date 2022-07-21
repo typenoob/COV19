@@ -72,8 +72,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 195,
-    "midDangerCount": 347,
+    "highDangerCount": 194,
+    "midDangerCount": 342,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -84,8 +84,8 @@
         "suspectedCount": 0,
         "curedCount": 353,
         "deadCount": 2,
-        "highDangerCount": 110,
-        "midDangerCount": 199,
+        "highDangerCount": 111,
+        "midDangerCount": 194,
         "locationId": 620100,
         "currentConfirmedCountStr": "285",
         "fullCityName": "兰州市"
@@ -175,7 +175,7 @@
         "suspectedCount": 0,
         "curedCount": 55,
         "deadCount": 0,
-        "highDangerCount": 11,
+        "highDangerCount": 9,
         "midDangerCount": 15,
         "locationId": 620500,
         "currentConfirmedCountStr": "2",
@@ -547,6 +547,11 @@
       },
       {
         "cityName": "兰州",
+        "areaName": "高新区西平路社区大名城D区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "兰州",
         "areaName": "恒大绿洲二号院9号楼",
         "dangerLevel": 1
       },
@@ -563,11 +568,6 @@
       {
         "cityName": "兰州",
         "areaName": "和平镇和平嘉园北区8号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "和平镇和平嘉园南区1号楼",
         "dangerLevel": 1
       },
       {
@@ -823,6 +823,11 @@
       {
         "cityName": "兰州",
         "areaName": "榆中县和平镇和平嘉园北区7号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "兰州",
+        "areaName": "榆中县和平镇和平嘉园南区全域",
         "dangerLevel": 1
       },
       {
@@ -1141,61 +1146,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "天水",
-        "areaName": "安远镇南城村一组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "道北街道育才名苑小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "甘谷县礼辛镇下街村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "甘谷县谢家湾乡汪家山庄村三组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "甘泉路地质队家属院小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "马跑泉新村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "清水县陇东镇朱湾村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "清水县西华路林业局苗圃家属楼小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "秦州区石马坪街道天北小区3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "尉坪村河湾自然村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "天水",
-        "areaName": "张家川县张家川镇刘家村（不含五组）",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "武威",
         "areaName": "凉州城区古浪街365号（塞外烤肉城聚银新都店）",
         "dangerLevel": 1
@@ -1243,6 +1193,51 @@
       {
         "cityName": "武威",
         "areaName": "土门镇台子村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "安远镇南城村一组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "道北街道育才名苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "甘谷县礼辛镇下街村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "甘谷县谢家湾乡汪家山庄村三组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "甘泉路地质队家属院小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "马跑泉新村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "秦州区石马坪街道天北小区3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "尉坪村河湾自然村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "天水",
+        "areaName": "张家川县张家川镇刘家村（不含五组）",
         "dangerLevel": 1
       },
       {
@@ -1867,11 +1862,6 @@
       },
       {
         "cityName": "兰州",
-        "areaName": "七里河区西湖街道小西湖硷沟沿新华园小区（除8号楼、11号楼、12号楼、院内小二楼以外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
         "areaName": "七里河区西站街道康明园小区（除4号楼2单元外）",
         "dangerLevel": 2
       },
@@ -2232,16 +2222,6 @@
       },
       {
         "cityName": "兰州",
-        "areaName": "榆中县和平镇东坪村二分坪珏森工业园区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "榆中县和平镇冯湾村宏立餐厅",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
         "areaName": "榆中县和平镇和平嘉园北区（除7号楼、8号楼外）",
         "dangerLevel": 2
       },
@@ -2253,16 +2233,6 @@
       {
         "cityName": "兰州",
         "areaName": "榆中县和平镇新元绿洲小区（9号楼、12号楼以外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "榆中县金崖镇金崖十字片区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "榆中县客多多百货超市（金崖镇榆钢公寓门口）",
         "dangerLevel": 2
       },
       {
@@ -2897,17 +2867,12 @@
       },
       {
         "cityName": "天水",
+        "areaName": "陇东镇朱湾村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "天水",
         "areaName": "桥南仿古一条街",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "天水",
-        "areaName": "清水县步行街佳园川菜馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "天水",
-        "areaName": "清水县充国北路世纪优选超市（老家乐超市）",
         "dangerLevel": 2
       },
       {
@@ -2918,6 +2883,11 @@
       {
         "cityName": "天水",
         "areaName": "滩歌镇代沟村下庄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "天水",
+        "areaName": "西华路林业局苗圃家属楼小区",
         "dangerLevel": 2
       },
       {
@@ -3025,8 +2995,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 44,
-    "midDangerCount": 76,
+    "highDangerCount": 45,
+    "midDangerCount": 77,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -3050,8 +3020,8 @@
         "suspectedCount": 3,
         "curedCount": 2588,
         "deadCount": 3,
-        "highDangerCount": 23,
-        "midDangerCount": 23,
+        "highDangerCount": 24,
+        "midDangerCount": 24,
         "locationId": 440300,
         "currentConfirmedCountStr": "85",
         "fullCityName": "深圳市"
@@ -3410,6 +3380,11 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "南山区西丽街道松坪村三期东区2栋、3栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
         "areaName": "南山区粤海街道岸芷汀兰1栋",
         "dangerLevel": 1
       },
@@ -3761,6 +3736,11 @@
       {
         "cityName": "深圳",
         "areaName": "南山区西丽街道九祥岭工业区（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山区西丽街道松坪村三期东区（除高风险区外）",
         "dangerLevel": 2
       },
       {
