@@ -73,7 +73,7 @@
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
     "highDangerCount": 315,
-    "midDangerCount": 305,
+    "midDangerCount": 304,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -85,7 +85,7 @@
         "curedCount": 362,
         "deadCount": 2,
         "highDangerCount": 225,
-        "midDangerCount": 146,
+        "midDangerCount": 145,
         "locationId": 620100,
         "currentConfirmedCountStr": "326",
         "fullCityName": "兰州市"
@@ -2122,11 +2122,6 @@
       },
       {
         "cityName": "兰州",
-        "areaName": "拱星墩街道安兴小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
         "areaName": "拱星墩街道财经大学家属院",
         "dangerLevel": 2
       },
@@ -3415,8 +3410,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 33,
-    "midDangerCount": 57,
+    "highDangerCount": 36,
+    "midDangerCount": 58,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -3427,8 +3422,8 @@
         "suspectedCount": 3,
         "curedCount": 2591,
         "deadCount": 3,
-        "highDangerCount": 26,
-        "midDangerCount": 26,
+        "highDangerCount": 29,
+        "midDangerCount": 27,
         "locationId": 440300,
         "currentConfirmedCountStr": "107",
         "fullCityName": "深圳市"
@@ -3708,6 +3703,21 @@
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "深圳",
+        "areaName": "百花一路东三巷6号和7号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "百花一路东四巷6号和7号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "布吉社区横向南街13号",
+        "dangerLevel": 1
+      },
       {
         "cityName": "深圳",
         "areaName": "东湖街道观山祥苑临近05、06生活区",
@@ -4006,6 +4016,11 @@
       {
         "cityName": "珠海",
         "areaName": "香洲区南屏镇华发新城一期18栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "布吉社区百花一街东一巷至九巷（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -7104,8 +7119,8 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 8,
+    "highDangerCount": 11,
+    "midDangerCount": 9,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -7207,8 +7222,8 @@
         "suspectedCount": 0,
         "curedCount": 206,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 120111,
         "currentConfirmedCountStr": "6",
         "fullCityName": "西青区"
@@ -7376,6 +7391,16 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "西青区",
+        "areaName": "中北镇润姜家园小区A区3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "中铁十八局宿舍2号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "滨海新区",
         "areaName": "新北街道首创国际小区45-56号楼",
         "dangerLevel": 1
@@ -7428,6 +7453,11 @@
       {
         "cityName": "津南区",
         "areaName": "双林街泓沪园除5号楼、6号楼、7号楼、8号楼以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "中铁十八局宿舍1号楼",
         "dangerLevel": 2
       }
     ]
