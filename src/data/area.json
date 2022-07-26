@@ -5102,8 +5102,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 31,
-    "midDangerCount": 59,
+    "highDangerCount": 27,
+    "midDangerCount": 64,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -5114,8 +5114,8 @@
         "suspectedCount": 3,
         "curedCount": 2604,
         "deadCount": 3,
-        "highDangerCount": 29,
-        "midDangerCount": 51,
+        "highDangerCount": 25,
+        "midDangerCount": 56,
         "locationId": 440300,
         "currentConfirmedCountStr": "164",
         "fullCityName": "深圳市"
@@ -5397,32 +5397,17 @@
     "dangerAreas": [
       {
         "cityName": "深圳",
-        "areaName": "百花一路东三巷6号和7号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "百花一路东四巷6号和7号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "布吉社区横向南街13号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
         "areaName": "坂田社区黄金山七巷12、13、14号",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "大鹏新区葵涌街道海语山林1栋AB单元",
+        "areaName": "坂田社区吉华路534号楼栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "福保街道福保社区福源花园三期南海苑",
+        "areaName": "大鹏新区葵涌街道海语山林1栋AB单元",
         "dangerLevel": 1
       },
       {
@@ -5442,17 +5427,17 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "桂园街道松园社区锦程国际三栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
         "areaName": "航城街道三围社区宝安大道5005号汇庭居",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
         "areaName": "海裕社区幸福海岸花园小区8栋A、B、C座",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "龙岗区布吉街道布吉社区横向南街13号、百花一路东四巷6号和7号、百花一路东三巷6号和7号",
         "dangerLevel": 1
       },
       {
@@ -5467,12 +5452,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "民治街道民乐社区民乐翠园第9栋",
+        "areaName": "丽湖社区上水花园6区77-6、7、8栋，66-4、5、6栋，88-6、7、8栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南山区锦隆花园锦晖阁A栋、锦云阁B栋",
+        "areaName": "民治街道民新社区横岭一区第10栋、11栋、12栋、23栋",
         "dangerLevel": 1
       },
       {
@@ -5492,17 +5477,17 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "南山区粤海街道铜鼓社区华润润府三期4栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
         "areaName": "南园街道南园社区统建商住楼丁栋（不含裙楼部分）",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
         "areaName": "南园街道沙埔头村东第57号-58号、第61号-64号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "坪山区坑梓街道金沙社区长隆二区一巷1、2、3号，长隆二区二巷1、2、3号",
         "dangerLevel": 1
       },
       {
@@ -5523,11 +5508,6 @@
       {
         "cityName": "深圳",
         "areaName": "沙头街道下沙村三坊第9栋-13栋、第23栋-30栋、第41栋-47栋、第61栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "沙头街道新洲社区祠堂村文化广场以南区域（新洲二街—新洲六街—祠堂村一街—祠堂村文化广场南侧围合区域）",
         "dangerLevel": 1
       },
       {
@@ -5557,6 +5537,11 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "宝安区航城街道后瑞社区瑞发路62号及周边24栋（以实际围合为准）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
         "areaName": "布吉社区百花一街东一巷至九巷（除高风险区外）",
         "dangerLevel": 2
       },
@@ -5572,12 +5557,17 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "坂田社区吉华路532号、536号、538号、540号、542号楼栋，上围一巷8号、9号楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
         "areaName": "大鹏新区葵涌街道海语山林小区（除高风险区外）",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "福保街道福保社区福源花园三期（高风险区除外）",
+        "areaName": "福保街道福保社区福源花园三期南海苑",
         "dangerLevel": 2
       },
       {
@@ -5618,6 +5608,11 @@
       {
         "cityName": "深圳",
         "areaName": "福田区沙头街道新洲社区祠堂村文化广场以北区域（新洲七街—新洲二街—祠堂村一街—金福苑以东围合区域）、南溪新苑小区、祠堂村文化广场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福永街道兴围社区怡丰酒店",
         "dangerLevel": 2
       },
       {
@@ -5692,7 +5687,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "莲塘街道城市东座、名骏豪庭、港莲一村（1至17栋、101栋、102栋）、港莲二村、莲南小学、莲塘房地产幼儿园",
+        "areaName": "龙华区民治街道民新社区横岭一区（除高风险区外）、悦湖大厦、横岭小区、横岭三区、横岭五区、榕苑、皇嘉广场、皇嘉商业广场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "丽湖社区上水花园（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -5703,6 +5703,11 @@
       {
         "cityName": "深圳",
         "areaName": "南山区沙河街道白石洲村（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山区西丽街道九祥岭工业区1栋",
         "dangerLevel": 2
       },
       {
@@ -5727,12 +5732,7 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "南山区粤海街道锦隆花园小区（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "南山区粤海街道龙城花园东南区（1栋、3栋、6栋）",
+        "areaName": "南山区粤海街道锦隆花园锦晖阁A栋、锦云阁B栋",
         "dangerLevel": 2
       },
       {
@@ -5748,6 +5748,11 @@
       {
         "cityName": "深圳",
         "areaName": "南园街道沙埔头村东第40号-44号、第46号-56号、第59号A、第59号B、第60号、第65号-68号、第70号-74号、第76号-78号、第79号A、第79号B、第80号、第82号-86号、第88号-89号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "坪山区坑梓街道金沙社区长隆二区（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -9101,8 +9106,8 @@
     "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
     "locationId": 330000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 0,
+    "highDangerCount": 5,
+    "midDangerCount": 2,
     "detectOrgCount": 519,
     "vaccinationOrgCount": 217,
     "cities": [
@@ -9256,8 +9261,8 @@
         "suspectedCount": 0,
         "curedCount": 147,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 5,
+        "midDangerCount": 2,
         "locationId": 331000,
         "currentConfirmedCountStr": "2",
         "fullCityName": "台州市"
@@ -9289,7 +9294,43 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "台州",
+        "areaName": "吉华盛超市附近河南滋补烩面店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "台州",
+        "areaName": "沃民小区对面的老北京炸酱面馆",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "台州",
+        "areaName": "沃民小区秦记烧烤店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "台州",
+        "areaName": "沃民小区七十二变理发店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "台州",
+        "areaName": "浙江万通重工有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "台州",
+        "areaName": "康辰大药房（吉华盛超市附近）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "台州",
+        "areaName": "沃民小区（高风险区除外",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "beijing",
