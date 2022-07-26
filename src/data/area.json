@@ -52,8 +52,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 299,
-    "midDangerCount": 240,
+    "highDangerCount": 289,
+    "midDangerCount": 239,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -64,8 +64,8 @@
         "suspectedCount": 0,
         "curedCount": 402,
         "deadCount": 2,
-        "highDangerCount": 222,
-        "midDangerCount": 146,
+        "highDangerCount": 221,
+        "midDangerCount": 145,
         "locationId": 620100,
         "currentConfirmedCountStr": "393",
         "fullCityName": "兰州市"
@@ -91,7 +91,7 @@
         "curedCount": 3,
         "deadCount": 0,
         "highDangerCount": 37,
-        "midDangerCount": 38,
+        "midDangerCount": 37,
         "locationId": 622900,
         "currentConfirmedCountStr": "13",
         "fullCityName": "临夏回族自治州"
@@ -103,8 +103,8 @@
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "highDangerCount": 9,
-        "midDangerCount": 9,
+        "highDangerCount": 0,
+        "midDangerCount": 10,
         "locationId": 620600,
         "currentConfirmedCountStr": "8",
         "fullCityName": "武威市"
@@ -283,11 +283,6 @@
       {
         "cityName": "兰州",
         "areaName": "安定门外60号小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "安宁区兰州供电公司办公楼区域（含小二楼）",
         "dangerLevel": 1
       },
       {
@@ -602,6 +597,11 @@
       },
       {
         "cityName": "兰州",
+        "areaName": "城关区张掖路街道大众市场（武都路以北、永昌中路以东、陇西路以西、张掖路以南）区域（除张掖路127号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "兰州",
         "areaName": "东岗街道欣欣茗园",
         "dangerLevel": 1
       },
@@ -798,11 +798,6 @@
       {
         "cityName": "兰州",
         "areaName": "火车站街道绿茵小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "红古区华龙街道振兴社区煤电六小区",
         "dangerLevel": 1
       },
       {
@@ -1706,51 +1701,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "武威",
-        "areaName": "凉州城区古浪街365号（塞外烤肉城聚银新都店）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区古浪街545-4至545-7号（常福记肘子行面馆周边）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区盘旋路东北角南关西路146号至凤凰路154号（百康豆浆肉夹馍周边）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区高坝镇G312沿线牛家花园西街72至84号（赵记肘子行面馆周边）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区黄羊镇黄羊路80号至116号（星星百货店周边）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区金沙物流园B区6栋1—5、7栋1—5（樱花前进轮胎店周边）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州市场温州米粉店及全家福砂锅店、三姐妹麻辣烫店",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州市场王中王砂锅店及门外汉甜食店、昱昌源餐馆",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州市场丫丫饰品店及金苹果箱包皮具店、依酷休闲靓仔店",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "天水",
         "areaName": "麦积区石佛北路以东、泉湖路以西、兴陇路以南、龙园西路以北的区域范围内五龙路以东、琥珀路以西的区域",
         "dangerLevel": 1
@@ -1777,12 +1727,7 @@
       },
       {
         "cityName": "兰州",
-        "areaName": "安宁区兰州供电公司周边区域（安宁区西路街道九州通西路以北，交大科技园--蓝科嘉苑北侧院墙以南，桃林路以东，枣林路以西）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
-        "areaName": "安宁区培黎街道天合溪园小区（含锦江之星酒店）",
+        "areaName": "安宁区兰州供电公司办公区域（含小二楼）",
         "dangerLevel": 2
       },
       {
@@ -2647,11 +2592,6 @@
       },
       {
         "cityName": "临夏",
-        "areaName": "公路段下家属院6号楼、8号楼、11号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临夏",
         "areaName": "红台乡三大湾村槐沟社",
         "dangerLevel": 2
       },
@@ -2881,6 +2821,56 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "武威",
+        "areaName": "古浪县土门镇台子村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州城区古浪街365号（塞外烤肉城聚银新都店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州城区古浪街545-4至545-7号（常福记肘子行面馆周边）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州城区盘旋路东北角南关西路146号至凤凰路154号（百康豆浆肉夹馍周边）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州区高坝镇G312沿线牛家花园西街72号至84号（赵记肘子行面馆周边）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州区黄羊镇黄羊路80号至116号（星星百货店周边）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州区金沙物流园B区6栋1—5、7栋1—5（樱花前进轮胎店周边）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州市场温州米粉店、全家福砂锅店及三姐妹麻辣烫",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州市场王中王砂锅店、门外汉甜食店及昱昌源餐馆",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武威",
+        "areaName": "凉州市场丫丫饰品店、金苹果箱包皮具店及依酷休闲靓仔店",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "白银",
         "areaName": "北滩镇独山村西社",
         "dangerLevel": 2
@@ -2929,51 +2919,6 @@
         "cityName": "白银",
         "areaName": "五合镇万霞大酒店",
         "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "古浪县土门镇台子村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区大什字东北角东大街18号至20号-1（vivo手机中国移动5G店）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区古浪街353号至373号（塞外烤肉城聚银新都店周边）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区古浪街江泰格兰云尚酒店及一楼商铺",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州城区南关西路383至389号（五粮春名门之秀威龙葡萄酒玖号商行周边）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区G312沿线高坝镇牛家花园西街85号至157号（汇通汽配店周边）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区黄羊镇黄羊路79号至101号（宁夏清真马师傅炒面片周边）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州区金沙物流园B区除高风险区以外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武威",
-        "areaName": "凉州市场除高风险区外其他区域",
-        "dangerLevel": 2
       }
     ]
   },
@@ -2990,8 +2935,8 @@
     "comment": "",
     "locationId": 450000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-    "highDangerCount": 340,
-    "midDangerCount": 53,
+    "highDangerCount": 337,
+    "midDangerCount": 58,
     "detectOrgCount": 270,
     "vaccinationOrgCount": 15,
     "cities": [
@@ -3002,8 +2947,8 @@
         "suspectedCount": 0,
         "curedCount": 87,
         "deadCount": 1,
-        "highDangerCount": 339,
-        "midDangerCount": 52,
+        "highDangerCount": 336,
+        "midDangerCount": 57,
         "locationId": 450500,
         "currentConfirmedCountStr": "364",
         "fullCityName": "北海市"
@@ -4564,21 +4509,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "银海区福成镇红镜塘村委大彬斗村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "银海区福成镇红镜塘村委东本塘村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "银海区福成镇红旗村委6队",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "银海区福成镇宁海村委下佳塘村",
         "dangerLevel": 1
       },
@@ -4665,6 +4595,11 @@
       {
         "cityName": "北海",
         "areaName": "银海区银滩镇和平村委上江尾村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "北海",
+        "areaName": "银海区银滩镇和平村委万豪名苑小区",
         "dangerLevel": 1
       },
       {
@@ -4849,12 +4784,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "银海区银滩镇曲湾村委捻塘村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "银海区银滩镇下村村委下村",
+        "areaName": "银海区银滩镇新村社区恒大御景半岛小区",
         "dangerLevel": 1
       },
       {
@@ -5119,6 +5049,21 @@
       },
       {
         "cityName": "北海",
+        "areaName": "银海区福成镇红境塘村委大彬斗村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "银海区福成镇红境塘村委东本塘村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "银海区福成镇红旗村委6队",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
         "areaName": "银海区侨港镇东区1-6栋",
         "dangerLevel": 2
       },
@@ -5153,6 +5098,16 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "北海",
+        "areaName": "银海区银滩镇曲湾村委捻塘村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "银海区银滩镇下村村委下村",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "崇左",
         "areaName": "南兴国际小区除3栋1单元以外的区域",
         "dangerLevel": 2
@@ -5172,8 +5127,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 27,
-    "midDangerCount": 64,
+    "highDangerCount": 26,
+    "midDangerCount": 61,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -5185,7 +5140,7 @@
         "curedCount": 2609,
         "deadCount": 3,
         "highDangerCount": 25,
-        "midDangerCount": 56,
+        "midDangerCount": 53,
         "locationId": 440300,
         "currentConfirmedCountStr": "159",
         "fullCityName": "深圳市"
@@ -5262,7 +5217,7 @@
         "suspectedCount": 0,
         "curedCount": 109,
         "deadCount": 0,
-        "highDangerCount": 2,
+        "highDangerCount": 1,
         "midDangerCount": 2,
         "locationId": 441300,
         "currentConfirmedCountStr": "4",
@@ -5583,16 +5538,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "惠州",
-        "areaName": "新圩镇牧云溪谷四期",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "岸芷汀兰1栋",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "深圳",
         "areaName": "宝安区航城街道后瑞社区瑞发路62号及周边24栋（以实际围合为准）",
         "dangerLevel": 2
@@ -5769,11 +5714,6 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "南山区西丽街道九祥岭工业区（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
         "areaName": "南山区西丽街道科苑新区（除高风险区外）",
         "dangerLevel": 2
       },
@@ -5854,11 +5794,6 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "西丽街道九祥岭村（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
         "areaName": "新雪社区帝利花园、簕杜鹃幼儿园、下雪村后山（除高风险区外）",
         "dangerLevel": 2
       },
@@ -5904,7 +5839,7 @@
       },
       {
         "cityName": "惠州",
-        "areaName": "新圩镇牧云溪谷（高风险区除外）",
+        "areaName": "新圩镇牧云溪谷四期",
         "dangerLevel": 2
       }
     ]
@@ -7127,7 +7062,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 8,
-    "midDangerCount": 58,
+    "midDangerCount": 57,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -7139,7 +7074,7 @@
         "curedCount": 16737,
         "deadCount": 1,
         "highDangerCount": 2,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 310115,
         "currentConfirmedCountStr": "424",
         "fullCityName": "浦东新区"
@@ -7216,8 +7151,8 @@
         "suspectedCount": 0,
         "curedCount": 2282,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 14,
+        "highDangerCount": 0,
+        "midDangerCount": 12,
         "locationId": 310110,
         "currentConfirmedCountStr": "124",
         "fullCityName": "杨浦区"
@@ -7229,8 +7164,8 @@
         "suspectedCount": 0,
         "curedCount": 3068,
         "deadCount": 1,
-        "highDangerCount": 2,
-        "midDangerCount": 27,
+        "highDangerCount": 3,
+        "midDangerCount": 29,
         "locationId": 310113,
         "currentConfirmedCountStr": "80",
         "fullCityName": "宝山区"
@@ -7394,23 +7329,8 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "浦东新区",
-        "areaName": "新场镇申江南路5700号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "周浦镇忘忧路135弄梧桐国际公寓（1-5号）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "普陀区",
-        "areaName": "曹杨新村街道曹杨路710弄",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "普陀区",
-        "areaName": "桃浦镇连亮路111弄",
+        "cityName": "宝山区",
+        "areaName": "罗泾镇潘新路118弄宝通家园西区（7号-115号）",
         "dangerLevel": 1
       },
       {
@@ -7424,8 +7344,23 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道大学路沿街商铺区域及所在楼栋（大学路38-102号、191-265号、242-318号）",
+        "cityName": "普陀区",
+        "areaName": "曹杨新村街道曹杨路710弄",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "普陀区",
+        "areaName": "桃浦镇连亮路111弄",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "新场镇申江南路5700号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "周浦镇忘忧路135弄梧桐国际公寓（1-5号）",
         "dangerLevel": 1
       },
       {
@@ -7455,22 +7390,17 @@
       },
       {
         "cityName": "宝山区",
+        "areaName": "顾村镇沙浦河以北、电台路以东、白荡河路以南、潘泾路以西区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
         "areaName": "高境镇的逸仙路以东、殷高路以南、国权北路以西、三门路以北区域",
         "dangerLevel": 2
       },
       {
         "cityName": "宝山区",
-        "areaName": "高境镇共和新路4703弄（51号-82号、88号-97号、101号-107号）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
         "areaName": "高境镇共和新路4719弄（除惠民公寓）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "高境镇高境路477弄一期B区",
         "dangerLevel": 2
       },
       {
@@ -7495,17 +7425,17 @@
       },
       {
         "cityName": "宝山区",
-        "areaName": "罗店镇美平路745弄美罗家园宝欣苑二村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
         "areaName": "罗店镇赵巷街96弄2-15号",
         "dangerLevel": 2
       },
       {
         "cityName": "宝山区",
         "areaName": "淞南镇江杨南路2058号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "月浦镇四元路以北、德都路以东、马路河以南以西区域",
         "dangerLevel": 2
       },
       {
@@ -7540,17 +7470,27 @@
       },
       {
         "cityName": "宝山区",
+        "areaName": "杨行镇湄浦河以北、富长路以东、杨北路以南、杨宗支路以西区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
         "areaName": "杨行镇蕰川路2226号苏鑫仓库",
         "dangerLevel": 2
       },
       {
         "cityName": "宝山区",
-        "areaName": "杨行镇杨桃路185弄杨泰苑",
+        "areaName": "杨行镇友谊路1528弄1-16号楼，友谊路1538弄1-31号楼，友谊路1558弄1-35号楼，友谊路1568弄1-47号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "宝山区",
-        "areaName": "杨行镇友谊路1528弄1-16号楼，友谊路1538弄1-31号楼，友谊路1558弄1-35号楼，友谊路1568弄1-47号楼",
+        "areaName": "杨行镇友谊路以北、杨泰路以西、庵木港以北、蕰川路以东、友谊路以南、杨盛河以东、盘古路以南、富杨路以西区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "杨行镇友谊西路以北、顾村镇界以东、湄浦河以南、蕰川路以西区域",
         "dangerLevel": 2
       },
       {
@@ -7561,6 +7501,11 @@
       {
         "cityName": "宝山区",
         "areaName": "友谊路街道密山路101号宝山市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "张庙街道共江路以北、共和新路以东、呼玛路以南、爱辉路以西区域",
         "dangerLevel": 2
       },
       {
@@ -7610,22 +7555,12 @@
       },
       {
         "cityName": "杨浦区",
-        "areaName": "控江路街道延吉西路81弄1、2、5号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "杨浦区",
         "areaName": "五角场街道的逸仙路以东、三门路以南、国权北路以西、政立路以北区域",
         "dangerLevel": 2
       },
       {
         "cityName": "杨浦区",
         "areaName": "五角场街道三门路358弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "杨浦区",
-        "areaName": "五角场街道政立路580弄（国定一居委管辖部分）",
         "dangerLevel": 2
       },
       {
@@ -7674,21 +7609,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "浦东新区",
-        "areaName": "川沙新镇心圆西苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "花木街道花木路1883弄御翠园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "浦兴路街道东陆新村五街坊",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "普陀区",
         "areaName": "石泉路街道礼泉路140号甲",
         "dangerLevel": 2
@@ -7721,6 +7641,16 @@
       {
         "cityName": "松江区",
         "areaName": "车墩镇旗亭路518弄松南城嘉隆坊",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "川沙新镇心圆西苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "浦东新区",
+        "areaName": "浦兴路街道东陆新村五街坊",
         "dangerLevel": 2
       }
     ]
@@ -8541,7 +8471,7 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 11,
+    "highDangerCount": 10,
     "midDangerCount": 8,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
@@ -8592,7 +8522,7 @@
         "suspectedCount": 0,
         "curedCount": 28,
         "deadCount": 0,
-        "highDangerCount": 4,
+        "highDangerCount": 3,
         "midDangerCount": 2,
         "locationId": 120103,
         "currentConfirmedCountStr": "11",
@@ -8789,11 +8719,6 @@
       },
       {
         "cityName": "河西区",
-        "areaName": "陈塘庄街世芳园3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "河西区",
         "areaName": "陈塘庄街云山里",
         "dangerLevel": 1
       },
@@ -8849,7 +8774,7 @@
       },
       {
         "cityName": "河西区",
-        "areaName": "陈塘庄街世芳园上述高风险区之外的其他楼门",
+        "areaName": "陈塘庄街世芳园3号楼",
         "dangerLevel": 2
       },
       {
@@ -10464,7 +10389,7 @@
     "locationId": 360000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 20,
+    "midDangerCount": 17,
     "detectOrgCount": 143,
     "vaccinationOrgCount": 4,
     "cities": [
@@ -10476,7 +10401,7 @@
         "curedCount": 469,
         "deadCount": 0,
         "highDangerCount": 6,
-        "midDangerCount": 20,
+        "midDangerCount": 17,
         "locationId": 360100,
         "currentConfirmedCountStr": "12",
         "fullCityName": "南昌市"
@@ -10752,21 +10677,6 @@
       {
         "cityName": "南昌",
         "areaName": "西湖区石头街31号、33号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南昌",
-        "areaName": "西湖区系马桩街道象山南路、孺子路、校厂北路、干家前街合围区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南昌",
-        "areaName": "西湖区系马桩街道应天寺社区、松柏巷社区（省委党校及宿舍区、南昌电信除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南昌",
-        "areaName": "西湖区系马桩社区(系马桩街独立楼院除外)",
         "dangerLevel": 2
       }
     ]
@@ -13073,8 +12983,8 @@
     "comment": "",
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 1,
+    "highDangerCount": 0,
+    "midDangerCount": 2,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -13085,8 +12995,8 @@
         "suspectedCount": 1,
         "curedCount": 25095,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 220100,
         "currentConfirmedCountStr": "127",
         "fullCityName": "长春市"
@@ -13239,12 +13149,12 @@
     "dangerAreas": [
       {
         "cityName": "长春",
-        "areaName": "瑞达世纪铭城（含MD理发店、新世纪超市、玉兰源生鲜超市）",
-        "dangerLevel": 1
+        "areaName": "榆树市繁荣安居",
+        "dangerLevel": 2
       },
       {
         "cityName": "长春",
-        "areaName": "榆树市繁荣安居",
+        "areaName": "榆树市瑞达世纪铭城（含MD理发店、新世纪超市、玉兰源生鲜超市）",
         "dangerLevel": 2
       }
     ]
