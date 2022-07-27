@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 4450327,
-    "confirmedCount": 4472755,
+    "currentConfirmedCount": 4475960,
+    "confirmedCount": 4498416,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 8686,
+    "deadCount": 8714,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -59,15 +59,15 @@
     "cities": [
       {
         "cityName": "兰州",
-        "currentConfirmedCount": 398,
+        "currentConfirmedCount": 362,
         "confirmedCount": 802,
         "suspectedCount": 0,
-        "curedCount": 402,
+        "curedCount": 438,
         "deadCount": 2,
         "highDangerCount": 214,
         "midDangerCount": 152,
         "locationId": 620100,
-        "currentConfirmedCountStr": "398",
+        "currentConfirmedCountStr": "362",
         "fullCityName": "兰州市"
       },
       {
@@ -267,15 +267,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -55,
+        "currentConfirmedCount": -19,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 55,
+        "curedCount": 19,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-55",
+        "currentConfirmedCountStr": "-19",
         "fullCityName": "待明确地区"
       }
     ],
@@ -6722,19 +6722,6 @@
         "fullCityName": "境外输入人员"
       },
       {
-        "cityName": "宁德",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 93,
-        "suspectedCount": 0,
-        "curedCount": 89,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350900,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "宁德市"
-      },
-      {
         "cityName": "厦门",
         "currentConfirmedCount": 1,
         "confirmedCount": 321,
@@ -6746,6 +6733,19 @@
         "locationId": 350200,
         "currentConfirmedCountStr": "1",
         "fullCityName": "厦门市"
+      },
+      {
+        "cityName": "宁德",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 93,
+        "suspectedCount": 0,
+        "curedCount": 92,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350900,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "宁德市"
       },
       {
         "cityName": "泉州",
@@ -6837,19 +6837,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -3,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 3,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-3",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
@@ -11210,7 +11197,7 @@
     "comment": "",
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-    "highDangerCount": 4,
+    "highDangerCount": 6,
     "midDangerCount": 24,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
@@ -11235,7 +11222,7 @@
         "suspectedCount": 0,
         "curedCount": 286,
         "deadCount": 2,
-        "highDangerCount": 1,
+        "highDangerCount": 3,
         "midDangerCount": 2,
         "locationId": 411500,
         "currentConfirmedCountStr": "1",
@@ -11481,6 +11468,21 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "信阳",
+        "areaName": "丽水街道赵园社区九龙大道1号、丽水街道邵洼社区玉安花园小区、宝城街道大园社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "信阳",
+        "areaName": "罗山县丽水街道邵洼社区玉安花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "信阳",
+        "areaName": "罗山县丽水街道赵园社区九龙大道1号",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "开封",
         "areaName": "许河乡张油坊村",
         "dangerLevel": 1
@@ -11493,11 +11495,6 @@
       {
         "cityName": "商丘",
         "areaName": "民权县北关镇安李庄村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "信阳",
-        "areaName": "丽水街道赵园社区九龙大道1号、丽水街道邵洼社区玉安花园小区、宝城街道大园社区",
         "dangerLevel": 1
       },
       {
