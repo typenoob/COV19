@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 4544487,
-    "confirmedCount": 4567122,
+    "currentConfirmedCount": 4565516,
+    "confirmedCount": 4588185,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 8893,
+    "deadCount": 8927,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -52,7 +52,7 @@
     "comment": "",
     "locationId": 450000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-    "highDangerCount": 178,
+    "highDangerCount": 184,
     "midDangerCount": 280,
     "detectOrgCount": 270,
     "vaccinationOrgCount": 15,
@@ -116,7 +116,7 @@
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "highDangerCount": 8,
+        "highDangerCount": 14,
         "midDangerCount": 6,
         "locationId": 451400,
         "currentConfirmedCountStr": "1",
@@ -1102,6 +1102,36 @@
       {
         "cityName": "北海",
         "areaName": "珠海西路以东、滨海以南、民权路以西、中山路以北合围之处",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇和平大道1号、3-8号、10-79号、81-100号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇金牛路1号、3-45号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇马路街1-27号、29-170号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇市场路（含）、福兴路、睦平路、政和路、文化路、边贸路、水井龙1-2巷、香港路",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇云天边贸城",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "爱店镇正街1-126号、二区（正街）127-153号",
         "dangerLevel": 1
       },
       {
@@ -2559,8 +2589,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 210,
-    "midDangerCount": 168,
+    "highDangerCount": 211,
+    "midDangerCount": 175,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -2623,8 +2653,8 @@
         "suspectedCount": 0,
         "curedCount": 23,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 15,
+        "highDangerCount": 4,
+        "midDangerCount": 22,
         "locationId": 620400,
         "currentConfirmedCountStr": "6",
         "fullCityName": "白银市"
@@ -3829,6 +3859,11 @@
       },
       {
         "cityName": "白银",
+        "areaName": "馨园小区及外围商铺",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "白银",
         "areaName": "银光集贸市场（含外围商铺）",
         "dangerLevel": 1
       },
@@ -4529,7 +4564,22 @@
       },
       {
         "cityName": "白银",
+        "areaName": "诚信路以南、新悦路以北、银光路以东500米范围",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "东山路小区南区及红星街101、103、105号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
         "areaName": "电视台家属院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "公园路街道胜利街银光东小区",
         "dangerLevel": 2
       },
       {
@@ -4560,6 +4610,26 @@
       {
         "cityName": "白银",
         "areaName": "名仕家苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "四龙路街道世纪铜城丽园小区105号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "四龙路街道世纪铜城丽园小区158号院（含三冶炼家属院）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "四龙路街道世纪铜城丽园小区160号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "白银",
+        "areaName": "山南小区",
         "dangerLevel": 2
       },
       {
@@ -4699,28 +4769,28 @@
     "cities": [
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 164,
+        "currentConfirmedCount": 151,
         "confirmedCount": 2811,
         "suspectedCount": 3,
-        "curedCount": 2644,
+        "curedCount": 2657,
         "deadCount": 3,
         "highDangerCount": 11,
         "midDangerCount": 27,
         "locationId": 440300,
-        "currentConfirmedCountStr": "164",
+        "currentConfirmedCountStr": "151",
         "fullCityName": "深圳市"
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 89,
+        "currentConfirmedCount": 83,
         "confirmedCount": 3113,
         "suspectedCount": 3,
-        "curedCount": 3023,
+        "curedCount": 3029,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "89",
+        "currentConfirmedCountStr": "83",
         "fullCityName": "广州市"
       },
       {
@@ -4972,15 +5042,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -25,
+        "currentConfirmedCount": -6,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 25,
+        "curedCount": 6,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-25",
+        "currentConfirmedCountStr": "-6",
         "fullCityName": "待明确地区"
       }
     ],
@@ -5217,15 +5287,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 233,
+        "currentConfirmedCount": 225,
         "confirmedCount": 1962,
         "suspectedCount": 0,
-        "curedCount": 1726,
+        "curedCount": 1734,
         "deadCount": 3,
         "highDangerCount": 61,
         "midDangerCount": 80,
         "locationId": 510100,
-        "currentConfirmedCountStr": "233",
+        "currentConfirmedCountStr": "225",
         "fullCityName": "成都市"
       },
       {
@@ -5490,15 +5560,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -94,
+        "currentConfirmedCount": -86,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 94,
+        "curedCount": 86,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-94",
+        "currentConfirmedCountStr": "-86",
         "fullCityName": "待明确地区"
       }
     ],
@@ -6962,7 +7032,7 @@
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
     "highDangerCount": 5,
-    "midDangerCount": 6,
+    "midDangerCount": 8,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -7065,7 +7135,7 @@
         "curedCount": 206,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 2,
+        "midDangerCount": 3,
         "locationId": 120111,
         "currentConfirmedCountStr": "6",
         "fullCityName": "西青区"
@@ -7091,7 +7161,7 @@
         "curedCount": 364,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 120112,
         "currentConfirmedCountStr": "3",
         "fullCityName": "津南区"
@@ -7218,13 +7288,13 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "西青区",
-        "areaName": "中北镇中北工业园生活服务区2号楼2门",
+        "cityName": "津南区",
+        "areaName": "双林街津铁惠苑南区19号楼、22号楼、23号楼",
         "dangerLevel": 1
       },
       {
-        "cityName": "津南区",
-        "areaName": "双林街津铁惠苑南区19号楼、22号楼、23号楼",
+        "cityName": "西青区",
+        "areaName": "中北镇中北工业园生活服务区2号楼2门",
         "dangerLevel": 1
       },
       {
@@ -7249,12 +7319,22 @@
       },
       {
         "cityName": "西青区",
+        "areaName": "中北镇中北工业园生活服务区2号楼1门、5号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西青区",
         "areaName": "中铁十八局宿舍2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "河西区",
         "areaName": "东海街桂江里14、16、18、20、22、24、39、41、43、45、47、49、51、53、55、57、61、63、65、67、69、94、96、98、100门及136门1-5、138门1-3",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "津南区",
+        "areaName": "双林街津铁惠苑南区除19号楼、22号楼、23号楼以外区域",
         "dangerLevel": 2
       }
     ]
@@ -7272,8 +7352,8 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 38,
-    "midDangerCount": 27,
+    "highDangerCount": 51,
+    "midDangerCount": 28,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -7297,8 +7377,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 38,
-        "midDangerCount": 27,
+        "highDangerCount": 51,
+        "midDangerCount": 28,
         "locationId": 371700,
         "currentConfirmedCountStr": "11",
         "fullCityName": "菏泽市"
@@ -7519,12 +7599,67 @@
       },
       {
         "cityName": "菏泽",
+        "areaName": "曹县常乐集镇刘楼村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县大集镇李楼村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇琉璃阁村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇王占乾村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇杨堂村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县磐石街道远东世纪城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县阎店楼镇袁楼村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县阎店楼镇颜庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县郑庄街道孙庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
         "areaName": "东城街道东翼公园印象小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "菏泽",
         "areaName": "单县名仕豪庭2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "高新区马岭岗镇李明远行政村赵桥自然村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "高新区马岭岗镇谢集行政村",
         "dangerLevel": 1
       },
       {
@@ -7619,6 +7754,16 @@
       },
       {
         "cityName": "菏泽",
+        "areaName": "牡丹区西城街道方信嘉和苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "牡丹区西城街道睿鹰嘉园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "菏泽",
         "areaName": "南城街道成阳小区3号楼",
         "dangerLevel": 1
       },
@@ -7690,6 +7835,11 @@
       {
         "cityName": "菏泽",
         "areaName": "曹城镇中学门卫处",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县郑庄街道除高风险区外的其他区域",
         "dangerLevel": 2
       },
       {
@@ -8330,7 +8480,7 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 0,
+    "highDangerCount": 1,
     "midDangerCount": 1,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
@@ -8395,7 +8545,7 @@
         "suspectedCount": 0,
         "curedCount": 82,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 110108,
         "currentConfirmedCountStr": "276",
@@ -8591,6 +8741,11 @@
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "海淀区",
+        "areaName": "曙光街道鲁园上河村小区三区1号楼",
+        "dangerLevel": 1
+      },
       {
         "cityName": "朝阳区",
         "areaName": "六里屯北里6号、7号、12-16号楼及底商",
