@@ -3817,7 +3817,7 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 5,
+    "highDangerCount": 4,
     "midDangerCount": 22,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
@@ -3837,15 +3837,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 92,
+        "currentConfirmedCount": 82,
         "confirmedCount": 3122,
         "suspectedCount": 3,
-        "curedCount": 3029,
+        "curedCount": 3039,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "92",
+        "currentConfirmedCountStr": "82",
         "fullCityName": "广州市"
       },
       {
@@ -3881,7 +3881,7 @@
         "suspectedCount": 0,
         "curedCount": 110,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 1,
         "locationId": 441300,
         "currentConfirmedCountStr": "8",
@@ -4097,15 +4097,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -31,
+        "currentConfirmedCount": -21,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 31,
+        "curedCount": 21,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-31",
+        "currentConfirmedCountStr": "-21",
         "fullCityName": "待明确地区"
       }
     ],
@@ -4128,11 +4128,6 @@
       {
         "cityName": "深圳",
         "areaName": "龙华区民治街道民新社区横岭一区第1至12栋、第13至24栋、第31至36栋、第43至45栋、第53至57栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "惠州",
-        "areaName": "石湾镇一品中央小区、蒸旺小笼包所在及左右两栋居民楼",
         "dangerLevel": 1
       },
       {
@@ -4242,7 +4237,7 @@
       },
       {
         "cityName": "惠州",
-        "areaName": "石湾镇一品中央小区为中心，北至建设中路、南至湖兴路、西至宏明西路中段、东至明月一路(高风险区除外)",
+        "areaName": "石湾镇一品中央全区、蒸旺小笼包所在及左右两栋居民楼（宏明西路37号、41号）",
         "dangerLevel": 2
       }
     ]
@@ -4267,15 +4262,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 234,
+        "currentConfirmedCount": 228,
         "confirmedCount": 1971,
         "suspectedCount": 0,
-        "curedCount": 1734,
+        "curedCount": 1740,
         "deadCount": 3,
         "highDangerCount": 46,
         "midDangerCount": 63,
         "locationId": 510100,
-        "currentConfirmedCountStr": "234",
+        "currentConfirmedCountStr": "228",
         "fullCityName": "成都市"
       },
       {
@@ -4540,15 +4535,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -92,
+        "currentConfirmedCount": -86,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 92,
+        "curedCount": 86,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-92",
+        "currentConfirmedCountStr": "-86",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7113,7 +7108,7 @@
     "comment": "",
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-    "highDangerCount": 28,
+    "highDangerCount": 34,
     "midDangerCount": 25,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
@@ -7178,7 +7173,7 @@
         "suspectedCount": 0,
         "curedCount": 109,
         "deadCount": 3,
-        "highDangerCount": 19,
+        "highDangerCount": 25,
         "midDangerCount": 17,
         "locationId": 411400,
         "notShowCurrentConfirmedCount": true,
@@ -7435,12 +7430,42 @@
       },
       {
         "cityName": "商丘",
+        "areaName": "刘赵庄村委崔楼村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "民权县北关镇官庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "民权县北关镇西村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "民权县绿洲街道办事处程李庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "民权县野岗镇野东村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
         "areaName": "南华街道茶楼村",
         "dangerLevel": 1
       },
       {
         "cityName": "商丘",
         "areaName": "南华街道福税家苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "宁陵县逻岗镇集镇区",
         "dangerLevel": 1
       },
       {
@@ -7530,11 +7555,6 @@
       },
       {
         "cityName": "商丘",
-        "areaName": "北关镇官庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "商丘",
         "areaName": "北关镇镇区",
         "dangerLevel": 2
       },
@@ -7576,6 +7596,11 @@
       {
         "cityName": "商丘",
         "areaName": "崇法寺街道中山街二院东侧路南水煎包店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "除逻岗镇集镇区、刘赵庄村委崔楼村以外逻岗镇其他地区",
         "dangerLevel": 2
       },
       {
