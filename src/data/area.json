@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 4652304,
-    "confirmedCount": 4675128,
+    "currentConfirmedCount": 4674091,
+    "confirmedCount": 4696969,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 9082,
+    "deadCount": 9136,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -2756,15 +2756,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 234,
+        "currentConfirmedCount": 228,
         "confirmedCount": 1995,
         "suspectedCount": 0,
-        "curedCount": 1758,
+        "curedCount": 1764,
         "deadCount": 3,
         "highDangerCount": 23,
         "midDangerCount": 32,
         "locationId": 510100,
-        "currentConfirmedCountStr": "234",
+        "currentConfirmedCountStr": "228",
         "fullCityName": "成都市"
       },
       {
@@ -3029,15 +3029,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -99,
+        "currentConfirmedCount": -93,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 99,
+        "curedCount": 93,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-99",
+        "currentConfirmedCountStr": "-93",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3342,8 +3342,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 2,
-    "midDangerCount": 5,
+    "highDangerCount": 5,
+    "midDangerCount": 7,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -3432,8 +3432,8 @@
         "suspectedCount": 2,
         "curedCount": 142,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 440800,
         "currentConfirmedCountStr": "1",
         "fullCityName": "湛江市"
@@ -3623,6 +3623,21 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "湛江",
+        "areaName": "北和镇何王林宅村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "北和镇刘张村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "雷州市北和镇何王村",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "深圳",
         "areaName": "福田区沙头街道沙尾西村第40-41栋、第246栋、第248-249栋、第255栋、第256-257栋、第258栋-260栋",
         "dangerLevel": 1
@@ -3656,6 +3671,16 @@
         "cityName": "深圳",
         "areaName": "西丽街道九祥岭村西区第13、14A、14B、15、16、17栋，九祥岭村东区第89、90、91、97、98、99栋",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "雷州市北和镇圩",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "雷州市从北康公路与新盐公路交叉点起，沿新盐公路向南，至新盐公路与南边黄公路交叉点处向东南经龙头上村东北至新港村东为界，以西区域划定为中风险区域(除高风险地区以外)",
+        "dangerLevel": 2
       }
     ]
   },
@@ -3672,22 +3697,22 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 27,
-    "midDangerCount": 167,
+    "highDangerCount": 28,
+    "midDangerCount": 200,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
       {
         "cityName": "兰州",
-        "currentConfirmedCount": 300,
+        "currentConfirmedCount": 263,
         "confirmedCount": 860,
         "suspectedCount": 0,
-        "curedCount": 558,
+        "curedCount": 595,
         "deadCount": 2,
         "highDangerCount": 10,
         "midDangerCount": 31,
         "locationId": 620100,
-        "currentConfirmedCountStr": "300",
+        "currentConfirmedCountStr": "263",
         "fullCityName": "兰州市"
       },
       {
@@ -3697,8 +3722,8 @@
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "highDangerCount": 9,
-        "midDangerCount": 64,
+        "highDangerCount": 10,
+        "midDangerCount": 97,
         "locationId": 622900,
         "currentConfirmedCountStr": "79",
         "fullCityName": "临夏回族自治州"
@@ -3887,15 +3912,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -261,
+        "currentConfirmedCount": -224,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 261,
+        "curedCount": 224,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-261",
+        "currentConfirmedCountStr": "-224",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3967,11 +3992,6 @@
       },
       {
         "cityName": "临夏",
-        "areaName": "广河县祁家集镇祁家集村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "临夏",
         "areaName": "广河县祁家集镇寺后子村",
         "dangerLevel": 1
       },
@@ -3992,7 +4012,17 @@
       },
       {
         "cityName": "临夏",
+        "areaName": "广河县三甲集镇东关村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
         "areaName": "广河县三甲集镇水家村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "广河县三甲集镇沙家村",
         "dangerLevel": 1
       },
       {
@@ -4112,7 +4142,42 @@
       },
       {
         "cityName": "临夏",
-        "areaName": "东乡族自治县果园镇李坪村、娄子村、奴拉芒村、石拉泉村、石山村、王山村、杨王家村、宗罗村",
+        "areaName": "东乡族自治县果园镇李坪村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇娄子村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇奴拉芒村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇石拉泉村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇石山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇王山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇杨王家村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县果园镇宗罗村",
         "dangerLevel": 2
       },
       {
@@ -4127,7 +4192,72 @@
       },
       {
         "cityName": "临夏",
-        "areaName": "东乡族自治县那勒寺镇和和土村、杨家沟村、上哈力村、李牙村、达板空村、三甲村、福康社区、祖祖村、黄牟家村、大树村、黑庄村、那勒寺社区",
+        "areaName": "东乡族自治县李牙村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县苜叶村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县南关村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇达板空村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇大树村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇福康社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇和和土村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇黄牟家村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇黑庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇那勒寺社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇上哈力村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇三甲村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇杨家沟村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县那勒寺镇祖祖村",
         "dangerLevel": 2
       },
       {
@@ -4143,6 +4273,16 @@
       {
         "cityName": "临夏",
         "areaName": "东乡族自治县坪庄乡五麦寺村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县锁南镇巴苏池村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县锁南镇八牙村",
         "dangerLevel": 2
       },
       {
@@ -4202,17 +4342,72 @@
       },
       {
         "cityName": "临夏",
+        "areaName": "东乡族自治县锁南镇伊哈池村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
         "areaName": "东乡族自治县锁南镇亚舟国际饭店",
         "dangerLevel": 2
       },
       {
         "cityName": "临夏",
-        "areaName": "东乡族自治县五家乡卡家村、马阴村、牛沟村、奴土坪村、上庄村、塔户村、五家沟村",
+        "areaName": "东乡族自治县五家乡卡家村",
         "dangerLevel": 2
       },
       {
         "cityName": "临夏",
-        "areaName": "东乡族自治县赵家石头沟村、墙头村、克什间村、白家村、甘土沟村",
+        "areaName": "东乡族自治县五家乡马阴村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县五家乡牛沟村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县五家乡奴土坪村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县五家乡上庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县五家乡塔户村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县五家乡五家沟村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县赵家乡白家村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县赵家乡甘土沟村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县赵家乡克什间村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县赵家乡墙头村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临夏",
+        "areaName": "东乡族自治县赵家乡石头沟村",
         "dangerLevel": 2
       },
       {
@@ -4885,8 +5080,8 @@
     "comment": "",
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
-    "highDangerCount": 60,
-    "midDangerCount": 44,
+    "highDangerCount": 65,
+    "midDangerCount": 48,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -4949,8 +5144,8 @@
         "suspectedCount": 0,
         "curedCount": 10,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 5,
+        "midDangerCount": 4,
         "locationId": 469028,
         "currentConfirmedCountStr": "4",
         "fullCityName": "陵水黎族自治县"
@@ -5387,6 +5582,31 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "陵水",
+        "areaName": "黎安镇黎安村二队吴某颖家",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "黎安镇黎安村五队李某芳家",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "新村镇新村港周某六家渔排",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "新村镇中心渔港码头",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "英州镇英榆大道北侧市场监督管理所对面汪某云家",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "东方",
         "areaName": "四更镇四更新村九路二巷5号、庄某史私宅、吉某雄私宅、吴某私宅等4户",
         "dangerLevel": 1
@@ -5619,6 +5839,26 @@
       {
         "cityName": "临高",
         "areaName": "新盈镇头咀村第3队黄家巷以北，第2队2横巷以南，安头路以西，集市路以东",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "黎安镇黎安村二队",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "黎安镇黎安村五队",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "新村镇革命路(水产路到解放路路段)的渔民区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "陵水",
+        "areaName": "英州镇英榆大道北侧市场监督管理所对面汪某云家周围13户家庭(东至英州卫生院、南至陈容家、西至吴钟和家、北至雅昊公司员工宿舍)",
         "dangerLevel": 2
       },
       {
