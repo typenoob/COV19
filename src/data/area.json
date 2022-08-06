@@ -1851,7 +1851,7 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 5,
+    "highDangerCount": 6,
     "midDangerCount": 8,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
@@ -1864,7 +1864,7 @@
         "curedCount": 2774,
         "deadCount": 3,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 440300,
         "currentConfirmedCountStr": "100",
         "fullCityName": "深圳市"
@@ -1915,8 +1915,8 @@
         "suspectedCount": 2,
         "curedCount": 142,
         "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 4,
+        "highDangerCount": 6,
+        "midDangerCount": 5,
         "locationId": 440800,
         "currentConfirmedCountStr": "9",
         "fullCityName": "湛江市"
@@ -2171,6 +2171,11 @@
       },
       {
         "cityName": "湛江",
+        "areaName": "万科苑第16栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
         "areaName": "北和镇全域",
         "dangerLevel": 2
       },
@@ -2190,6 +2195,11 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "湛江",
+        "areaName": "万科苑除第16栋之外的其余区域",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "深圳",
         "areaName": "黄贝街道芳春花园1栋",
         "dangerLevel": 2
@@ -2197,11 +2207,6 @@
       {
         "cityName": "深圳",
         "areaName": "沙头街道沙尾西村第40-41栋、第246栋、第248-249栋、第255栋、第256-257栋、第258栋-260栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "西丽街道九祥岭村西区第13、14A、14B、15、16、17栋，九祥岭村东区第89、90、91、97、98、99栋",
         "dangerLevel": 2
       },
       {
@@ -10941,7 +10946,7 @@
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
     "highDangerCount": 4,
-    "midDangerCount": 11,
+    "midDangerCount": 10,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -10979,7 +10984,7 @@
         "curedCount": 14111,
         "deadCount": 3,
         "highDangerCount": 4,
-        "midDangerCount": 11,
+        "midDangerCount": 10,
         "locationId": 220200,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -11106,17 +11111,17 @@
     "dangerAreas": [
       {
         "cityName": "吉林市",
+        "areaName": "船营区解放中路苏菲亚婚纱摄影",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "吉林市",
         "areaName": "昌邑区润达冷库",
         "dangerLevel": 1
       },
       {
         "cityName": "吉林市",
-        "areaName": "昌邑区万达江畔华城D区1号楼、2号楼、4号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "昌邑区万达江畔华城D区3号楼",
+        "areaName": "昌邑区万达江畔华城D",
         "dangerLevel": 1
       },
       {
@@ -11137,11 +11142,6 @@
       {
         "cityName": "吉林市",
         "areaName": "昌邑区鸿洋洗浴温泉汗蒸馆（哈达湾附近）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "昌邑区解放中路苏菲亚婚纱摄影",
         "dangerLevel": 2
       },
       {
