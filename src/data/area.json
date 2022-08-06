@@ -52,8 +52,8 @@
     "comment": "",
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
-    "highDangerCount": 128,
-    "midDangerCount": 85,
+    "highDangerCount": 129,
+    "midDangerCount": 86,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -220,8 +220,8 @@
         "suspectedCount": 0,
         "curedCount": 10,
         "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 469002,
         "currentConfirmedCountStr": "0",
         "fullCityName": "琼海市"
@@ -934,6 +934,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "琼海",
+        "areaName": "大路镇美容村委会老村",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "三亚",
         "areaName": "吉阳区港门村东一路二巷",
         "dangerLevel": 2
@@ -1357,6 +1362,11 @@
         "cityName": "儋州",
         "areaName": "白马井镇禾能村委会区域",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "琼海",
+        "areaName": "嘉积镇莲香园餐饮店",
+        "dangerLevel": 2
       }
     ]
   },
@@ -1380,15 +1390,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 233,
+        "currentConfirmedCount": 222,
         "confirmedCount": 2000,
         "suspectedCount": 0,
-        "curedCount": 1764,
+        "curedCount": 1775,
         "deadCount": 3,
         "highDangerCount": 7,
         "midDangerCount": 24,
         "locationId": 510100,
-        "currentConfirmedCountStr": "233",
+        "currentConfirmedCountStr": "222",
         "fullCityName": "成都市"
       },
       {
@@ -1653,15 +1663,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -105,
+        "currentConfirmedCount": -94,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 105,
+        "curedCount": 94,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-105",
+        "currentConfirmedCountStr": "-94",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1848,28 +1858,28 @@
     "cities": [
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 133,
+        "currentConfirmedCount": 100,
         "confirmedCount": 2877,
         "suspectedCount": 3,
-        "curedCount": 2741,
+        "curedCount": 2774,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 440300,
-        "currentConfirmedCountStr": "133",
+        "currentConfirmedCountStr": "100",
         "fullCityName": "深圳市"
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 81,
+        "currentConfirmedCount": 72,
         "confirmedCount": 3153,
         "suspectedCount": 3,
-        "curedCount": 3071,
+        "curedCount": 3080,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "81",
+        "currentConfirmedCountStr": "72",
         "fullCityName": "广州市"
       },
       {
@@ -2121,15 +2131,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -44,
+        "currentConfirmedCount": -2,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 44,
+        "curedCount": 2,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-44",
+        "currentConfirmedCountStr": "-2",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7097,8 +7107,8 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 60,
-    "midDangerCount": 30,
+    "highDangerCount": 50,
+    "midDangerCount": 40,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -7122,8 +7132,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 60,
-        "midDangerCount": 30,
+        "highDangerCount": 50,
+        "midDangerCount": 40,
         "locationId": 371700,
         "currentConfirmedCountStr": "17",
         "fullCityName": "菏泽市"
@@ -7344,11 +7354,6 @@
       },
       {
         "cityName": "菏泽",
-        "areaName": "曹县韩集镇周庙村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
         "areaName": "曹县韩集镇郑庄村",
         "dangerLevel": 1
       },
@@ -7370,11 +7375,6 @@
       {
         "cityName": "菏泽",
         "areaName": "曹县楼庄镇葛徐庄村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
-        "areaName": "曹县楼庄镇耿庄村",
         "dangerLevel": 1
       },
       {
@@ -7434,16 +7434,6 @@
       },
       {
         "cityName": "菏泽",
-        "areaName": "曹县楼庄镇王楼村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
-        "areaName": "曹县楼庄镇万隆小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
         "areaName": "曹县楼庄镇王少堂村",
         "dangerLevel": 1
       },
@@ -7474,11 +7464,6 @@
       },
       {
         "cityName": "菏泽",
-        "areaName": "曹县楼庄镇忠义寨村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
         "areaName": "曹县楼庄镇赵庄村",
         "dangerLevel": 1
       },
@@ -7489,17 +7474,7 @@
       },
       {
         "cityName": "菏泽",
-        "areaName": "曹县倪集镇石河村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
         "areaName": "曹县普连集镇李楼寨",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
-        "areaName": "曹县普连集镇钟口村",
         "dangerLevel": 1
       },
       {
@@ -7524,27 +7499,12 @@
       },
       {
         "cityName": "菏泽",
-        "areaName": "曹县青岗集镇张大庙村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
         "areaName": "曹县青菏街道环岛花园小区",
         "dangerLevel": 1
       },
       {
         "cityName": "菏泽",
         "areaName": "曹县青菏街道新都帝景小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
-        "areaName": "曹县青菏街道阳光城市小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "菏泽",
-        "areaName": "曹县魏湾镇崔庞庄村",
         "dangerLevel": 1
       },
       {
@@ -7654,7 +7614,42 @@
       },
       {
         "cityName": "菏泽",
+        "areaName": "曹县韩集镇周庙村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
         "areaName": "曹县楼庄镇除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇耿庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇王楼村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇万隆小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县楼庄镇忠义寨村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县倪集镇石河村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县普连集镇钟口村",
         "dangerLevel": 2
       },
       {
@@ -7669,12 +7664,27 @@
       },
       {
         "cityName": "菏泽",
+        "areaName": "曹县青岗集镇张大庙村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县青菏街道阳光城市小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
         "areaName": "曹县王集镇丁庄村",
         "dangerLevel": 2
       },
       {
         "cityName": "菏泽",
         "areaName": "曹县王集镇李庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "菏泽",
+        "areaName": "曹县魏湾镇崔庞庄村",
         "dangerLevel": 2
       },
       {
@@ -9167,8 +9177,8 @@
     "comment": "",
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-    "highDangerCount": 37,
-    "midDangerCount": 27,
+    "highDangerCount": 38,
+    "midDangerCount": 28,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
     "cities": [
@@ -9246,8 +9256,8 @@
         "suspectedCount": 0,
         "curedCount": 110,
         "deadCount": 3,
-        "highDangerCount": 35,
-        "midDangerCount": 20,
+        "highDangerCount": 36,
+        "midDangerCount": 21,
         "locationId": 411400,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -9529,6 +9539,11 @@
       },
       {
         "cityName": "商丘",
+        "areaName": "梁园区观堂镇观堂村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "商丘",
         "areaName": "刘赵庄村委崔楼村",
         "dangerLevel": 1
       },
@@ -9695,6 +9710,11 @@
       {
         "cityName": "商丘",
         "areaName": "老颜集乡张辛庄村张柳庄自然村以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "商丘",
+        "areaName": "梁园区观堂镇阮庄村、刘楼村、刘庄村、郝庄村、盛周庄",
         "dangerLevel": 2
       },
       {
