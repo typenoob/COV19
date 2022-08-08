@@ -2293,8 +2293,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 11,
-    "midDangerCount": 13,
+    "highDangerCount": 15,
+    "midDangerCount": 16,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -2331,8 +2331,8 @@
         "suspectedCount": 2,
         "curedCount": 142,
         "deadCount": 0,
-        "highDangerCount": 6,
-        "midDangerCount": 4,
+        "highDangerCount": 10,
+        "midDangerCount": 7,
         "locationId": 440800,
         "currentConfirmedCountStr": "38",
         "fullCityName": "湛江市"
@@ -2617,6 +2617,26 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "湛江",
+        "areaName": "徐闻县同发花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "湛江经济技术开发区乐华街道古色假日酒店及周边2幢房屋区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "湛江经济技术开发区乐华街道海滨新村4巷12幢及周边9幢房屋区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "湛江经济技术开发区乐华街道海滨新村光头佬小卖部及周边6幢房屋区域",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "茂名",
         "areaName": "鳌头镇文蓬众品狗肉食庄",
         "dangerLevel": 1
@@ -2648,6 +2668,11 @@
       },
       {
         "cityName": "湛江",
+        "areaName": "从北至汇泉盛景，南至705厂，东至南海学校，西至湛江经济技术开发区第一中学空地为界",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
         "areaName": "雷州市龙门镇圩",
         "dangerLevel": 2
       },
@@ -2658,7 +2683,17 @@
       },
       {
         "cityName": "湛江",
+        "areaName": "同发花园小区北至徐海路，西至合山南路，南至同发花园小区围墙外8米处，东至同发花园小区围墙外30米处",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
         "areaName": "万科苑除第16栋之外的其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "湛江",
+        "areaName": "湛江经济技术开发区乐华街道海滨新村",
         "dangerLevel": 2
       },
       {
@@ -3285,8 +3320,8 @@
     "comment": "",
     "locationId": 450000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-    "highDangerCount": 82,
-    "midDangerCount": 333,
+    "highDangerCount": 50,
+    "midDangerCount": 222,
     "detectOrgCount": 270,
     "vaccinationOrgCount": 15,
     "cities": [
@@ -3297,8 +3332,8 @@
         "suspectedCount": 0,
         "curedCount": 499,
         "deadCount": 1,
-        "highDangerCount": 65,
-        "midDangerCount": 320,
+        "highDangerCount": 33,
+        "midDangerCount": 209,
         "locationId": 450500,
         "currentConfirmedCountStr": "95",
         "fullCityName": "北海市"
@@ -3489,47 +3524,12 @@
     "dangerAreas": [
       {
         "cityName": "北海",
-        "areaName": "海城区北海大道以南、重庆路以北、湖南路以西、山湖海小区以东合围区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道北部湾东路社区成泰小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道北部湾东社区谭屋村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道茶亭路社区金宝小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区东街街道大囊7巷",
         "dangerLevel": 1
       },
       {
         "cityName": "北海",
         "areaName": "海城区东街街道湖南路锦绣花园E栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区铜鼓里西区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区大囊村(调整整个大囊村为)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区深圳路教育里一至三巷",
         "dangerLevel": 1
       },
       {
@@ -3554,16 +3554,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道高农村安盛花园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高农村委会高德新街南",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道开江村委会",
         "dangerLevel": 1
       },
@@ -3574,27 +3564,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会东峰国际公寓",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道马栏村委会马栏四队黄某某家",
         "dangerLevel": 1
       },
       {
         "cityName": "北海",
-        "areaName": "海城区海角街道北部湾西路社区海运宿舍",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区海角街道独树根144号左右各5间房",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区民生路以东、滨海路以南、民权路以西、珠海中海以北合围区域",
         "dangerLevel": 1
       },
       {
@@ -3609,62 +3584,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区西街街道云南南路社区贵州路石化小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区白屋新村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区云南路西建小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区云南路综合市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道陈文村南路以东、深港路以南、广东路以西、重庆路以北合围区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道湖海路社区湖海中路一巷1号至5号",
         "dangerLevel": 1
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区铜鼓新村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西边垌社区旺盛家园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道西塘北京路金葵星园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区京泰路都市人家小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区深港花园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区苏屋小区、海合小区",
         "dangerLevel": 1
       },
       {
@@ -3680,11 +3605,6 @@
       {
         "cityName": "北海",
         "areaName": "海城区驿马街道驿马村委会牛角塘二区3巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道驿马村委会驿马村、驿马新村",
         "dangerLevel": 1
       },
       {
@@ -3709,36 +3629,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道公园路社区公园路43号、45号、47号(由原公园路42至45号调整)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道南珠路社区公园路3号教育局住宅区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道南珠路社区海城区长青东路西一至十六巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道文明南路以东、解放路以西、中山路以南、和平路和海城区三小以北合围处",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道新安街以东、中山路以南、朝阳街以西及以北合围区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道幸福里社区菜园里一巷至三巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道幸福里社区担水巷51号二楼",
         "dangerLevel": 1
       },
@@ -3754,27 +3644,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道幸福里社区新源文明苑",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道中山路社区朝阳街锦源大楼",
         "dangerLevel": 1
       },
       {
         "cityName": "北海",
         "areaName": "湖南路以东、海南路以南、上海路以西、银屋西里以北、庞屋路以东、湖海路以北合围区范围",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "华声公寓",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北海",
-        "areaName": "瑞海花园、桐洋新城",
         "dangerLevel": 1
       },
       {
@@ -3914,27 +3789,17 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区北海大道以北、上海路以东、河南路以西、规划湖海路以南合围区域中除银祥公寓、银海区政府集资小区以外部分",
+        "areaName": "海城区东街街道北部湾东社区成泰小区",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区北海大道以东，新竹路以南，向海大道以北，银海区与海城区行政界线以西，合围之处",
+        "areaName": "海城区东街街道北部湾东社区谭屋村",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区北海大道以西，昆明路以南，北部湾西路以南，成都路以南，与海景大道合围之处(除新营社区朱屋村)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道北部湾东路社区湖南路82号良基雅苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道北部湾东路社区计生委宿舍",
+        "areaName": "海城区东街街道北部湾东社区谭屋村1巷27号",
         "dangerLevel": 2
       },
       {
@@ -3944,12 +3809,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区东街街道茶亭路社区北部湾东路向东里小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道茶亭路社区广东路一号亿海澜泊湾小区",
+        "areaName": "海城区东街街道茶亭路社区金宝小区",
         "dangerLevel": 2
       },
       {
@@ -3964,7 +3824,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区东街街道湖海路社区居委会吉兴花园1栋",
+        "areaName": "海城区东街街道海南路谭屋小区4巷16号",
         "dangerLevel": 2
       },
       {
@@ -3979,22 +3839,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区地角街道昆明路社区成都路2号永昶宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区地角街道昆明路社区地角共和一路中区、西区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区地角街道昆明路社区地角群和大村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区地角街道昆明路社区地角沙坡一巷18-20号",
         "dangerLevel": 2
       },
       {
@@ -4014,37 +3859,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区地角街道昆明路社区听海一品",
+        "areaName": "海城区东街街道南珠东社区华声公寓",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区东街街道上海路30号海宁新区12栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区东海市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区广西海洋研究所宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区工行宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区海洋小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道铜鼓里社区土地局宿舍",
         "dangerLevel": 2
       },
       {
@@ -4079,32 +3899,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区地角街道新营社区王屋村",
+        "areaName": "海城区东街街道政法路社区大囊村",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区东街街道政法路社区妇幼保健院宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区广东路75号农机局宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区海南路金元小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区深圳西里一巷前后各三个巷子",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道政法路社区天立国际",
         "dangerLevel": 2
       },
       {
@@ -4115,11 +3915,6 @@
       {
         "cityName": "北海",
         "areaName": "海城区东街街道张屋村2区3巷9号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区东街街道振业小区4栋",
         "dangerLevel": 2
       },
       {
@@ -4135,11 +3930,6 @@
       {
         "cityName": "北海",
         "areaName": "海城区高德街道东峰富苑5栋2单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道东郡小区南围墙西南20米瓦房",
         "dangerLevel": 2
       },
       {
@@ -4174,42 +3964,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道高菜村委会回建区一期C106-108号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高菜村雁北花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高菜村育才里",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高德一居社区高德五街19至21号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道高农村北部湾东路92号东盛美景小区",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道高农村东背岭小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高农村高德路51至52号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道高农村委会东方之珠小区",
+        "areaName": "海城区高德街道高农村委会安盛花园、新街南",
         "dangerLevel": 2
       },
       {
@@ -4224,47 +3984,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道海语城小区6栋、11栋、17栋、19栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道吉林路社区北海大道同和泊湾27栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道吉林路社区工业园区科龙路经十路26号北海海利舵导航仪器有限公司",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道开江村委会143号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道开江村委会海江南",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道开江村委会南珠大道小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道开江村委会屋仔村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道开江村委会向海大道蔡屋村16号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道开江村亚叉岭村",
         "dangerLevel": 2
       },
       {
@@ -4279,12 +3999,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道马栏村老吉车村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会北海大道东华美公寓",
+        "areaName": "海城区高德街道马栏村东峰国际公寓2栋1单元",
         "dangerLevel": 2
       },
       {
@@ -4294,27 +4009,12 @@
       },
       {
         "cityName": "北海",
+        "areaName": "海城区高德街道马栏村委会东峰国际公寓",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
         "areaName": "海城区高德街道马栏村委会东峰锦绣城",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会海纳百川小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会猛鸡特村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会马栏村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道马栏村委会尚源东城和谐苑",
         "dangerLevel": 2
       },
       {
@@ -4339,26 +4039,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道庙山社区、沙脚社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道上海北路社区茶亭路勒棚村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道上海北路社区高德西里",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道上海北路社区海湾新城",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道上海路包屋东1巷14到15号，2巷6到7号",
         "dangerLevel": 2
       },
@@ -4369,17 +4049,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区高德街道上海中路社区上海路香槟郡",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区高德街道上海中路社区星海名城一期、二期、三期",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区高德街道上海中路社区徐屋东二区",
         "dangerLevel": 2
       },
       {
@@ -4399,7 +4069,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区海岸线以南，上海路以东，北部湾路以北，茶亭路以北，德利海北海北边围墙以西，合围之处",
+        "areaName": "海城区海角街道北部湾西路社区海运宿舍",
         "dangerLevel": 2
       },
       {
@@ -4409,62 +4079,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区海角街道北部湾西社区居委会三中东里1至12栋",
+        "areaName": "海城区海角街道北部湾西社区居委会三中东里12栋",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区海角街道北部湾西社区三中东里2栋、4栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道独树根东社区变电南七至九巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道独树根东社区丽珠小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道独树根西社区海城区海角路167号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道独树根西社区云南路独树根西五巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道海角大道社区海角路云海小区3栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道前进路社区金海湾小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道前进路社区南万路74号左右临街两旁街道各10间",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道前进路社区四川北路海洋宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道前进路社区四川北路天赐碧园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区海角街道前进路社区渔轮厂宿舍",
         "dangerLevel": 2
       },
       {
@@ -4484,11 +4104,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区海角街道外沙社区外沙二至四巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区海角街道外沙社区外沙五巷",
         "dangerLevel": 2
       },
@@ -4499,37 +4114,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区海角路以南，贵州路以西，北部湾路以北，独树根东路以东，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区湖南路以东、北部湾东路以南、上海路以西、湖海路以北、庞屋路以东、银屋西里以北合围区域",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区湖南路以东、湖海路以南、庞屋路以西、银屋西里以南、上海路以西、北海大道以北合围区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区民生路以东、珠海中路以南、民权路以西、中山路以北合围区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区南珠大道以西，北部湾路以南，河南路以东，湖海路以北，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区南珠大道以西，北海大道以南，西南大道以南，河南路以东，上海路以东，铁路以北，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区四川路以东，重庆路以北，北京路以西，北海大道以南，合围之处",
         "dangerLevel": 2
       },
       {
@@ -4549,61 +4139,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区向海大道以南，北海大道以西，平阳路以北，排水洪渠以东，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区向海大道以南，高德路以西，海岸线以东，高德三街以北，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区向海大道以南，海城区与银海区行政界线以西，规划天津路以北，北海大道以东，合围之处",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道广场西里社区贵州路南方大厦",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道广场西里社区中兴花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道贵州南路社区电视台宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道贵州南路社区屋仔村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区北海大道207号二建生活区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区便民市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区重庆路西2号渝鑫小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区贵州南路49号五建宿舍区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区西街街道平安街社区恒大新城",
         "dangerLevel": 2
       },
@@ -4614,22 +4149,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区平安街",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区四川路渔业公司宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区西街街道平安街社区沈四村五金花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道平安街社区烟花炮竹厂宿舍区",
         "dangerLevel": 2
       },
       {
@@ -4639,27 +4159,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区西街街道西藏路社区新开泰小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道西藏路社区西藏路德黔花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道西藏路社区云藏路蓝海尚城",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道云南南路社区新怡花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区西街街道云南南路社区油行村一至六巷",
+        "areaName": "海城区西街街道云南南路社区贵州路50号石化小区",
         "dangerLevel": 2
       },
       {
@@ -4679,37 +4179,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区第十五小学住宅小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区东亚村",
+        "areaName": "海城区驿马街道白屋社区白屋新村",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区驿马街道白屋社区格林香海(除华林居5栋、怡海轩2A外)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区贵州路唐屋村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区海御新天地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区景福花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区金元小区",
         "dangerLevel": 2
       },
       {
@@ -4724,27 +4199,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区万和路穗清苑、万和园小区",
+        "areaName": "海城区驿马街道白屋社区云南路西建小区",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区云南路福利花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区云南路外运公司宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区站前路国际新城",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道白屋社区站前路格林香海",
+        "areaName": "海城区驿马街道白屋社区云南路综合市场",
         "dangerLevel": 2
       },
       {
@@ -4754,12 +4214,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道重庆路与湖南路交汇处逢时商场花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道重庆路以南、上海路以西、西南大道以北、湖南路以东合围区域中除中安止泊园以外部分",
+        "areaName": "海城区驿马街道陈文村南路以东、深港路以南、广州路以西、重庆路以北合围区域",
         "dangerLevel": 2
       },
       {
@@ -4779,11 +4234,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区湖海路玫瑰花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道湖海路社区湖海中路33号、35号、37号、39号、41号、43号、45号、47号",
         "dangerLevel": 2
       },
@@ -4799,22 +4249,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区深圳路60号铜鼓新苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区铜鼓岭东区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区铜鼓岭五巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道湖海路社区翟屋村",
+        "areaName": "海城区驿马街道湖海路社区铜鼓新村",
         "dangerLevel": 2
       },
       {
@@ -4824,7 +4259,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道金湾银畔2栋",
+        "areaName": "海城区驿马街道红路岭、塘仔新村",
         "dangerLevel": 2
       },
       {
@@ -4849,22 +4284,17 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西边垌村建材街山湖海上城",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道西边垌村委会鼎鑫小区D栋",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西边垌村委会和世盛都",
+        "areaName": "海城区驿马街道西边垌村委会瑞海花园",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西边垌村银海公安局宿舍",
+        "areaName": "海城区驿马街道西边垌村旺盛家园",
         "dangerLevel": 2
       },
       {
@@ -4889,11 +4319,6 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区北海水果市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道西塘社区北京路川南明珠小区",
         "dangerLevel": 2
       },
@@ -4914,42 +4339,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区创基花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区陈文村北路天成公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区陈文村路6至8号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道西塘社区陈文村南路集资楼",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区陈文村南路雅馨苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区广东南路鸿鹏花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区海商大厦",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区京泰路华杰春秋源、泰盛花园",
+        "areaName": "海城区驿马街道西塘社区京泰路都市人家小区",
         "dangerLevel": 2
       },
       {
@@ -4959,32 +4354,22 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区明苑花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区南洋新都",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区强国路文莉园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道西塘社区四川路居安里中国人民银行宿舍",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区十二间屋新区",
+        "areaName": "海城区驿马街道西塘社区深港花园",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区驿马街道西塘社区深港路十二间屋6巷、7巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "海城区驿马街道西塘社区苏屋小区、海合小区",
         "dangerLevel": 2
       },
       {
@@ -4999,27 +4384,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区站前路星海颐园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道西塘社区中央华府",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区驿马街道驿海路八巷5号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道怡海新村社区四川路93号秋实公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道怡海新村社区时代西里",
         "dangerLevel": 2
       },
       {
@@ -5029,7 +4394,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道驿马村委会广东南路方正花园",
+        "areaName": "海城区驿马街道驿马村委会和世盛都、瑞海花园、桐洋新城",
         "dangerLevel": 2
       },
       {
@@ -5039,32 +4404,22 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道驿马村委会三塘村",
+        "areaName": "海城区驿马街道驿马村委会西南大道桐洋新城19栋",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道银湾社区保安小区",
+        "areaName": "海城区驿马街道驿马村委会西南大道桐洋新城5栋",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区驿马街道银湾社区成都路经济适用房住宅小区",
+        "areaName": "海城区驿马街道驿马村委会驿马村、驿马新村",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
         "areaName": "海城区驿马街道银湾社区大益花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道银湾社区海天花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区驿马街道银湾社区星悦蓝湾小区",
         "dangerLevel": 2
       },
       {
@@ -5099,27 +4454,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区云南南路社区银湾花园漓江苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道北部湾社区广东路民政宿舍楼（八中以北）",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道北部湾社区广东路油行村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道北部湾社区公园路18号昌龙苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道北部湾社区气象小区",
         "dangerLevel": 2
       },
       {
@@ -5144,27 +4484,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道广场东里社区国信宿舍区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道广场东里社区和安商都住宅区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道广场东里社区教育住宅小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道光明里一巷27、29、31号",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道公园路社区公园路水产局宿舍",
+        "areaName": "海城区中街街道公园路社区公园路43号、45、47号",
         "dangerLevel": 2
       },
       {
@@ -5189,6 +4514,16 @@
       },
       {
         "cityName": "北海",
+        "areaName": "海城区中街街道南珠路社区公园路教育局住宅区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "海城区中街街道南珠路社区海城区长青东路西一至十六巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
         "areaName": "海城区中街街道南珠路社区京都花园",
         "dangerLevel": 2
       },
@@ -5199,17 +4534,7 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道塘仔里社区电机厂宿舍区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "海城区中街街道塘仔里社区环卫路宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道塘仔里社区垌尾新区四巷7至9号",
         "dangerLevel": 2
       },
       {
@@ -5219,12 +4544,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道塘仔里社区文明南路（北京路至北部湾路段）两侧",
+        "areaName": "海城区中街街道塘仔里社区长青路海城尚都",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道塘仔里社区长青路海城尚都",
+        "areaName": "海城区中街街道文明南路以东、解放路以西、中山路以南、和平路和海城区三小以北合围区域",
         "dangerLevel": 2
       },
       {
@@ -5239,22 +4564,17 @@
       },
       {
         "cityName": "北海",
+        "areaName": "海城区中街街道新安街以东、中山路以南、朝阳街以西、朝阳街以北合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "海城区中街街道幸福里社区菜园里一巷至三巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
         "areaName": "海城区中街街道幸福里社区担水巷51号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道幸福里社区建文路5至7号、25号至27号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道幸福里社区牛皮巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
-        "areaName": "海城区中街街道幸福里社区幸福市场二至三巷",
         "dangerLevel": 2
       },
       {
@@ -5264,12 +4584,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道新建四巷22、23、24号",
+        "areaName": "海城区中街街道幸福里社区新源文明苑",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "海城区中街街道中山路社区朝阳街15至17号",
+        "areaName": "海城区中街街道新建四巷22、23、24号",
         "dangerLevel": 2
       },
       {
@@ -5289,17 +4609,12 @@
       },
       {
         "cityName": "北海",
-        "areaName": "海角街道前进路社区海角路玻璃厂宿舍",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "北海",
         "areaName": "湖南路以东、北部湾路以南、上海路以西、海南路以北合围范围中除湖南路以东、海南路以南、上海路以西、银屋西里以北、庞屋路以东、湖海路以北合围区以外的部分",
         "dangerLevel": 2
       },
       {
         "cityName": "北海",
-        "areaName": "湖南路以东、北海大道以南、上海路以西、重庆路以北合围区域中的信源大厦、诚安公寓住宅小区、世鑫大厦、水电花园、北部湾国际公馆",
+        "areaName": "民生路以东、滨海路以南、民权路以西、珠海中路以北合围区域",
         "dangerLevel": 2
       },
       {
@@ -5495,6 +4810,11 @@
       {
         "cityName": "北海",
         "areaName": "银海区政府集资小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "银祥公寓、银海区政府集资小区",
         "dangerLevel": 2
       },
       {
@@ -7982,11 +7302,6 @@
     ],
     "dangerAreas": [
       {
-        "cityName": "海淀区",
-        "areaName": "曙光街道鲁园上河村小区三区1号楼",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "怀柔区",
         "areaName": "龙山街道东关二区平房区111号-137号",
         "dangerLevel": 1
@@ -7994,6 +7309,11 @@
       {
         "cityName": "石景山区",
         "areaName": "金融街（长安）中心26号院5号楼、7号楼、8号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "海淀区",
+        "areaName": "曙光街道鲁园上河村小区三区1号楼3单元",
         "dangerLevel": 1
       },
       {
