@@ -2867,7 +2867,7 @@
     "locationId": 510000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 4,
+    "midDangerCount": 5,
     "detectOrgCount": 413,
     "vaccinationOrgCount": 131,
     "cities": [
@@ -3061,7 +3061,7 @@
         "curedCount": 21,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 510600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "德阳市"
@@ -3177,6 +3177,11 @@
       {
         "cityName": "成都",
         "areaName": "苏坡街道龙湖·翠微清波B区1-8栋（金福路428号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "德阳",
+        "areaName": "旌阳区天元街道王谊村原12组",
         "dangerLevel": 2
       }
     ]
@@ -3377,7 +3382,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 32,
-    "midDangerCount": 39,
+    "midDangerCount": 36,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -3428,7 +3433,7 @@
         "curedCount": 39,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 0,
         "locationId": 150200,
         "currentConfirmedCountStr": "2",
         "fullCityName": "包头市"
@@ -3883,21 +3888,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "包头",
-        "areaName": "青山区大红楼酒店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "包头",
-        "areaName": "青山区隆华饺子馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "包头",
-        "areaName": "青山区幸福路16号街坊",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "乌海市",
         "areaName": "海勃湾区林荫街道温馨社区恒大绿洲小区（不含6号楼1单元）",
         "dangerLevel": 2
@@ -4204,7 +4194,7 @@
     "locationId": 450000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
     "highDangerCount": 10,
-    "midDangerCount": 191,
+    "midDangerCount": 194,
     "detectOrgCount": 270,
     "vaccinationOrgCount": 15,
     "cities": [
@@ -4216,7 +4206,7 @@
         "curedCount": 545,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 174,
+        "midDangerCount": 176,
         "locationId": 450500,
         "currentConfirmedCountStr": "50",
         "fullCityName": "北海市"
@@ -4229,7 +4219,7 @@
         "curedCount": 2,
         "deadCount": 0,
         "highDangerCount": 10,
-        "midDangerCount": 17,
+        "midDangerCount": 18,
         "locationId": 451400,
         "currentConfirmedCountStr": "28",
         "fullCityName": "崇左市"
@@ -4737,6 +4727,11 @@
       },
       {
         "cityName": "北海",
+        "areaName": "海角街道天赐碧园13栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
         "areaName": "海角街道外沙社区外沙五巷",
         "dangerLevel": 2
       },
@@ -4863,6 +4858,11 @@
       {
         "cityName": "北海",
         "areaName": "驿马街道富丽苑小区4巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北海",
+        "areaName": "驿马街道格林香海华林居5栋",
         "dangerLevel": 2
       },
       {
@@ -5398,6 +5398,11 @@
       {
         "cityName": "崇左",
         "areaName": "华侨小区高风险区以外其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "崇左",
+        "areaName": "凭祥市凭祥镇南兴国际小区除3栋1单元以外的区域",
         "dangerLevel": 2
       },
       {
@@ -10096,7 +10101,7 @@
     "locationId": 360000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 1,
+    "midDangerCount": 6,
     "detectOrgCount": 143,
     "vaccinationOrgCount": 4,
     "cities": [
@@ -10186,7 +10191,7 @@
         "curedCount": 106,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 1,
+        "midDangerCount": 6,
         "locationId": 360900,
         "currentConfirmedCountStr": "0",
         "fullCityName": "宜春市"
@@ -10275,6 +10280,31 @@
         "cityName": "宜春",
         "areaName": "丰城市尚庄街道洪塘社区木山组",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "宜春",
+        "areaName": "丰城市东方红大街132号莹莹早餐店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宜春",
+        "areaName": "丰城市东方红大街139号快天下快餐超市",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宜春",
+        "areaName": "丰城市东方红大街151号老北京杂酱面",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宜春",
+        "areaName": "丰城市金角村委会罗家村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宜春",
+        "areaName": "丰城市剑南路31号血浆站",
+        "dangerLevel": 2
       },
       {
         "cityName": "宜春",
@@ -12487,7 +12517,7 @@
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 1,
+    "highDangerCount": 0,
     "midDangerCount": 1,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
@@ -12538,7 +12568,7 @@
         "suspectedCount": 0,
         "curedCount": 5,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 1,
         "locationId": 640500,
         "currentConfirmedCountStr": "0",
@@ -12575,11 +12605,6 @@
       {
         "cityName": "中卫",
         "areaName": "沙坡头区禹都新村小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "沙坡头区文安苑小区",
         "dangerLevel": 2
       }
     ]
