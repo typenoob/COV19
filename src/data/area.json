@@ -3541,7 +3541,7 @@
     "comment": "",
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-    "highDangerCount": 37,
+    "highDangerCount": 36,
     "midDangerCount": 28,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
@@ -3605,7 +3605,7 @@
         "suspectedCount": 0,
         "curedCount": 43,
         "deadCount": 1,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 150800,
         "currentConfirmedCountStr": "1",
@@ -3895,11 +3895,6 @@
       {
         "cityName": "乌兰察布",
         "areaName": "中天小区门脸房",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "甘其毛都镇庆华小区",
         "dangerLevel": 1
       },
       {
@@ -6680,7 +6675,7 @@
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 13,
+    "midDangerCount": 12,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -6705,7 +6700,7 @@
         "curedCount": 23,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 4,
+        "midDangerCount": 3,
         "locationId": 500117,
         "currentConfirmedCountStr": "6",
         "fullCityName": "合川区"
@@ -7242,26 +7237,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "合川区",
-        "areaName": "合阳城街道花果山社区兴盈德润城除14号楼的其它楼栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "合川区",
-        "areaName": "合阳城街道环校街563附13号麻将馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "合川区",
-        "areaName": "合阳城街道较场坝社区狮王华府5号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "合川区",
-        "areaName": "合阳城街道较场坝社区狮王华府除5号楼以外的其它楼栋",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "南岸区",
         "areaName": "长生桥镇3k进口优品生活馆（南岸区同景国际城S组团A3栋1—22）",
         "dangerLevel": 2
@@ -7274,6 +7249,21 @@
       {
         "cityName": "南岸区",
         "areaName": "长生桥镇优滋鲜果店（南岸区同景路2号附9号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "合川区",
+        "areaName": "合阳城街道花果山社区兴盈德润城除14号楼的其它楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "合川区",
+        "areaName": "合阳城街道环校街563附13号麻将馆",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "合川区",
+        "areaName": "合阳城街道较场坝社区狮王华府5号楼",
         "dangerLevel": 2
       }
     ]
@@ -8142,7 +8132,7 @@
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
     "highDangerCount": 15,
-    "midDangerCount": 11,
+    "midDangerCount": 13,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -8258,7 +8248,7 @@
         "curedCount": 17,
         "deadCount": 0,
         "highDangerCount": 15,
-        "midDangerCount": 2,
+        "midDangerCount": 4,
         "locationId": 620700,
         "currentConfirmedCountStr": "2",
         "fullCityName": "张掖市"
@@ -8491,12 +8481,22 @@
       },
       {
         "cityName": "张掖",
+        "areaName": "蓝天艺校（东街）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张掖",
+        "areaName": "劳务市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张掖",
         "areaName": "临泽县倪家营镇南台村七彩镇（除高风险区外，含公航旅丹霞明珠酒店）",
         "dangerLevel": 2
       },
       {
         "cityName": "张掖",
-        "areaName": "清泉镇南湖村三社",
+        "areaName": "万和小区（含万和公寓）",
         "dangerLevel": 2
       }
     ]
@@ -10352,7 +10352,7 @@
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 5,
+    "midDangerCount": 3,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -10390,7 +10390,7 @@
         "curedCount": 14111,
         "deadCount": 3,
         "highDangerCount": 2,
-        "midDangerCount": 5,
+        "midDangerCount": 3,
         "locationId": 220200,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -10537,17 +10537,7 @@
       },
       {
         "cityName": "吉林市",
-        "areaName": "昌邑区万达江畔华城D区（1号、2号、3号、4号楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
         "areaName": "高新区天天向上小区除6号楼和7号楼之外区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吉林市",
-        "areaName": "龙潭区龙潭悦景小区",
         "dangerLevel": 2
       }
     ]
@@ -10803,7 +10793,7 @@
     "locationId": 650000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
     "highDangerCount": 158,
-    "midDangerCount": 106,
+    "midDangerCount": 113,
     "detectOrgCount": 216,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -10984,7 +10974,7 @@
         "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 4,
-        "midDangerCount": 5,
+        "midDangerCount": 12,
         "locationId": 652900,
         "currentConfirmedCountStr": "0",
         "fullCityName": "阿克苏地区"
@@ -12155,6 +12145,66 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "阿克苏地区",
+        "areaName": "拜城县众泰花园小区（5号楼除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇二乌恰社区第六村民小组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇喀拉布喀村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇清水村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇萨哈古社区第六、七、八、十村民小组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇三乌恰村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇杏花村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "乌恰镇甬库振兴村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "新城街道建安一区（11号楼除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "新城街道苹果苑小区19号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "新和县火车站站前服务大厅",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "阿克苏地区",
+        "areaName": "新和县新和镇锦绣花园第一小区(6号楼以外)",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "巴州",
         "areaName": "库尔勒市交通东路—交通东路北二巷—北山路东一巷—铁门关路—交通东路区域内，包含四运四队小区、东风汽修厂、东风小区、康丽花园、四运便民市场、养老院、拥军广场",
         "dangerLevel": 2
@@ -12242,31 +12292,6 @@
       {
         "cityName": "博尔塔拉",
         "areaName": "友好地下宝妈时光购物（友好中央广场1号楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阿克苏地区",
-        "areaName": "拜城县众泰花园小区（5号楼除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阿克苏地区",
-        "areaName": "新城街道建安一区（11号楼除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阿克苏地区",
-        "areaName": "新城街道苹果苑小区19号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阿克苏地区",
-        "areaName": "新和县火车站站前服务大厅",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阿克苏地区",
-        "areaName": "新和县新和镇锦绣花园第一小区(6号楼以外)",
         "dangerLevel": 2
       },
       {
