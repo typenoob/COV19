@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 4904539,
-    "confirmedCount": 4927754,
+    "currentConfirmedCount": 4929322,
+    "confirmedCount": 4952570,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 9473,
+    "deadCount": 9506,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -2023,28 +2023,28 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 105,
+        "currentConfirmedCount": 98,
         "confirmedCount": 3248,
         "suspectedCount": 3,
-        "curedCount": 3142,
+        "curedCount": 3149,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "105",
+        "currentConfirmedCountStr": "98",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 74,
+        "currentConfirmedCount": 66,
         "confirmedCount": 2953,
         "suspectedCount": 3,
-        "curedCount": 2876,
+        "curedCount": 2884,
         "deadCount": 3,
         "highDangerCount": 3,
         "midDangerCount": 3,
         "locationId": 440300,
-        "currentConfirmedCountStr": "74",
+        "currentConfirmedCountStr": "66",
         "fullCityName": "深圳市"
       },
       {
@@ -2283,15 +2283,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -46,
+        "currentConfirmedCount": -31,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 46,
+        "curedCount": 31,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-46",
+        "currentConfirmedCountStr": "-31",
         "fullCityName": "待明确地区"
       }
     ],
@@ -4719,8 +4719,8 @@
     "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
     "locationId": 330000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 12,
+    "highDangerCount": 4,
+    "midDangerCount": 13,
     "detectOrgCount": 519,
     "vaccinationOrgCount": 217,
     "cities": [
@@ -4809,8 +4809,8 @@
         "suspectedCount": 0,
         "curedCount": 503,
         "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 1,
         "locationId": 330300,
         "currentConfirmedCountStr": "49",
         "fullCityName": "温州市"
@@ -4909,8 +4909,23 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "温州",
+        "areaName": "平阳县水头镇太平洋广场",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "温州",
+        "areaName": "平阳县水头镇温莎KTV(双川北路18号)",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "温州",
+        "areaName": "腾蛟镇山边社区移民小区5幢",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "杭州",
-        "areaName": "钱塘区下沙街道头格社区月雅城3幢及小区附属商铺",
+        "areaName": "钱塘区下沙街道头格社区月雅城",
         "dangerLevel": 1
       },
       {
@@ -4966,6 +4981,11 @@
       {
         "cityName": "金华",
         "areaName": "义乌市义亭镇王阡行政村王阡一村自然村549号、563号、585-588号、593号、595号、598号、600号、678号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "温州",
+        "areaName": "平阳县腾蛟镇山边社区移民小区",
         "dangerLevel": 2
       },
       {
@@ -5371,19 +5391,6 @@
     "vaccinationOrgCount": 131,
     "cities": [
       {
-        "cityName": "成都",
-        "currentConfirmedCount": 95,
-        "confirmedCount": 2080,
-        "suspectedCount": 0,
-        "curedCount": 1982,
-        "deadCount": 3,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510100,
-        "currentConfirmedCountStr": "95",
-        "fullCityName": "成都市"
-      },
-      {
         "cityName": "广安",
         "currentConfirmedCount": 81,
         "confirmedCount": 255,
@@ -5395,6 +5402,19 @@
         "locationId": 511600,
         "currentConfirmedCountStr": "81",
         "fullCityName": "广安市"
+      },
+      {
+        "cityName": "成都",
+        "currentConfirmedCount": 80,
+        "confirmedCount": 2080,
+        "suspectedCount": 0,
+        "curedCount": 1997,
+        "deadCount": 3,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510100,
+        "currentConfirmedCountStr": "80",
+        "fullCityName": "成都市"
       },
       {
         "cityName": "眉山",
@@ -5645,15 +5665,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -123,
+        "currentConfirmedCount": -108,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 123,
+        "curedCount": 108,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-123",
+        "currentConfirmedCountStr": "-108",
         "fullCityName": "待明确地区"
       }
     ],
@@ -12549,17 +12569,17 @@
       },
       {
         "cityName": "南京",
-        "areaName": "建邺区滨江奥城听雨苑小区(松花江西街59号)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
         "areaName": "建邺区保利 ·香槟国际小区（金沙江东街89号）",
         "dangerLevel": 2
       },
       {
         "cityName": "南京",
-        "areaName": "建邺区月安街18-1号",
+        "areaName": "建邺区兴隆街道滨江奥城听雨苑小区(松花江西街59号)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南京",
+        "areaName": "建邺区兴隆街道月安街18-1号",
         "dangerLevel": 2
       },
       {
