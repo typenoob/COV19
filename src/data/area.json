@@ -53,7 +53,7 @@
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
     "highDangerCount": 235,
-    "midDangerCount": 95,
+    "midDangerCount": 96,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -91,7 +91,7 @@
         "curedCount": 2,
         "deadCount": 1,
         "highDangerCount": 57,
-        "midDangerCount": 4,
+        "midDangerCount": 5,
         "locationId": 469007,
         "currentConfirmedCountStr": "349",
         "fullCityName": "东方市"
@@ -1896,6 +1896,11 @@
       {
         "cityName": "东方",
         "areaName": "四更镇除定为高风险区以外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "东方",
+        "areaName": "新龙镇除定为高风险区以外的区域",
         "dangerLevel": 2
       },
       {
@@ -14551,7 +14556,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 7,
-    "midDangerCount": 1,
+    "midDangerCount": 4,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -14654,7 +14659,7 @@
         "curedCount": 43,
         "deadCount": 0,
         "highDangerCount": 7,
-        "midDangerCount": 1,
+        "midDangerCount": 4,
         "locationId": 130700,
         "currentConfirmedCountStr": "0",
         "fullCityName": "张家口市"
@@ -14728,6 +14733,11 @@
     "dangerAreas": [
       {
         "cityName": "张家口",
+        "areaName": "存瑞镇北三营村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "张家口",
         "areaName": "存瑞镇葫芦套村",
         "dangerLevel": 1
       },
@@ -14738,17 +14748,7 @@
       },
       {
         "cityName": "张家口",
-        "areaName": "桥东区林园西街9号商行家属院区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "张家口",
         "areaName": "荣庆家园B区卫生站（董大夫中西医诊所）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "张家口",
-        "areaName": "沙城镇龙潭东街同心阁文化用品商店",
         "dangerLevel": 1
       },
       {
@@ -14760,6 +14760,26 @@
         "cityName": "张家口",
         "areaName": "沙城镇卫生院",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "新开路",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "滨河社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "狼山乡狼山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "三堡街社区",
+        "dangerLevel": 2
       },
       {
         "cityName": "张家口",
