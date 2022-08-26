@@ -10541,8 +10541,8 @@
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-    "highDangerCount": 5,
-    "midDangerCount": 3,
+    "highDangerCount": 4,
+    "midDangerCount": 1,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -10579,7 +10579,7 @@
         "suspectedCount": 0,
         "curedCount": 6458,
         "deadCount": 0,
-        "highDangerCount": 1,
+        "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 310101,
         "currentConfirmedCountStr": "167",
@@ -10645,7 +10645,7 @@
         "curedCount": 3068,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 310113,
         "currentConfirmedCountStr": "85",
         "fullCityName": "宝山区"
@@ -10684,7 +10684,7 @@
         "curedCount": 1770,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 310107,
         "currentConfirmedCountStr": "20",
         "fullCityName": "普陀区"
@@ -10819,11 +10819,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "黄浦区",
-        "areaName": "五里桥街道打浦路以东、打浦路303弄公弄以南、全季酒店打浦桥鲁班路店以西、瞿溪路以北的区域",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "虹口区",
         "areaName": "广中路街道广中支路26号",
         "dangerLevel": 1
@@ -10832,16 +10827,6 @@
         "cityName": "杨浦区",
         "areaName": "新江湾城街道国霞路399弄6号小区（包括沿街商铺）",
         "dangerLevel": 1
-      },
-      {
-        "cityName": "普陀区",
-        "areaName": "万里街道新村路1717弄19、21、23号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "大场镇南大路12弄洛河桥小区",
-        "dangerLevel": 2
       },
       {
         "cityName": "杨浦区",
@@ -16223,7 +16208,7 @@
     "comment": "",
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-    "highDangerCount": 34,
+    "highDangerCount": 47,
     "midDangerCount": 28,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
@@ -16289,7 +16274,7 @@
         "suspectedCount": 0,
         "curedCount": 7,
         "deadCount": 1,
-        "highDangerCount": 28,
+        "highDangerCount": 41,
         "midDangerCount": 15,
         "locationId": 411200,
         "notShowCurrentConfirmedCount": true,
@@ -16500,6 +16485,11 @@
       },
       {
         "cityName": "三门峡",
+        "areaName": "车站街道建北社区市建公司家属院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
         "areaName": "车站街道弯道社区经一路杨永芬诊所",
         "dangerLevel": 1
       },
@@ -16525,6 +16515,16 @@
       },
       {
         "cityName": "三门峡",
+        "areaName": "车站街道新建社区经一路铁路桥东边500米左右家属楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "车站街道迎宾社区迎宾花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
         "areaName": "大安街道商务中心区南山公馆",
         "dangerLevel": 1
       },
@@ -16546,6 +16546,11 @@
       {
         "cityName": "三门峡",
         "areaName": "湖滨街道桥西社区海洋新城",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "湖滨街道市场社区华兴商厦",
         "dangerLevel": 1
       },
       {
@@ -16590,7 +16595,22 @@
       },
       {
         "cityName": "三门峡",
+        "areaName": "涧河街道文二社区地质公园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "涧河街道文二社区海洋盛和园小区1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
         "areaName": "涧河街道文二社区凯瑞酒楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "涧河街道文二社区文明路中段水厂二号楼",
         "dangerLevel": 1
       },
       {
@@ -16605,12 +16625,42 @@
       },
       {
         "cityName": "三门峡",
+        "areaName": "涧河街道永安社区河堤路方园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "涧河街道永兴社区上阳路黄金技校综合楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "交口乡北梁村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
         "areaName": "前进街道大岭路社区社会管理学院（原财校）",
         "dangerLevel": 1
       },
       {
         "cityName": "三门峡",
+        "areaName": "前进街道和平社区和平路三街坊4号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
         "areaName": "前进街道六楼社区新欣小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "前进街道器材社区黄河路陕州路交叉口肛肠医院背后大院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "三门峡",
+        "areaName": "前进街道友谊社区甘棠新居小区",
         "dangerLevel": 1
       },
       {
