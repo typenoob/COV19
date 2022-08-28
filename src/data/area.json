@@ -5739,8 +5739,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 16,
-    "midDangerCount": 25,
+    "highDangerCount": 18,
+    "midDangerCount": 26,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -5759,28 +5759,28 @@
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 114,
+        "currentConfirmedCount": 107,
         "confirmedCount": 3065,
         "suspectedCount": 3,
-        "curedCount": 2948,
+        "curedCount": 2955,
         "deadCount": 3,
-        "highDangerCount": 16,
-        "midDangerCount": 23,
+        "highDangerCount": 18,
+        "midDangerCount": 24,
         "locationId": 440300,
-        "currentConfirmedCountStr": "114",
+        "currentConfirmedCountStr": "107",
         "fullCityName": "深圳市"
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 84,
+        "currentConfirmedCount": 79,
         "confirmedCount": 3309,
         "suspectedCount": 3,
-        "curedCount": 3224,
+        "curedCount": 3229,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 1,
         "locationId": 440100,
-        "currentConfirmedCountStr": "84",
+        "currentConfirmedCountStr": "79",
         "fullCityName": "广州市"
       },
       {
@@ -6019,19 +6019,24 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -196,
+        "currentConfirmedCount": -184,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 196,
+        "curedCount": 184,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-196",
+        "currentConfirmedCountStr": "-184",
         "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "深圳",
+        "areaName": "安居尚龙苑工地",
+        "dangerLevel": 1
+      },
       {
         "cityName": "深圳",
         "areaName": "布吉街道凤凰社区西环路何格统建楼3栋",
@@ -6045,6 +6050,11 @@
       {
         "cityName": "深圳",
         "areaName": "龙华街道和联社区弓村二区第6栋、7栋、8栋、15栋、16栋、17栋、42栋、43栋、44栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "民治街道大岭社区中国建筑第四工程局生活区",
         "dangerLevel": 1
       },
       {
@@ -6135,6 +6145,11 @@
       {
         "cityName": "深圳",
         "areaName": "龙华街道和联社区弓村二区（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "民治街道北站社区东泉新村",
         "dangerLevel": 2
       },
       {
@@ -6259,15 +6274,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 176,
+        "currentConfirmedCount": 167,
         "confirmedCount": 2248,
         "suspectedCount": 0,
-        "curedCount": 2069,
+        "curedCount": 2078,
         "deadCount": 3,
         "highDangerCount": 17,
         "midDangerCount": 23,
         "locationId": 510100,
-        "currentConfirmedCountStr": "176",
+        "currentConfirmedCountStr": "167",
         "fullCityName": "成都市"
       },
       {
@@ -6532,15 +6547,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -118,
+        "currentConfirmedCount": -109,
         "confirmedCount": 20,
         "suspectedCount": 0,
-        "curedCount": 138,
+        "curedCount": 129,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-118",
+        "currentConfirmedCountStr": "-109",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7121,7 +7136,7 @@
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
     "highDangerCount": 154,
-    "midDangerCount": 237,
+    "midDangerCount": 238,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -7147,7 +7162,7 @@
         "curedCount": 8,
         "deadCount": 0,
         "highDangerCount": 84,
-        "midDangerCount": 152,
+        "midDangerCount": 153,
         "locationId": 611000,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -8851,6 +8866,11 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "商洛",
+        "areaName": "向阳路以东、北新街延伸段以南、G40引线以西、江滨大道以北合围区",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "西安",
         "areaName": "碑林区柏树林街道端履门社区兴正元广场商业区域",
         "dangerLevel": 2
@@ -9310,15 +9330,15 @@
       },
       {
         "cityName": "厦门",
-        "currentConfirmedCount": 57,
+        "currentConfirmedCount": 49,
         "confirmedCount": 401,
         "suspectedCount": 0,
-        "curedCount": 344,
+        "curedCount": 352,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 350200,
-        "currentConfirmedCountStr": "57",
+        "currentConfirmedCountStr": "49",
         "fullCityName": "厦门市"
       },
       {
@@ -9427,15 +9447,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -9,
+        "currentConfirmedCount": -1,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 9,
+        "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-9",
+        "currentConfirmedCountStr": "-1",
         "fullCityName": "待明确地区"
       }
     ],
@@ -18553,8 +18573,8 @@
     "comment": "",
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-    "highDangerCount": 49,
-    "midDangerCount": 41,
+    "highDangerCount": 52,
+    "midDangerCount": 42,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -18630,8 +18650,8 @@
         "suspectedCount": 0,
         "curedCount": 9,
         "deadCount": 0,
-        "highDangerCount": 19,
-        "midDangerCount": 32,
+        "highDangerCount": 22,
+        "midDangerCount": 33,
         "locationId": 621100,
         "currentConfirmedCountStr": "6",
         "fullCityName": "定西市"
@@ -18938,12 +18958,27 @@
       },
       {
         "cityName": "定西",
+        "areaName": "巩昌镇东巷村油盘巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "定西",
+        "areaName": "巩昌镇海天花园B区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "定西",
         "areaName": "巩昌镇红星村大碑院（南城壕）",
         "dangerLevel": 1
       },
       {
         "cityName": "定西",
         "areaName": "巩昌镇金汉亭火锅店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "定西",
+        "areaName": "巩昌镇悦璟二期",
         "dangerLevel": 1
       },
       {
@@ -19049,6 +19084,11 @@
       {
         "cityName": "定西",
         "areaName": "董家寺村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "定西",
+        "areaName": "巩昌镇景秀苑小区",
         "dangerLevel": 2
       },
       {
