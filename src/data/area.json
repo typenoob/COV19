@@ -9685,8 +9685,8 @@
     "comment": "",
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
-    "highDangerCount": 34,
-    "midDangerCount": 128,
+    "highDangerCount": 36,
+    "midDangerCount": 124,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -9697,8 +9697,8 @@
         "suspectedCount": 0,
         "curedCount": 2353,
         "deadCount": 3,
-        "highDangerCount": 0,
-        "midDangerCount": 6,
+        "highDangerCount": 2,
+        "midDangerCount": 2,
         "locationId": 610100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -10043,6 +10043,16 @@
       {
         "cityName": "商洛",
         "areaName": "杨地镇龙潭社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
+        "areaName": "经开区汉城街道郭家社区世融嘉轩小区5号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
+        "areaName": "雁塔区长延堡街道明德门南社区华园景园小区",
         "dangerLevel": 1
       },
       {
@@ -10651,36 +10661,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "西安",
-        "areaName": "碑林区柏树林街道端履门社区太和广场南楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "碑林区长安路街道永宁社区友谊东路136号院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "高新区丈八街道唐沣社区易道郡玫瑰公馆1期12号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "临潼区斜口街道高沟村1组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "曲江新区紫汀苑社区金地湖城大境天字一号小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区长延堡街道三兴鑫苑社区三兴鑫园小区B区3号楼",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "汉中",
         "areaName": "河东店镇花果村2组",
         "dangerLevel": 2
@@ -10693,6 +10673,16 @@
       {
         "cityName": "汉中",
         "areaName": "河东店镇花果村5组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "碑林区长安路街道永宁社区友谊东路136号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "未央区汉城街道郭家社区世融嘉轩小区（除5号楼外）",
         "dangerLevel": 2
       }
     ]
