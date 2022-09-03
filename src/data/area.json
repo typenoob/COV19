@@ -52,8 +52,8 @@
     "comment": "",
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
-    "highDangerCount": 165,
-    "midDangerCount": 110,
+    "highDangerCount": 153,
+    "midDangerCount": 100,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -77,8 +77,8 @@
         "suspectedCount": 0,
         "curedCount": 15,
         "deadCount": 1,
-        "highDangerCount": 27,
-        "midDangerCount": 29,
+        "highDangerCount": 23,
+        "midDangerCount": 26,
         "locationId": 460400,
         "currentConfirmedCountStr": "446",
         "fullCityName": "儋州市"
@@ -90,8 +90,8 @@
         "suspectedCount": 0,
         "curedCount": 2,
         "deadCount": 0,
-        "highDangerCount": 20,
-        "midDangerCount": 24,
+        "highDangerCount": 12,
+        "midDangerCount": 17,
         "locationId": 469027,
         "currentConfirmedCountStr": "443",
         "fullCityName": "乐东黎族自治县"
@@ -825,6 +825,11 @@
       },
       {
         "cityName": "儋州",
+        "areaName": " 东成镇：大坡村委会东方村1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "儋州",
         "areaName": " 东成镇：寨脚村委会寨脚老村二队祠堂",
         "dangerLevel": 1
       },
@@ -835,12 +840,17 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 东成镇：长坡春深村桥头附近民宅",
+        "areaName": " 东成镇：长坡春深村桥头附近民宅、江栏小区",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
         "areaName": " 东成镇：长坡街",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "儋州",
+        "areaName": " 东成镇：长坡居委会长胜街",
         "dangerLevel": 1
       },
       {
@@ -855,17 +865,12 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇东风社区：人民中路中国银行宿舍，农垦北路30、46、166号，新时代花园小区D6栋",
+        "areaName": " 干冲办事处：洋浦社区",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇大同社区：大通路127号，人民中路177号，先锋路一巷13、14、18号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 那大镇解放社区：松涛培训中心北5栋，先锋路33、114、168号",
+        "areaName": " 那大镇解放社区：人民中路中国银行宿舍，松涛培训中心北5栋、人民中路177号（松涛宿舍管理局5栋）",
         "dangerLevel": 1
       },
       {
@@ -875,12 +880,7 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇群英社区：文化南路七巷31号，大通路南二巷2、17号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 那大镇胜利社区：朝阳街，朝阳街后巷，老税务局税务宿舍，胜利路74、103、105、129号",
+        "areaName": " 那大镇胜利社区：朝阳街，朝阳街后巷，老税务局税务宿舍，胜利路103、105号",
         "dangerLevel": 1
       },
       {
@@ -890,107 +890,57 @@
       },
       {
         "cityName": "儋州",
+        "areaName": " 那大镇先锋社区：静园二街",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "儋州",
         "areaName": " 那大镇西干社区：大洲桥海棠一巷11号，大洲桥科技北路一、五、六街，大洲桥科技北路8号，大洲桥长安街38号、广场家园及周边",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区干冲办事处：洋浦社区",
+        "areaName": " 新英湾办事处：白沙社区一号安置区82号",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：白沙社区一号安置区82号",
+        "areaName": " 新英湾办事处：产城融合项目三标段中建八局宿舍",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：德馨花园北区2栋",
+        "areaName": " 新英湾办事处：科创园项目一期工地宿舍",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：海南裕丰环保科技有限公司对面集装箱宿舍",
+        "areaName": " 新英湾办事处：联排房二期共鸣社区3、4、5、6栋",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：浦馨苑（行政一期）14栋",
+        "areaName": " 新英湾办事处：新都工业园冰源纯净水厂员工宿舍",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：瑞洋小区14栋",
+        "areaName": " 新英湾办事处：新都居委会",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：新都工业园冰源纯净水厂员工宿舍",
+        "areaName": " 新英湾办事处：中建一局宿舍（洋浦医院对面）",
         "dangerLevel": 1
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：新都居委会",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：洋浦科创园项目一期工地宿舍",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：洋浦联排房二期共鸣社区3、4、5、6栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：中建八局宿舍区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：中建一局宿舍（洋浦医院对面）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "儋州",
-        "areaName": "那大镇先锋社区：恒大二期10栋、静园二街、绿园小区11栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "黄流镇赤命村委会赤命村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "黄流镇怀卷村",
+        "areaName": "那大镇城北社区：亚澜湾7栋1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "乐东",
         "areaName": "黄流镇孔汶村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "尖峰镇尖峰林业局机关林苑小区（大凯一期）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "尖峰镇山道村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "尖峰镇镇墟全域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "九所镇四所村",
         "dangerLevel": 1
       },
       {
@@ -1020,17 +970,7 @@
       },
       {
         "cityName": "乐东",
-        "areaName": "利国镇老市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
         "areaName": "利国镇乐一村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "利国中心大道政府大院后面经济适用房",
         "dangerLevel": 1
       },
       {
@@ -1330,12 +1270,7 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 白马井镇：福村村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 白马井镇：禾能村委会",
+        "areaName": " 东成镇：大坡村委会东方村",
         "dangerLevel": 2
       },
       {
@@ -1365,42 +1300,47 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇东风社区：农垦北路（除30、46、166号外）、新时代花园小区（除D6栋外）、文化中路六街新华书店发行中心宿舍、清平一街一巷",
+        "areaName": " 干冲办事处：除公堂下社区外的区域",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇大同社区：大成街（除62、66号外）、隆华新村、人民中路183号、万福小区四街7号、兴富小区四街4号、阳光巴洛克小区、先锋路一巷（除13、14、18号外）、大通路（除127号外）、人民中路（除177号外）",
+        "areaName": " 那大镇东风社区：农垦北路、新时代花园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇解放社区：松涛培训中心（除北5栋外），先锋路（除33、114、168号外）那大老车站，解放北路73号，人民东路商业大院，东门街，松涛北苑，松涛中学干部宿舍楼，解放南路256号，解放路邮电宿舍B栋，新生街1、2巷，龙腾西路，人民中路35、181、183号，人民中路桥东巷，文明街工会大院，军创宾馆周边，那大中学后巷4号，城达小区，立新路东阳三巷和四巷，蓝昌街路口自建楼，第一人民医院南院区F栋",
+        "areaName": " 那大镇大同社区：先锋路一巷、大通路",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇军屯村委会：军屯路市场（除2、3路外）、东坡路132号、广场家园、军屯市场、前进派出所后瓦房区",
+        "areaName": " 那大镇解放社区：松涛培训中心（除北5栋外），先锋路，那大老车站，松涛北苑，松涛中学干部宿舍楼，那大中学后巷4号",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇群英社区：文化南路七巷（除31号外）、大通路南二巷（除2、17号外）、宏达路东四巷、宏达路东七巷、爵海路4巷",
+        "areaName": " 那大镇军屯村委会：军屯路市场（除2、3路外）、东坡路132号、军屯市场、前进派出所后瓦房区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇胜利社区：红旗街、幸福街、胜利路（除74、103、105、129号外）、红卫街、老公安局大院8号楼",
+        "areaName": " 那大镇群英社区：文化南路七巷、大通路南二巷",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇先锋社区：恒大二期（除10栋外）、静园（除二街外）、绿园小区（除11栋外）、文化北7街1巷、新兴街130号、中门巷20号、杏园、怡园、宁园、水岸名都1期和2期、那大星园酒店（福源对面）、永嘉大酒店、锦虹宾馆、新市委教师宿舍楼（除3、4栋外）",
+        "areaName": " 那大镇胜利社区：红旗街、幸福街、胜利路（除103、105号外）、红卫街、老公安局大院8号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 那大镇西干社区：大洲桥海棠一巷（除11号外），大洲桥科技北路（除一、五、六街和8号外），大洲桥长安街（除38号外），新市委教师宿舍楼3、4栋，宝岛路佳帝小区一街，大洲桥金达小区11、12号，大洲桥北部湾2街，大洲桥海腾一巷，大洲桥科技街20号，南京路劳动局宿舍周边，前进路2号巷，前进派出所周边，新兴街二巷10号，站南小巷，站南小区五街，军达小区",
+        "areaName": " 那大镇先锋社区：恒大二期、静园（除二街外）、绿园小区、新兴街130号、新市委教师宿舍楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "儋州",
+        "areaName": " 那大镇西干社区：大洲桥海棠一巷（除11号外），大洲桥科技北路（除一、五、六街和8号外），大洲桥长安街（除38号外），宝岛路佳帝小区一街，大洲桥金达小区11、12号，解放北路73号，大洲桥北部湾2街，大洲桥科技街20号，南京路劳动局宿舍周边，前进路2号巷，前进派出所周边，新兴街二巷10号，站南小巷，站南小区五街，广场家园、金达小区",
         "dangerLevel": 2
       },
       {
@@ -1410,82 +1350,57 @@
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区干冲办事处：除公堂下社区外的区域",
+        "areaName": " 新英湾办事处：白沙社区一号安置区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区三都办事处：颜村",
+        "areaName": " 新英湾办事处：产城融合项目三标段中建八局工地",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：白沙社区一号安置区",
+        "areaName": " 新英湾办事处：德馨花园北区小区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：德馨花园北区小区",
+        "areaName": " 新英湾办事处：科创园项目一期工地",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：海南裕丰环保科技有限公司",
+        "areaName": " 新英湾办事处：联排房二期共鸣社区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：浦馨苑（行政一期）小区",
+        "areaName": " 新英湾办事处：浦馨苑（行政一期）小区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：瑞洋小区",
+        "areaName": " 新英湾办事处：瑞洋小区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：新都工业园冰源纯净水厂",
+        "areaName": " 新英湾办事处：新都工业园冰源纯净水厂",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：咸塘社区119亩B区",
+        "areaName": " 新英湾办事处：咸塘社区119亩B区",
         "dangerLevel": 2
       },
       {
         "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：洋浦科创园项目一期工地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：洋浦联排房二期共鸣社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "儋州",
-        "areaName": " 洋浦经济开发区新英湾办事处：中建八局",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "儋州",
-        "areaName": "那大镇城北社区：怡心花园一期、二期",
+        "areaName": "那大镇城北社区：怡心花园一期、亚澜湾小区（除亚澜湾7栋1单元外）",
         "dangerLevel": 2
       },
       {
         "cityName": "乐东",
-        "areaName": "佛丰村委会佛皇村3队",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "佛罗镇丰塘村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "黄流镇抱一村",
+        "areaName": "赤命村委会赤命村",
         "dangerLevel": 2
       },
       {
@@ -1495,7 +1410,7 @@
       },
       {
         "cityName": "乐东",
-        "areaName": "黄流镇黄东村",
+        "areaName": "黄流镇怀卷村",
         "dangerLevel": 2
       },
       {
@@ -1505,22 +1420,7 @@
       },
       {
         "cityName": "乐东",
-        "areaName": "黄流镇铺村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "黄流镇新荣村委会",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "尖峰镇白沙村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "尖峰镇海滨村",
+        "areaName": "尖峰林业局机关林苑小区（大凯一期）",
         "dangerLevel": 2
       },
       {
@@ -1530,27 +1430,17 @@
       },
       {
         "cityName": "乐东",
-        "areaName": "尖峰镇岭头村",
+        "areaName": "尖峰镇山道村",
         "dangerLevel": 2
       },
       {
         "cityName": "乐东",
-        "areaName": "尖峰镇长安村",
+        "areaName": "尖峰镇镇墟全域",
         "dangerLevel": 2
       },
       {
         "cityName": "乐东",
-        "areaName": "九所镇山脚村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "利国镇抱岁村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "利国镇官村",
+        "areaName": "九所镇四所村",
         "dangerLevel": 2
       },
       {
@@ -1560,17 +1450,17 @@
       },
       {
         "cityName": "乐东",
-        "areaName": "利国镇海榆路7号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乐东",
-        "areaName": "利国镇球港村",
+        "areaName": "利国镇老市场",
         "dangerLevel": 2
       },
       {
         "cityName": "乐东",
         "areaName": "利国镇望楼村委会望楼村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "乐东",
+        "areaName": "利国中心大道政府大院后面经济适用房",
         "dangerLevel": 2
       },
       {
@@ -1690,15 +1580,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 877,
+        "currentConfirmedCount": 869,
         "confirmedCount": 3003,
         "suspectedCount": 0,
-        "curedCount": 2123,
+        "curedCount": 2131,
         "deadCount": 3,
         "highDangerCount": 239,
         "midDangerCount": 224,
         "locationId": 510100,
-        "currentConfirmedCountStr": "877",
+        "currentConfirmedCountStr": "869",
         "fullCityName": "成都市"
       },
       {
@@ -1963,15 +1853,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -116,
+        "currentConfirmedCount": -108,
         "confirmedCount": 32,
         "suspectedCount": 0,
-        "curedCount": 148,
+        "curedCount": 140,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-116",
+        "currentConfirmedCountStr": "-108",
         "fullCityName": "待明确地区"
       }
     ],
@@ -8354,15 +8244,15 @@
     "cities": [
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 295,
+        "currentConfirmedCount": 288,
         "confirmedCount": 3291,
         "suspectedCount": 3,
-        "curedCount": 2993,
+        "curedCount": 3000,
         "deadCount": 3,
         "highDangerCount": 122,
         "midDangerCount": 121,
         "locationId": 440300,
-        "currentConfirmedCountStr": "295",
+        "currentConfirmedCountStr": "288",
         "fullCityName": "深圳市"
       },
       {
@@ -8380,15 +8270,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 93,
+        "currentConfirmedCount": 85,
         "confirmedCount": 3356,
         "suspectedCount": 3,
-        "curedCount": 3262,
+        "curedCount": 3270,
         "deadCount": 1,
         "highDangerCount": 1,
         "midDangerCount": 5,
         "locationId": 440100,
-        "currentConfirmedCountStr": "93",
+        "currentConfirmedCountStr": "85",
         "fullCityName": "广州市"
       },
       {
@@ -8627,15 +8517,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -292,
+        "currentConfirmedCount": -277,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 292,
+        "curedCount": 277,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-292",
+        "currentConfirmedCountStr": "-277",
         "fullCityName": "待明确地区"
       }
     ],
@@ -11105,28 +10995,28 @@
       },
       {
         "cityName": "厦门",
-        "currentConfirmedCount": 22,
+        "currentConfirmedCount": 16,
         "confirmedCount": 402,
         "suspectedCount": 0,
-        "curedCount": 380,
+        "curedCount": 386,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 350200,
-        "currentConfirmedCountStr": "22",
+        "currentConfirmedCountStr": "16",
         "fullCityName": "厦门市"
       },
       {
         "cityName": "泉州",
-        "currentConfirmedCount": 10,
+        "currentConfirmedCount": 9,
         "confirmedCount": 1206,
         "suspectedCount": 0,
-        "curedCount": 1196,
+        "curedCount": 1197,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 350500,
-        "currentConfirmedCountStr": "10",
+        "currentConfirmedCountStr": "9",
         "fullCityName": "泉州市"
       },
       {
@@ -11222,15 +11112,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -8,
+        "currentConfirmedCount": -1,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 8,
+        "curedCount": 1,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-8",
+        "currentConfirmedCountStr": "-1",
         "fullCityName": "待明确地区"
       }
     ],
@@ -13518,8 +13408,8 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 90,
-    "midDangerCount": 87,
+    "highDangerCount": 92,
+    "midDangerCount": 89,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -13582,8 +13472,8 @@
         "suspectedCount": 0,
         "curedCount": 23,
         "deadCount": 0,
-        "highDangerCount": 6,
-        "midDangerCount": 6,
+        "highDangerCount": 8,
+        "midDangerCount": 8,
         "locationId": 120113,
         "currentConfirmedCountStr": "16",
         "fullCityName": "北辰区"
@@ -14109,6 +13999,16 @@
       },
       {
         "cityName": "北辰区",
+        "areaName": "普东街秋怡家园小区7号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "北辰区",
+        "areaName": "青（广）源街荣翔园小区12号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "北辰区",
         "areaName": "双环邨街碧春园第二社区24号楼",
         "dangerLevel": 1
       },
@@ -14510,6 +14410,16 @@
       {
         "cityName": "北辰区",
         "areaName": "普东街普东新苑小区1、5、6、8、11、13、23、25、26号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北辰区",
+        "areaName": "普东街秋怡家园小区5、6、8、17号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北辰区",
+        "areaName": "青（广）源街荣翔园小区除高风险区外的区域",
         "dangerLevel": 2
       },
       {
@@ -15247,8 +15157,8 @@
     "comment": "",
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 60,
+    "highDangerCount": 12,
+    "midDangerCount": 62,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -15376,8 +15286,8 @@
         "suspectedCount": 0,
         "curedCount": 19,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 210300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "鞍山市"
@@ -15485,6 +15395,21 @@
       {
         "cityName": "大连",
         "areaName": "中山区桃源街道长利巷21号和根深巷8号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县阜昌街道办事处福润家园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县雅河街道办事处洪家堡村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县雅河街道办事处于岭村",
         "dangerLevel": 1
       },
       {
@@ -15805,6 +15730,16 @@
       {
         "cityName": "铁岭",
         "areaName": "银州区沙子沟小区中区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县阜昌街道办事处水岸豪庭小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县兴隆街道办事处五道河村",
         "dangerLevel": 2
       }
     ]
