@@ -7,6 +7,6 @@ vue练手项目
 
 [Here](https://typenoob.github.io/COV19)
 
-## npm run update
+## 更新数据库（已部署于github action，每一个小时自动运行）
 
-更新数据库（已部署于github action，每一个小时自动运行）
+```npm run update```
