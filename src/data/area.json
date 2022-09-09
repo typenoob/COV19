@@ -3797,7 +3797,7 @@
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
     "highDangerCount": 90,
-    "midDangerCount": 148,
+    "midDangerCount": 146,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -3835,7 +3835,7 @@
         "curedCount": 3304,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 2,
         "locationId": 440100,
         "currentConfirmedCountStr": "113",
         "fullCityName": "广州市"
@@ -5210,26 +5210,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "广州",
-        "areaName": "大石街大维村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "番禺区东联村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "番禺区大石街道诜村村东至工业西路、南至华兴文具有限公司、西至和平路、北至环村北路所围合区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "龙凤街道凤凰二街6号、7号、8号、9号、10号、11号、12号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "梅州",
         "areaName": "丰顺县金苹果饲料店（小铜盘路口下楼路35—42号）",
         "dangerLevel": 2
@@ -5267,6 +5247,16 @@
       {
         "cityName": "湛江",
         "areaName": "雷州市乌石镇那澳港（东至澳港村东边，南至那澳港码头，西至雷州盐场西边，北至三教南村北边的合围区域）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "大石街大维村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "龙凤街道凤凰二街6号、7号、8号、9号、10号、11号、12号",
         "dangerLevel": 2
       },
       {
@@ -8921,8 +8911,8 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 260,
-    "midDangerCount": 210,
+    "highDangerCount": 259,
+    "midDangerCount": 211,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -8946,8 +8936,8 @@
         "suspectedCount": 8,
         "curedCount": 1337,
         "deadCount": 4,
-        "highDangerCount": 7,
-        "midDangerCount": 41,
+        "highDangerCount": 6,
+        "midDangerCount": 42,
         "locationId": 230100,
         "currentConfirmedCountStr": "49",
         "fullCityName": "哈尔滨市"
@@ -10386,11 +10376,6 @@
       },
       {
         "cityName": "哈尔滨",
-        "areaName": "香坊区 油坊街、通天街、公滨路、铁路拉滨线合围区域内果园小区，司法警官住宅1号楼、2号楼-延福街2号，银行楼-东门街46号，化工楼-东门街48号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "哈尔滨",
         "areaName": "香坊区成高子镇民强村董家沟屯",
         "dangerLevel": 1
       },
@@ -11227,6 +11212,11 @@
       {
         "cityName": "哈尔滨",
         "areaName": "香坊区油坊街、红旗大街、公滨路、通天街合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "香坊区油坊街、通天街、公滨路、铁路拉滨线合围区域中的果园小区，司法警官住宅1号楼、2号楼（延福街2号），银行楼（东门街46号），化工楼（东门街48号）",
         "dangerLevel": 2
       },
       {
@@ -21895,8 +21885,8 @@
     "comment": "4.17 武汉市订正数据，武汉死亡核增1290，确诊核增325，治愈核减965",
     "locationId": 420000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 3,
+    "highDangerCount": 11,
+    "midDangerCount": 11,
     "detectOrgCount": 217,
     "vaccinationOrgCount": 431,
     "cities": [
@@ -22089,8 +22079,8 @@
         "suspectedCount": 0,
         "curedCount": 246,
         "deadCount": 7,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 10,
+        "midDangerCount": 8,
         "locationId": 422800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "恩施土家族苗族自治州"
@@ -22137,9 +22127,99 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道蔡家河小区7栋2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道花果山小区9排4栋、5栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道万福国际小区7、8、9栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "六角亭街道首府壹品小区7栋1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "七里坪街道七里坪产业园14栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "舞阳坝街道金凤苑小区1栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "舞阳坝街道土桥坝制药厂宿舍区12栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "舞阳坝街道新建街2号单身公寓",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "小渡船街道大帝新居小区1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "小渡船街道市医院后门壹家亲餐馆",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "武汉",
         "areaName": "米帛腰花粉店（汉口北刘店）",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道蔡家河小区除7栋2单元以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道花果山小区除9排4栋、5栋以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "金子坝街道万福国际小区除7、8、9栋以外的其他区域及底层商铺",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "六角亭街道首府壹品小区除7栋1单元以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "七里坪街道七里坪产业园除14栋以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "舞阳坝街道金凤苑小区除1栋以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "舞阳坝街道土桥坝制药厂宿舍区除12栋以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "恩施州",
+        "areaName": "小渡船街道大帝新居小区除1单元以外的其他区域及底层商铺",
+        "dangerLevel": 2
       },
       {
         "cityName": "武汉",
