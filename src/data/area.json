@@ -745,15 +745,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 1040,
+        "currentConfirmedCount": 975,
         "confirmedCount": 3501,
         "suspectedCount": 0,
-        "curedCount": 2458,
+        "curedCount": 2523,
         "deadCount": 3,
         "highDangerCount": 179,
         "midDangerCount": 173,
         "locationId": 510100,
-        "currentConfirmedCountStr": "1040",
+        "currentConfirmedCountStr": "975",
         "fullCityName": "成都市"
       },
       {
@@ -1018,15 +1018,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -223,
+        "currentConfirmedCount": -158,
         "confirmedCount": 35,
         "suspectedCount": 0,
-        "curedCount": 258,
+        "curedCount": 193,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-223",
+        "currentConfirmedCountStr": "-158",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3623,15 +3623,15 @@
     "cities": [
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 503,
+        "currentConfirmedCount": 475,
         "confirmedCount": 3598,
         "suspectedCount": 3,
-        "curedCount": 3092,
+        "curedCount": 3120,
         "deadCount": 3,
         "highDangerCount": 40,
         "midDangerCount": 92,
         "locationId": 440300,
-        "currentConfirmedCountStr": "503",
+        "currentConfirmedCountStr": "475",
         "fullCityName": "深圳市"
       },
       {
@@ -3649,15 +3649,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 127,
+        "currentConfirmedCount": 124,
         "confirmedCount": 3436,
         "suspectedCount": 3,
-        "curedCount": 3308,
+        "curedCount": 3311,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 2,
         "locationId": 440100,
-        "currentConfirmedCountStr": "127",
+        "currentConfirmedCountStr": "124",
         "fullCityName": "广州市"
       },
       {
@@ -3896,15 +3896,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -362,
+        "currentConfirmedCount": -331,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 362,
+        "curedCount": 331,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-362",
+        "currentConfirmedCountStr": "-331",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7665,19 +7665,6 @@
         "fullCityName": "境外输入人员"
       },
       {
-        "cityName": "泉州",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 1206,
-        "suspectedCount": 0,
-        "curedCount": 1202,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350500,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "泉州市"
-      },
-      {
         "cityName": "厦门",
         "currentConfirmedCount": 3,
         "confirmedCount": 403,
@@ -7689,6 +7676,19 @@
         "locationId": 350200,
         "currentConfirmedCountStr": "3",
         "fullCityName": "厦门市"
+      },
+      {
+        "cityName": "泉州",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 1206,
+        "suspectedCount": 0,
+        "curedCount": 1205,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350500,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "泉州市"
       },
       {
         "cityName": "莆田",
@@ -7780,19 +7780,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -3,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 3,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-3",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
@@ -20449,8 +20436,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 3,
-    "midDangerCount": 2,
+    "highDangerCount": 0,
+    "midDangerCount": 3,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -20643,8 +20630,8 @@
         "suspectedCount": 0,
         "curedCount": 15,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 2,
+        "highDangerCount": 0,
+        "midDangerCount": 3,
         "locationId": 341100,
         "currentConfirmedCountStr": "0",
         "fullCityName": "滁州市"
@@ -20679,27 +20666,17 @@
     "dangerAreas": [
       {
         "cityName": "滁州",
-        "areaName": "琅琊区港铭新材料科技公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滁州",
-        "areaName": "琅琊区韩上电器有限公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滁州",
-        "areaName": "琅琊区中州国际广场一至三层商铺",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滁州",
-        "areaName": "琅琊区中州国际广场中州酒店和中州大厦",
+        "areaName": "港铭新材料科技公司",
         "dangerLevel": 2
       },
       {
         "cityName": "滁州",
-        "areaName": "南谯区振华家电有限公司",
+        "areaName": "韩上电器有限公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "滁州",
+        "areaName": "中州国际广场一至三层商铺",
         "dangerLevel": 2
       }
     ]
