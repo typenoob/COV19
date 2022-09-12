@@ -7298,8 +7298,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 4,
-    "midDangerCount": 9,
+    "highDangerCount": 5,
+    "midDangerCount": 10,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -7390,8 +7390,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 110112,
         "currentConfirmedCountStr": "96",
         "fullCityName": "通州区"
@@ -7579,6 +7579,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "通州区",
+        "areaName": "宋庄镇富豪村956号、998号、999号、1000号",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "海淀区",
         "areaName": "卡姆游泳健身（七彩店）",
         "dangerLevel": 2
@@ -7621,6 +7626,11 @@
       {
         "cityName": "丰台区",
         "areaName": "丰台街道东大街6号院12号楼（除7、8单元）和10号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "富豪村除高风险区域外的其他区域",
         "dangerLevel": 2
       }
     ]
@@ -13701,8 +13711,8 @@
     "comment": "",
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-    "highDangerCount": 6,
-    "midDangerCount": 14,
+    "highDangerCount": 4,
+    "midDangerCount": 11,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -13713,8 +13723,8 @@
         "suspectedCount": 1,
         "curedCount": 25096,
         "deadCount": 0,
-        "highDangerCount": 6,
-        "midDangerCount": 14,
+        "highDangerCount": 4,
+        "midDangerCount": 11,
         "locationId": 220100,
         "currentConfirmedCountStr": "162",
         "fullCityName": "长春市"
@@ -13867,16 +13877,6 @@
     "dangerAreas": [
       {
         "cityName": "长春",
-        "areaName": "二道区长春市传染病医院B栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "长春",
-        "areaName": "南关区幸福乡吉森漫桦林二期9栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "长春",
         "areaName": "双阳区云山街道城市嘉园二期66号楼",
         "dangerLevel": 1
       },
@@ -13912,27 +13912,7 @@
       },
       {
         "cityName": "长春",
-        "areaName": "宽城区兴业街道东安白金首府洋房11栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "宽城区兴业街道中正御华庭2栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "绿园区春城街道景阳大路御景名家A区8栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
         "areaName": "绿园区普阳街道朝阳小区5区5栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "长春",
-        "areaName": "绿园区普阳街道龙城御苑13栋",
         "dangerLevel": 2
       },
       {
@@ -13947,7 +13927,7 @@
       },
       {
         "cityName": "长春",
-        "areaName": "南关区长通街道长通家园A1栋、A3栋",
+        "areaName": "南关区幸福乡吉森漫桦林二期9栋",
         "dangerLevel": 2
       },
       {
@@ -13963,6 +13943,11 @@
       {
         "cityName": "长春",
         "areaName": "双阳区云山街道石桥社区葡京市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "长春",
+        "areaName": "长春市传染病医院B栋",
         "dangerLevel": 2
       }
     ]
