@@ -4061,15 +4061,15 @@
     "cities": [
       {
         "cityName": "拉萨",
-        "currentConfirmedCount": 486,
-        "confirmedCount": 523,
+        "currentConfirmedCount": 495,
+        "confirmedCount": 532,
         "suspectedCount": 0,
         "curedCount": 37,
         "deadCount": 0,
         "highDangerCount": 139,
         "midDangerCount": 43,
         "locationId": 540100,
-        "currentConfirmedCountStr": "486",
+        "currentConfirmedCountStr": "495",
         "fullCityName": "拉萨市"
       },
       {
@@ -4086,30 +4086,30 @@
         "fullCityName": "日喀则市"
       },
       {
-        "cityName": "昌都",
-        "currentConfirmedCount": 87,
-        "confirmedCount": 213,
-        "suspectedCount": 0,
-        "curedCount": 126,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 540300,
-        "currentConfirmedCountStr": "87",
-        "fullCityName": "昌都市"
-      },
-      {
         "cityName": "那曲",
-        "currentConfirmedCount": 81,
-        "confirmedCount": 81,
+        "currentConfirmedCount": 82,
+        "confirmedCount": 82,
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
         "highDangerCount": 4,
         "midDangerCount": 21,
         "locationId": 540600,
-        "currentConfirmedCountStr": "81",
+        "currentConfirmedCountStr": "82",
         "fullCityName": "那曲市"
+      },
+      {
+        "cityName": "昌都",
+        "currentConfirmedCount": 70,
+        "confirmedCount": 213,
+        "suspectedCount": 0,
+        "curedCount": 143,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 540300,
+        "currentConfirmedCountStr": "70",
+        "fullCityName": "昌都市"
       },
       {
         "cityName": "林芝",
@@ -4152,15 +4152,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -478,
-        "confirmedCount": 18,
+        "currentConfirmedCount": -471,
+        "confirmedCount": 8,
         "suspectedCount": 0,
-        "curedCount": 496,
+        "curedCount": 479,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-478",
+        "currentConfirmedCountStr": "-471",
         "fullCityName": "待明确地区"
       }
     ],
@@ -17695,7 +17695,7 @@
     "comment": "河北卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
-    "highDangerCount": 2,
+    "highDangerCount": 4,
     "midDangerCount": 1,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
@@ -17707,7 +17707,7 @@
         "suspectedCount": 0,
         "curedCount": 1049,
         "deadCount": 1,
-        "highDangerCount": 0,
+        "highDangerCount": 2,
         "midDangerCount": 0,
         "locationId": 130100,
         "currentConfirmedCountStr": "17",
@@ -17893,6 +17893,16 @@
       {
         "cityName": "承德",
         "areaName": "双滦区西地新村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "石家庄",
+        "areaName": "裕华路街道青园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "石家庄",
+        "areaName": "裕华区建通街道盛邦花园一区",
         "dangerLevel": 1
       },
       {
