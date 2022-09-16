@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 5825583,
-    "confirmedCount": 5849748,
+    "currentConfirmedCount": 5867144,
+    "confirmedCount": 5891355,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 10423,
+    "deadCount": 10469,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -2561,7 +2561,7 @@
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
     "highDangerCount": 3,
-    "midDangerCount": 9,
+    "midDangerCount": 8,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -2586,7 +2586,7 @@
         "curedCount": 15,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 460400,
         "currentConfirmedCountStr": "455",
         "fullCityName": "儋州市"
@@ -2854,11 +2854,6 @@
       {
         "cityName": "儋州",
         "areaName": "那大镇先锋社区：文化北路泰安苑F3栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "儋州",
-        "areaName": "新英湾办事处：黎屋水库旁新都居委会陈某养殖场（槟榔村、昌文村集体用地",
         "dangerLevel": 2
       }
     ]
@@ -5181,8 +5176,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 5,
-    "midDangerCount": 8,
+    "highDangerCount": 4,
+    "midDangerCount": 10,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -5194,7 +5189,7 @@
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 4,
+        "midDangerCount": 5,
         "locationId": 110105,
         "currentConfirmedCountStr": "573",
         "fullCityName": "朝阳区"
@@ -5259,8 +5254,8 @@
         "suspectedCount": 0,
         "curedCount": 50,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 110114,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -5457,11 +5452,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "昌平区",
-        "areaName": "南口（地区）镇 北京化工大学昌平校区1号楼、3号楼、4号楼、11号楼",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "大兴区",
         "areaName": "亦庄镇小康家园14号楼",
         "dangerLevel": 1
@@ -5479,6 +5469,11 @@
       {
         "cityName": "朝阳区",
         "areaName": "平房乡泓鑫家园小区（除7号楼外）其他楼宇及底商",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "三间房乡康惠园小区3号院4号楼",
         "dangerLevel": 2
       },
       {
@@ -5505,6 +5500,11 @@
         "cityName": "海淀区",
         "areaName": "紫竹院街道中央民族大学附属中学本部(法华寺路甲5号)女生宿舍楼",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "昌平区",
+        "areaName": "南口镇北京化工大学昌平校区1号楼、2号楼、3号楼、4号楼、7号楼、11号楼",
+        "dangerLevel": 2
       }
     ]
   },
@@ -5522,7 +5522,7 @@
     "locationId": 350000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 2,
+    "midDangerCount": 4,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 156,
     "cities": [
@@ -5547,7 +5547,7 @@
         "curedCount": 401,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 350200,
         "currentConfirmedCountStr": "5",
         "fullCityName": "厦门市"
@@ -5666,6 +5666,16 @@
       {
         "cityName": "福州",
         "areaName": "马尾区亭江镇笏山村全域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "厦门",
+        "areaName": "思明区湖滨北路28号建业大厦1-2层裙楼潮福城大酒楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "厦门",
+        "areaName": "思明区厦港街道巡司顶社区部分区域：厦港新村11、13、15、17、19、21、23、25、27、29、31、33、35、37、39、41号、厦港新村5-1号；巡司顶巷1、23、25号；巡司顶巷4-2、4-4、4-5、4-6、4-7、4-8、4-10、4-11号；巡司顶巷6号（海龙小区）；巡司顶巷10、12、6-1、6-2、6-3、6-4号；思明南路483、485、487号；巡司顶巷3、5、7、9、16号；永福宫巷1、3、5、7、9、10、11、12、13、15、17、19、21、23、25、27号；思明南路479号；巡司顶巷16-1、16-2、16-3、16-4、16-5号",
         "dangerLevel": 2
       }
     ]
@@ -9199,8 +9209,8 @@
     "comment": "",
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 2,
-    "midDangerCount": 4,
+    "highDangerCount": 3,
+    "midDangerCount": 7,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -9212,7 +9222,7 @@
         "curedCount": 620,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 210200,
         "currentConfirmedCountStr": "45",
         "fullCityName": "大连市"
@@ -9237,8 +9247,8 @@
         "suspectedCount": 0,
         "curedCount": 246,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 1,
+        "highDangerCount": 3,
+        "midDangerCount": 6,
         "locationId": 210100,
         "currentConfirmedCountStr": "14",
         "fullCityName": "沈阳市"
@@ -9416,6 +9426,11 @@
     "dangerAreas": [
       {
         "cityName": "沈阳",
+        "areaName": "沈河区风雨坛街道进华社区义安小区的19号、19-1号、19-2号、19-4号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "沈阳",
         "areaName": "铁西区霁虹街道保利百合花园（北园）小区",
         "dangerLevel": 1
       },
@@ -9425,23 +9440,38 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "大连",
-        "areaName": "西岗区香炉礁街道金海社区香水湾5号",
+        "cityName": "沈阳",
+        "areaName": "进华社区涵泰商务大厦",
         "dangerLevel": 2
       },
       {
-        "cityName": "大连",
-        "areaName": "中山区葵英街道文明巷（39-42号）",
+        "cityName": "沈阳",
+        "areaName": "进华社区六纬路46号单体楼",
         "dangerLevel": 2
       },
       {
-        "cityName": "鞍山",
-        "areaName": "岫岩满族自治县阜昌街道办事处越都华庭小区",
+        "cityName": "沈阳",
+        "areaName": "沈河区风雨坛街道进华社区义安小区内除高风险外的其他楼宇",
         "dangerLevel": 2
       },
       {
         "cityName": "沈阳",
         "areaName": "铁西区北至北一东路，南至北二东路，东至沈大高速铁路线，西至云峰北街区域，除高风险区以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沈阳",
+        "areaName": "朱剪炉街道宝石社区小西路38号单体楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沈阳",
+        "areaName": "朱剪炉街道迎新社区大西路316号单体楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "岫岩满族自治县阜昌街道办事处越都华庭小区",
         "dangerLevel": 2
       }
     ]
@@ -10193,8 +10223,8 @@
     "comment": "3 月 17 日贵阳市新增 1 例境外输入无症状感染者",
     "locationId": 520000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/148/3398299753820971243-135.json",
-    "highDangerCount": 229,
-    "midDangerCount": 87,
+    "highDangerCount": 233,
+    "midDangerCount": 89,
     "detectOrgCount": 121,
     "vaccinationOrgCount": 13,
     "cities": [
@@ -10244,8 +10274,8 @@
         "suspectedCount": 0,
         "curedCount": 59,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 1,
+        "highDangerCount": 6,
+        "midDangerCount": 3,
         "locationId": 520300,
         "currentConfirmedCountStr": "2",
         "fullCityName": "遵义市"
@@ -11446,6 +11476,36 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇永安社区聚城名都2栋1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇遵金村民兴组131号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇遵金村民兴组63号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇遵金村民兴组众合利建材有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "红花岗区忠庄街道天蕴南苑小区（原天蕴南加州小区）27栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "南关街道海风井水果批发市场",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "毕节",
         "areaName": "马场镇陈家寨村",
         "dangerLevel": 1
@@ -11458,16 +11518,6 @@
       {
         "cityName": "毕节",
         "areaName": "马场镇马家屯村王家寨组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "遵义",
-        "areaName": "红花岗区忠庄街道天蕴南苑小区（原天蕴南加州小区）27栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "遵义",
-        "areaName": "南关街道海风井水果批发市场",
         "dangerLevel": 1
       },
       {
@@ -11896,6 +11946,21 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇永安社区聚城名都2栋2单元和3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "播州区泮水镇遵金村民兴组326国道以北除63号、131号和众合利建材有限公司以外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "遵义",
+        "areaName": "红花岗区忠庄街道天蕴南苑小区除27栋以外的区域",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "黔南州",
         "areaName": "贵定县盘江镇富民北路（红旗村小坪司）",
         "dangerLevel": 2
@@ -11903,11 +11968,6 @@
       {
         "cityName": "黔南州",
         "areaName": "贵定县盘江镇新沿村千户布依寨（含盘江美食一条街）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "遵义",
-        "areaName": "红花岗区忠庄街道天蕴南苑小区除27栋以外的区域",
         "dangerLevel": 2
       }
     ]
