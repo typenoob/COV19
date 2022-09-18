@@ -59,15 +59,15 @@
     "cities": [
       {
         "cityName": "成都",
-        "currentConfirmedCount": 658,
+        "currentConfirmedCount": 561,
         "confirmedCount": 3626,
         "suspectedCount": 0,
-        "curedCount": 2965,
+        "curedCount": 3062,
         "deadCount": 3,
         "highDangerCount": 29,
         "midDangerCount": 121,
         "locationId": 510100,
-        "currentConfirmedCountStr": "658",
+        "currentConfirmedCountStr": "561",
         "fullCityName": "成都市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -309,
+        "currentConfirmedCount": -212,
         "confirmedCount": 72,
         "suspectedCount": 0,
-        "curedCount": 381,
+        "curedCount": 284,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-309",
+        "currentConfirmedCountStr": "-212",
         "fullCityName": "待明确地区"
       }
     ],
@@ -2543,15 +2543,15 @@
     "cities": [
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 302,
+        "currentConfirmedCount": 261,
         "confirmedCount": 3665,
         "suspectedCount": 3,
-        "curedCount": 3360,
+        "curedCount": 3401,
         "deadCount": 3,
         "highDangerCount": 7,
         "midDangerCount": 18,
         "locationId": 440300,
-        "currentConfirmedCountStr": "302",
+        "currentConfirmedCountStr": "261",
         "fullCityName": "深圳市"
       },
       {
@@ -2569,15 +2569,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 123,
+        "currentConfirmedCount": 113,
         "confirmedCount": 3475,
         "suspectedCount": 3,
-        "curedCount": 3351,
+        "curedCount": 3361,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "123",
+        "currentConfirmedCountStr": "113",
         "fullCityName": "广州市"
       },
       {
@@ -2816,15 +2816,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -439,
+        "currentConfirmedCount": -388,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 439,
+        "curedCount": 388,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-439",
+        "currentConfirmedCountStr": "-388",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3035,7 +3035,7 @@
     "locationId": 540000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968039885-135.json",
     "highDangerCount": 28,
-    "midDangerCount": 122,
+    "midDangerCount": 118,
     "detectOrgCount": 32,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -3073,23 +3073,10 @@
         "curedCount": 0,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 5,
+        "midDangerCount": 2,
         "locationId": 540600,
         "currentConfirmedCountStr": "83",
         "fullCityName": "那曲市"
-      },
-      {
-        "cityName": "昌都",
-        "currentConfirmedCount": 63,
-        "confirmedCount": 216,
-        "suspectedCount": 0,
-        "curedCount": 153,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 540300,
-        "currentConfirmedCountStr": "63",
-        "fullCityName": "昌都市"
       },
       {
         "cityName": "林芝",
@@ -3103,6 +3090,19 @@
         "locationId": 540400,
         "currentConfirmedCountStr": "49",
         "fullCityName": "林芝市"
+      },
+      {
+        "cityName": "昌都",
+        "currentConfirmedCount": 23,
+        "confirmedCount": 216,
+        "suspectedCount": 0,
+        "curedCount": 193,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 540300,
+        "currentConfirmedCountStr": "23",
+        "fullCityName": "昌都市"
       },
       {
         "cityName": "阿里地区",
@@ -3125,22 +3125,22 @@
         "curedCount": 12,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 540500,
         "currentConfirmedCountStr": "0",
         "fullCityName": "山南市"
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -678,
+        "currentConfirmedCount": -638,
         "confirmedCount": 10,
         "suspectedCount": 0,
-        "curedCount": 688,
+        "curedCount": 648,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-678",
+        "currentConfirmedCountStr": "-638",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3862,32 +3862,12 @@
       },
       {
         "cityName": "那曲",
+        "areaName": "仁毛居委会（除4组以外的其他组）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "那曲",
         "areaName": "色尼居委会4组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "那曲",
-        "areaName": "色尼区德吉居委会3组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "那曲",
-        "areaName": "色尼区那曲镇15村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "那曲",
-        "areaName": "色尼区仁毛居委会（除4组以外的其他组）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "那曲",
-        "areaName": "色尼区色尼居委会（除2组、4组、5组以外的其他组）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "山南",
-        "areaName": "贡嘎县杰德秀镇杰德秀社区",
         "dangerLevel": 2
       },
       {
