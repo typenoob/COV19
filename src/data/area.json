@@ -7638,8 +7638,8 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 41,
-    "midDangerCount": 77,
+    "highDangerCount": 42,
+    "midDangerCount": 79,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -7715,8 +7715,8 @@
         "suspectedCount": 8,
         "curedCount": 1386,
         "deadCount": 4,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 230100,
         "currentConfirmedCountStr": "0",
         "fullCityName": "哈尔滨市"
@@ -8044,6 +8044,11 @@
       {
         "cityName": "黑河",
         "areaName": "爱辉区花园街道博文社区华泰龙江嘉园小区（龙江路115—1号）及附属门市",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "香坊区高丽风情小镇16号楼",
         "dangerLevel": 1
       },
       {
@@ -8429,6 +8434,16 @@
       {
         "cityName": "黑河",
         "areaName": "武庙屯社区水务移动小区水务2号楼及附属门市",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "高丽风情小镇（除16号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "金源幸福小区",
         "dangerLevel": 2
       }
     ]
@@ -14006,7 +14021,7 @@
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
     "highDangerCount": 12,
-    "midDangerCount": 17,
+    "midDangerCount": 16,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -14109,7 +14124,7 @@
         "curedCount": 3,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 621000,
         "currentConfirmedCountStr": "5",
         "fullCityName": "庆阳市"
@@ -14371,11 +14386,6 @@
       {
         "cityName": "酒泉",
         "areaName": "世博瑾江宴主题酒菜馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "庆阳",
-        "areaName": "陇东学院校区",
         "dangerLevel": 2
       }
     ]
