@@ -97,19 +97,6 @@
         "fullCityName": "遂宁市"
       },
       {
-        "cityName": "成都",
-        "currentConfirmedCount": 134,
-        "confirmedCount": 3663,
-        "suspectedCount": 0,
-        "curedCount": 3526,
-        "deadCount": 3,
-        "highDangerCount": 3,
-        "midDangerCount": 2,
-        "locationId": 510100,
-        "currentConfirmedCountStr": "134",
-        "fullCityName": "成都市"
-      },
-      {
         "cityName": "阿坝州",
         "currentConfirmedCount": 108,
         "confirmedCount": 109,
@@ -134,6 +121,19 @@
         "locationId": 511600,
         "currentConfirmedCountStr": "87",
         "fullCityName": "广安市"
+      },
+      {
+        "cityName": "成都",
+        "currentConfirmedCount": 69,
+        "confirmedCount": 3663,
+        "suspectedCount": 0,
+        "curedCount": 3591,
+        "deadCount": 3,
+        "highDangerCount": 3,
+        "midDangerCount": 2,
+        "locationId": 510100,
+        "currentConfirmedCountStr": "69",
+        "fullCityName": "成都市"
       },
       {
         "cityName": "泸州",
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -473,
+        "currentConfirmedCount": -408,
         "confirmedCount": 165,
         "suspectedCount": 0,
-        "curedCount": 638,
+        "curedCount": 573,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-473",
+        "currentConfirmedCountStr": "-408",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1136,16 +1136,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "成都",
-        "areaName": "金牛区荷花池街道北站西二路4号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "金牛区荷花池街道西北桥北街148号、152号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "宜宾",
         "areaName": "三江新区地中海蓝湾一期",
         "dangerLevel": 2
@@ -1153,6 +1143,16 @@
       {
         "cityName": "宜宾",
         "areaName": "叙州区赵场街道山水原著原香岭小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "金牛区荷花池街道北站西二路4号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "金牛区荷花池街道西北桥北街148号、152号",
         "dangerLevel": 2
       },
       {
@@ -2338,8 +2338,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 17,
-    "midDangerCount": 16,
+    "highDangerCount": 18,
+    "midDangerCount": 17,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -2358,28 +2358,28 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 100,
+        "currentConfirmedCount": 92,
         "confirmedCount": 3558,
         "suspectedCount": 3,
-        "curedCount": 3457,
+        "curedCount": 3465,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "100",
+        "currentConfirmedCountStr": "92",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 91,
+        "currentConfirmedCount": 75,
         "confirmedCount": 3725,
         "suspectedCount": 3,
-        "curedCount": 3631,
+        "curedCount": 3647,
         "deadCount": 3,
-        "highDangerCount": 12,
-        "midDangerCount": 13,
+        "highDangerCount": 13,
+        "midDangerCount": 14,
         "locationId": 440300,
-        "currentConfirmedCountStr": "91",
+        "currentConfirmedCountStr": "75",
         "fullCityName": "深圳市"
       },
       {
@@ -2618,15 +2618,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -464,
+        "currentConfirmedCount": -440,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 464,
+        "curedCount": 440,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-464",
+        "currentConfirmedCountStr": "-440",
         "fullCityName": "待明确地区"
       }
     ],
@@ -2679,6 +2679,11 @@
       {
         "cityName": "深圳",
         "areaName": "南园街道沙埔头综合楼、沙埔头村东第2栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "沙头街道金地社区金地花园生活区第310栋",
         "dangerLevel": 1
       },
       {
@@ -2769,6 +2774,11 @@
       {
         "cityName": "深圳",
         "areaName": "南园街道沙埔头村东第1栋、东第3栋-东第19栋、东第21栋-东第32栋、西第1栋-西第21栋，沙埔头大厦第1栋-第2栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "沙头街道金地社区金地花园生活区第311栋",
         "dangerLevel": 2
       },
       {
@@ -2870,15 +2880,15 @@
       },
       {
         "cityName": "昌都",
-        "currentConfirmedCount": 2,
+        "currentConfirmedCount": 1,
         "confirmedCount": 216,
         "suspectedCount": 0,
-        "curedCount": 214,
+        "curedCount": 215,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 540300,
-        "currentConfirmedCountStr": "2",
+        "currentConfirmedCountStr": "1",
         "fullCityName": "昌都市"
       },
       {
@@ -2909,15 +2919,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -793,
+        "currentConfirmedCount": -792,
         "confirmedCount": 15,
         "suspectedCount": 0,
-        "curedCount": 808,
+        "curedCount": 807,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-793",
+        "currentConfirmedCountStr": "-792",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3268,7 +3278,7 @@
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 8,
+    "midDangerCount": 6,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -3280,7 +3290,7 @@
         "curedCount": 232,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 7,
+        "midDangerCount": 5,
         "locationId": 150400,
         "currentConfirmedCountStr": "128",
         "fullCityName": "赤峰市"
@@ -3471,16 +3481,6 @@
       {
         "cityName": "赤峰",
         "areaName": "阿鲁科尔沁旗天山镇郊房身村二组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "赤峰",
-        "areaName": "高新技术产业开发区红山产业园赤药路1号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "赤峰",
-        "areaName": "红山区永巨街道药厂5号楼",
         "dangerLevel": 2
       },
       {
@@ -3791,7 +3791,7 @@
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
     "highDangerCount": 408,
-    "midDangerCount": 276,
+    "midDangerCount": 274,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -3868,7 +3868,7 @@
         "curedCount": 151,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 230600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "大庆市"
@@ -7394,16 +7394,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "大庆",
-        "areaName": "龙凤区龙凤镇鑫腾宾馆全域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "大庆",
-        "areaName": "萨尔图区东风街道新星小区F组团H3号楼",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "牡丹江",
         "areaName": "柴河镇被服小区",
         "dangerLevel": 2
@@ -7579,8 +7569,8 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 45,
-    "midDangerCount": 33,
+    "highDangerCount": 46,
+    "midDangerCount": 34,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -7682,8 +7672,8 @@
         "suspectedCount": 0,
         "curedCount": 32,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 2,
+        "highDangerCount": 3,
+        "midDangerCount": 3,
         "locationId": 120110,
         "currentConfirmedCountStr": "11",
         "fullCityName": "东丽区"
@@ -8025,6 +8015,11 @@
       },
       {
         "cityName": "东丽区",
+        "areaName": "丰年村万科民和巷花园小区18号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东丽区",
         "areaName": "华侨城汇涛苑4号楼",
         "dangerLevel": 1
       },
@@ -8179,13 +8174,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "和平区",
-        "areaName": "新兴街吴家窑二号路15号楼及相连底商",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "和平区",
-        "areaName": "新兴街新中东里1-7号楼",
+        "cityName": "东丽区",
+        "areaName": "丰年村街万科民和巷花园小区5、12、13、16、17、19、20、21、25、28号楼",
         "dangerLevel": 2
       },
       {
@@ -8196,6 +8186,16 @@
       {
         "cityName": "东丽区",
         "areaName": "张贵庄街詹滨西里小区南院除高风险区以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "和平区",
+        "areaName": "新兴街吴家窑二号路15号楼及相连底商",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "和平区",
+        "areaName": "新兴街新中东里1-7号楼",
         "dangerLevel": 2
       },
       {
@@ -10021,7 +10021,7 @@
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -10059,7 +10059,7 @@
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 500152,
         "currentConfirmedCountStr": "3",
         "fullCityName": "潼南区"
@@ -10559,13 +10559,7 @@
         "fullCityName": "酉阳土家族苗族自治县"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "潼南区",
-        "areaName": "梓潼街道外滩国际城一期第6栋",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "jiangsu",
@@ -13797,7 +13791,7 @@
     "locationId": 650000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
     "highDangerCount": 84,
-    "midDangerCount": 86,
+    "midDangerCount": 70,
     "detectOrgCount": 216,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -13809,7 +13803,7 @@
         "curedCount": 890,
         "deadCount": 0,
         "highDangerCount": 27,
-        "midDangerCount": 57,
+        "midDangerCount": 41,
         "locationId": 650100,
         "currentConfirmedCountStr": "80",
         "fullCityName": "乌鲁木齐市"
@@ -14446,42 +14440,12 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 北京路街道中营工社区北京南路467号216核工业小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 北站西路街道河南庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 大小西门街道红旗路社区民主路前巷53号院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 大小西门街道红旗路社区新生巷133号自建房",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 大小西门街道中山路社区民主路196号电力宾馆家属院",
         "dangerLevel": 2
       },
       {
         "cityName": "乌鲁木齐",
         "areaName": " 二道桥街道福寿巷社区除民政厅家属院、经贸厅家属院其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 二工街道天津北路社区嘉盛园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 华光街街道昆仑东街社区映象南湖小区二期",
         "dangerLevel": 2
       },
       {
@@ -14511,17 +14475,7 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 解放南路街道天池路社区龙泉街120号自治区人民医院家属院除高风险外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 碱泉街道青年路东社区青年路北二巷2号优诗美地二期",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 碱泉街街道方圆社区虹桥二街38号方苑小区",
         "dangerLevel": 2
       },
       {
@@ -14531,32 +14485,12 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 六道湾街道北山坡社区工行干校家属院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 六道湾街道克东路社区南湖东路29号家属",
         "dangerLevel": 2
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 六道湾街道六道湾社区昆仑东街102号华凌公馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 南湖北路街道王家梁社区民兴巷整个巷道29栋自建房及二手车市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 南湾街街道波斯坦巷社区波斯坦巷145号波斯坦小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 南湾街街道夏玛勒巴克巷社区除高风险区外其他区域",
         "dangerLevel": 2
       },
       {
@@ -14631,11 +14565,6 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 幸福路街道幸福城市花园社区金沙滩南二巷西幸福城市花园七期50号楼、53号楼、55号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 幸福路街道幸福路社区体育馆路101号自治区总工会家属院",
         "dangerLevel": 2
       },
@@ -14656,11 +14585,6 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": " 新民路街道新城社区九天河向阳小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": " 新民路街道新大地社区乌鲁木齐市职业大学继续教育学院",
         "dangerLevel": 2
       },
@@ -14672,11 +14596,6 @@
       {
         "cityName": "乌鲁木齐",
         "areaName": " 延安路街道西域轻工社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": " 迎宾路街道新明路社区石油勘探地调处家属院",
         "dangerLevel": 2
       },
       {
@@ -14722,11 +14641,6 @@
       {
         "cityName": "乌鲁木齐",
         "areaName": " 自治区第二人民医院（维吾尔医医院）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "乌鲁木齐",
-        "areaName": "二道桥福寿巷社区天池路30号家属院",
         "dangerLevel": 2
       },
       {
@@ -15188,7 +15102,7 @@
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 0,
+    "midDangerCount": 1,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -15239,7 +15153,7 @@
         "curedCount": 163,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 341200,
         "currentConfirmedCountStr": "0",
         "fullCityName": "阜阳市"
@@ -15414,7 +15328,13 @@
         "fullCityName": "宣城市"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "阜阳",
+        "areaName": "颍州区碧水雅苑小区B2区及其附属商铺门店",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "aomen",
