@@ -52,7 +52,7 @@
     "comment": "",
     "locationId": 510000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-    "highDangerCount": 81,
+    "highDangerCount": 83,
     "midDangerCount": 61,
     "detectOrgCount": 413,
     "vaccinationOrgCount": 131,
@@ -90,7 +90,7 @@
         "suspectedCount": 0,
         "curedCount": 22,
         "deadCount": 0,
-        "highDangerCount": 76,
+        "highDangerCount": 75,
         "midDangerCount": 57,
         "locationId": 510900,
         "currentConfirmedCountStr": "143",
@@ -103,7 +103,7 @@
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 3,
         "midDangerCount": 0,
         "locationId": 513200,
         "currentConfirmedCountStr": "108",
@@ -682,11 +682,6 @@
       },
       {
         "cityName": "遂宁",
-        "areaName": "船山区新星路1号惠民小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "遂宁",
         "areaName": "船山区远成中心小区(其中，23栋已于9月22日划定为高风险区)",
         "dangerLevel": 1
       },
@@ -738,6 +733,21 @@
       {
         "cityName": "成都",
         "areaName": "金牛区荷花池街道一环路北二段7号、西北桥北街100号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "阿坝州",
+        "areaName": "马尔康镇嘉绒文化美食街62号（绒兴家苑1栋及商铺、2栋及商铺、马尔康镇综合市场靠绒兴家苑一楼商铺）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "阿坝州",
+        "areaName": "马尔康镇绕城路3号（州级周转房3期，1期1栋、2栋、3栋）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "阿坝州",
+        "areaName": "马尔康镇团结街225号（州级机关幼儿园教学楼、宿舍楼、综合大楼在建工地）",
         "dangerLevel": 1
       },
       {
@@ -1863,7 +1873,7 @@
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 8,
+    "midDangerCount": 1,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -1927,7 +1937,7 @@
         "curedCount": 14,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 8,
+        "midDangerCount": 1,
         "locationId": 469006,
         "currentConfirmedCountStr": "254",
         "fullCityName": "万宁市"
@@ -2105,41 +2115,6 @@
     "dangerAreas": [
       {
         "cityName": "万宁",
-        "areaName": "东方社区高田村、义德小区（东至水渠、南至小区围墙、西至东光批发市场西侧围墙、北以水渠为起点往西210米）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "番村社区（东至文明南路、南至万明街、西至万德街、北至红专中路）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "万隆社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "新海社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "西门社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "裕光社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
-        "areaName": "镇南社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "万宁",
         "areaName": "中央坡道班（东至水渠、南至红专西路、西至丰南南路、北至人民西路）",
         "dangerLevel": 2
       }
@@ -2158,8 +2133,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 23,
-    "midDangerCount": 20,
+    "highDangerCount": 28,
+    "midDangerCount": 25,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -2196,8 +2171,8 @@
         "suspectedCount": 3,
         "curedCount": 3652,
         "deadCount": 3,
-        "highDangerCount": 18,
-        "midDangerCount": 17,
+        "highDangerCount": 23,
+        "midDangerCount": 22,
         "locationId": 440300,
         "currentConfirmedCountStr": "94",
         "fullCityName": "深圳市"
@@ -2453,92 +2428,117 @@
     "dangerAreas": [
       {
         "cityName": "深圳",
-        "areaName": "翠竹街道新村社区水库新村统建楼8栋",
+        "areaName": "宝安区西乡街道蚝业雅苑C栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "东湖街道梧桐山社区茂仔村124号",
+        "areaName": "大鹏新区大鹏办事处鹏飞路滨海花园32栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "东门街道立新社区立新花园10栋底层",
+        "areaName": "福田区华富街道田面新村第19栋-第21栋、第25栋-第27栋、第32栋-第34栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "黄贝街道黄贝岭社区黄贝岭中村18、19、20、32、33、34、37、38、39栋",
+        "areaName": "福田区华强北街道航苑大厦东座和西座（第4层-第30层）、都会100、华强广场C座和D座",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "黄贝街道新秀社区新秀村北区7栋",
+        "areaName": "福田区华强北街道上步工业区402B栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "华富街道田面新村第19栋-第21栋、第25栋-第27栋、第32栋-第34栋",
+        "areaName": "福田区南园街道巴登村第17栋、第34栋-第35栋、第40栋-第41栋、第56栋-第58栋、第63栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "华强北街道上步工业区402B栋",
+        "areaName": "福田区南园街道沙埔头村东第1栋、东第3栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "航苑大厦东座和西座（第4层—第30层）、都会100、华强广场C座和D座",
+        "areaName": "福田区南园街道沙埔头村东第4栋、东第6栋二单元、东第7栋、东第9栋-第11栋、西第4栋、西第8栋一单元、西第10栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南岭村社区荔枝花园B4、B5栋",
+        "areaName": "福田区南园街道沙埔头综合楼、沙埔头村东第2栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道巴登村第17栋、第34栋-第35栋、第40栋-第41栋、第56栋-第58栋、第63栋",
+        "areaName": "福田区沙头街道金地社区金地花园生活区第310栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道沙埔头村东第1栋、东第3栋",
+        "areaName": "福田区沙头街道沙尾东村第47-48栋、第162-163栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道沙埔头村东第4栋、东第6栋二单元、东第7栋、东第9栋-第11栋、西第4栋、西第8栋一单元、西第10栋",
+        "areaName": "福田区沙头街道沙尾西村第19-20栋、第38栋、第39栋、第40-41栋、第42栋、第43栋、第48栋-第52栋，沙尾东村第95-96栋、第103-104栋、第105-106栋、第112栋、第113栋，沙尾村沙尾综合楼A座",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道沙埔头综合楼、沙埔头村东第2栋",
+        "areaName": "福田区沙头街道新洲祠堂村第60栋、第69栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "厦村社区厦园路42栋、48栋",
+        "areaName": "龙岗区南湾街道南岭村社区荔枝花园B4、B5栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道金地社区金地花园生活区第310栋",
+        "areaName": "龙岗区南湾街道厦村社区厦园路42栋、48栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道沙尾东村第47-48栋、第162-163栋",
+        "areaName": "罗湖区翠竹街道新村社区水库新村统建楼8栋",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道沙尾西村第19-20栋、第38栋、第39栋、第40-41栋、第42栋、第43栋、第48栋-第52栋，沙尾东村第95-96栋、第103-104栋、第105-106栋、第112栋、第113栋，沙尾村沙尾综合楼A座",
+        "areaName": "罗湖区东湖街道梧桐山社区茂仔村124号",
         "dangerLevel": 1
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道新洲祠堂村第60栋、第69栋",
+        "areaName": "龙华区大浪街道高峰社区澳华新村第1至13号，下早新村第48至50号、第52号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东门街道立新社区立新花园10栋底层",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东门街道立新社区立新花园4栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道黄贝岭社区黄贝岭中村18、19、20、32、33、34、37、38、39栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道新秀社区新秀村北区7栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区清水河街道草埔西社区吓围新村54栋",
         "dangerLevel": 1
       },
       {
@@ -2568,27 +2568,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "翠竹街道新村社区水库新村统建楼7栋、8栋，水库新村340号、341号、345号围合区域（除高风险区外）",
+        "areaName": "宝安区西乡街道蚝业雅苑（除高风险区域以外）",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "东湖街道大望社区新平村87号、198号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "东湖街道金湖社区山湖居C3栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "东湖街道梧桐山社区茂仔村121号、123号，坑背村1号、221号、222号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "东门街道立新社区立新花园10栋（除高风险区外）",
+        "areaName": "大鹏新区大鹏办事处鹏飞路滨海花园30栋、31栋、33栋",
         "dangerLevel": 2
       },
       {
@@ -2603,52 +2588,92 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "黄贝街道黄贝岭社区黄贝岭上村1至21栋，黄贝岭中村1至59栋（除高风险区外）",
+        "areaName": "福田区华强北街道上步工业区402A栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "黄贝街道新秀社区新秀村北区1至12栋、新秀深港建筑公司1至6栋围合区域（除高风险区外）",
+        "areaName": "福田区南园街道巴登村第1栋-第16栋、第18栋-第33栋、第36栋-第39栋、第42栋-第55栋、第59栋-第62栋、第64栋-第69栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "华强北街道上步工业区402A栋",
+        "areaName": "福田区南园街道沙埔头村东第4栋-东第19栋、东第21栋-东第32栋、西第1栋-西第21栋，沙埔头大厦第1栋-第2栋（高风险区除外）",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "南岭村社区荔枝花园（除A1栋和高风险区外）",
+        "areaName": "福田区沙头街道金地社区金地花园生活区第311栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道巴登村第1栋-第16栋、第18栋-第33栋、第36栋-第39栋、第42栋-第55栋、第59栋-第62栋、第64栋-第69栋",
+        "areaName": "福田区沙头街道沙尾社区（高风险区、金地一路22号除外），金地十路21号，福强路4001号第314栋、第316栋、第317栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "南园街道沙埔头村东第4栋-东第19栋、东第21栋-东第32栋、西第1栋-西第21栋，沙埔头大厦第1栋-第2栋（高风险区除外）",
+        "areaName": "福田区沙头街道新洲祠堂村第58栋、第59栋、第61栋、第66栋、第68栋、第70栋-第75栋、第77栋-第79栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "厦村社区厦园路222栋、46栋及西坊13栋、99栋、100栋、151栋、沙湾河花园",
+        "areaName": "龙岗区南湾街道南岭村社区荔枝花园（除A1栋和高风险区外）",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道金地社区金地花园生活区第311栋",
+        "areaName": "龙岗区南湾街道厦村社区厦园路222栋、46栋及西坊13栋、99栋、100栋、151栋、沙湾河花园",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道沙尾社区（高风险区、金地一路22号除外），金地十路21号，福强路4001号第314栋、第316栋、第317栋",
+        "areaName": "罗湖区翠竹街道新村社区水库新村统建楼7栋、8栋，水库新村340号、341号、345号围合区域（除高风险区外）",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "沙头街道新洲祠堂村第58栋、第59栋、第61栋、第66栋、第68栋、第70栋-第75栋、第77栋-第79栋",
+        "areaName": "罗湖区东湖街道大望社区新平村87号、198号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东湖街道金湖社区山湖居C3栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东湖街道梧桐山社区茂仔村121号、123号，坑背村1号、221号、222号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "龙华区大浪街道高峰社区澳华花园，乌石岗工业区，澳华新村第14至26号，下早新村第26号、27号、47号、53号、57至60号、第171至176号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东门街道立新社区立新花园10栋（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区东门街道立新社区立新花园1—14栋围合区域（除高风险区、现有中风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道黄贝岭社区黄贝岭上村1至21栋，黄贝岭中村1至59栋（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区黄贝街道新秀社区新秀村北区1至12栋、新秀深港建筑公司1至6栋围合区域（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "罗湖区清水河街道草埔西社区吓围新村47A栋、47B栋、48栋至50栋、53栋至55栋、62栋至64栋围合区域（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -3378,8 +3403,8 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 408,
-    "midDangerCount": 294,
+    "highDangerCount": 395,
+    "midDangerCount": 317,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -3390,8 +3415,8 @@
         "suspectedCount": 0,
         "curedCount": 58,
         "deadCount": 0,
-        "highDangerCount": 234,
-        "midDangerCount": 158,
+        "highDangerCount": 230,
+        "midDangerCount": 163,
         "locationId": 230800,
         "currentConfirmedCountStr": "83",
         "fullCityName": "佳木斯市"
@@ -3429,8 +3454,8 @@
         "suspectedCount": 0,
         "curedCount": 298,
         "deadCount": 0,
-        "highDangerCount": 154,
-        "midDangerCount": 124,
+        "highDangerCount": 145,
+        "midDangerCount": 142,
         "locationId": 231100,
         "currentConfirmedCountStr": "1",
         "fullCityName": "黑河市"
@@ -3644,6 +3669,11 @@
       {
         "cityName": "佳木斯",
         "areaName": "富锦市世纪家园B区16号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "佳木斯",
+        "areaName": "富锦市幸福社区时代鑫城小区",
         "dangerLevel": 1
       },
       {
@@ -3988,21 +4018,6 @@
       },
       {
         "cityName": "佳木斯",
-        "areaName": "汤原县北华种畜场东一号住宅(平房)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "汤原县幸福家园6号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "汤原县阳光河畔29号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "佳木斯",
         "areaName": "向阳区安民社区一建17号楼",
         "dangerLevel": 1
       },
@@ -4258,11 +4273,6 @@
       },
       {
         "cityName": "佳木斯",
-        "areaName": "向阳区金厦佳苑",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "佳木斯",
         "areaName": "向阳区金厦佳苑独栋楼",
         "dangerLevel": 1
       },
@@ -4419,11 +4429,6 @@
       {
         "cityName": "佳木斯",
         "areaName": "向阳区时代景城C区A1栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "佳木斯",
-        "areaName": "向阳区时代景城九号楼",
         "dangerLevel": 1
       },
       {
@@ -4753,772 +4758,727 @@
       },
       {
         "cityName": "黑河",
-        "areaName": " 瑷珲镇北三家子村一组 92 号—99 号",
+        "areaName": "爱辉区瑷珲镇北三家子村一组92号—99号",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区北港嘉园小区 2 单元及 2 单元附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区北港嘉园小区2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区保健佳苑小区妇幼保健院家属 楼及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区保健佳苑小区妇幼保健院家属楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区富原佳苑小区及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区富原佳苑小区及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区恒基高层 3 单元及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区恒基高层 3 单元及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区宏运小区 2 号楼及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区宏运小区2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区江滨楼及附属门市车库",
+        "areaName": "爱辉区海兰街道鹿源春社区江滨楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区金达之家小区民航家属楼6单元及6单元附属门市、国际公司改造楼2单元及2单元附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区金达之家小区民航家属楼6单元及6单元附属门市、国际公司改造楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区教委3号楼及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区热电商助小区热电商助2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区热电商助小区热电商助2号楼及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区西城老居小区药厂楼1单元及1单元附属门市、2单元及2单元附属门市、3单元及3单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区西城老居小区药厂楼1单元及1单元附属门市、2单元及2单元附属门市、3单元及3单元附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区兴成生活小区经贸委集资楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区兴成生活小区经贸委集资楼及附属门市",
+        "areaName": "爱辉区海兰街道鹿源春社区中房家园小区中房42号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区中房家园小区中房 42 号楼及附属门市",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠二期小区1A东楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠二期小区 1A 东楼及附 属门市",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠二期小区3号楼3单元及3单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠二期小区 3 号楼 3 单元及 3 单元附属车库",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠小区11号楼1单元及1单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠小区 11 号楼 1 单元及 1 单元附属车库",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠小区7号楼1单元及1单元附属车库、18号楼2单元及2单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠小区7号楼1单元及1单元附属车库、18号楼2单元及2单元附属车库",
+        "areaName": "爱辉区海兰街道温馨社区供销社家属楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区供销社家属楼3单元",
+        "areaName": "爱辉区海兰街道温馨社区金地花园小区11号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区金地花园小区 11 号楼及附属门市车库",
+        "areaName": "爱辉区海兰街道温馨社区金地花园小区13号楼4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区金地花园小区13号楼4单元及4单元附属门市",
+        "areaName": "爱辉区海兰街道温馨社区建行小区建行15号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区建行小区建行 15 号楼及附属门市",
+        "areaName": "爱辉区海兰街道温馨社区盛世华庭小区1号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区盛世华庭小区1号楼1单元",
+        "areaName": "爱辉区海兰街道温馨社区阳光嘉园小区3号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区阳光嘉园小区 3 号楼及附属车库",
+        "areaName": "爱辉区红色边疆农场福苑小区3号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 红色边疆农场福苑小区 3 号楼",
+        "areaName": "爱辉区花园街道博文社区安发家园小区8号楼5单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区安发家园小区8号楼5单元",
+        "areaName": "爱辉区花园街道博文社区安发小区3号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区安发小区 6 号楼及附属门市车库",
+        "areaName": "爱辉区花园街道博文社区安发小区6号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区安发小区3号楼1单元",
+        "areaName": "爱辉区花园街道博文社区昌辉雅典城小区1号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区安发小区7号楼4单元",
+        "areaName": "爱辉区花园街道博文社区昌辉雅典城小区3号楼1单元及1单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区昌辉雅典城小区 1 号楼及附属车库",
+        "areaName": "爱辉区花园街道博文社区法院集资楼小区",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区昌辉雅典城小区 3 号楼 1 单元及 1 单元附属门市",
+        "areaName": "爱辉区花园街道博文社区黑供小区2号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区法院集资楼小区",
+        "areaName": "爱辉区花园街道博文社区闽江佳苑小区4号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区黑供小区2号楼3单元",
+        "areaName": "爱辉区花园街道博文社区尚品观景国际小区8号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区闽江佳苑小区4号楼及附属门市",
+        "areaName": "爱辉区花园街道博文社区学府家园小区2号楼7单元及7单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区尚品观景国际小区 8 号楼及附属车库",
+        "areaName": "爱辉区花园街道博文社区星辉小区2号楼及附属门市车库、6号楼高层区及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区学府家园小区2号楼7单元及7单元附属门市",
+        "areaName": "爱辉区花园街道博文社区中超三期小区5号楼及附属门市车库、8号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区星辉小区 2 号楼及附属门市车库、6 号楼高层区及附属门市车库",
+        "areaName": "爱辉区花园街道博文社区中房尚城小区1号楼2单元及2单元附属门市、5号楼4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中超三期小区 5 号楼及附属门市车库、8 号楼及附属门市车库",
+        "areaName": "爱辉区花园街道博文社区中房尚城小区2号楼 4 单元及 4 单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中超一期小区 2 号楼 2 单元及 2 单元附属门市、3 单元及 3 单元附属门市、4 单元及 4 单元附属门市",
+        "areaName": "爱辉区花园街道金兰社区工行家属楼2号楼1单元及1单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中房尚城小区 2 号楼 4 单元及 4 单元附属门市",
+        "areaName": "爱辉区花园街道金兰社区工行家属楼小区2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中房尚城小区1号楼2单元及2单元附属门市、5号楼4单元及4单元附属门市",
+        "areaName": "爱辉区花园街道金兰社区公用局小区公用事业局2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区工行家属楼小区 2 号楼及附属门市",
+        "areaName": "爱辉区花园街道金兰社区海兰行小区1号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区公用局小区公用事业局 2 号楼及附属门市",
+        "areaName": "爱辉区花园街道金兰社区华泰滨江锦苑小区3号楼1单元及1单元附属车库、2单元及2单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区华林庭苑小区1号楼2单元及2单元附属门市",
+        "areaName": "爱辉区花园街道金兰社区路桥小区路桥楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区海兰行小区 1 号楼及附属门市",
+        "areaName": "爱辉区花园街道金兰社区世纪花园小区12号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区华泰滨江锦苑小区 3 号楼 1 单元及 1 单元附属车库、2 单元及 2 单元附属车库",
+        "areaName": "爱辉区花园街道金兰社区世纪花园小区14号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区建行家属楼小区2号楼4单元",
+        "areaName": "爱辉区花园街道金兰社区世纪花园小区14号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区路桥小区路桥楼及附属车库",
+        "areaName": "爱辉区花园街道金兰社区园丁小区1号楼3单元及3单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区世纪花园小区 12 号楼及附属车库",
+        "areaName": "爱辉区花园街道喇嘛台社区荣耀世纪小区11号楼5单元及5单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区世纪花园小区 14 号楼",
+        "areaName": "爱辉区花园街道喇嘛台社区尚品世纪经典小区7号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区世纪花园小区 14 号楼及附属车库",
+        "areaName": "爱辉区花园街道喇嘛台社区学府佳苑小区8号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区园丁小区1号楼3单元及3单元附属门市",
+        "areaName": "爱辉区花园街道联通社区教委集资楼2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区鸿城名苑小区 3 号楼 4 单元及 4 单元附属车库",
+        "areaName": "爱辉区花园街道联通社区建行小区农业小楼(独立单元楼)、 荣升久食杂店",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区荣耀世纪小区 11 号楼 5 单元及 5 单元附属车库",
+        "areaName": "爱辉区花园街道联通社区体育场小区计委家属楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区尚品世纪经典小区7号楼3单元",
+        "areaName": "爱辉区花园街道武庙屯社区大公馆小区11号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区学府佳苑小区 8 号楼及附属车库",
+        "areaName": "爱辉区花园街道武庙屯社区大公馆小区7号楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道联通社区教委集资楼 2 号楼及附属门市",
+        "areaName": "爱辉区花园街道武庙屯社区华泰颐和国际小区9号楼1单元及1单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道联通社区建行小区农业小楼（独立单元楼）、 荣升久食杂店",
+        "areaName": "爱辉区花园街道武庙屯社区隆福家园小区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区大公馆小区 11 号楼 1 单元",
+        "areaName": "爱辉区花园街道武庙屯社区之路佳苑小区11号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区大公馆小区7号楼2单元及2单元附属门市",
+        "areaName": "爱辉区花园街道武庙屯社区之路佳苑小区5号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区华泰颐和国际小区 9 号楼 1 单元及 1 单元附属门市",
+        "areaName": "爱辉区花园街道网通社区贝贝龙小区市房开59号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区华泰颐和国际小区3号楼2单元",
+        "areaName": "爱辉区花园街道网通社区楼中楼小区地开发30号楼3单元及3单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区隆福家园小区 2 号楼",
+        "areaName": "爱辉区花园街道网通社区楼中楼小区房产 34 号楼及附属 门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区之路佳苑小区 11 号楼 1 单元",
+        "areaName": "爱辉区花园街道网通社区卧牛湖小区中房2号楼4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区之路佳苑小区 5 号楼及附属车库",
+        "areaName": "爱辉区花园街道长海社区地税家属楼小区（龙滨路）地税家属楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区之路佳苑小区10号楼3单元",
+        "areaName": "爱辉区花园街道长海社区国税小区2号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区贝贝龙小区市房开59号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区黑龙大厦水利家属楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区交警队家属楼小区",
+        "areaName": "爱辉区花园街道长海社区黑龙大厦水利家属楼小区水利家属楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区楼中楼小区地开发30号楼3单元及3单元附属门市",
+        "areaName": "爱辉区花园街道长海社区黑龙小区4号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区楼中楼小区房产 34 号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区华寓小区2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区卧牛湖小区中房2开楼4单元及4单元附属门市",
+        "areaName": "爱辉区花园街道长海社区华寓小区5号楼及附属车库、2号楼4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区地税家属楼小区（龙滨路）地税家属楼",
+        "areaName": "爱辉区花园街道长海社区宏远小区宏鹏1号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区国税小区 2 号楼 1 单元",
+        "areaName": "爱辉区花园街道长海社区金盾小区1号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区国税小区1号楼4单元及4单元附属门市",
+        "areaName": "爱辉区花园街道长海社区金通花园小区2号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区黑龙大厦水利家属楼1单元",
+        "areaName": "爱辉区花园街道长海社区龙滨花园小区3号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区黑龙大厦水利家属楼小区水利家属楼",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区2号楼1单元及1单元附属门市、4号楼1单元及1单元楼下车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区黑龙小区4号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区6号楼2单元及2单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区华寓小区 2 号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区6号楼及附属车库、8号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区华寓小区 5 号楼及附属车库、2 号楼 4 单元及 4 单元附属门市",
+        "areaName": "爱辉区花园街道长海社区鹏瑞新起点小区1单元及1单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区宏远小区宏鹏 1 号楼及附属门市车库",
+        "areaName": "爱辉区花园街道长海社区社保集资楼小区3号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区金盾小区 1 号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区土地水利小区土地局集资楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区金通花园小区 2 号楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区天丝小区D座8号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨花园小区 3 号楼及附属门市车库",
+        "areaName": "爱辉区花园街道长海社区学苑小区1号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区2号楼1单元及1单元附属门市、4号楼1单元及1单元楼下车库",
+        "areaName": "爱辉区花园街道长海社区学苑小区学苑1号楼及附属门市、学苑2号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区6号楼2单元及2单元附属车库",
+        "areaName": "爱辉区花园街道长海社区组织部集资楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区6号楼及附属车库、8号楼及附属车库",
+        "areaName": "爱辉区锦河农场16号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区鹏瑞新起点小区 1 单元及 1 单元附属门市",
+        "areaName": "爱辉区锦河农场金河小区10号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区社保集资楼小区 3 号楼及附属门市",
+        "areaName": "爱辉区兴安街道金融社区国信楼小区",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区土地水利小区土地局集资楼及附属门市",
+        "areaName": "爱辉区兴安街道金融社区华富小区地开发6号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区天丝小区D座8号楼及附属门市",
+        "areaName": "爱辉区兴安街道金融社区华和小区节能5号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区学苑小区学苑 1 号楼及附属门市、学苑 2 号楼及附属门市车库",
+        "areaName": "爱辉区兴安街道金融社区华和小区闽龙3号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区组织部集资楼及附属门市",
+        "areaName": "爱辉区兴安街道金融社区建材小区地开发8号楼2单元及2单元附属门市、3单元及3单元附属门市4单元及4单元附属门市，建材2号楼9单元及9单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 锦河农场 16 号楼",
+        "areaName": "爱辉区兴安街道金融社区锦江佳苑小区保险公司家属楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 锦河农场金河小区10号楼1单元",
+        "areaName": "爱辉区兴安街道金融社区兴都家园小区广播局家属楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区国信楼小区",
+        "areaName": "爱辉区兴安街道金融社区兴林家园测绘楼小区测绘楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区华富小区地开发 6 号楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区爱家佳苑小区2号楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区华和小区节能 5 号楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区惠民11号地小区1号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区华和小区闽龙 3 号楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区惠民11号地小区6号楼1单元及1单元附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区建材小区地开发 8 号楼 2 单元及 2 单元附属门市、3 单元及 3 单元附属门市、4 单元及 4 单元附属门市、建材 2 号楼 9 单元及 9 单元附属门市",
+        "areaName": "爱辉区兴安街道热电社区惠民11号地小区6号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区锦江佳苑小区保险公司家属楼 2 单元及 2 单元附属门市",
+        "areaName": "爱辉区兴安街道热电社区惠民12号地小区10号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区兴都家园小区广播局家属楼",
+        "areaName": "爱辉区兴安街道热电社区惠民小区9号地9号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区祥和景园小区8单元",
+        "areaName": "爱辉区兴安街道热电社区和谐家园小区1号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区兴林家园测绘楼小区测绘楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区民政小区61号楼5单元、一建2号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区爱家佳苑小区2号楼2单元及2单元附属门市",
+        "areaName": "爱辉区兴安街道热电社区南湖雅苑小区14号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 11 号地小区 6 号楼 1 单元及 1 单元附属门市车库",
+        "areaName": "爱辉区兴安街道热电社区南湖雅苑小区17号楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 11 号地小区 6 号楼及附属门市车库",
+        "areaName": "爱辉区兴安街道热电社区南湖雅苑小区新8号楼1单元及1单元附属车库、新6号楼3单元及3单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 12 号地小区 10 号楼及附属车库",
+        "areaName": "爱辉区兴安街道热电社区农机小区农机集资楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民11号地小区1号楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区铁路家属楼小区1号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民小区9号地9号楼3单元",
+        "areaName": "爱辉区兴安街道热电社区新生活家园小区(铁路街)3号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区民政小区61号楼5单元、一建2号楼3单元",
+        "areaName": "爱辉区兴安街道热电社区阳光家园小区8号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区 14 号楼及附属车库",
+        "areaName": "爱辉区兴安街道热电社区艺苑小区1号楼1单元及1单元附属门市、1号楼二楼半及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区17号楼2单元及2单元附属门市",
+        "areaName": "爱辉区兴安街道邮政社区富绅小区区房产4号楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区新 8 号楼 1 单元及 1 单元附属车库、新 6 号楼 3 单元及 3 单元附属车库",
+        "areaName": "爱辉区兴安街道邮政社区富绅小区区房产4号楼及附属门市、区房产21号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区农机小区农机集资楼及附属门市",
+        "areaName": "爱辉区兴安街道邮政社区松辽委小区松辽委商服楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区新生活家园小区（铁路街）3号楼2单元",
+        "areaName": "爱辉区兴安街道邮政社区松辽委小区中房94号楼4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区艺苑小区 1 号楼 1 单元及 1 单元 附属门市、1 号楼二楼半及附属门市",
+        "areaName": "爱辉区兴安街道邮政社区无委会小区鹏瑞二期及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区富绅小区区房产4号楼2单元及2单元附属门市",
+        "areaName": "爱辉区兴安街道邮政社区西沟圣欣小区东兴路96号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区富绅小区区房产4号楼及附属门市、区房产21号楼及附属门市",
+        "areaName": "爱辉区幸福乡长发村西6道街230号",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区松辽委小区松辽委商服楼",
+        "areaName": "爱辉区西兴街道福龙社区翰林雅居小区5号楼及附属门市、6号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区松辽委小区中房94号楼4单元及4单元附属门市",
+        "areaName": "爱辉区西兴街道福龙社区翰林雅居小区7号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区西沟圣欣小区东兴路 96 号楼及附属门市",
+        "areaName": "爱辉区西兴街道福龙社区立波家园小区14号楼6单元及6单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 幸福乡长发村西6道街230号",
+        "areaName": "爱辉区西兴街道福龙社区立波家园小区8号楼、14号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区翰林雅居小区 7 号楼 3 单元",
+        "areaName": "爱辉区西兴街道福龙社区粮保小区保险家属楼1单元及1单元附属车库门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区翰林雅居小区5号楼及附属门市、6号楼及附属门市",
+        "areaName": "爱辉区西兴街道福龙社区御景湾小区5号楼2单元、6号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区立波家园小区 14 号楼 6 单元及 6 单元附属门市",
+        "areaName": "爱辉区西兴街道福龙社区御景湾小区5号楼及附属门市车库、6号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区立波家园小区 8 号楼、14 号楼",
+        "areaName": "爱辉区西兴街道福龙社区益民二区16区8号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区粮保小区保险家属楼 1 单元及 1 单元附属车库门市",
+        "areaName": "爱辉区西兴街道福龙社区益民二区17区11号楼6单元及6单元附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区御景湾小区10号楼及附属车库",
+        "areaName": "爱辉区西兴街道福龙社区益民二区18区18号楼9单元及9单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区御景湾小区5号楼 2 单元、6 号楼 1 单元",
+        "areaName": "爱辉区西兴街道福龙社区益民二区18区21号楼6单元及6单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区御景湾小区5号楼及附属门市车库、6号楼及附属门市车库",
+        "areaName": "爱辉区西兴街道福龙社区益民二区8号楼5单元及5单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区 16 区 8 号楼及附属门市车库",
+        "areaName": "爱辉区西兴街道人保财险社区建信B区6号A栋",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区 18 区 21 号楼 6 单元及 6 单元附属门市",
+        "areaName": "爱辉区西兴街道人保财险社区林业11区2号楼2单元及2单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区17区11号楼6单元及6单元附属车库",
+        "areaName": "爱辉区西兴街道人保财险社区林业小区11区3号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区18区18号楼9单元及9单元附属门市",
+        "areaName": "爱辉区西兴街道人保财险社区水岸华府小区2号楼1单元及1单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区节能小区7号楼3单元及3单元附属门市",
+        "areaName": "爱辉区西兴街道人保财险社区益民一区7号楼5单元及5单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区建信B区6号A栋",
+        "areaName": "爱辉区西兴街道向阳社区福临家园3号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区林业 11 区 2 号楼 2 单元及 2 单元附属门市",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区10号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区林业小区11区3号楼3单元",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区18号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区水岸华府小区2号楼1单元及1单元附属门市",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区21号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区益民一区7号楼5单元及5单元附属门市",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区3号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区福临家园 3 号楼及附属门市",
+        "areaName": "爱辉区西兴街道向阳社区幸福佳苑小区4号楼及附属车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区水岸阳光小区 18 号楼及附属车库",
+        "areaName": "爱辉区西兴街道向阳社区在水一方小区15号楼及附属门市车库",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区水岸阳光小区 21 号楼及附属车库",
+        "areaName": "爱辉区西兴街道向阳社区在水一方小区4号楼2单元及2单元附属门市、3单元及3单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区水岸阳光小区3号楼及附属门市",
+        "areaName": "海兰街道鹿源春社区教委3号楼及附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区在水一方小区 4 号楼 2 单元及 2 单元附属门市、3 单元及 3 单元附属门市",
+        "areaName": "花园街道博文社区中超一期小区2号楼2单元及2单元附属门市、3单元及3单元附属门市、4单元及4单元附属门市",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区在水一方小区15号楼及附属门市车库",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": " 西兴街向阳社区水岸阳光小区10号楼3单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "二公河工业园区中小企业创业中心办公楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "花园街道联通社区体育场小区计委家属楼及附属门市",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "老国税家属楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "兴安街道热电社区和谐家园小区1号楼及附属门市",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "兴安街道热电社区铁路家属楼小区1号楼及附属门市",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "兴安街道热电社区阳光家园小区8号楼及附属门市",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "兴安街道邮政社区无委会小区鹏瑞二期及附属门市",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
-        "areaName": "西兴街道向阳社区幸福佳苑小区4号楼及附属车库",
+        "areaName": "嫩江市老国税家属楼",
         "dangerLevel": 1
       },
       {
@@ -5678,6 +5638,11 @@
       },
       {
         "cityName": "佳木斯",
+        "areaName": "富锦市二龙山镇太东村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
         "areaName": "富锦市繁荣社区风情城一期13号楼",
         "dangerLevel": 2
       },
@@ -5688,7 +5653,7 @@
       },
       {
         "cityName": "佳木斯",
-        "areaName": "富锦市幸福社区时代鑫城小区",
+        "areaName": "富锦市太东林场",
         "dangerLevel": 2
       },
       {
@@ -5953,17 +5918,27 @@
       },
       {
         "cityName": "佳木斯",
-        "areaName": "前进区站前路佳和福居小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "佳木斯",
         "areaName": "汤原县北华种畜场",
         "dangerLevel": 2
       },
       {
         "cityName": "佳木斯",
+        "areaName": "汤原县北华种畜场东一号住宅(平房)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
+        "areaName": "汤原县幸福家园6号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
         "areaName": "汤原县幸福家园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
+        "areaName": "汤原县阳光河畔29号楼",
         "dangerLevel": 2
       },
       {
@@ -6143,6 +6118,11 @@
       },
       {
         "cityName": "佳木斯",
+        "areaName": "向阳区金厦佳苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
         "areaName": "向阳区金厦佳苑小区",
         "dangerLevel": 2
       },
@@ -6224,6 +6204,11 @@
       {
         "cityName": "佳木斯",
         "areaName": "向阳区时代景城A区9号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
+        "areaName": "向阳区时代景城九号楼",
         "dangerLevel": 2
       },
       {
@@ -6358,6 +6343,11 @@
       },
       {
         "cityName": "佳木斯",
+        "areaName": "向阳区御景华庭小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "佳木斯",
         "areaName": "向阳区珍铭苑小区",
         "dangerLevel": 2
       },
@@ -6407,628 +6397,713 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "佳木斯",
-        "areaName": "阳区御景华庭小区",
+        "cityName": "黑河",
+        "areaName": "爱辉区瑷珲镇北三家子村（不含一组92号—99号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区二公河工业园区中小企业创业中心办公楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区北港嘉园小区及附属门市(不含2单元及2单元附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区保健佳苑小区(不含妇幼保健院家属楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区恒基高层及附属门市 （不含3单元及附属门市）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区宏运小区及附属门市车库(不含2号楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区金达之家小区及附属门市（不含民航家属楼6单元及6单元附属门市、国际公司改造楼2单元及2单元附属门市）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区教委2号楼及附属门市、二院烧火楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区热电商助小区及附属门市(不含2号楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区西城老居小区及附属门市(不含药厂楼1单元及1单元附属门市、2单元及2单元附属门市、3单元及3单元附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区兴成生活小区及附属门市(不含经贸委集资楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区中房家园小区(大众浴池卡口通行楼宇)及附属门市(不含中房 42号楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区中房怡园66号楼2单元及2单元附属门市",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道鹿源春社区中房怡园小区（不含66号楼2单元及2单元附属门市）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠二期小区3号楼及附属车库（不含3单元及3单元附属车库）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠二期小区及附属门市(不含1A东楼及附属门市)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道温馨社区北国明珠小区及附属车库（不含7号楼1单元及1单元附属车库、18号楼2单元及2单元附属车库）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "爱辉区海兰街道温馨社区供销社家属楼（不含3单元）盛世华庭小区、多客隆食杂店、迎恩路110—2号、万顺叫车黑河分公司喇嘛台社区服务站(迎恩路110—3号)、澳创集团(迎恩路112—1号)、罗曼蒂克婚纱馆(迎恩路112—4号)、乡村铁锅炖(迎恩路114—2号)、洪森沙发(迎恩路114—3号)门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 瑷珲镇北三家子村（不含一组 92 号—99 号）",
+        "areaName": "爱辉区海兰街道温馨社区金地花园小区10号楼、11号楼及附属门市、12号楼、13号楼及附属门市(不含4单元及4单元附属门市)、14号楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区北港嘉园小区及附属门市（不含 2 单元及 2 单元附属门市）",
+        "areaName": "爱辉区海兰街道温馨社区金地花园小区及附属门市车库(不含11号楼及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区保健佳苑小区（不含妇幼保健院家属楼及附属门市）",
+        "areaName": "爱辉区海兰街道温馨社区力波家园24号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区恒基高层及附属门市 （不含 3 单元及附属门市）",
+        "areaName": "爱辉区海兰街道温馨社区阳光嘉园小区及附属门市车库（不含3号楼及附属车库）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区宏运小区及附属门市车库（不含 2 号楼及附属门市）",
+        "areaName": "爱辉区红色边疆农场福苑小区1号楼、2号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区金达之家小区及附属门市（不含民航家属楼6单元及6单元附属门市、国际公司改造楼2单元及2单元附属门市）",
+        "areaName": "爱辉区花园街道 长海社区学苑小区及附属门市车库(不含学苑 1 号楼及附属 门市、学苑 2 号楼及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区教委2号楼及附属门市、二院烧火楼",
+        "areaName": "爱辉区花园街道博文社区安发小区3号楼（不含1单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区热电商助小区及附属门市（不含2号楼及附属门市）",
+        "areaName": "爱辉区花园街道博文社区安发小区7号楼4单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区西城老居小区及附属门市（不含药厂楼1单元及1单元附属门市、2单元及2单元附属门市、3单元及3单元附属门市）",
+        "areaName": "爱辉区花园街道博文社区安发小区及附属门市（不含3号楼1单元、7号楼4单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区兴成生活小区及附属门市（不含经贸委集资楼及附属门市）",
+        "areaName": "爱辉区花园街道博文社区昌辉雅典城小区3号楼2单元及附属门市、3单元及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道鹿源春社区中房家园小区（大众浴池卡口通行楼宇）及附属门市（不含中房 42 号 楼及附属门市）",
+        "areaName": "爱辉区花园街道博文社区昌辉雅典城小区及附属门市车库(不含1号楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠二期小区 3 号楼及附属车库（不含 3 单元及 3 单元附属车库）",
+        "areaName": "爱辉区花园街道博文社区弘发粮苑小区4号楼1单元及1单元附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠二期小区及附属门市（不含 1A 东楼及附属门市）",
+        "areaName": "爱辉区花园街道博文社区黑供小区(不含2号楼3单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区北国明珠小区及附属车库（不含7号楼1单元及1单元附属车库、18号楼2单元及2单元附属车库）",
+        "areaName": "爱辉区花园街道博文社区华泰龙江嘉园小区（龙江路115—1号）及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区供销社家属楼（不含3单元）、盛世华庭小区、多客隆食杂店、迎恩路110—2号、万顺叫车黑河分公司喇嘛台社区服务站（迎恩路110—3号）、澳创集团（迎恩路112—1号）、罗曼蒂克婚纱馆（迎恩路112—4号）、乡村铁锅炖（迎恩路114—2号）、洪森沙发（迎恩路114—3号）门市",
+        "areaName": "爱辉区花园街道博文社区闽江佳苑小区及附属门市(不含4号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区金地花园小区及附属门市车库（不含 11 号楼及附属门市车库）",
+        "areaName": "爱辉区花园街道博文社区尚品观景国际小区7号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 海兰街道温馨社区阳光嘉园小区及附属门市车库（不含 3 号楼及附属车库）",
+        "areaName": "爱辉区花园街道博文社区学府家园小区1号楼1单元、2号楼(不含7单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 红色边疆农场福苑小区1号楼、2号楼及附属车库",
+        "areaName": "爱辉区花园街道博文社区星辉小区及附属门市车库(不含2号楼及附属门市车库、6号楼高层区及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道 长海社区学苑小区及附属门市车库（不含学苑 1 号楼及附属 门市、学苑 2 号楼及附属门市车库）",
+        "areaName": "爱辉区花园街道博文社区中超三期小区6号楼及6号楼附属门市车库、7号楼及7号楼附属门市车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区安发小区及附属门市（不含3号楼1单元、7号楼4单元）",
+        "areaName": "爱辉区花园街道博文社区中超一期小区2号楼2单元及2单元附属门市、3单元及3单元附属门市、4单元及4单元附属门市划定为高风险区；花园街道博文社区中超一期小区（不含2号楼2单元及2单元附属门市3单元及3单元附属门市、4单元及4单元附属门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区昌辉雅典城小区及附属门市车库（不含1号楼及附属车库）",
+        "areaName": "爱辉区花园街道博文社区中房尚城小区及附属门市（不含1号楼2单元及2单元附属门市、5号楼4单元及4单元附属门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区黑供小区（不含2号楼3单元）",
+        "areaName": "爱辉区花园街道金兰社区工行家属楼2号楼及附属门市(不含1单元及1单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区闽江佳苑小区及附属门市（不含4号楼及附属门市）",
+        "areaName": "爱辉区花园街道金兰社区工行家属楼小区(不含2号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区尚品观景国际小区 7 号楼及附属车库",
+        "areaName": "爱辉区花园街道金兰社区公用局小区及附属门市车库(不含公用事业局2号楼及附属门市)、海关小区及附属门市车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区学府家园小区1号楼1单元、2号楼（不含7单元）",
+        "areaName": "爱辉区花园街道金兰社区华林庭苑小区1号楼2单元及2单元附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区星辉小区及附属门市车库（不含 2 号楼及附属门市车库、6 号楼高层区及附属门市车库）",
+        "areaName": "爱辉区花园街道金兰社区海兰行小区5号楼及附属车库、A栋19单元及19单元附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中超三期小区 6 号楼及 6 号楼附属门市车库、7 号楼及 7 号楼附属门市车库",
+        "areaName": "爱辉区花园街道金兰社区华泰滨江锦苑小区1号楼及附属车库、 3号楼及附属车库(不含1单元及1单元附属车库、2单元及2单元附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中超一期小区 （不含 2 号楼 2 单元及 2 单元附属门市、3 单元及 3 单元附属门市、4 单元及 4 单元附属门市）",
+        "areaName": "爱辉区花园街道金兰社区建行家属楼小区2号楼4单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道博文社区中房尚城小区及附属门市（不含1号楼2单元及2单元附属门市、5号楼4单元及4单元附属门市）",
+        "areaName": "爱辉区花园街道金兰社区路桥小区及附属门市车库(不含路桥楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区工行家属楼小区（不含 2 号楼及附属门市）",
+        "areaName": "爱辉区花园街道金兰社区世纪花园小区11号楼、15号楼及附属门市、16号楼、18号楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区公用局小区及附属门市车库（不含公用事业局 2 号楼及附属门市）、海关小区及附属门市车库",
+        "areaName": "爱辉区花园街道金兰社区世纪花园小区及附属门市车库(不含12号楼及附属车库、14号楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区华林庭苑小区及附属门市（不含1号楼2单元及2单元附属门市）",
+        "areaName": "爱辉区花园街道金兰社区园丁小区1号楼(不含3单元及3单元附属门市)，3号楼及附属门市，4号楼2、3、4单元及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区海兰行小区 5 号楼及附属车库、A 栋 19 单元及 19 单元附属门市",
+        "areaName": "爱辉区花园街道喇嘛台社区鸿城名苑小区 3号楼（不含4单元及4单元附属车库）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区华泰滨江锦苑小区 1 号楼及附属车库、 3 号楼及附属车库（不含 1 单元及 1 单元附属车库、2 单元 及 2 单元附属车库）",
+        "areaName": "爱辉区花园街道喇嘛台社区荣耀世纪小区6号楼及附属车库门市、10号楼及附属车库门市、 11号楼及附属车库门市(不含5单元及5单元附属车库)、 12号楼及附属车库门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区建行家属楼小区（不含2号楼4单元）",
+        "areaName": "爱辉区花园街道喇嘛台社区尚品世纪经典小区7号楼(不含3单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区路桥小区及附属门市车库（不含路桥楼及附属车库）",
+        "areaName": "爱辉区花园街道喇嘛台社区学府佳苑小区(不含8号楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区世纪花园小区 11 号楼、12 号楼、 15 号楼及附属门市、16 号楼、18 号楼及附属门市",
+        "areaName": "爱辉区花园街道联通社区教委集资楼及附属门市(不含2号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区世纪花园小区及附属门市车库（不含 12 号楼及附属车库、14 号楼及附属车库）",
+        "areaName": "爱辉区花园街道联通社区建行小区建行3号楼及附属门市、建行4号楼及附属门市(不含荣升久食杂店)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道金兰社区园丁小区1号楼（不含3单元及3单元附属门市）、3号楼及附属门市、4号楼2、3、4单元及附属门市",
+        "areaName": "爱辉区花园街道联通社区体育场小区及附属门市(不含计委家属楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区鸿城名苑小区 3 号楼（不含 4 单元及 4 单元附属车库）",
+        "areaName": "爱辉区花园街道武庙屯社区大公馆小区11号楼(不含1单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区荣耀世纪小区 6 号楼及附属车库门市、10 号楼及附属车库门市、 11 号楼及附属车库门市（不含 5 单元及 5 单元附属车库）、 12 号楼及附属车库门市",
+        "areaName": "爱辉区花园街道武庙屯社区大公馆小区7号楼及附属门市(不含2单元及2单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区尚品世纪经典小区7号楼（不含3单元）",
+        "areaName": "爱辉区花园街道武庙屯社区华泰颐和国际小区3号楼(不含2单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道喇嘛台社区学府佳苑小区（不含 8 号楼及附属车库）",
+        "areaName": "爱辉区花园街道武庙屯社区华泰颐和国际小区3号楼2单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道联通社区教委集资楼及附属门市（不含 2 号楼及附属门市）",
+        "areaName": "爱辉区花园街道武庙屯社区华泰颐和国际小区9号楼及附属门市(不含1单元及1单元 附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道联通社区建行小区建行 3 号楼及附属门市、建行 4 号楼及附属门市（不含荣升 久食杂店）",
+        "areaName": "爱辉区花园街道武庙屯社区之路佳苑小区10号楼3单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区大公馆小区 11 号楼（不含 1 单元）",
+        "areaName": "爱辉区花园街道武庙屯社区之路佳苑小区8号楼及附属门市、9号楼、10号楼(不含3单元)、11号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区大公馆小区7号楼及附属门市（不含2单元及2单元附属门市）",
+        "areaName": "爱辉区花园街道武庙屯社区之路佳苑小区及附属门市车库(不含5号楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区华泰颐和国际小区 9 号楼及附属门市（不含 1 单元及 1 单元 附属门市）",
+        "areaName": "爱辉区花园街道网通社区贝贝龙小区及附属门市车库(不含市房开59号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区华泰颐和国际小区3号楼（不含2单元）",
+        "areaName": "爱辉区花园街道网通社区地开发商30号楼(不含3单元及3单元附属门市)、31号楼、32号楼、33号楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区之路佳苑小区8号楼及附属门市、9号楼、10号楼（不含3单元）、11号楼",
+        "areaName": "爱辉区花园街道网通社区交警队家属楼小区",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道武庙屯社区之路佳苑小区及附属门市车库（不含 5 号楼及附属车库）",
+        "areaName": "爱辉区花园街道网通社区楼中楼小区（不含地开发30号楼3单元及3单元附属门市、房产34号楼及附属门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区贝贝龙小区及附属门市车库（不含市房开59号楼及附属门市）",
+        "areaName": "爱辉区花园街道网通社区农联大厦",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区地开发商30号楼（不含3单元及3单元附属门市）、31号楼、32号楼、33号楼及附属门市",
+        "areaName": "爱辉区花园街道网通社区卧牛湖小区中房2号楼及附属门市(不含4单元及4单元附属门市)、卧牛湖家属楼3单元及3单元附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区楼中楼小区（不含地开发 30 号楼 3 单元及 3 单元附属门市、房产 34 号楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区边检楼及附属门市、武警楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区农联大厦",
+        "areaName": "爱辉区花园街道长海社区国税小区1号楼4单元及4单元附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道网通社区卧牛湖小区中房2开楼及附属门市（不含4单元及4单元附属门市）、卧牛湖家属楼3单元及3单元附属车库",
+        "areaName": "爱辉区花园街道长海社区国税小区1号楼及附属门市（不含4单元及4单元附属门市）、2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区边检楼及附属门市、武警楼及附属门市",
+        "areaName": "爱辉区花园街道长海社区国税小区2号楼(不含1单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区国税小区 2 号楼（不含 1 单元）",
+        "areaName": "爱辉区花园街道长海社区黑龙大厦水利家属楼小区（不含黑龙大厦水利家属楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区国税小区1号楼及附属门市（不含4单元及4单元附属门市）、2号楼",
+        "areaName": "爱辉区花园街道长海社区黑龙大厦水利家属楼（不含1单元）及院内2户平房、永顺汽车修理厂、远恒废品收购部",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区黑龙大厦水利家属楼小区（不含黑龙大厦水利家属楼）",
+        "areaName": "爱辉区花园街道长海社区黑龙小区6号楼及附属门市、黑龙大市场",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区黑龙小区6号楼及附属门市、黑龙大市场",
+        "areaName": "爱辉区花园街道长海社区华寓小区1号楼及附属门市、2号楼及附属门市(不含4单元及4单元附属门市)、3号楼及附属门市、4号楼及附属门市、6号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区华寓小区 1 号楼及附属门市、2 号楼及附属门市（不含 4 单元及 4 单元附属门市）、3 号楼及附属门市、 4 号楼及附属门市、6 号楼及附属车库",
+        "areaName": "爱辉区花园街道长海社区宏远小区宏鹏2号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区宏远小区宏鹏 2 号楼及附属车库",
+        "areaName": "爱辉区花园街道长海社区金盾小区及附属门市(不含1号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区金盾小区及附属门市（不含 1 号楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区金通花园小区及附属门市(不含2号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区金通花园小区及附属门市（不含 2 号楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区龙滨花园小区及附属门市车库(不含3号楼及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨花园小区及附属门市车库（不含 3 号楼及附属门市车库）",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区1号楼、2号楼（不含1单元及1单元附属门市）、4号楼（不含1单元及1单元楼下车库）、8号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区1号楼、2号楼（不含1单元及1单元附属门市）、4号楼（不含1单元及1单元楼下车库）、8号楼",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区3号楼",
+        "areaName": "爱辉区花园街道长海社区龙滨嘉苑小区6号楼及附属车库(不含2单元及2单元附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区龙滨嘉苑小区6号楼及附属车库（不含2单元及2单元附属车库）",
+        "areaName": "爱辉区花园街道长海社区鹏瑞新起点小区及附属门市(不含1单元及1单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区鹏瑞新起点小区及附属门市（不含 1 单元及 1 单元附属门市）",
+        "areaName": "爱辉区花园街道长海社区社保集资楼小区及附属门市车库（不含3号楼及附属门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区社保集资楼小区及附属门市车库（不含 3 号楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区土地水利小区及附属门市(不含土地局集资楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区土地水利小区及附属门市（不含土地局集资楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区天丝小区及附属门市(不含D座8号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 花园街道长海社区天丝小区及附属门市（不含D座8号楼及附属门市）",
+        "areaName": "爱辉区花园街道长海社区学苑小区1号楼（不含3单元）及电业街17号、19号、21号、23号、25号、27号、29号门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 锦河农场金河小区10号楼2单元",
+        "areaName": "爱辉区锦河农场金河小区10号楼2单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 锦河农场振兴 街以东、富强街以西、安康路以北、安发路以南区域（不含 锦河农场 16 号楼）",
+        "areaName": "爱辉区锦河农场振兴街以东、富强街以西、安康路以北、安发路以南区域(不含锦河农场16号楼)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 松辽委小区（不含中房94号楼4单元及4单元附属门市）",
+        "areaName": "爱辉区松辽委小区(不含中房94号楼4单元及4单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区华和小区及附属门市（不含闽龙 3 号楼及附属门市）",
+        "areaName": "爱辉区兴安街道金融社区华和小区及附属门市(不含闽龙 3 号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区建材小区及附属门市（不含地开发 8 号楼 2 单元及 2 单元附属门市、3 单元及 3 单元附属门市、 4 单元及 4 单元附属门市、建材 2 号楼 9 单元及 9 单元附属 门市）",
+        "areaName": "爱辉区兴安街道金融社区建材小区及附属门市(不含地开发8号楼2单元及2单元附属门市、3单元及3单元附属门市、4单元及4单元附属门市，建材2号楼9单元及9单元附属 门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区锦江佳苑小区保险公司家属楼及附属门市（不含 2 单元及 2 单元附属门市）",
+        "areaName": "爱辉区兴安街道金融社区锦江佳苑小区保险公司家属楼及附属门市(不含2单元及2单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区兴都家园小区（不含广播局家属楼）",
+        "areaName": "爱辉区兴安街道金融社区兴都家园小区(不含广播局家属楼)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区祥和景园小区4、5、6、7、9、10单元",
+        "areaName": "爱辉区兴安街道金融社区祥和景园小区8单元",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道金融社区兴林家园测绘楼小区及附属车库门市（不含测绘楼及附属门市）",
+        "areaName": "爱辉区兴安街道金融社区兴林家园测绘楼小区及附属车库门市(不含测绘楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区爱家佳苑小区及附属门市（不含2号楼2单元及2单元附属门市）",
+        "areaName": "爱辉区兴安街道热电社区爱家佳苑小区及附属门市(不含2号楼2单元及2单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 11 号地小区 6 号楼及附属门市车库（不含 1 单元及 1 单 元附属门市车库）",
+        "areaName": "爱辉区兴安街道热电社区惠民11号地小区6号楼及附属门市车库（不含1单元及1单元附属门市车库）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 11 号地小区及附属门市车库（不含 6 号楼及附属门市车库）",
+        "areaName": "爱辉区兴安街道热电社区惠民11号地小区及附属门市车库(不含6号楼及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民 12 号地小区 9 号楼及附属车库、11 号楼及附属门市车库",
+        "areaName": "爱辉区兴安街道热电社区惠民12号地小区9号楼及附属车库、11号楼及附属门市车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区惠民小区9号地9号楼及附属门市（不含3单元）、8号楼",
+        "areaName": "爱辉区兴安街道热电社区惠民小区9号地9号楼及附属门市(不含3单元)、8号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区民政小区（不含61号楼5单元、一建2号楼3单元）",
+        "areaName": "爱辉区兴安街道热电社区和谐家园小区及附属门市(不含1号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区 15 号楼及附属车库",
+        "areaName": "爱辉区兴安街道热电社区民政小区（不含61号楼5单元、一建2号楼3单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区16号楼、17号楼（不含2单元及2单元附属门市）、18号楼及附属门市",
+        "areaName": "爱辉区兴安街道热电社区南湖雅苑小区15号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区南湖雅苑小区新 8 号楼及附属车库（不含 1 单元及 1 单元附属车库）、新 6 号楼及附属车库门市（除 3 单元及 3 单元附属车库）",
+        "areaName": "爱辉区兴安街道热电社区南湖雅苑小区新8号楼及附属车库（不含1单元及1单元附属车库）、新6号楼及附属车库门市（除3单元及3单元附属车库）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区农机小区及附属门市车库（不含农机集资楼及附属门市）",
+        "areaName": "爱辉区兴安街道热电社区农机小区及附属门市车库(不含农机集资楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区新生活家园小区（铁路街）及附属门市（除3号楼2单元）",
+        "areaName": "爱辉区兴安街道热电社区铁路家属楼小区及附属门市(不含1号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道热电社区艺苑小区 1 号楼（不含 1 单元及 1 单元附属门 市、1 号楼二楼半及附属门市）、2 号楼及附属门市、2 号楼前后二楼半及附属门市",
+        "areaName": "爱辉区兴安街道热电社区新生活家园小区(铁路街)及附属门市(除3号楼2单元)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区富绅小区及附属门市（不含区房产4号楼及附属门市、区房产21号楼及附属门市）",
+        "areaName": "爱辉区兴安街道热电社区阳光家园小区及附属门市(不含8号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 兴安街道邮政社区富绅小区区房产4号楼（不含2单元及2单元附属门市）、中房23号楼3单元、东兴路86号门市（独立二层楼）",
+        "areaName": "爱辉区兴安街道热电社区艺苑小区1号楼（不含1单元及1单元附属门市、1号楼二楼半及附属门市），2号楼及附属门市、2号楼前后二楼半及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 幸福乡长发村西 6 道街 228 号、232 号",
+        "areaName": "爱辉区兴安街道邮政社区富绅小区及附属门市(不含区房产4号楼及附属门市、区房产21号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区翰林雅居小区（不含 5 号楼及附属门市、6 号楼及附属门市）",
+        "areaName": "爱辉区兴安街道邮政社区富绅小区区房产4号楼(不含2单元及2单元附属门市)、中房23号楼3单元、东兴路86号门市(独立二层楼)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区立波家园小区 3 号楼、4 号楼、9 号楼、13 号楼",
+        "areaName": "爱辉区兴安街道邮政社区无委会小区及附属门市车库(不含鹏瑞二期及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区粮保小区及附属车库门市（不含保险家属楼 1 单元及 1 单元附属车库门市）",
+        "areaName": "爱辉区幸福乡长发村西6道街228号、232号",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区御景湾小区 4 号楼、5 号楼（不含 2 单元）、6 号楼（不含 1 单元）、9 号楼、10 号楼及附属门市",
+        "areaName": "爱辉区西兴街道福龙社区翰林雅居小区(不含5号楼及附属门市、6号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区 18 区 22 号楼及附属门市车库",
+        "areaName": "爱辉区西兴街道福龙社区立波家园小区14号楼(不含6单元及6单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道福龙社区益民二区17区9号楼及附属车库和门市、10号楼及附属车库、11号楼及附属车库（不含6单元及6单元附属车库）",
+        "areaName": "爱辉区西兴街道福龙社区立波家园小区3号楼、4号楼、9号楼、13号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区节能小区7号楼及附属门市（不含3单元及3单元附属门市）、4号楼及附属车库、4号楼附属房",
+        "areaName": "爱辉区西兴街道福龙社区粮保小区及附属车库门市（不含保险家属楼1单元及1单元附属车库门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区建信B区6号楼及附属门市",
+        "areaName": "爱辉区西兴街道福龙社区御景湾小区10号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区林 业 11 区及附属车库门市（不含 2 号楼 2 单元及 2 单元附属门市）",
+        "areaName": "爱辉区西兴街道福龙社区御景湾小区4号楼、5号楼(不含2单元)、6号楼(不含1单元)、9号楼、10号楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道人保财险社区水岸华府小区1号楼及附属门市、2号楼及附属门市（不含1单元及1单元附属门市）、3号楼及附属门市、4号楼及附属门市车库、5号楼及附属门市车库",
+        "areaName": "爱辉区西兴街道福龙社区益民二区17区9号楼及附属车库和门市、10号楼及附属车库、11号楼及附属车库(不含6单元及6单元附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区福临家园及附属门市（不含 3 号楼及附属门市）",
+        "areaName": "爱辉区西兴街道福龙社区益民二区18区15号楼、18号楼及附属门市(不含9单元及9单元附属门市)、21号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区水岸阳光小区 17 号楼及附属车库、21 号楼及附属车库、22 号楼及附属车库",
+        "areaName": "爱辉区西兴街道福龙社区益民二区18区22号楼及附属门市车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区水岸阳光小区及附属门市车库（不含3号楼及附属门市）",
+        "areaName": "爱辉区西兴街道福龙社区益民二区8号楼及附属门市（不含5单元及5单元附属门市）",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区在水一方小区 3 号楼、4 号楼 1 单元及 1 单元附属门市、5 号楼",
+        "areaName": "爱辉区西兴街道人保财险社区节能小区7号楼3单元及3单元附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街道向阳社区在水一方小区及附属门市车库（不含15号楼及附属门市车库）",
+        "areaName": "爱辉区西兴街道人保财险社区建信B区6号楼及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": " 西兴街向阳社区水岸阳光小区9号楼、10号楼（不含3单元）、11号楼、13号楼、14号楼",
+        "areaName": "爱辉区西兴街道人保财险社区林业11区及附属车库门市(不含2号楼2单元及2单元附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "弘发粮苑小区4号楼1单元及1单元附属门市",
+        "areaName": "爱辉区西兴街道人保财险社区林业小区11区3号楼(不含3单元)及附属门市",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "花园街道联通社区体育场小区及附属门市(不含计委家属楼及附属门市)",
+        "areaName": "爱辉区西兴街道人保财险社区水岸华府小区1号楼及附属门市、2号楼及附属门市(不含1单元及1单元附属门市)、3号楼及附属门市、4号楼及附属门市车库、5号楼及附属门市车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "鹿源春社区中房怡园66号楼2单元及2单元附属门市",
+        "areaName": "爱辉区西兴街道向阳社区福临家园及附属门市(不含3号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "温馨社区力波家园24号楼1单元",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区17号楼及附属车库、21号楼及附属车库、22号楼及附属车库",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "兴安街道热电社区和谐家园小区及附属门市（不含1号楼及附属门市）",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区9号楼、10号楼(不含3单元)、11号楼、13号楼、14号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "兴安街道热电社区铁路家属楼小区及附属门市（不含1号楼及附属门市）",
+        "areaName": "爱辉区西兴街道向阳社区水岸阳光小区及附属门市车库(不含3号楼及附属门市)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "兴安街道热电社区阳光家园小区及附属门市（不含8号楼及附属门市）",
+        "areaName": "爱辉区西兴街道向阳社区幸福佳苑小区及附属门市车库(不含4号楼及附属车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "兴安街道邮政社区无委会小区及附属门市车库（不含鹏瑞二期及附属门市）",
+        "areaName": "爱辉区西兴街道向阳社区在水一方小区3号楼、4号楼1单元及1单元附属门市、5号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "西兴街道向阳社区幸福佳苑小区及附属门市车库（不含4号楼及附属车库）",
+        "areaName": "爱辉区西兴街道向阳社区在水一方小区及附属门市车库(不含15号楼及附属门市车库)",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "颐江园高层1号楼、高层2号楼、多层1号楼、多层2号楼",
+        "areaName": "嫩江市农行招待所",
         "dangerLevel": 2
       },
       {
         "cityName": "黑河",
-        "areaName": "中燃厂区办公楼",
+        "areaName": "嫩江市颐江园高层1号楼、高层2号楼、多层1号楼、多层2号楼",
         "dangerLevel": 2
       },
       {
@@ -7106,8 +7181,8 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 46,
-    "midDangerCount": 36,
+    "highDangerCount": 47,
+    "midDangerCount": 37,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -7118,8 +7193,8 @@
         "suspectedCount": 0,
         "curedCount": 206,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 3,
+        "highDangerCount": 6,
+        "midDangerCount": 4,
         "locationId": 120111,
         "currentConfirmedCountStr": "38",
         "fullCityName": "西青区"
@@ -7132,7 +7207,7 @@
         "curedCount": 28,
         "deadCount": 0,
         "highDangerCount": 9,
-        "midDangerCount": 11,
+        "midDangerCount": 13,
         "locationId": 120103,
         "currentConfirmedCountStr": "34",
         "fullCityName": "河西区"
@@ -7158,7 +7233,7 @@
         "curedCount": 95,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 120105,
         "currentConfirmedCountStr": "30",
         "fullCityName": "河北区"
@@ -7171,7 +7246,7 @@
         "curedCount": 33,
         "deadCount": 1,
         "highDangerCount": 3,
-        "midDangerCount": 5,
+        "midDangerCount": 4,
         "locationId": 120102,
         "currentConfirmedCountStr": "25",
         "fullCityName": "河东区"
@@ -7196,8 +7271,8 @@
         "suspectedCount": 0,
         "curedCount": 23,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 3,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 120113,
         "currentConfirmedCountStr": "17",
         "fullCityName": "北辰区"
@@ -7209,7 +7284,7 @@
         "suspectedCount": 0,
         "curedCount": 37,
         "deadCount": 0,
-        "highDangerCount": 2,
+        "highDangerCount": 1,
         "midDangerCount": 2,
         "locationId": 120104,
         "currentConfirmedCountStr": "13",
@@ -7222,8 +7297,8 @@
         "suspectedCount": 0,
         "curedCount": 32,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 3,
+        "highDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 120110,
         "currentConfirmedCountStr": "13",
         "fullCityName": "东丽区"
@@ -7248,7 +7323,7 @@
         "suspectedCount": 0,
         "curedCount": 364,
         "deadCount": 0,
-        "highDangerCount": 3,
+        "highDangerCount": 2,
         "midDangerCount": 3,
         "locationId": 120112,
         "currentConfirmedCountStr": "6",
@@ -7262,7 +7337,7 @@
         "curedCount": 36,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 120106,
         "currentConfirmedCountStr": "2",
         "fullCityName": "红桥区"
@@ -7362,22 +7437,17 @@
     "dangerAreas": [
       {
         "cityName": "滨海新区",
+        "areaName": "北塘街欣康苑8号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
         "areaName": "北塘街欣平苑6号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "滨海新区",
-        "areaName": "百兴里5号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "城市名居2号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "河北路70号",
+        "areaName": "北塘街中建幸福城64号楼",
         "dangerLevel": 1
       },
       {
@@ -7387,27 +7457,27 @@
       },
       {
         "cityName": "滨海新区",
+        "areaName": "杭州道街城市名居2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
         "areaName": "杭州道街广州道（37、39、41、43号）",
         "dangerLevel": 1
       },
       {
         "cityName": "滨海新区",
-        "areaName": "漓江里14号楼",
+        "areaName": "杭州道街美景园7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "滨海新区",
-        "areaName": "美景园7号楼",
+        "areaName": "杭州道街贻和花园11号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "滨海新区",
-        "areaName": "南益名士华庭14号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "盛星东海岸小区17号楼",
+        "areaName": "杭州道街智谛山（18号楼、22号楼）",
         "dangerLevel": 1
       },
       {
@@ -7417,7 +7487,27 @@
       },
       {
         "cityName": "滨海新区",
-        "areaName": "万通上北城新新家园62号楼",
+        "areaName": "新北街河北路70号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街盛星东海岸小区17号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街万通上北城新新家园62号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街堰宾里小区（6号楼、16号楼）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街贻成豪庭3号楼",
         "dangerLevel": 1
       },
       {
@@ -7427,57 +7517,42 @@
       },
       {
         "cityName": "滨海新区",
+        "areaName": "新北街迎年里10号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街贻正嘉合16号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新河街百兴里5号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新河街漓江里14号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新河街南益名士华庭14号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "滨海新区",
         "areaName": "新河街湘江里12号楼",
         "dangerLevel": 1
       },
       {
-        "cityName": "滨海新区",
-        "areaName": "欣康苑8号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "堰宾里小区（6号楼、16号楼）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "贻成豪庭3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "贻和花园11号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "迎年里10号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "贻正嘉合16号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "智谛山（18号楼、22号楼）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "中建幸福城64号楼",
+        "cityName": "河西区",
+        "areaName": "陈塘庄街曲江路11号全域",
         "dangerLevel": 1
       },
       {
         "cityName": "河西区",
-        "areaName": "恒山里12门、14门、16门、26门至32门",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "河西区",
-        "areaName": "金海湾花园21号楼",
+        "areaName": "陈塘庄街幸福家园10号楼1-5门",
         "dangerLevel": 1
       },
       {
@@ -7502,17 +7577,47 @@
       },
       {
         "cityName": "河西区",
-        "areaName": "越秀路街恩德西里48-63门、育红楼11、12门、陈塘庄街幸福家园10号楼1-5门",
+        "areaName": "越秀路街恩德西里48-63门",
         "dangerLevel": 1
       },
       {
         "cityName": "河西区",
-        "areaName": "越秀路街黄埔里23、24、25门",
+        "areaName": "越秀路街黄埔里2、4、9、13、23、24、25、27、29、30门",
         "dangerLevel": 1
       },
       {
         "cityName": "河西区",
-        "areaName": "越秀路街黄埔里2、4、9、13、27、29、30门",
+        "areaName": "越秀路街育红楼11、12门",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "大侯庄村平房区（津淄公路以西）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "大寺镇金友花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "大寺镇芦欣家园小区四区8号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "津门湖街鸣泉花园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "李七庄街盛阳园1号楼、2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西青区",
+        "areaName": "王稳庄镇大侯庄村隆泰园",
         "dangerLevel": 1
       },
       {
@@ -7531,18 +7636,18 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "西青区",
-        "areaName": "大寺镇金友花园小区整体",
+        "cityName": "东丽区",
+        "areaName": "丰年村万科民和巷花园小区18、28号楼",
         "dangerLevel": 1
       },
       {
-        "cityName": "西青区",
-        "areaName": "大寺镇芦欣家园小区四区8号楼",
+        "cityName": "东丽区",
+        "areaName": "张贵庄街津门里小区增12号楼",
         "dangerLevel": 1
       },
       {
-        "cityName": "西青区",
-        "areaName": "锦泽苑小区43号楼",
+        "cityName": "东丽区",
+        "areaName": "张贵庄街詹滨西里小区南院19、27号楼",
         "dangerLevel": 1
       },
       {
@@ -7552,37 +7657,12 @@
       },
       {
         "cityName": "津南区",
-        "areaName": "福松源庄一期15号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "津南区",
         "areaName": "辛庄镇首创星景苑4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "南开区",
-        "areaName": "林苑西里19号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南开区",
         "areaName": "长虹街雅云里小区5号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东丽区",
-        "areaName": "丰年村万科民和巷花园小区18号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东丽区",
-        "areaName": "张贵庄街詹滨西里小区南院19、27号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "北辰区",
-        "areaName": "西堤头镇刘快庄村康派尔商铺115号-128号",
         "dangerLevel": 1
       },
       {
@@ -7592,27 +7672,32 @@
       },
       {
         "cityName": "河西区",
+        "areaName": "陈塘庄街副食大楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "陈塘庄街钢厂宿舍",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "陈塘庄街幸福家园除上述高风险区域的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "东海街道九江里10门、12门、14门、24门、26门、28门、30门、32门及外围底商",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "东海街枫林路北头公共厕所",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
         "areaName": "东海街九江里平房",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河西区",
-        "areaName": "枫林路北头公共厕所",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河西区",
-        "areaName": "挂甲寺街美宁公寓1、2、5、6号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河西区",
-        "areaName": "金海湾花园（除21号楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河西区",
-        "areaName": "九江里10门、12门、14门、24门、26门、28门、30门、32门及外围底商",
         "dangerLevel": 2
       },
       {
@@ -7622,27 +7707,32 @@
       },
       {
         "cityName": "河西区",
-        "areaName": "尖山街澧新里80门至82门",
+        "areaName": "柳林街金海湾花园21号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "河西区",
-        "areaName": "柳林街恒山里（除12门、14门、16门、26门至32门）",
+        "areaName": "桃园街湛江路4-18门（双号门）、湛江路新村除上述高风险区以外的其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "河西区",
-        "areaName": "桃园街湛江路4-18门（双号门）、湛江路新村除高风险区以外的其他区域",
+        "areaName": "越秀路街恩德东里1-42门",
         "dangerLevel": 2
       },
       {
         "cityName": "河西区",
-        "areaName": "越秀路街恩德西里1-47门、恩德东里1-42门、育红楼13至19门、陈塘庄街幸福家园除上述高风险区域的其他区域、钢厂宿舍、副食大楼",
+        "areaName": "越秀路街恩德西里1-47门",
         "dangerLevel": 2
       },
       {
         "cityName": "河西区",
-        "areaName": "越秀路街黄埔里除高风险区以外的其他区域",
+        "areaName": "越秀路街黄埔里除上述高风险区以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "越秀路街育红楼13至19门",
         "dangerLevel": 2
       },
       {
@@ -7657,11 +7747,6 @@
       },
       {
         "cityName": "河东区",
-        "areaName": "上杭路街道第六大道区域：第博雅园、陆典庭园、大洋嘉园、道俊华园、俊东大厦",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河东区",
         "areaName": "上杭路街道俊东公寓",
         "dangerLevel": 2
       },
@@ -7671,18 +7756,23 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "北辰区",
-        "areaName": "刘快庄村鼎力酒店（聚福嘉苑公寓西店）及沿街底商",
+        "cityName": "东丽区",
+        "areaName": "东丽湖街道华侨城汇涛苑4号楼",
         "dangerLevel": 2
       },
       {
-        "cityName": "北辰区",
-        "areaName": "西堤头镇刘快庄村百合家园公寓A座、B座、C座",
+        "cityName": "东丽区",
+        "areaName": "丰年村街万科民和巷花园小区5、12、13、16、17、19、20、21、24、25、26、27、29号楼号楼",
         "dangerLevel": 2
       },
       {
-        "cityName": "北辰区",
-        "areaName": "西堤头镇刘快庄村永川小区1号楼、2号楼、3号楼、9号楼、10号楼、11号楼、20号楼、21号楼、22号楼",
+        "cityName": "东丽区",
+        "areaName": "张贵庄街津门里小区除高风险区以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "东丽区",
+        "areaName": "张贵庄街詹滨西里小区南院除高风险区以外区域",
         "dangerLevel": 2
       },
       {
@@ -7692,27 +7782,17 @@
       },
       {
         "cityName": "西青区",
-        "areaName": "锦泽苑小区（除25—34号楼、43号楼）",
+        "areaName": "精武镇锦泽苑小区43号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西青区",
-        "areaName": "中北镇凯信佳园小区1号楼",
+        "areaName": "李七庄街盛阳园（除1号楼、2号楼外）",
         "dangerLevel": 2
       },
       {
-        "cityName": "东丽区",
-        "areaName": "丰年村街万科民和巷花园小区5、12、13、16、17、19、20、21、25、28号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "东丽区",
-        "areaName": "华侨城汇涛苑4号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "东丽区",
-        "areaName": "张贵庄街詹滨西里小区南院除高风险区以外区域",
+        "cityName": "西青区",
+        "areaName": "王稳庄镇大侯庄村平房区（津淄公路以东）",
         "dangerLevel": 2
       },
       {
@@ -7722,7 +7802,7 @@
       },
       {
         "cityName": "津南区",
-        "areaName": "福松源庄一期除15号楼以外区域",
+        "areaName": "双林街福松源庄一期15号楼",
         "dangerLevel": 2
       },
       {
@@ -7741,18 +7821,8 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "河北区",
-        "areaName": "铁东路街道爱贤里小区2号楼12、13门",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "河北区",
-        "areaName": "王串场街道明溪里小区1号楼（8—10门）",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "南开区",
-        "areaName": "王顶堤街林苑西里（除19号楼外）",
+        "areaName": "王顶堤街林苑西里19号楼",
         "dangerLevel": 2
       },
       {
@@ -7762,12 +7832,27 @@
       },
       {
         "cityName": "红桥区",
-        "areaName": "桃花园东里除高风险区外其他区域、光荣楼小区",
+        "areaName": "丁字沽街光荣楼小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "红桥区",
+        "areaName": "丁字沽街桃花园东里除高风险区外其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "滨海新区",
         "areaName": "“东至海滨大道，西至秦滨高速，北至永定新河，南至海河”为四至区域，涉及北塘街、新河街、新北街、杭州道街、泰达街、胡家园街、新村街、塘沽街、新港街等9个街道在以上四至范围内高风险区域之外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河北区",
+        "areaName": "铁东路街道爱贤里小区2号楼12、13门",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "北辰区",
+        "areaName": "西堤头镇刘快庄村康派尔商铺115号-128号",
         "dangerLevel": 2
       }
     ]
@@ -7936,8 +8021,8 @@
     "comment": "",
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 1,
+    "highDangerCount": 0,
+    "midDangerCount": 0,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -8052,8 +8137,8 @@
         "suspectedCount": 0,
         "curedCount": 44,
         "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
         "locationId": 150800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "巴彦淖尔市"
@@ -8111,18 +8196,7 @@
         "fullCityName": "兴安盟"
       }
     ],
-    "dangerAreas": [
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "曙光乡治丰二组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "临河区曙光乡治丰四组",
-        "dangerLevel": 2
-      }
-    ]
+    "dangerAreas": []
   },
   {
     "pinyin": "yunnan",
@@ -9578,7 +9652,7 @@
     "locationId": 320000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 2,
+    "midDangerCount": 7,
     "detectOrgCount": 395,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -9759,13 +9833,38 @@
         "curedCount": 24,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 5,
         "locationId": 321100,
         "currentConfirmedCountStr": "0",
         "fullCityName": "镇江市"
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "镇江",
+        "areaName": "江大后街（XY欧韩女装店、秀依阁服装店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "镇江",
+        "areaName": "吉麦隆超市（江大店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "镇江",
+        "areaName": "牛得多牛肉面馆（香江店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "镇江",
+        "areaName": "水木阳光小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "镇江",
+        "areaName": "夏文龙面馆（学府路、宗泽路交叉口附近）",
+        "dangerLevel": 2
+      },
       {
         "cityName": "徐州",
         "areaName": " 铜山区望城村皇姑窝自然村",
@@ -10753,7 +10852,7 @@
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
     "highDangerCount": 212,
-    "midDangerCount": 1,
+    "midDangerCount": 0,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
     "cities": [
@@ -10764,7 +10863,7 @@
         "suspectedCount": 0,
         "curedCount": 5,
         "deadCount": 0,
-        "highDangerCount": 175,
+        "highDangerCount": 174,
         "midDangerCount": 0,
         "locationId": 640500,
         "currentConfirmedCountStr": "15",
@@ -10790,8 +10889,8 @@
         "suspectedCount": 0,
         "curedCount": 38,
         "deadCount": 0,
-        "highDangerCount": 24,
-        "midDangerCount": 1,
+        "highDangerCount": 25,
+        "midDangerCount": 0,
         "locationId": 640300,
         "currentConfirmedCountStr": "1",
         "fullCityName": "吴忠市"
@@ -10860,11 +10959,6 @@
       {
         "cityName": "中卫",
         "areaName": "北街农业银行综合楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "八营村",
         "dangerLevel": 1
       },
       {
@@ -11189,6 +11283,11 @@
       },
       {
         "cityName": "中卫",
+        "areaName": "马莲村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "中卫",
         "areaName": "马莲梁村",
         "dangerLevel": 1
       },
@@ -11275,11 +11374,6 @@
       {
         "cityName": "中卫",
         "areaName": "潘营村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "清河村",
         "dangerLevel": 1
       },
       {
@@ -11794,6 +11888,11 @@
       },
       {
         "cityName": "吴忠",
+        "areaName": "秦渠华苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "吴忠",
         "areaName": "上桥镇朝阳小区",
         "dangerLevel": 1
       },
@@ -11896,11 +11995,6 @@
         "cityName": "固原",
         "areaName": "中山北街万和西区10号楼",
         "dangerLevel": 1
-      },
-      {
-        "cityName": "吴忠",
-        "areaName": "秦渠华苑小区",
-        "dangerLevel": 2
       }
     ]
   },
@@ -13793,7 +13887,7 @@
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
     "highDangerCount": 4,
-    "midDangerCount": 7,
+    "midDangerCount": 4,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -13857,7 +13951,7 @@
         "curedCount": 95,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 1,
         "locationId": 130200,
         "currentConfirmedCountStr": "0",
         "fullCityName": "唐山市"
@@ -14003,26 +14097,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "唐山",
-        "areaName": "浭阳街道金域华府小区10号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "唐山",
-        "areaName": "天赐良园小区2号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "唐山",
-        "areaName": "银城铺镇殷官屯村（北小街）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "唐山",
-        "areaName": "杨官林镇黄家屯村阳光小区108号楼",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "石家庄",
         "areaName": "美味超市（兴华北路247号）",
         "dangerLevel": 2
@@ -14035,6 +14109,11 @@
       {
         "cityName": "石家庄",
         "areaName": "辛集市亨盛小区南区东院其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "唐山",
+        "areaName": "银城铺镇殷官屯村（北小街）",
         "dangerLevel": 2
       }
     ]
