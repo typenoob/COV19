@@ -150,15 +150,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 54,
+        "currentConfirmedCount": 49,
         "confirmedCount": 3684,
         "suspectedCount": 0,
-        "curedCount": 3627,
+        "curedCount": 3632,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 510100,
-        "currentConfirmedCountStr": "54",
+        "currentConfirmedCountStr": "49",
         "fullCityName": "成都市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -533,
+        "currentConfirmedCount": -528,
         "confirmedCount": 194,
         "suspectedCount": 0,
-        "curedCount": 727,
+        "curedCount": 722,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-533",
+        "currentConfirmedCountStr": "-528",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1395,15 +1395,15 @@
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 113,
+        "currentConfirmedCount": 107,
         "confirmedCount": 3605,
         "suspectedCount": 3,
-        "curedCount": 3491,
+        "curedCount": 3497,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "113",
+        "currentConfirmedCountStr": "107",
         "fullCityName": "广州市"
       },
       {
@@ -1642,15 +1642,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -467,
+        "currentConfirmedCount": -461,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 467,
+        "curedCount": 461,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-467",
+        "currentConfirmedCountStr": "-461",
         "fullCityName": "待明确地区"
       }
     ],
@@ -2901,7 +2901,7 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 157,
+    "highDangerCount": 159,
     "midDangerCount": 370,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
@@ -2952,7 +2952,7 @@
         "suspectedCount": 0,
         "curedCount": 299,
         "deadCount": 0,
-        "highDangerCount": 62,
+        "highDangerCount": 64,
         "midDangerCount": 169,
         "locationId": 231100,
         "currentConfirmedCountStr": "2",
@@ -3862,6 +3862,16 @@
       {
         "cityName": "黑河",
         "areaName": "嫩江市老国税家属楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "嫩江市嫩水社区龙门小区3号楼7单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "黑河",
+        "areaName": "嫩江市邮政社区金地家园2号楼10号车库",
         "dangerLevel": 1
       },
       {
@@ -6865,15 +6875,15 @@
       },
       {
         "cityName": "厦门",
-        "currentConfirmedCount": 11,
+        "currentConfirmedCount": 9,
         "confirmedCount": 414,
         "suspectedCount": 0,
-        "curedCount": 403,
+        "curedCount": 405,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 350200,
-        "currentConfirmedCountStr": "11",
+        "currentConfirmedCountStr": "9",
         "fullCityName": "厦门市"
       },
       {
@@ -6979,19 +6989,6 @@
         "locationId": 350800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "龙岩市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -2,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-2",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
@@ -8030,7 +8027,7 @@
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
     "highDangerCount": 10,
-    "midDangerCount": 9,
+    "midDangerCount": 10,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -8094,7 +8091,7 @@
         "curedCount": 285,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 4,
+        "midDangerCount": 5,
         "locationId": 370800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "济宁市"
@@ -8310,6 +8307,11 @@
       {
         "cityName": "济宁",
         "areaName": "任城区观音阁街道长城工业园片区（东起洸府河，西至火炬路东200米，南起海南东路，北至深圳东路）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "任城区李营街道苗营东区片区（北至机电一路，南至金宇中心路，西至建设路，东至沿建设路各小区、院落东墙）",
         "dangerLevel": 2
       },
       {
