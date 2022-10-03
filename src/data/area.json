@@ -150,15 +150,15 @@
       },
       {
         "cityName": "成都",
-        "currentConfirmedCount": 60,
+        "currentConfirmedCount": 54,
         "confirmedCount": 3695,
         "suspectedCount": 0,
-        "curedCount": 3632,
+        "curedCount": 3638,
         "deadCount": 3,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 510100,
-        "currentConfirmedCountStr": "60",
+        "currentConfirmedCountStr": "54",
         "fullCityName": "成都市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -538,
+        "currentConfirmedCount": -532,
         "confirmedCount": 213,
         "suspectedCount": 0,
-        "curedCount": 751,
+        "curedCount": 745,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-538",
+        "currentConfirmedCountStr": "-532",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1387,28 +1387,28 @@
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 155,
+        "currentConfirmedCount": 142,
         "confirmedCount": 3833,
         "suspectedCount": 3,
-        "curedCount": 3675,
+        "curedCount": 3688,
         "deadCount": 3,
         "highDangerCount": 63,
         "midDangerCount": 63,
         "locationId": 440300,
-        "currentConfirmedCountStr": "155",
+        "currentConfirmedCountStr": "142",
         "fullCityName": "深圳市"
       },
       {
         "cityName": "广州",
-        "currentConfirmedCount": 119,
+        "currentConfirmedCount": 108,
         "confirmedCount": 3617,
         "suspectedCount": 3,
-        "curedCount": 3497,
+        "curedCount": 3508,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "119",
+        "currentConfirmedCountStr": "108",
         "fullCityName": "广州市"
       },
       {
@@ -1647,15 +1647,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -485,
+        "currentConfirmedCount": -461,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 485,
+        "curedCount": 461,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-485",
+        "currentConfirmedCountStr": "-461",
         "fullCityName": "待明确地区"
       }
     ],
@@ -7541,8 +7541,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 5,
-    "midDangerCount": 0,
+    "highDangerCount": 6,
+    "midDangerCount": 1,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -7685,8 +7685,8 @@
         "suspectedCount": 0,
         "curedCount": 134,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 110115,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -7825,6 +7825,16 @@
         "cityName": "通州区",
         "areaName": "高楼金第小区",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "大兴区",
+        "areaName": "黄村镇狼垡一村内东至锅炉房西路、南至狼垡前街、西至高庙路、北至场院街的区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大兴区",
+        "areaName": "狼垡一村除上述高风险区以外其他行政区域",
+        "dangerLevel": 2
       }
     ]
   },
