@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 6605668,
-    "confirmedCount": 6630642,
+    "currentConfirmedCount": 6660494,
+    "confirmedCount": 6685516,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 11232,
+    "deadCount": 11280,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 320704,
-    "confirmedCount": 416548,
+    "currentConfirmedCount": 321335,
+    "confirmedCount": 417189,
     "suspectedCount": 181,
     "curedCount": 85660,
-    "deadCount": 10184,
+    "deadCount": 10194,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -2128,8 +2128,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 60,
-    "midDangerCount": 77,
+    "highDangerCount": 63,
+    "midDangerCount": 79,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -2322,8 +2322,8 @@
         "suspectedCount": 0,
         "curedCount": 12,
         "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
+        "highDangerCount": 4,
+        "midDangerCount": 3,
         "locationId": 440200,
         "currentConfirmedCountStr": "3",
         "fullCityName": "韶关市"
@@ -2692,6 +2692,26 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "韶关",
+        "areaName": "南枫碧水园东区K11",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "三江紫园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "西联镇恒大城2期38、39栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "下乡村委会上门队26号周边",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "东莞",
         "areaName": "下桥社区水果市场银丰街1号之131号",
         "dangerLevel": 1
@@ -2714,11 +2734,6 @@
       {
         "cityName": "惠州",
         "areaName": "鸿威金都雅苑小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "韶关",
-        "areaName": "西联镇恒大城2期38、39栋",
         "dangerLevel": 1
       },
       {
@@ -3099,6 +3114,16 @@
       {
         "cityName": "东莞",
         "areaName": "下桥社区银岭街-银竹路-金桥水产市场东侧-陂头巷21-48号合围区域（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "北江中路33号南枫碧水园东区K3-K10、K12",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "韶关",
+        "areaName": "三江紫园车库入口南侧汇景苑及沙梨园224号住宅楼",
         "dangerLevel": 2
       },
       {
@@ -7338,15 +7363,15 @@
       },
       {
         "cityName": "济南",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 147,
+        "currentConfirmedCount": 7,
+        "confirmedCount": 148,
         "suspectedCount": 0,
         "curedCount": 141,
         "deadCount": 0,
         "highDangerCount": 2,
         "midDangerCount": 1,
         "locationId": 370100,
-        "currentConfirmedCountStr": "6",
+        "currentConfirmedCountStr": "7",
         "fullCityName": "济南市"
       },
       {
@@ -7530,19 +7555,6 @@
         "locationId": 370400,
         "currentConfirmedCountStr": "0",
         "fullCityName": "枣庄市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1,
-        "suspectedCount": 0,
-        "curedCount": 0,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
