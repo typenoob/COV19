@@ -52,8 +52,8 @@
     "comment": "",
     "locationId": 510000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-    "highDangerCount": 46,
-    "midDangerCount": 45,
+    "highDangerCount": 49,
+    "midDangerCount": 46,
     "detectOrgCount": 413,
     "vaccinationOrgCount": 131,
     "cities": [
@@ -77,8 +77,8 @@
         "suspectedCount": 0,
         "curedCount": 13,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 1,
         "locationId": 511500,
         "currentConfirmedCountStr": "258",
         "fullCityName": "宜宾市"
@@ -571,6 +571,21 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "宜宾",
+        "areaName": "大坝苗族乡大渔洞风情苑至大坝中学段（涉及建国村三组、四组）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宜宾",
+        "areaName": "大坝苗族乡大渔洞河流至税关桥段（涉及晏州社区一组、二组、三组，朝阳村一组）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宜宾",
+        "areaName": "大坝苗族乡兴威路段（建国坝上至红旗云翔投资加油站，涉及建国村一组、二组、三组，红旗村四组）",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "眉山",
         "areaName": "眉山市东坡区太和镇龙亭社区13组",
         "dangerLevel": 1
@@ -799,6 +814,11 @@
         "cityName": "绵阳",
         "areaName": "安州区花荄镇红武村\t",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "宜宾",
+        "areaName": "大坝苗族乡除高风险区外其余区域",
+        "dangerLevel": 2
       }
     ]
   },
@@ -815,8 +835,8 @@
     "comment": "",
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-    "highDangerCount": 141,
-    "midDangerCount": 24,
+    "highDangerCount": 140,
+    "midDangerCount": 25,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -827,7 +847,7 @@
         "suspectedCount": 0,
         "curedCount": 465,
         "deadCount": 0,
-        "highDangerCount": 134,
+        "highDangerCount": 133,
         "midDangerCount": 14,
         "locationId": 150100,
         "currentConfirmedCountStr": "319",
@@ -854,7 +874,7 @@
         "curedCount": 43,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 4,
         "locationId": 150200,
         "currentConfirmedCountStr": "12",
         "fullCityName": "包头市"
@@ -1204,11 +1224,6 @@
       {
         "cityName": "呼和浩特",
         "areaName": "赛罕区昭乌达南路街道小台什社区颐和家园小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "呼和浩特",
-        "areaName": "赛罕区中专路街道河西乌兰小区",
         "dangerLevel": 1
       },
       {
@@ -1768,6 +1783,11 @@
       },
       {
         "cityName": "包头",
+        "areaName": "福瑞瓦东瓦西小区（含瓦窑沟路）北至小区北端，南至东门大街路口",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "包头",
         "areaName": "锦绣新城小区",
         "dangerLevel": 2
       },
@@ -1831,8 +1851,8 @@
     "comment": "3 月 17 日贵阳市新增 1 例境外输入无症状感染者",
     "locationId": 520000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/148/3398299753820971243-135.json",
-    "highDangerCount": 11,
-    "midDangerCount": 18,
+    "highDangerCount": 14,
+    "midDangerCount": 16,
     "detectOrgCount": 121,
     "vaccinationOrgCount": 13,
     "cities": [
@@ -1843,8 +1863,8 @@
         "suspectedCount": 0,
         "curedCount": 230,
         "deadCount": 0,
-        "highDangerCount": 11,
-        "midDangerCount": 18,
+        "highDangerCount": 14,
+        "midDangerCount": 16,
         "locationId": 520500,
         "currentConfirmedCountStr": "288",
         "fullCityName": "毕节市"
@@ -1970,6 +1990,16 @@
     "dangerAreas": [
       {
         "cityName": "毕节",
+        "areaName": "滨江一号小区全域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "毕节",
+        "areaName": "广建路（桂花苑段）—前河路（滨河丽都段）—解放东路合围区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "毕节",
         "areaName": "金银山街道河溪玉锦酒店—联星村独山桥—光彩大道—曾家河坝安置房南侧—河溪玉锦酒店合围区域",
         "dangerLevel": 1
       },
@@ -2005,11 +2035,6 @@
       },
       {
         "cityName": "毕节",
-        "areaName": "黔西市莲城街道八块田社区6、7网格",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "毕节",
         "areaName": "双河街道拥军路八亩沟幼儿园—九零路天桥—在水一方桥（老水务局）—龙泉大厦—小康一路与龙泉路交叉口—汉阳路老水果批发市场—小河西一路—小河沟高桥—狮山花园酒店—拥军路八亩沟幼儿园合围区域",
         "dangerLevel": 1
       },
@@ -2020,8 +2045,23 @@
       },
       {
         "cityName": "毕节",
+        "areaName": "夜郎广场小区全域（不含夜郎广场）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "毕节",
+        "areaName": "中央公馆小区全域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "毕节",
         "areaName": "　碧阳街道滨湖小区愉景华庭H栋",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "毕节",
+        "areaName": "八块田社区6、7网格",
+        "dangerLevel": 2
       },
       {
         "cityName": "毕节",
@@ -2076,21 +2116,6 @@
       {
         "cityName": "毕节",
         "areaName": "黔西市桦晨医院及备勤楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "毕节",
-        "areaName": "黔西市莲城街道八块田社区(除6、7网格外)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "毕节",
-        "areaName": "黔西市中华大道与S212(南环线)交叉口东南侧接八块田社区闭环区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "毕节",
-        "areaName": "黔西市中华大道与金黔大道(同心大道)交叉口西南侧接八块社区闭环区域",
         "dangerLevel": 2
       },
       {
@@ -4495,8 +4520,8 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 43,
-    "midDangerCount": 199,
+    "highDangerCount": 38,
+    "midDangerCount": 200,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -4546,8 +4571,8 @@
         "suspectedCount": 0,
         "curedCount": 300,
         "deadCount": 0,
-        "highDangerCount": 17,
-        "midDangerCount": 110,
+        "highDangerCount": 16,
+        "midDangerCount": 111,
         "locationId": 231100,
         "currentConfirmedCountStr": "3",
         "fullCityName": "黑河市"
@@ -4559,7 +4584,7 @@
         "suspectedCount": 0,
         "curedCount": 3,
         "deadCount": 0,
-        "highDangerCount": 4,
+        "highDangerCount": 0,
         "midDangerCount": 4,
         "locationId": 232700,
         "currentConfirmedCountStr": "1",
@@ -4865,37 +4890,12 @@
       },
       {
         "cityName": "黑河",
-        "areaName": "嫩江市老国税家属楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "黑河",
         "areaName": "嫩江市嫩水社区龙门小区3号楼7单元",
         "dangerLevel": 1
       },
       {
         "cityName": "黑河",
         "areaName": "嫩江市邮政社区金地家园2号楼10号车库",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "大兴安岭",
-        "areaName": "电业小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "大兴安岭",
-        "areaName": "呼玛县龙腾小区1号、2号、3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "大兴安岭",
-        "areaName": "龙腾小区4、5、6号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "大兴安岭",
-        "areaName": "新市场",
         "dangerLevel": 1
       },
       {
@@ -5455,6 +5455,11 @@
       },
       {
         "cityName": "黑河",
+        "areaName": "老国税家属楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黑河",
         "areaName": "嫩江市农行招待所",
         "dangerLevel": 2
       },
@@ -5885,22 +5890,22 @@
       },
       {
         "cityName": "大兴安岭",
-        "areaName": "呼玛县三村林海二巷",
+        "areaName": "电业小区",
         "dangerLevel": 2
       },
       {
         "cityName": "大兴安岭",
-        "areaName": "合顺家园1、2、3号楼",
+        "areaName": "呼玛县龙腾小区1、2、3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "大兴安岭",
-        "areaName": "教育局办公楼合围区域（除高风险区外）",
+        "areaName": "龙腾小区4、5、6号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "大兴安岭",
-        "areaName": "气象小区",
+        "areaName": "新市场",
         "dangerLevel": 2
       },
       {
@@ -7331,7 +7336,7 @@
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
     "highDangerCount": 7,
-    "midDangerCount": 12,
+    "midDangerCount": 14,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -7408,7 +7413,7 @@
         "curedCount": 285,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 5,
+        "midDangerCount": 7,
         "locationId": 370800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "济宁市"
@@ -7595,6 +7600,16 @@
       },
       {
         "cityName": "济宁",
+        "areaName": "蔡前村片区（包含：蔡前村、蔡北村、李北村、季庙村）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "经典院子项目工地（南至中海城北墙，西至瀚香名邸东墙，北至红星西路北沿街商铺（包含），东至电化厂路东沿街商铺（包含））。",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
         "areaName": "任城区观音阁街道长城工业园片区（东起洸府河，西至火炬路东200米，南起海南东路，北至深圳东路）",
         "dangerLevel": 2
       },
@@ -7668,8 +7683,8 @@
     "comment": "",
     "locationId": 140000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 22,
+    "highDangerCount": 8,
+    "midDangerCount": 23,
     "detectOrgCount": 183,
     "vaccinationOrgCount": 70,
     "cities": [
@@ -7680,8 +7695,8 @@
         "suspectedCount": 0,
         "curedCount": 124,
         "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 9,
+        "highDangerCount": 2,
+        "midDangerCount": 10,
         "locationId": 140100,
         "currentConfirmedCountStr": "21",
         "fullCityName": "太原市"
@@ -7867,11 +7882,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "太原",
-        "areaName": "小店区太原东高速服务区",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "朔州",
         "areaName": "大运果菜批发市场",
         "dangerLevel": 1
@@ -7904,6 +7914,11 @@
       {
         "cityName": "太原",
         "areaName": "太钢青楼宿舍（12、13、14、15、16、17、18、19、20号楼及社区食堂）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "太原",
+        "areaName": "太原东高速服务区",
         "dangerLevel": 2
       },
       {
@@ -8983,7 +8998,7 @@
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 180,
+    "highDangerCount": 181,
     "midDangerCount": 74,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
@@ -8995,7 +9010,7 @@
         "suspectedCount": 0,
         "curedCount": 5,
         "deadCount": 0,
-        "highDangerCount": 161,
+        "highDangerCount": 162,
         "midDangerCount": 45,
         "locationId": 640500,
         "currentConfirmedCountStr": "34",
@@ -9878,7 +9893,12 @@
       },
       {
         "cityName": "中卫",
-        "areaName": "锦绣苑C区",
+        "areaName": "金岸家园B区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "马莲村",
         "dangerLevel": 1
       },
       {
