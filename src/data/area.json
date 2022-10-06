@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 6660494,
-    "confirmedCount": 6685516,
+    "currentConfirmedCount": 6706860,
+    "confirmedCount": 6731939,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 11280,
+    "deadCount": 11337,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 321160,
-    "confirmedCount": 417189,
+    "currentConfirmedCount": 321752,
+    "confirmedCount": 417787,
     "suspectedCount": 181,
     "curedCount": 85835,
-    "deadCount": 10194,
+    "deadCount": 10200,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -3287,6 +3287,19 @@
         "fullCityName": "和平区"
       },
       {
+        "cityName": "外地来津",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 15,
+        "suspectedCount": 0,
+        "curedCount": 8,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "外地来津"
+      },
+      {
         "cityName": "津南区",
         "currentConfirmedCount": 6,
         "confirmedCount": 370,
@@ -3298,19 +3311,6 @@
         "locationId": 120112,
         "currentConfirmedCountStr": "6",
         "fullCityName": "津南区"
-      },
-      {
-        "cityName": "外地来津",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 12,
-        "suspectedCount": 0,
-        "curedCount": 8,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "外地来津"
       },
       {
         "cityName": "红桥区",
@@ -3392,15 +3392,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -132,
-        "confirmedCount": 84,
+        "currentConfirmedCount": -135,
+        "confirmedCount": 81,
         "suspectedCount": 0,
         "curedCount": 216,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-132",
+        "currentConfirmedCountStr": "-135",
         "fullCityName": "待明确地区"
       }
     ],
@@ -3491,16 +3491,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "滨海新区",
-        "areaName": "新北街道围合区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "滨海新区",
-        "areaName": "阳性感染者所在所在小区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "河西区",
         "areaName": "陈塘庄街曲江路11号全域",
         "dangerLevel": 2
@@ -3508,6 +3498,16 @@
       {
         "cityName": "河西区",
         "areaName": "马场街四化里单号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "新北街道围合区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "滨海新区",
+        "areaName": "阳性感染者所在所在小区",
         "dangerLevel": 2
       },
       {
@@ -6467,10 +6467,10 @@
     "name": "山东",
     "provinceName": "山东省",
     "provinceShortName": "山东",
-    "currentConfirmedCount": 49,
+    "currentConfirmedCount": 48,
     "confirmedCount": 3125,
     "suspectedCount": 14,
-    "curedCount": 3069,
+    "curedCount": 3070,
     "deadCount": 7,
     "comment": "",
     "locationId": 370000,
@@ -6482,41 +6482,41 @@
     "cities": [
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 26,
+        "currentConfirmedCount": 25,
         "confirmedCount": 618,
         "suspectedCount": 1,
-        "curedCount": 592,
+        "curedCount": 593,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "26",
+        "currentConfirmedCountStr": "25",
         "fullCityName": "境外输入"
       },
       {
         "cityName": "青岛",
-        "currentConfirmedCount": 12,
+        "currentConfirmedCount": 11,
         "confirmedCount": 1122,
         "suspectedCount": 0,
-        "curedCount": 1109,
+        "curedCount": 1110,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 370200,
-        "currentConfirmedCountStr": "12",
+        "currentConfirmedCountStr": "11",
         "fullCityName": "青岛市"
       },
       {
         "cityName": "济南",
-        "currentConfirmedCount": 7,
-        "confirmedCount": 148,
+        "currentConfirmedCount": 8,
+        "confirmedCount": 149,
         "suspectedCount": 0,
         "curedCount": 141,
         "deadCount": 0,
         "highDangerCount": 2,
         "midDangerCount": 1,
         "locationId": 370100,
-        "currentConfirmedCountStr": "7",
+        "currentConfirmedCountStr": "8",
         "fullCityName": "济南市"
       },
       {
@@ -6700,19 +6700,6 @@
         "locationId": 370400,
         "currentConfirmedCountStr": "0",
         "fullCityName": "枣庄市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 1,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
