@@ -13726,8 +13726,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 2,
-    "midDangerCount": 4,
+    "highDangerCount": 3,
+    "midDangerCount": 5,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -13791,8 +13791,8 @@
         "suspectedCount": 0,
         "curedCount": 82,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 110108,
         "currentConfirmedCountStr": "297",
         "fullCityName": "海淀区"
@@ -13997,6 +13997,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "海淀区",
+        "areaName": "北下关街道中关村南大街46号南区8号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "房山区",
         "areaName": "长阳镇朱岗子村京深公路以西、村小学北路以北、村西路以东、黄良铁路以南区域除高风险以外区域",
         "dangerLevel": 2
@@ -14015,6 +14020,11 @@
         "cityName": "朝阳区",
         "areaName": "东窑村其他区域",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "海淀区",
+        "areaName": "北下关街道中关村南大街46号南区7、9、10、18、22号楼",
+        "dangerLevel": 2
       }
     ]
   },
@@ -14032,7 +14042,7 @@
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
     "highDangerCount": 8,
-    "midDangerCount": 6,
+    "midDangerCount": 7,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -14147,7 +14157,7 @@
         "suspectedCount": 0,
         "curedCount": 37,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 120104,
         "currentConfirmedCountStr": "13",
@@ -14212,7 +14222,7 @@
         "suspectedCount": 0,
         "curedCount": 151,
         "deadCount": 0,
-        "highDangerCount": 2,
+        "highDangerCount": 0,
         "midDangerCount": 2,
         "locationId": 120114,
         "currentConfirmedCountStr": "1",
@@ -14238,8 +14248,8 @@
         "suspectedCount": 0,
         "curedCount": 11,
         "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 2,
+        "highDangerCount": 5,
+        "midDangerCount": 3,
         "locationId": 120118,
         "currentConfirmedCountStr": "1",
         "fullCityName": "静海区"
@@ -14302,17 +14312,12 @@
       },
       {
         "cityName": "静海区",
+        "areaName": "团泊镇碧桂园丽泽府小区4号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "静海区",
         "areaName": "团泊镇泊雅苑小区3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武清区",
-        "areaName": "东蒲洼街光明道金都花园29号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "武清区",
-        "areaName": "杨村街尚清湾A区27号楼1单元",
         "dangerLevel": 1
       },
       {
@@ -14326,14 +14331,9 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "武清区",
-        "areaName": "东蒲洼街光明道金都花园（29号楼除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "武清区",
-        "areaName": "杨村街尚清湾A区（27号楼1单元除外）",
-        "dangerLevel": 2
+        "cityName": "南开区",
+        "areaName": "王顶堤街龙湖冠寓",
+        "dangerLevel": 1
       },
       {
         "cityName": "静海区",
@@ -14342,7 +14342,22 @@
       },
       {
         "cityName": "静海区",
+        "areaName": "团泊镇碧桂园丽泽府小区全域内除高风险区以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "静海区",
         "areaName": "团泊镇泊雅苑小区1号楼、2号楼、4号楼、5号楼、6号楼、7号楼、8号楼、9号楼、10号楼、11号楼、12号楼、13号楼、14号楼合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武清区",
+        "areaName": "东蒲洼街光明道金都花园29号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "武清区",
+        "areaName": "杨村街尚清湾A区27号楼1单元",
         "dangerLevel": 2
       },
       {
@@ -21033,8 +21048,8 @@
     "comment": "河北卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 130000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
-    "highDangerCount": 24,
-    "midDangerCount": 49,
+    "highDangerCount": 26,
+    "midDangerCount": 57,
     "detectOrgCount": 566,
     "vaccinationOrgCount": 178,
     "cities": [
@@ -21136,8 +21151,8 @@
         "suspectedCount": 0,
         "curedCount": 43,
         "deadCount": 0,
-        "highDangerCount": 10,
-        "midDangerCount": 39,
+        "highDangerCount": 13,
+        "midDangerCount": 45,
         "locationId": 130700,
         "currentConfirmedCountStr": "0",
         "fullCityName": "张家口市"
@@ -21162,8 +21177,8 @@
         "suspectedCount": 0,
         "curedCount": 21,
         "deadCount": 1,
-        "highDangerCount": 9,
-        "midDangerCount": 4,
+        "highDangerCount": 8,
+        "midDangerCount": 6,
         "locationId": 130300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "秦皇岛市"
@@ -21225,7 +21240,7 @@
     "dangerAreas": [
       {
         "cityName": "张家口",
-        "areaName": "建国街诚品家小区",
+        "areaName": "赤城县龙关镇龙居家园小区及其底商",
         "dangerLevel": 1
       },
       {
@@ -21250,6 +21265,11 @@
       },
       {
         "cityName": "张家口",
+        "areaName": "桥西区西泽园社区西泽园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "张家口",
         "areaName": "宣化区钢鑫小区",
         "dangerLevel": 1
       },
@@ -21265,6 +21285,11 @@
       },
       {
         "cityName": "张家口",
+        "areaName": "宣化区建国街诚品家小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "张家口",
         "areaName": "宣化区南大街步行街",
         "dangerLevel": 1
       },
@@ -21274,8 +21299,8 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "秦皇岛",
-        "areaName": "抚宁区骊城街道紫金湾景尚小区13号楼",
+        "cityName": "张家口",
+        "areaName": "宣化区赵川镇黄土坡村",
         "dangerLevel": 1
       },
       {
@@ -21340,202 +21365,237 @@
       },
       {
         "cityName": "保定",
-        "areaName": "　　定州市子位镇寺底村",
+        "areaName": "定州市子位镇寺底村",
         "dangerLevel": 1
       },
       {
         "cityName": "张家口",
-        "areaName": " 经开区南站街道学府路社区河北北方学院西校区",
+        "areaName": "赤城县龙关镇福宴楼饭店",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 经开区沙岭子镇二里半村河北北方学院南校区",
+        "areaName": "赤城县龙关镇商业街",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 经开区沙岭子镇全域屈家庄村以外的其他区域",
+        "areaName": "赤城县龙关镇益盛缘食府",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥东区胜利北路街道汉桥北街社区南口国税局家属院2号楼",
+        "areaName": "经开区南站街道学府路社区河北北方学院西校区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区北关街社区",
+        "areaName": "经开区沙岭子镇二里半村河北北方学院南校区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区附属医院社区",
+        "areaName": "经开区沙岭子镇全域屈家庄村以外的其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区鼓楼西街社区",
+        "areaName": "桥东区博锐枫景小区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区公园路综合市场（下东营路店）",
+        "areaName": "桥东区佳境天城小区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区金鼎社区",
+        "areaName": "桥东区胜利北路街道汉桥北街社区南口国税局家属院2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区明德南社区",
+        "areaName": "桥西区北关街社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区南城壕社区",
+        "areaName": "桥西区附属医院社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区南瓦一社区",
+        "areaName": "桥西区鼓楼西街社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区清河园社区",
+        "areaName": "桥西区公园路综合市场（下东营路店）",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区武城街社区除武城街步行街以外的区域",
+        "areaName": "桥西区金鼎社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区西坝岗社区",
+        "areaName": "桥西区明德南社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区西岔社区",
+        "areaName": "桥西区南城壕社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区新华街社区",
+        "areaName": "桥西区南瓦一社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区新华苑社区",
+        "areaName": "桥西区清河园社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区西泽园社区",
+        "areaName": "桥西区武城街社区除武城街步行街以外的区域",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区永丰街社区",
+        "areaName": "桥西区西坝岗社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区元台子社区",
+        "areaName": "桥西区西岔社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 桥西区中学街社区",
+        "areaName": "桥西区新华街社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 尚义县滨河新城住宅小区底商万德福超市",
+        "areaName": "桥西区新华苑社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 尚义县滨河新城住宅小区南区",
+        "areaName": "桥西区西泽园社区（除西泽园小区以外的区域）",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 尚义县太平南路新县医院对面华佗药房",
+        "areaName": "桥西区永丰街社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区东草市街",
+        "areaName": "桥西区元台子社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区东二道巷",
+        "areaName": "桥西区中学街社区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区建国街街道（环保社区、南路社区、建北社区、建宣路社区）区域",
+        "areaName": "尚义县滨河新城住宅小区底商万德福超市",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区灵官庙街精英口语培训班所在楼栋",
+        "areaName": "尚义县滨河新城住宅小区南区",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区南大街街道（吕祖庙社区、万字会社区、西草市社区）区域",
+        "areaName": "尚义县太平南路新县医院对面华佗药房",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区南关街道（顺城街社区、南关桥北社区）区域",
+        "areaName": "宣化区东草市街",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
-        "areaName": " 宣化区双盛批发大市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区天泰寺街道（牌楼西街社区、大东街社区、西城社区、按院街社区）区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区武庙街",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区万字会南路",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区宣钢设备能源部气化作业区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区义圣宫青云美术班所在楼栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "张家口",
-        "areaName": " 宣化区钟楼大街（钟楼至花巷段）",
+        "areaName": "宣化区东二道巷",
         "dangerLevel": 2
       },
       {
         "cityName": "张家口",
         "areaName": "宣化区皇城街道（皇城桥北社区、后府社区、大西街社区、万柳社区）区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区建国街街道（环保社区、南路社区、建北社区、建宣路社区）区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区灵官庙街精英口语培训班所在楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区南大街街道（吕祖庙社区、万字会社区、西草市社区）区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区南关街道（顺城街社区、南关桥北社区）区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区双盛批发大市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区天泰寺街道（牌楼西街社区、大东街社区、西城社区、按院街社区）区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区武庙街",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区万字会南路",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区宣钢设备能源部气化作业区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区义圣宫青云美术班所在楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区赵川镇义合庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "张家口",
+        "areaName": "宣化区钟楼大街（钟楼至花巷段）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "秦皇岛",
+        "areaName": "抚宁区骊城街道紫金湾景尚小区13号楼",
         "dangerLevel": 2
       },
       {
@@ -21545,7 +21605,7 @@
       },
       {
         "cityName": "秦皇岛",
-        "areaName": "海港区东方明珠城小区A区以外区域、铁新里小区二区以外区域",
+        "areaName": "海港区东方明珠城小区A区以外区域",
         "dangerLevel": 2
       },
       {
@@ -21555,22 +21615,12 @@
       },
       {
         "cityName": "秦皇岛",
+        "areaName": "海港区铁新里小区二区以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "秦皇岛",
         "areaName": "海港区铁庄新村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "保定",
-        "areaName": "楼底村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "保定",
-        "areaName": "彭家庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "保定",
-        "areaName": "　定州市李亲顾镇韩家庄村",
         "dangerLevel": 2
       },
       {
@@ -21586,6 +21636,21 @@
       {
         "cityName": "邯郸",
         "areaName": "磁县磁州镇友谊南大街以东、建设西路以南、邮政南街以西、贸易路以北的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "保定",
+        "areaName": "定州市李亲顾镇韩家庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "保定",
+        "areaName": "楼底村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "保定",
+        "areaName": "彭家庄村",
         "dangerLevel": 2
       }
     ]
