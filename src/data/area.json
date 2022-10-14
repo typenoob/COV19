@@ -5133,8 +5133,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 47,
-    "midDangerCount": 46,
+    "highDangerCount": 52,
+    "midDangerCount": 51,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -5158,8 +5158,8 @@
         "suspectedCount": 3,
         "curedCount": 3839,
         "deadCount": 3,
-        "highDangerCount": 37,
-        "midDangerCount": 26,
+        "highDangerCount": 42,
+        "midDangerCount": 31,
         "locationId": 440300,
         "currentConfirmedCountStr": "210",
         "fullCityName": "深圳市"
@@ -5508,7 +5508,17 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "宝安区新桥街道沙企社区名仕国际3单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
         "areaName": "宝安区西乡街道铁岗社区铁岗村25栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "大浪街道高峰社区赤岭头羊台新村第5号、7号",
         "dangerLevel": 1
       },
       {
@@ -5549,6 +5559,16 @@
       {
         "cityName": "深圳",
         "areaName": "龙华区民治街道白石龙社区逸秀新村第1栋至3栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "民治街道民强社区塘水围三区第17栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山街道南园枫叶公寓B座",
         "dangerLevel": 1
       },
       {
@@ -5609,6 +5629,11 @@
       {
         "cityName": "深圳",
         "areaName": "南山区桃源街道新屋村第29、30、31、34、35、43、44号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "沙头街道沙尾社区沙尾东村第93至94栋、第103至104栋",
         "dangerLevel": 1
       },
       {
@@ -5703,6 +5728,11 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "大浪街道高峰社区赤岭头羊台新村第3号、6号、8号、9号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
         "areaName": "福田区福田街道海滨社区福泉花园A栋",
         "dangerLevel": 2
       },
@@ -5739,6 +5769,16 @@
       {
         "cityName": "深圳",
         "areaName": "龙华区民治街道白石龙社区逸秀新村第4至12栋、第5A栋、第3栋旁花店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "民治街道民强社区塘水围三区第15栋、16栋、18栋、21栋、22栋、30栋至32栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山街道南园枫叶公寓A座",
         "dangerLevel": 2
       },
       {
@@ -5789,6 +5829,16 @@
       {
         "cityName": "深圳",
         "areaName": "南山区桃源街道新屋村（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "沙头街道沙尾社区沙尾东村第92栋、第95至96栋、第101至102栋、第105至106栋、第111栋至第113栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "新桥街道沙企社区名仕国际（除高风险区以外）",
         "dangerLevel": 2
       },
       {
@@ -11785,8 +11835,8 @@
     "comment": "",
     "locationId": 140000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
-    "highDangerCount": 88,
-    "midDangerCount": 132,
+    "highDangerCount": 84,
+    "midDangerCount": 109,
     "detectOrgCount": 183,
     "vaccinationOrgCount": 70,
     "cities": [
@@ -11797,8 +11847,8 @@
         "suspectedCount": 0,
         "curedCount": 45,
         "deadCount": 0,
-        "highDangerCount": 51,
-        "midDangerCount": 92,
+        "highDangerCount": 40,
+        "midDangerCount": 69,
         "locationId": 140800,
         "currentConfirmedCountStr": "111",
         "fullCityName": "运城市"
@@ -11836,7 +11886,7 @@
         "suspectedCount": 0,
         "curedCount": 17,
         "deadCount": 0,
-        "highDangerCount": 29,
+        "highDangerCount": 35,
         "midDangerCount": 6,
         "locationId": 140200,
         "currentConfirmedCountStr": "25",
@@ -11888,7 +11938,7 @@
         "suspectedCount": 0,
         "curedCount": 21,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 10,
         "locationId": 140600,
         "currentConfirmedCountStr": "3",
@@ -11950,402 +12000,377 @@
     "dangerAreas": [
       {
         "cityName": "运城",
-        "areaName": "芮城县古魏镇北关村向阳东巷9号",
+        "areaName": " 安邑办事处西里庄村阳光公寓",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "芮城县金茂首府小区2号楼2单元",
+        "areaName": " 北海雅苑小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "芮城县永乐镇新村行政村下辖的新村自然村北一东巷",
+        "areaName": " 北相镇滕家卓村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县宝鼎新城小区13号楼",
+        "areaName": " 董家营村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县恒泰花苑小区25、26号楼",
+        "areaName": " 富康小区大巷",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县汉薛镇全域",
+        "areaName": " 港湾印象（运城空港店）公寓楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县解店镇七庄村",
+        "areaName": " 贺村铺（西）",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县解店镇新城村",
+        "areaName": " 华都佳苑小区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县解店镇西解村",
+        "areaName": " 韩家营村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县锦绣华庭小区6、9、10号楼",
+        "areaName": " 海天花苑小区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县龙润庭小区1号楼",
+        "areaName": " 槐豫东路新兴巷西二巷",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县幸福小镇小区",
+        "areaName": " 华源豪庭北区17号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县香江广场好又多超市",
+        "areaName": " 华源豪庭南区",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "万荣县香江公寓整栋楼",
+        "areaName": " 宏运佳园1、2、3号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "夏县大候村",
+        "areaName": " 龙凤苑小区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "夏县瑶峰镇结义村（湾里、石桥庄、小候）",
+        "areaName": " 龙居镇小张坞村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区安邑办事处西里庄村阳光公寓",
+        "areaName": " 蓝湾半岛项目部",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区北海雅苑小区1号楼",
+        "areaName": " 蒲东小区",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区北相镇滕家卓村",
+        "areaName": " 沁水雅居小区5号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区董家营村",
+        "areaName": " 舜德佳园小区大D区24号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区富康小区大巷",
+        "areaName": " 上郭乡中陈村（中西巷片区）",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区港湾印象(运城空港店)公寓楼",
+        "areaName": " 圣惠嘉园小区40号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区贺村铺（西）",
+        "areaName": " 尚上府邸小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区华都佳苑小区2号楼",
+        "areaName": " 市委党校宿舍2、5号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区韩家营村",
+        "areaName": " 市五交化家属院1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区翰林湖畔小区",
+        "areaName": " 山西飞耀汽修有限公司",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区槐豫东路新兴巷西二巷",
+        "areaName": " 山西利业管材有限公司",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区华源豪庭北区17号楼",
+        "areaName": " 西马家窑二巷",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区华源豪庭南区",
+        "areaName": " 新新家园小区",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区龙凤苑小区2号楼",
+        "areaName": " 香榭丽舍小区7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区吕儒村",
+        "areaName": " 运城第一医院",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区蓝湾半岛项目部",
+        "areaName": " 运城市蔬菜批发有限公司",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区明泽园小区1号楼",
+        "areaName": " 阳倦村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区浦东小区",
+        "areaName": " 姚孟办吕儒村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区舜德佳园小区大D区24号楼",
+        "areaName": " 姚孟办陶上村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区圣惠嘉园小区40号楼",
+        "areaName": " 姚孟办姚孟村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区尚上府邸小区1号楼",
+        "areaName": " 岳坛村",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区盛世陶苑",
+        "areaName": " 禹香苑小区31号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区市委党校宿舍2、5号楼",
+        "areaName": " 众鑫苑小区",
         "dangerLevel": 1
       },
       {
         "cityName": "运城",
-        "areaName": "盐湖区市五交化家属院1号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区山西飞耀汽修有限公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区山西利业管材有限公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区陶上村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区新新家园小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区香榭丽舍小区7号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区运城第一医院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区运城市蔬菜批发有限公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区阳倦村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区姚孟村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区岳坛村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区禹香苑小区31号楼",
+        "areaName": "盛世陶苑",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区百盛购物中心永泰店",
+        "areaName": " 北辰花园小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区碧水云天御河湾小区",
+        "areaName": " 碧水云天御河湾小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区大同大学附属小学（龙园校区）",
+        "areaName": " 党留庄村",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区东信国际（昌宁街以南）",
+        "areaName": " 大秦佳苑",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区凤凰翰林别院小区",
+        "areaName": " 大同大学附属小学（龙园校区）",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区富力城4期",
+        "areaName": " 凤凰翰林别院小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区湖东电力机务段",
+        "areaName": " 富力城4期",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区宏洋美都小区",
+        "areaName": " 观澜华府（南区和北区）",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区建馨园小区",
+        "areaName": " 湖东电力机务段",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区建馨园小区及附近商超",
+        "areaName": " 宏洋美都小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区凯鸽火锅御东店",
+        "areaName": " 开发区文瀛东郡",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区开源嘉苑西区",
+        "areaName": " 凯鸽火锅御东店",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区柳港园B区",
+        "areaName": " 开源嘉苑西区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区龙聚祥西京店",
+        "areaName": " 柳港园B区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区玫瑰花都小区",
+        "areaName": " 龙聚祥西京店",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区平城中学",
+        "areaName": " 玫瑰花都小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区前进新苑（一期）",
+        "areaName": " 平城区建馨园小区及附近商超",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区圣雅大厦及附近小饭店",
+        "areaName": " 平城中学",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区桐城怡景西苑",
+        "areaName": " 前进新苑（一期）",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区同和苑小区",
+        "areaName": " 圣雅大厦及附近小饭店",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区同煤新苑A区",
+        "areaName": " 桐城怡景西苑",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区五洲帝景青年城C区",
+        "areaName": " 同和苑小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区新华街东西大院",
+        "areaName": " 同煤新苑A区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区欣惠妈咪美容院（御东皇冠酒店西）",
+        "areaName": " 太阳城一期和二期",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区西花园街道杨园北区",
+        "areaName": " 五洲帝景青年城C区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区向阳里柳港园社区卫生服务站及附近米线店",
+        "areaName": " 新华街东西大院",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区西至御河西路、北至南环路、东至滨路西路、南至御河十号小区南沿所围的区域",
+        "areaName": " 新华街局前小区",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区永昌小区",
+        "areaName": " 欣惠妈咪美容院（御东新宇皇冠酒店西）",
         "dangerLevel": 1
       },
       {
         "cityName": "大同",
-        "areaName": "平城区云顶雅园(包括启明国学幼儿园)",
+        "areaName": " 星茂汇-百盛购物中心及周边商超丶",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": " 向阳里柳港园社区卫生服务站及附近米线店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": " 西至御河西路、北至南环路、东至滨路西路、南至御河十号小区南沿所围的区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": " 永昌小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": " 云顶雅园（包括启明国学幼儿园）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": " 杨园北区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "大同",
+        "areaName": "东信国际（昌宁街以南）",
         "dangerLevel": 1
       },
       {
@@ -12389,513 +12414,353 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "运城",
-        "areaName": "芮城县古魏镇北关村部分区域：亚宝北路以东、育英路以西、洞宾东街以北、舍利东街以南区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "芮城县金茂首府小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "芮城县科龙兽药厂",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "芮城县永乐镇新村行政村下辖的南张、许湾自然村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "芮城县永乐镇西营行政村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县宝鼎新城小区除13号楼外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县朝阳胡同",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县飞云小区南楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县光大福溢苑北区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县光华乡罗池村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县光华乡西光华村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县恒盛花园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县恒泰花苑小区除25号、26号楼外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇北解村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇北张户村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇芦邑村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇南张户村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇太贾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县解店镇西贾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县佳馨公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县锦绣华庭小区除6号楼、9号楼、10号楼外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县龙润庭二期工地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县龙润庭小区除1号楼外其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县南张乡范村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县铁厂胡同",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县万泉乡西丁村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县五一东街建材市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县学府城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县新华小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县阳光公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县医华小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县银华小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "万荣县一正停车场小院，8090快捷酒店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "夏县裴介镇老梁超市",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "夏县苏解村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "夏县中留西庄自然村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区安得公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区安邑办事处西里庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区北城办事处东留村水立方小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区北城印象小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区北海雅苑小区除1号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区测绘队家属院2号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区杜家村小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区大市北村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区东星向上广场B座",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区大禹街鼎鼎项目工地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区凤鸣苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区冯庄头村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区港府名都小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区高速小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区华都佳苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区华都佳苑小区除2号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区豪德市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区华源豪庭北区除17号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区宏运佳园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区建国饭店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区军屯村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区金鑫金悦华府小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区恺鑫·橄榄城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区龙凤苑小区除2号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区留驾庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区理想城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区明泽园小区除1号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区南孙坞村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区蒲东小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区尚东城小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区时代嘉园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区舜德佳园小区除大D区24号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区上郭乡中陈村中西巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区圣惠嘉园小区除40号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区尚上府邸小区除1号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区涑水教育集团涑水联合双语校区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区市委党校除宿舍2、5号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区市五交化家属院除1号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区三庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区陶村镇苦池村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区泰森华林逸墅小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区太原铁路公安局临汾公安处运城北车站派出所",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区五洲观澜小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区下堡头村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区幸福里·铂郡小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区学府名都小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区新南村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区下王村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区香榭丽舍小区除7号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区小张坞村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区盐化社区日化小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区禹香苑小区除31号楼外其余区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区银张村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区钟楼小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区中贸佳苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "运城",
-        "areaName": "盐湖区中铁三局黄河金三角(运城)创新生态集聚区科创城项目",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "朔州",
-        "areaName": "北旺庄街道办事处所辖南泉村、雒儿庄村、京城港中心社区、油房头村、厦阁村、野狐涧村、南磨村",
+        "areaName": "大同房建公寓段大新公寓片区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 安得公寓",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "大运果蔬市场",
+        "cityName": "运城",
+        "areaName": " 安邑办事处东杨家卓村",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "南城街道办事处鄯阳街以南辖区",
+        "cityName": "运城",
+        "areaName": " 安邑办事处冯家卓村",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区城南中心社区、南关村所辖区域",
+        "cityName": "运城",
+        "areaName": " 安邑办事处西里庄村",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区宏兴2区",
+        "cityName": "运城",
+        "areaName": " 北城办事处东留村水立方小区",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区家和苑中心社区所辖区域（原家和苑小区S3、S4、A4、C1四栋楼和南街小康村）",
+        "cityName": "运城",
+        "areaName": " 北城印象小区",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区泥河村",
+        "cityName": "运城",
+        "areaName": " 北海雅苑小区除1号楼外其余区域",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区清华园小区全域",
+        "cityName": "运城",
+        "areaName": " 北相镇北相村",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区西关街中心社区所辖区域",
+        "cityName": "运城",
+        "areaName": " 测绘队家属院2号楼",
         "dangerLevel": 2
       },
       {
-        "cityName": "朔州",
-        "areaName": "朔城区怡家苑小区全域",
+        "cityName": "运城",
+        "areaName": " 大市北村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 东星向上广场B座",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 大学苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 大禹街鼎鼎项目工地",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 凤鸣苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 港府名都小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 高速小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 华都佳苑小区除2号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 豪德市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 哈佛家园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 翰林湖畔小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 海天花苑小区2号楼之外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 华源豪庭北区除17号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 宏运佳园小区1、2、3号楼之外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 花园新居小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 华源小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 建国饭店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 军屯村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 金鑫金悦华府小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 恺鑫·橄榄城小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 龙凤苑小区除2号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 留驾庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 龙居镇羊村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 理想城小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 南孙坞村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 沁水雅居小区5号楼之外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 尚东城小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 时代嘉园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 舜德佳园小区除大D区24号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 尚德小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 上郭乡中陈村中西巷之外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 圣惠嘉园小区除40号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 尚上府邸小区除1号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 涑水教育集团涑水联合双语校区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 市委党校除宿舍2、5号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 市五交化家属院除1号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 陶村镇苦池村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 陶村镇陶村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 泰森华林逸墅小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 泰山巷西5巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 太原铁路公安局临汾公安处运城北车站派出所",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 五洲观澜小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 下堡头村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 西城办杜家村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 幸福里·铂郡小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 幸福小镇小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 新南村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 鑫世纪花园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 下王村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 香榭丽舍小区除7号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 盐化日化小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 怡景华庭（条山街）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 姚孟办事处樊村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 运输公司家属院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 禹香苑小区除31号楼外其余区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 银张村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 钟楼小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 中贸佳苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": " 中铁三局黄河金三角（运城）创新生态集聚区科创城项目",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "运城",
+        "areaName": "学府名都小区",
         "dangerLevel": 2
       },
       {
@@ -12949,33 +12814,83 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "大同",
-        "areaName": "平城区东海浴园",
+        "cityName": "朔州",
+        "areaName": "北旺庄街道办事处所辖南泉村、雒儿庄村、京城港中心社区、油房头村、厦阁村、野狐涧村、南磨村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "大运果蔬市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "南城街道办事处鄯阳街以南辖区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区城南中心社区、南关村所辖区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区宏兴2区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区家和苑中心社区所辖区域（原家和苑小区S3、S4、A4、C1四栋楼和南街小康村）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区泥河村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区清华园小区全域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区西关街中心社区所辖区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朔州",
+        "areaName": "朔城区怡家苑小区全域",
         "dangerLevel": 2
       },
       {
         "cityName": "大同",
-        "areaName": "平城区都挺好火盆烧烤店",
+        "areaName": " 都挺好火盆烧烤店",
         "dangerLevel": 2
       },
       {
         "cityName": "大同",
-        "areaName": "平城区锦华家园",
+        "areaName": " 锦华家园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "大同",
-        "areaName": "平城区镜湖园小区",
+        "areaName": " 平城区镜湖园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "大同",
-        "areaName": "平城区魏都新城D区",
+        "areaName": " 平城区魏都新城D区",
         "dangerLevel": 2
       },
       {
         "cityName": "大同",
-        "areaName": "平城区西至魏都大道、北至安益前街、东至武定北路、南至操场城街所围区域（不包括云顶雅园、建馨园）",
+        "areaName": " 西至魏都大道、北至安益前街、东至武定北路、南至操场城街所围区域（不包括云顶雅园、建馨园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "大同",
+        "areaName": "东海浴园",
         "dangerLevel": 2
       },
       {
@@ -16994,8 +16909,8 @@
     "comment": "",
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
-    "highDangerCount": 57,
-    "midDangerCount": 72,
+    "highDangerCount": 66,
+    "midDangerCount": 84,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -17006,8 +16921,8 @@
         "suspectedCount": 0,
         "curedCount": 2353,
         "deadCount": 3,
-        "highDangerCount": 19,
-        "midDangerCount": 23,
+        "highDangerCount": 23,
+        "midDangerCount": 29,
         "locationId": 610100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -17034,8 +16949,8 @@
         "suspectedCount": 0,
         "curedCount": 21,
         "deadCount": 0,
-        "highDangerCount": 13,
-        "midDangerCount": 20,
+        "highDangerCount": 18,
+        "midDangerCount": 26,
         "locationId": 610500,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -17195,6 +17110,11 @@
     "dangerAreas": [
       {
         "cityName": "西安",
+        "areaName": "碑林区太乙路街道北沙社区北沙坡路7号兰蒂斯城一期4号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
         "areaName": "灞桥区席王街道永丰社区辰宇世纪城小区南区8号楼1单元",
         "dangerLevel": 1
       },
@@ -17275,7 +17195,22 @@
       },
       {
         "cityName": "西安",
+        "areaName": "西咸新区沣西新城钓台街道沣西逸园小区1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
         "areaName": "西咸新区沣西新城高桥街道东马坊村西区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
+        "areaName": "雁塔区电子城街道广交社区新长城大厦",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西安",
+        "areaName": "雁塔区曲江街道春临社区春临小区7号楼1单元",
         "dangerLevel": 1
       },
       {
@@ -17300,12 +17235,27 @@
       },
       {
         "cityName": "渭南",
+        "areaName": "临渭区杜桥街道办金水路北欧田园上院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区杜桥街道办盈田村1组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渭南",
         "areaName": "临渭区官路镇南志道村7组",
         "dangerLevel": 1
       },
       {
         "cityName": "渭南",
         "areaName": "临渭区解放街道办五金公司家属院2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区人民街道办朝阳大街大地铭华幼儿园东邻护士楼",
         "dangerLevel": 1
       },
       {
@@ -17326,6 +17276,16 @@
       {
         "cityName": "渭南",
         "areaName": "临渭区站南街道办安雷村5组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区站南街道办华山大街31号西电一公司家属院23号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区站南街道办民生园一期北区8号楼",
         "dangerLevel": 1
       },
       {
@@ -17480,6 +17440,11 @@
       },
       {
         "cityName": "西安",
+        "areaName": "碑林区太乙路街道北沙社区北沙坡路7号兰蒂斯城一期（除4号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
         "areaName": "灞桥区席王街道柳虹路以东、梁家街村7组3排以北、官厅新村以西、东城大道以南区域",
         "dangerLevel": 2
       },
@@ -17555,6 +17520,11 @@
       },
       {
         "cityName": "西安",
+        "areaName": "曲江新区曲江影视大厦",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
         "areaName": "曲江新区中海凯旋门社区中海凯旋门小区20号楼",
         "dangerLevel": 2
       },
@@ -17580,7 +17550,27 @@
       },
       {
         "cityName": "西安",
+        "areaName": "西咸新区沣东新城三桥街办启航时代广场B座北侧底商",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "西咸新区沣东新城三桥街办西安移动沣东分公司建章路支局以东50米、以西20米范围内的临街商铺",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "西咸新区沣西新城钓台街道沣西逸园小区（除1号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
         "areaName": "西咸新区沣西新城高桥街道东马坊村东区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": "雁塔区曲江街道春临社区春临小区（除7号楼1单元）",
         "dangerLevel": 2
       },
       {
@@ -17615,7 +17605,17 @@
       },
       {
         "cityName": "渭南",
+        "areaName": "临渭区杜桥街道办东风大街与杜化路十字西南20米大实惠优鲜超市",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
         "areaName": "临渭区杜桥街道办苏园丰景小区东门肆拾玖坊烟酒店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区杜桥街道办盈田村2组、10组、11组和12组",
         "dangerLevel": 2
       },
       {
@@ -17631,6 +17631,16 @@
       {
         "cityName": "渭南",
         "areaName": "临渭区人民街道办南塘路两侧商铺及楼上住宅（西侧一清里街以南五岔路口以北，东侧南塘小学以南五岔路口以北）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区人民街道办胜利大街百富商城",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区人民街道办一青里8号",
         "dangerLevel": 2
       },
       {
@@ -17656,6 +17666,16 @@
       {
         "cityName": "渭南",
         "areaName": "临渭区站南街道办安雷村（除5组）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区站南街道办华山大街31号西电一公司家属院（除23号楼，包含西电一公司）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "临渭区站南街道办民生园一期北区（除8号楼）",
         "dangerLevel": 2
       },
       {
@@ -18358,7 +18378,7 @@
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 47,
+    "midDangerCount": 40,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -18396,7 +18416,7 @@
         "curedCount": 5282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 6,
+        "midDangerCount": 4,
         "locationId": 310112,
         "currentConfirmedCountStr": "174",
         "fullCityName": "闵行区"
@@ -18409,7 +18429,7 @@
         "curedCount": 6458,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 3,
         "locationId": 310101,
         "currentConfirmedCountStr": "167",
         "fullCityName": "黄浦区"
@@ -18461,7 +18481,7 @@
         "curedCount": 3068,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 7,
+        "midDangerCount": 6,
         "locationId": 310113,
         "currentConfirmedCountStr": "89",
         "fullCityName": "宝山区"
@@ -18500,7 +18520,7 @@
         "curedCount": 1770,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 6,
+        "midDangerCount": 5,
         "locationId": 310107,
         "currentConfirmedCountStr": "20",
         "fullCityName": "普陀区"
@@ -18539,7 +18559,7 @@
         "curedCount": 1324,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 1,
         "locationId": 310118,
         "currentConfirmedCountStr": "4",
         "fullCityName": "青浦区"
@@ -18630,71 +18650,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "宝山区",
-        "areaName": "大场镇保利叶之林小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "大场镇场中路3658弄美好家小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "大场镇南华苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "顾村镇盛宅一村（富联路128弄、富联路130弄）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "庙行镇场北路399弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "淞南镇长江南路99弄3号同济公寓",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "杨行镇友谊路1000弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "江川路街道东川路811弄35号盒子空间酒店(上海交大店)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "江川路街道永平南路198弄东苑佳和园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "七宝镇漕宝路1555弄大上海国际花园9区、13区、17区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "吴泾镇东川路333弄紫竹半岛小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "莘庄工业区中春路1299号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "闵行区",
-        "areaName": "颛桥镇北松公路489号蹦床乐园",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "浦东新区",
         "areaName": "北蔡镇沪南路1097号如家精选酒店",
         "dangerLevel": 2
@@ -18725,8 +18680,33 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "普陀区",
-        "areaName": "曹杨新村街道兰溪路锐思特酒店",
+        "cityName": "宝山区",
+        "areaName": "大场镇保利叶之林小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "大场镇场中路3658弄美好家小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "大场镇南华苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "顾村镇盛宅一村（富联路128弄、富联路130弄）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "庙行镇场北路399弄",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "杨行镇友谊路1000弄",
         "dangerLevel": 2
       },
       {
@@ -18755,26 +18735,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "黄浦区",
-        "areaName": "打浦桥街道打浦路15号低区斯格威铂尔曼大酒店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "黄浦区",
-        "areaName": "打浦桥街道打浦路1号金玉兰广场4楼海底捞火锅店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "黄浦区",
-        "areaName": "打浦桥街道打浦路38弄海华花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "黄浦区",
-        "areaName": "瑞金二路街道巨鹿路158-168号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "长宁区",
         "areaName": "江苏路街道延安西路488号",
         "dangerLevel": 2
@@ -18795,18 +18755,23 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "青浦区",
-        "areaName": "盈浦街道老朱青路41弄",
+        "cityName": "闵行区",
+        "areaName": "江川路街道东川路811弄35号盒子空间酒店(上海交大店)",
         "dangerLevel": 2
       },
       {
-        "cityName": "青浦区",
-        "areaName": "重固镇大街518弄逸皓华庭",
+        "cityName": "闵行区",
+        "areaName": "七宝镇漕宝路1555弄大上海国际花园9区、13区、17区",
         "dangerLevel": 2
       },
       {
-        "cityName": "青浦区",
-        "areaName": "重固镇中新村陈家浜以东、华重公路以南、中新艾祁港以西、洞口泾以北的区域",
+        "cityName": "闵行区",
+        "areaName": "吴泾镇东川路333弄紫竹半岛小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "闵行区",
+        "areaName": "莘庄工业区中春路1299号",
         "dangerLevel": 2
       },
       {
@@ -18840,6 +18805,21 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "黄浦区",
+        "areaName": "打浦桥街道打浦路15号低区斯格威铂尔曼大酒店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黄浦区",
+        "areaName": "打浦桥街道打浦路1号金玉兰广场4楼海底捞火锅店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "黄浦区",
+        "areaName": "打浦桥街道打浦路38弄海华花园",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "松江区",
         "areaName": "九里亭街道涞坊路1010弄303室大桶大足浴",
         "dangerLevel": 2
@@ -18862,6 +18842,11 @@
       {
         "cityName": "虹口区",
         "areaName": "嘉兴路街道瑞虹路233弄小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "青浦区",
+        "areaName": "盈浦街道老朱青路41弄",
         "dangerLevel": 2
       }
     ]
@@ -19384,8 +19369,8 @@
     "comment": "",
     "locationId": 460000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
-    "highDangerCount": 1,
-    "midDangerCount": 5,
+    "highDangerCount": 0,
+    "midDangerCount": 6,
     "detectOrgCount": 38,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -19487,8 +19472,8 @@
         "suspectedCount": 0,
         "curedCount": 52,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 3,
+        "highDangerCount": 0,
+        "midDangerCount": 4,
         "locationId": 460100,
         "currentConfirmedCountStr": "89",
         "fullCityName": "海口市"
@@ -19627,17 +19612,17 @@
     "dangerAreas": [
       {
         "cityName": "海口",
-        "areaName": "琼山区振发小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "海口",
         "areaName": "龙华区金贸街道龙园别墅小区",
         "dangerLevel": 2
       },
       {
         "cityName": "海口",
         "areaName": "美兰区和平大道16号银谷苑小区1-3栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "海口",
+        "areaName": "琼山区振发小区",
         "dangerLevel": 2
       },
       {
@@ -22327,8 +22312,8 @@
     "comment": "",
     "locationId": 220000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 0,
+    "highDangerCount": 3,
+    "midDangerCount": 2,
     "detectOrgCount": 91,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -22339,8 +22324,8 @@
         "suspectedCount": 1,
         "curedCount": 25113,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 220100,
         "currentConfirmedCountStr": "145",
         "fullCityName": "长春市"
@@ -22490,7 +22475,33 @@
         "fullCityName": "待明确地区"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "长春",
+        "areaName": "宽城区团山街道华大天朗A区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "汽开区富民街道顺通花园2期21栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "长春新区超越街道绿地城D区1栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "长春",
+        "areaName": "宽城区兴业街道新星宇和顺小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "长春",
+        "areaName": "宽城区兴业街道紫金豪庭10栋",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "guangxi",
