@@ -5208,35 +5208,35 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 75,
-    "midDangerCount": 59,
+    "highDangerCount": 76,
+    "midDangerCount": 60,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 281,
+        "currentConfirmedCount": 272,
         "confirmedCount": 3908,
         "suspectedCount": 3,
-        "curedCount": 3626,
+        "curedCount": 3635,
         "deadCount": 1,
         "highDangerCount": 11,
         "midDangerCount": 1,
         "locationId": 440100,
-        "currentConfirmedCountStr": "281",
+        "currentConfirmedCountStr": "272",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 251,
+        "currentConfirmedCount": 235,
         "confirmedCount": 4109,
         "suspectedCount": 3,
-        "curedCount": 3855,
+        "curedCount": 3871,
         "deadCount": 3,
-        "highDangerCount": 49,
-        "midDangerCount": 38,
+        "highDangerCount": 50,
+        "midDangerCount": 39,
         "locationId": 440300,
-        "currentConfirmedCountStr": "251",
+        "currentConfirmedCountStr": "235",
         "fullCityName": "深圳市"
       },
       {
@@ -5488,15 +5488,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -553,
+        "currentConfirmedCount": -528,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 553,
+        "curedCount": 528,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-553",
+        "currentConfirmedCountStr": "-528",
         "fullCityName": "待明确地区"
       }
     ],
@@ -5714,6 +5714,11 @@
       {
         "cityName": "深圳",
         "areaName": "南山区桃源街道新屋村第29、30、31、34、35、43、44号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "沙井街道沙四社区阳光小城2栋",
         "dangerLevel": 1
       },
       {
@@ -6028,6 +6033,11 @@
       },
       {
         "cityName": "深圳",
+        "areaName": "沙井街道沙四社区阳光小城（除2栋以外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
         "areaName": "蛇口街道深圳湾皇庭港湾（除高风险区外）",
         "dangerLevel": 2
       },
@@ -6152,11 +6162,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "广州",
-        "areaName": "龙珠路以南、花都湖以北、铁路沿线以东、花城路及花城北路以西区域（高风险区除外）",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "佛山",
         "areaName": "南海区里水镇赤山福西村（高风险区除外）",
         "dangerLevel": 2
@@ -6169,6 +6174,11 @@
       {
         "cityName": "揭阳",
         "areaName": "惠来县东陇镇东陇村部分区域（东至庆平路，北至南环二路，南至汕汕高铁，西至与石洲村交界）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "龙珠路以南、花都湖以北、铁路沿线以东、花城路及花城北路以西区域（高风险区除外）",
         "dangerLevel": 2
       }
     ]
@@ -16633,8 +16643,8 @@
     "comment": "",
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 45,
-    "midDangerCount": 49,
+    "highDangerCount": 49,
+    "midDangerCount": 56,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -16684,8 +16694,8 @@
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "highDangerCount": 12,
-        "midDangerCount": 15,
+        "highDangerCount": 16,
+        "midDangerCount": 22,
         "locationId": 210400,
         "currentConfirmedCountStr": "30",
         "fullCityName": "抚顺市"
@@ -16849,6 +16859,86 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "抚顺",
+        "areaName": "东洲区丽景银帆宾馆(绥化路店)",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县清原镇东园小区11号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县清原镇金成合苑1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县清原镇歆海湖畔一期17号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县清原镇兴隆小区16号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县清原镇中房花园1期27号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县盛和林业家园5号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "清原满族自治县铁北和谐家园8号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区东华园东区43号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区抚顺城路东段18号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区后葛南棚改1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区将军街道远方社区南山秀水小区7号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区梅河路69号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区新湖国际一期5号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "新抚区站前街道白云社区西四路18号楼5单元、6单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "新抚区站前街道白云社区西五路19号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "朝阳",
         "areaName": "朝阳县柳城街道柳城家园13号楼",
         "dangerLevel": 1
@@ -16921,66 +17011,6 @@
       {
         "cityName": "朝阳",
         "areaName": "双塔区站南街道和平家园3号楼、10甲—13号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "东洲区丽景银帆宾馆(绥化路店)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县清原镇东园小区11号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县清原镇金成合苑1号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县清原镇歆海湖畔一期17号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县清原镇兴隆小区16号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县清原镇中房花园1期27号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县盛和林业家园5号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "清原满族自治县铁北和谐家园8号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "顺城区东华园东区43号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "顺城区后葛南棚改1号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "顺城区梅河路69号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "抚顺",
-        "areaName": "顺城区新湖国际一期5号楼",
         "dangerLevel": 1
       },
       {
@@ -17120,12 +17150,27 @@
       },
       {
         "cityName": "抚顺",
+        "areaName": "顺城区抚顺城路东段14号楼、15号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区抚顺城路东段（16-1、16-2、16-3、16-4）号楼门市房",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
         "areaName": "顺城区后葛南棚改2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "抚顺",
         "areaName": "顺城区后葛南棚改4号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "顺城区将军街道远方社区南山秀水小区",
         "dangerLevel": 2
       },
       {
@@ -17145,7 +17190,27 @@
       },
       {
         "cityName": "抚顺",
+        "areaName": "顺城区顺新楼院党员活动中心",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
         "areaName": "顺城区新湖国际一期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "新抚区站前街道白云社区西四路18号楼1单元、2单元、3单元、4单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "新抚区站前街道白云社区西五路17号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "抚顺",
+        "areaName": "新华街道顺新社区天茂家园小区",
         "dangerLevel": 2
       },
       {
@@ -18727,7 +18792,7 @@
     "locationId": 320000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
     "highDangerCount": 20,
-    "midDangerCount": 59,
+    "midDangerCount": 60,
     "detectOrgCount": 395,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -18739,7 +18804,7 @@
         "curedCount": 395,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 9,
+        "midDangerCount": 10,
         "locationId": 320100,
         "currentConfirmedCountStr": "61",
         "fullCityName": "南京市"
@@ -19106,6 +19171,11 @@
       {
         "cityName": "南京",
         "areaName": "江北新区葛塘街道文承楠苑（和旭路500号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南京",
+        "areaName": "江北新区沿江街道香溢紫郡一期26栋",
         "dangerLevel": 2
       },
       {
@@ -21896,8 +21966,8 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 25,
-    "midDangerCount": 27,
+    "highDangerCount": 26,
+    "midDangerCount": 28,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -22038,8 +22108,8 @@
         "suspectedCount": 0,
         "curedCount": 85,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 371300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "临沂市"
@@ -22250,6 +22320,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "临沂",
+        "areaName": "郯城县郯城街道史丹利景城花园小区",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "泰安",
         "areaName": "岱岳区城子寨",
         "dangerLevel": 2
@@ -22382,6 +22457,11 @@
       {
         "cityName": "济宁",
         "areaName": "泗水县苗馆镇东平社区(原小王社区)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": "郯城县杨集镇塘崖村",
         "dangerLevel": 2
       }
     ]
@@ -22603,8 +22683,8 @@
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 150,
-    "midDangerCount": 152,
+    "highDangerCount": 149,
+    "midDangerCount": 115,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
     "cities": [
@@ -22615,8 +22695,8 @@
         "suspectedCount": 0,
         "curedCount": 5,
         "deadCount": 0,
-        "highDangerCount": 54,
-        "midDangerCount": 84,
+        "highDangerCount": 47,
+        "midDangerCount": 44,
         "locationId": 640500,
         "currentConfirmedCountStr": "67",
         "fullCityName": "中卫市"
@@ -22628,8 +22708,8 @@
         "suspectedCount": 0,
         "curedCount": 72,
         "deadCount": 0,
-        "highDangerCount": 87,
-        "midDangerCount": 47,
+        "highDangerCount": 93,
+        "midDangerCount": 50,
         "locationId": 640100,
         "currentConfirmedCountStr": "14",
         "fullCityName": "银川市"
@@ -22723,6 +22803,11 @@
       },
       {
         "cityName": "银川",
+        "areaName": "贺兰县和平家苑小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
         "areaName": "贺兰县虹桥社区虹桥御景小区",
         "dangerLevel": 1
       },
@@ -22734,6 +22819,11 @@
       {
         "cityName": "银川",
         "areaName": "贺兰县塞尚乳业集团公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
+        "areaName": "贺兰县太阳城C区",
         "dangerLevel": 1
       },
       {
@@ -22769,6 +22859,16 @@
       {
         "cityName": "银川",
         "areaName": "金凤区宝湖天下",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
+        "areaName": "金凤区红宝锦绣河畔",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
+        "areaName": "金凤区西岸花园饭店",
         "dangerLevel": 1
       },
       {
@@ -22838,6 +22938,11 @@
       },
       {
         "cityName": "银川",
+        "areaName": "兴庆区海宝福地苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
         "areaName": "兴庆区宏达小区",
         "dangerLevel": 1
       },
@@ -22869,6 +22974,11 @@
       {
         "cityName": "银川",
         "areaName": "兴庆区康民西区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
+        "areaName": "兴庆区康桥水郡",
         "dangerLevel": 1
       },
       {
@@ -23213,22 +23323,12 @@
       },
       {
         "cityName": "中卫",
-        "areaName": " 中宁县 宁安镇地税局小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
         "areaName": " 中宁县 宁安镇枸杞东苑小区",
         "dangerLevel": 1
       },
       {
         "cityName": "中卫",
         "areaName": " 中宁县 宁安镇红宝建材城",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 中宁县 宁安镇华诚首府小区",
         "dangerLevel": 1
       },
       {
@@ -23368,22 +23468,7 @@
       },
       {
         "cityName": "中卫",
-        "areaName": " 中宁县 石空镇太平新村B区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
         "areaName": " 中宁县 新堡镇观园壹号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 中宁县 新堡镇宏祥达景园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 中宁县 新堡镇金庭雅园",
         "dangerLevel": 1
       },
       {
@@ -23393,17 +23478,7 @@
       },
       {
         "cityName": "中卫",
-        "areaName": " 中宁县 新堡镇天仁名邸",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 中宁县 舟塔乡舟塔村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "中宁县 宁安镇红宝西花园",
+        "areaName": "常乐镇水车村九队",
         "dangerLevel": 1
       },
       {
@@ -23450,426 +23525,6 @@
         "cityName": "固原",
         "areaName": "原州区 梅园小区",
         "dangerLevel": 1
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 滨河镇三合家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 大战场镇宽口井村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 大战场镇清河村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 大战场镇长山头农场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 恩和镇恩和村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 恩和镇纺织工业园区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 恩和镇沙滩村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 恩和镇上庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 高崖乡高湾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 鸣沙镇李滩村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 鸣沙镇薛营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇北大街田吉民商住楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇百合家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇北街农业银行综合楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇城关派出所",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇东城嘉园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇电厂家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇地税小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇福康花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇公安局小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇郭庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇黄滨村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇健民医院旁自建楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇锦绣苑B区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇锦绣苑C区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇开元新居",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇莫咀村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇南方百货",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇宁华小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇农业生产资料公司",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇荣华锦苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇水保小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇商城工商局家属院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇世纪春天",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇世纪花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇三亮公司东侧建筑工地平房",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇石桥村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇水文小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇天悦宾馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇沃尔德都市花园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇物资小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇西大街综合楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇新南街星空广告",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇新南家园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇新胜村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇育才东苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇瀛海花园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇瀛海天翔建材有限公司",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇永寿堂快捷宾馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇盐业公司",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇殷庄大社区B区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇殷庄大社区D区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇卓然怡居东区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宁安镇中瀛御景B区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 石空镇爱家快捷宾馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 石空镇立新村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 石空镇枣一村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 文昌镇御景华府",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇创业村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇盖湾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇金宝华枸杞加工厂",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇刘庙村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇刘营村润利源枸杞加工厂",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇刘庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇南湾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇世芳豪庭",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇宋营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇新堡村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇新水创业园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇煜基观天下小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 新堡镇英郡年华",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 县公安局交巡警大队城区中队",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宣和镇福兴村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宣和镇旧营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宣和镇林昌村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宣和镇宣和村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 宣和镇永和村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 中宁县中医院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 舟塔乡康滩村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 舟塔乡潘营村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 舟塔乡上桥村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 舟塔乡铁渠村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": " 舟塔乡长桥村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "宣和镇喜沟村",
-        "dangerLevel": 2
       },
       {
         "cityName": "银川",
@@ -24073,7 +23728,22 @@
       },
       {
         "cityName": "银川",
+        "areaName": "永宁县纳家户小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "银川",
+        "areaName": "永宁县千户家园北区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "银川",
         "areaName": "永宁县实成小区1区北门区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "银川",
+        "areaName": "永宁县塞上翡翠城东北区",
         "dangerLevel": 2
       },
       {
@@ -24104,6 +23774,226 @@
       {
         "cityName": "银川",
         "areaName": "永宁县杨和四期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 大战场镇宽口井村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 大战场镇长山头农场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 恩和镇恩和村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 高崖乡高湾村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇北大街田吉民商住楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇北街农业银行综合楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇东城嘉园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇地税小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇郭庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇黄滨村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇锦绣苑B区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇锦绣苑C区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇开元新居",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇莫咀村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇世纪春天",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇水文小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇天悦宾馆",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇物资小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇西大街综合楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇新南街星空广告",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇育才东苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇永寿堂快捷宾馆",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇盐业公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 宁安镇殷庄大社区D区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇创业村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇盖湾村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇金宝华枸杞加工厂",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇刘庙村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇世芳豪庭",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇宋营村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 新堡镇英郡年华",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 中宁县中医院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 舟塔乡康滩村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 舟塔乡潘营村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 舟塔乡上桥村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": " 舟塔乡铁渠村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "地税局小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "华诚首府小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "宏祥达景园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "金庭雅园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "宁安镇红宝西花园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "石空镇太平新村B区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "新堡镇天仁名邸",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "中卫",
+        "areaName": "舟塔乡舟塔村",
         "dangerLevel": 2
       },
       {
