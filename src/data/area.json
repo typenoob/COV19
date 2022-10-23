@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 327974,
-    "confirmedCount": 427612,
+    "currentConfirmedCount": 328667,
+    "confirmedCount": 428538,
     "suspectedCount": 181,
-    "curedCount": 89323,
-    "deadCount": 10315,
+    "curedCount": 89549,
+    "deadCount": 10322,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -44,43 +44,43 @@
     "name": "广东",
     "provinceName": "广东省",
     "provinceShortName": "广东",
-    "currentConfirmedCount": 646,
-    "confirmedCount": 11174,
+    "currentConfirmedCount": 626,
+    "confirmedCount": 11215,
     "suspectedCount": 25,
-    "curedCount": 10520,
+    "curedCount": 10581,
     "deadCount": 8,
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 84,
-    "midDangerCount": 78,
+    "highDangerCount": 88,
+    "midDangerCount": 81,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 270,
-        "confirmedCount": 4019,
+        "currentConfirmedCount": 290,
+        "confirmedCount": 4039,
         "suspectedCount": 3,
         "curedCount": 3748,
         "deadCount": 1,
-        "highDangerCount": 61,
-        "midDangerCount": 26,
+        "highDangerCount": 65,
+        "midDangerCount": 29,
         "locationId": 440100,
-        "currentConfirmedCountStr": "270",
+        "currentConfirmedCountStr": "290",
         "fullCityName": "广州市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 204,
-        "confirmedCount": 4197,
+        "currentConfirmedCount": 220,
+        "confirmedCount": 4213,
         "suspectedCount": 3,
         "curedCount": 3990,
         "deadCount": 3,
         "highDangerCount": 19,
         "midDangerCount": 36,
         "locationId": 440300,
-        "currentConfirmedCountStr": "204",
+        "currentConfirmedCountStr": "220",
         "fullCityName": "深圳市"
       },
       {
@@ -98,15 +98,15 @@
       },
       {
         "cityName": "佛山",
-        "currentConfirmedCount": 156,
-        "confirmedCount": 571,
+        "currentConfirmedCount": 159,
+        "confirmedCount": 574,
         "suspectedCount": 1,
         "curedCount": 415,
         "deadCount": 0,
         "highDangerCount": 1,
         "midDangerCount": 5,
         "locationId": 440600,
-        "currentConfirmedCountStr": "156",
+        "currentConfirmedCountStr": "159",
         "fullCityName": "佛山市"
       },
       {
@@ -202,15 +202,15 @@
       },
       {
         "cityName": "肇庆",
-        "currentConfirmedCount": 24,
-        "confirmedCount": 79,
+        "currentConfirmedCount": 26,
+        "confirmedCount": 81,
         "suspectedCount": 1,
         "curedCount": 54,
         "deadCount": 1,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 441200,
-        "currentConfirmedCountStr": "24",
+        "currentConfirmedCountStr": "26",
         "fullCityName": "肇庆市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -621,
+        "currentConfirmedCount": -682,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 621,
+        "curedCount": 682,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-621",
+        "currentConfirmedCountStr": "-682",
         "fullCityName": "待明确地区"
       }
     ],
@@ -647,6 +647,26 @@
       },
       {
         "cityName": "广州",
+        "areaName": "岭东路30号区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "两龙大街24号区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "三东村禄有庄三巷、四巷、五巷区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "三东村田心庄大街一巷、二巷、三巷、四巷区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "钟落潭镇马沥路南八巷1号、马沥路56号、马沥环村路25号、马沥环村路27号",
         "dangerLevel": 1
       },
@@ -751,6 +771,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "中山",
+        "areaName": "南朗街道马鞍岛东五围联检大楼、万滨双玥大厦、万滨万潮广场、万滨前湾花园、会展中心的工地（含生活区）及万滨售楼部",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "揭阳",
         "areaName": "惠来县溪西镇溪一村、溪二村、盟山村、村头村",
         "dangerLevel": 1
@@ -758,11 +783,6 @@
       {
         "cityName": "佛山",
         "areaName": "南海区狮山镇官窑沙头文智村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "中山",
-        "areaName": "南朗街道马鞍岛东五围联检大楼、万滨双玥大厦、万滨万潮广场、万滨前湾花园、会展中心的工地（含生活区）及万滨售楼部",
         "dangerLevel": 1
       },
       {
@@ -982,11 +1002,6 @@
       },
       {
         "cityName": "广州",
-        "areaName": "花都区花城街三东村九队西边二巷至十九巷",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
         "areaName": "花都区花东镇山下岭大街以南、山下向南庄南街以北、农田以东、山下路以西区域（高风险区除外）",
         "dangerLevel": 2
       },
@@ -1068,6 +1083,26 @@
       {
         "cityName": "广州",
         "areaName": "江高镇双岗村第3网格，北至双岗五和街，南至双岗二街，西至西和北巷，东至双岗南东街二巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "岭东路以东至150米处围墙、岐南路以北至290米围墙区域（高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "两龙北街以南、龙福路以北、鸡行岭街以东、两龙路以西区域（高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "三东村第9、10、11、12生产小队区域（高风险区除外），罗仙村8队部分区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "兴隆新村四巷1-6号区域，三巷2、4、6号区域",
         "dangerLevel": 2
       },
       {
@@ -1162,10 +1197,10 @@
     "name": "内蒙古",
     "provinceName": "内蒙古自治区",
     "provinceShortName": "内蒙古",
-    "currentConfirmedCount": 465,
-    "confirmedCount": 4272,
+    "currentConfirmedCount": 473,
+    "confirmedCount": 4303,
     "suspectedCount": 35,
-    "curedCount": 3806,
+    "curedCount": 3829,
     "deadCount": 1,
     "comment": "",
     "locationId": 150000,
@@ -1177,54 +1212,54 @@
     "cities": [
       {
         "cityName": "呼和浩特",
-        "currentConfirmedCount": 258,
-        "confirmedCount": 1595,
+        "currentConfirmedCount": 259,
+        "confirmedCount": 1601,
         "suspectedCount": 0,
-        "curedCount": 1337,
+        "curedCount": 1342,
         "deadCount": 0,
         "highDangerCount": 289,
         "midDangerCount": 241,
         "locationId": 150100,
-        "currentConfirmedCountStr": "258",
+        "currentConfirmedCountStr": "259",
         "fullCityName": "呼和浩特市"
       },
       {
         "cityName": "包头",
-        "currentConfirmedCount": 74,
-        "confirmedCount": 177,
+        "currentConfirmedCount": 69,
+        "confirmedCount": 181,
         "suspectedCount": 0,
-        "curedCount": 103,
+        "curedCount": 112,
         "deadCount": 0,
         "highDangerCount": 43,
         "midDangerCount": 73,
         "locationId": 150200,
-        "currentConfirmedCountStr": "74",
+        "currentConfirmedCountStr": "69",
         "fullCityName": "包头市"
       },
       {
         "cityName": "赤峰",
-        "currentConfirmedCount": 39,
-        "confirmedCount": 401,
+        "currentConfirmedCount": 43,
+        "confirmedCount": 408,
         "suspectedCount": 0,
-        "curedCount": 362,
+        "curedCount": 365,
         "deadCount": 0,
         "highDangerCount": 29,
         "midDangerCount": 22,
         "locationId": 150400,
-        "currentConfirmedCountStr": "39",
+        "currentConfirmedCountStr": "43",
         "fullCityName": "赤峰市"
       },
       {
         "cityName": "呼伦贝尔",
-        "currentConfirmedCount": 29,
-        "confirmedCount": 729,
+        "currentConfirmedCount": 25,
+        "confirmedCount": 730,
         "suspectedCount": 0,
-        "curedCount": 700,
+        "curedCount": 705,
         "deadCount": 0,
         "highDangerCount": 9,
         "midDangerCount": 6,
         "locationId": 150700,
-        "currentConfirmedCountStr": "29",
+        "currentConfirmedCountStr": "25",
         "fullCityName": "呼伦贝尔市"
       },
       {
@@ -1241,11 +1276,37 @@
         "fullCityName": "兴安盟"
       },
       {
+        "cityName": "锡林郭勒盟",
+        "currentConfirmedCount": 16,
+        "confirmedCount": 414,
+        "suspectedCount": 0,
+        "curedCount": 398,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 152500,
+        "currentConfirmedCountStr": "16",
+        "fullCityName": "锡林郭勒盟"
+      },
+      {
+        "cityName": "境外输入人员",
+        "currentConfirmedCount": 15,
+        "confirmedCount": 506,
+        "suspectedCount": 35,
+        "curedCount": 491,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "15",
+        "fullCityName": "境外输入人员"
+      },
+      {
         "cityName": "鄂尔多斯",
         "currentConfirmedCount": 13,
-        "confirmedCount": 80,
+        "confirmedCount": 81,
         "suspectedCount": 0,
-        "curedCount": 67,
+        "curedCount": 68,
         "deadCount": 0,
         "highDangerCount": 4,
         "midDangerCount": 12,
@@ -1265,32 +1326,6 @@
         "locationId": 150300,
         "currentConfirmedCountStr": "13",
         "fullCityName": "乌海市"
-      },
-      {
-        "cityName": "境外输入人员",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 501,
-        "suspectedCount": 35,
-        "curedCount": 491,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "境外输入人员"
-      },
-      {
-        "cityName": "锡林郭勒盟",
-        "currentConfirmedCount": 9,
-        "confirmedCount": 407,
-        "suspectedCount": 0,
-        "curedCount": 398,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 152500,
-        "currentConfirmedCountStr": "9",
-        "fullCityName": "锡林郭勒盟"
       },
       {
         "cityName": "通辽",
@@ -3197,26 +3232,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "乌海市",
-        "areaName": "海勃湾区 凤凰岭街道长青社区锦馨园小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乌海市",
-        "areaName": "海勃湾区 惜缘小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乌海市",
-        "areaName": "海南区 西卓子山街道办事处西卓子山街1街坊44号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乌海市",
-        "areaName": "海南区 泽园西区11号楼",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "鄂尔多斯",
         "areaName": "达拉特旗电厂家属区16号楼1单元",
         "dangerLevel": 1
@@ -3234,6 +3249,26 @@
       {
         "cityName": "鄂尔多斯",
         "areaName": "准格尔旗青春塔煤矿区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌海市",
+        "areaName": "海勃湾区 凤凰岭街道长青社区锦馨园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌海市",
+        "areaName": "海勃湾区 惜缘小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌海市",
+        "areaName": "海南区 西卓子山街道办事处西卓子山街1街坊44号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌海市",
+        "areaName": "海南区 泽园西区11号楼",
         "dangerLevel": 1
       },
       {
@@ -5128,56 +5163,56 @@
     "name": "山西",
     "provinceName": "山西省",
     "provinceShortName": "山西",
-    "currentConfirmedCount": 344,
-    "confirmedCount": 916,
+    "currentConfirmedCount": 356,
+    "confirmedCount": 940,
     "suspectedCount": 64,
-    "curedCount": 572,
+    "curedCount": 584,
     "deadCount": 0,
     "comment": "",
     "locationId": 140000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
-    "highDangerCount": 99,
+    "highDangerCount": 101,
     "midDangerCount": 67,
     "detectOrgCount": 183,
     "vaccinationOrgCount": 70,
     "cities": [
       {
         "cityName": "大同",
-        "currentConfirmedCount": 157,
-        "confirmedCount": 175,
+        "currentConfirmedCount": 160,
+        "confirmedCount": 184,
         "suspectedCount": 0,
-        "curedCount": 18,
+        "curedCount": 24,
         "deadCount": 0,
         "highDangerCount": 56,
         "midDangerCount": 11,
         "locationId": 140200,
-        "currentConfirmedCountStr": "157",
+        "currentConfirmedCountStr": "160",
         "fullCityName": "大同市"
       },
       {
         "cityName": "运城",
-        "currentConfirmedCount": 90,
-        "confirmedCount": 173,
+        "currentConfirmedCount": 97,
+        "confirmedCount": 182,
         "suspectedCount": 0,
-        "curedCount": 83,
+        "curedCount": 85,
         "deadCount": 0,
         "highDangerCount": 39,
         "midDangerCount": 50,
         "locationId": 140800,
-        "currentConfirmedCountStr": "90",
+        "currentConfirmedCountStr": "97",
         "fullCityName": "运城市"
       },
       {
         "cityName": "太原",
-        "currentConfirmedCount": 31,
-        "confirmedCount": 178,
+        "currentConfirmedCount": 29,
+        "confirmedCount": 179,
         "suspectedCount": 0,
-        "curedCount": 147,
+        "curedCount": 150,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 2,
         "midDangerCount": 1,
         "locationId": 140100,
-        "currentConfirmedCountStr": "31",
+        "currentConfirmedCountStr": "29",
         "fullCityName": "太原市"
       },
       {
@@ -5207,43 +5242,43 @@
         "fullCityName": "吕梁市"
       },
       {
-        "cityName": "忻州",
-        "currentConfirmedCount": 8,
-        "confirmedCount": 25,
-        "suspectedCount": 0,
-        "curedCount": 17,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 140900,
-        "currentConfirmedCountStr": "8",
-        "fullCityName": "忻州市"
-      },
-      {
-        "cityName": "临汾",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 13,
-        "suspectedCount": 0,
-        "curedCount": 7,
-        "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 2,
-        "locationId": 141000,
-        "currentConfirmedCountStr": "6",
-        "fullCityName": "临汾市"
-      },
-      {
         "cityName": "朔州",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 28,
+        "currentConfirmedCount": 8,
+        "confirmedCount": 32,
         "suspectedCount": 0,
         "curedCount": 24,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 3,
         "locationId": 140600,
-        "currentConfirmedCountStr": "4",
+        "currentConfirmedCountStr": "8",
         "fullCityName": "朔州市"
+      },
+      {
+        "cityName": "忻州",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 25,
+        "suspectedCount": 0,
+        "curedCount": 18,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 140900,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "忻州市"
+      },
+      {
+        "cityName": "临汾",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 14,
+        "suspectedCount": 0,
+        "curedCount": 7,
+        "deadCount": 0,
+        "highDangerCount": 4,
+        "midDangerCount": 2,
+        "locationId": 141000,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "临汾市"
       },
       {
         "cityName": "境外输入",
@@ -5795,6 +5830,16 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "太原",
+        "areaName": "东黄水镇大汉村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "太原",
+        "areaName": "东黄水镇水泉沟村",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "运城",
         "areaName": "府东街鸿利庄18巷除6号外的其他区域",
         "dangerLevel": 2
@@ -6132,705 +6177,47 @@
     ]
   },
   {
-    "pinyin": "sichuan",
-    "name": "四川",
-    "provinceName": "四川省",
-    "provinceShortName": "四川",
-    "currentConfirmedCount": 289,
-    "confirmedCount": 6167,
-    "suspectedCount": 22,
-    "curedCount": 5875,
-    "deadCount": 3,
-    "comment": "",
-    "locationId": 510000,
-    "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-    "highDangerCount": 51,
-    "midDangerCount": 19,
-    "detectOrgCount": 413,
-    "vaccinationOrgCount": 131,
-    "cities": [
-      {
-        "cityName": "内江",
-        "currentConfirmedCount": 295,
-        "confirmedCount": 317,
-        "suspectedCount": 0,
-        "curedCount": 22,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511000,
-        "currentConfirmedCountStr": "295",
-        "fullCityName": "内江市"
-      },
-      {
-        "cityName": "宜宾",
-        "currentConfirmedCount": 272,
-        "confirmedCount": 285,
-        "suspectedCount": 0,
-        "curedCount": 13,
-        "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
-        "locationId": 511500,
-        "currentConfirmedCountStr": "272",
-        "fullCityName": "宜宾市"
-      },
-      {
-        "cityName": "成都",
-        "currentConfirmedCount": 168,
-        "confirmedCount": 3815,
-        "suspectedCount": 0,
-        "curedCount": 3644,
-        "deadCount": 3,
-        "highDangerCount": 1,
-        "midDangerCount": 5,
-        "locationId": 510100,
-        "currentConfirmedCountStr": "168",
-        "fullCityName": "成都市"
-      },
-      {
-        "cityName": "遂宁",
-        "currentConfirmedCount": 148,
-        "confirmedCount": 170,
-        "suspectedCount": 0,
-        "curedCount": 22,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510900,
-        "currentConfirmedCountStr": "148",
-        "fullCityName": "遂宁市"
-      },
-      {
-        "cityName": "绵阳",
-        "currentConfirmedCount": 131,
-        "confirmedCount": 154,
-        "suspectedCount": 0,
-        "curedCount": 23,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510700,
-        "currentConfirmedCountStr": "131",
-        "fullCityName": "绵阳市"
-      },
-      {
-        "cityName": "阿坝州",
-        "currentConfirmedCount": 109,
-        "confirmedCount": 110,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 513200,
-        "currentConfirmedCountStr": "109",
-        "fullCityName": "阿坝藏族羌族自治州"
-      },
-      {
-        "cityName": "广安",
-        "currentConfirmedCount": 88,
-        "confirmedCount": 262,
-        "suspectedCount": 0,
-        "curedCount": 174,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511600,
-        "currentConfirmedCountStr": "88",
-        "fullCityName": "广安市"
-      },
-      {
-        "cityName": "泸州",
-        "currentConfirmedCount": 83,
-        "confirmedCount": 108,
-        "suspectedCount": 0,
-        "curedCount": 25,
-        "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 2,
-        "locationId": 510500,
-        "currentConfirmedCountStr": "83",
-        "fullCityName": "泸州市"
-      },
-      {
-        "cityName": "凉山州",
-        "currentConfirmedCount": 41,
-        "confirmedCount": 56,
-        "suspectedCount": 1,
-        "curedCount": 15,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 513400,
-        "currentConfirmedCountStr": "41",
-        "fullCityName": "凉山彝族自治州"
-      },
-      {
-        "cityName": "资阳",
-        "currentConfirmedCount": 41,
-        "confirmedCount": 47,
-        "suspectedCount": 0,
-        "curedCount": 6,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 512000,
-        "currentConfirmedCountStr": "41",
-        "fullCityName": "资阳市"
-      },
-      {
-        "cityName": "南充",
-        "currentConfirmedCount": 39,
-        "confirmedCount": 79,
-        "suspectedCount": 0,
-        "curedCount": 40,
-        "deadCount": 0,
-        "highDangerCount": 30,
-        "midDangerCount": 6,
-        "locationId": 511300,
-        "currentConfirmedCountStr": "39",
-        "fullCityName": "南充市"
-      },
-      {
-        "cityName": "眉山",
-        "currentConfirmedCount": 34,
-        "confirmedCount": 43,
-        "suspectedCount": 0,
-        "curedCount": 9,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511400,
-        "currentConfirmedCountStr": "34",
-        "fullCityName": "眉山市"
-      },
-      {
-        "cityName": "广元",
-        "currentConfirmedCount": 31,
-        "confirmedCount": 41,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 0,
-        "highDangerCount": 14,
-        "midDangerCount": 6,
-        "locationId": 510800,
-        "currentConfirmedCountStr": "31",
-        "fullCityName": "广元市"
-      },
-      {
-        "cityName": "德阳",
-        "currentConfirmedCount": 28,
-        "confirmedCount": 49,
-        "suspectedCount": 0,
-        "curedCount": 21,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510600,
-        "currentConfirmedCountStr": "28",
-        "fullCityName": "德阳市"
-      },
-      {
-        "cityName": "甘孜州",
-        "currentConfirmedCount": 17,
-        "confirmedCount": 95,
-        "suspectedCount": 0,
-        "curedCount": 78,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 513300,
-        "currentConfirmedCountStr": "17",
-        "fullCityName": "甘孜藏族自治州"
-      },
-      {
-        "cityName": "自贡",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 20,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510300,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "自贡市"
-      },
-      {
-        "cityName": "巴中",
-        "currentConfirmedCount": 9,
-        "confirmedCount": 44,
-        "suspectedCount": 0,
-        "curedCount": 35,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511900,
-        "currentConfirmedCountStr": "9",
-        "fullCityName": "巴中市"
-      },
-      {
-        "cityName": "乐山",
-        "currentConfirmedCount": 8,
-        "confirmedCount": 20,
-        "suspectedCount": 0,
-        "curedCount": 12,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511100,
-        "currentConfirmedCountStr": "8",
-        "fullCityName": "乐山市"
-      },
-      {
-        "cityName": "达州",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 49,
-        "suspectedCount": 0,
-        "curedCount": 45,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511700,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "达州市"
-      },
-      {
-        "cityName": "攀枝花",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 20,
-        "suspectedCount": 0,
-        "curedCount": 16,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 510400,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "攀枝花市"
-      },
-      {
-        "cityName": "雅安",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 12,
-        "suspectedCount": 0,
-        "curedCount": 8,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 511800,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "雅安市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -1275,
-        "confirmedCount": 371,
-        "suspectedCount": 0,
-        "curedCount": 1646,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-1275",
-        "fullCityName": "待明确地区"
-      }
-    ],
-    "dangerAreas": [
-      {
-        "cityName": "南充",
-        "areaName": "高坪区华佳小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "高坪区临江南路二段51号泰合·慢城八岛36栋、39栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "高坪区通元路228号碧水云天3期",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "高坪区逸合·山语城4期、5期",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "嘉陵区公园大地小区15-18栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "嘉陵区嘉陵花园小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "嘉陵区绿地·金澜府1期",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "南充市嘉陵区滨江南路宏凌滨江印象商务楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "南充市顺庆区金鱼岭路黄桷树小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "南充市顺庆区西河南路213号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "南充市顺庆区延安路海润滨江小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "南充市顺庆区正阳东路佳兆业广场小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区和平西路浪高凯悦小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区和平西路长城小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区锦亭路36号宏凌城市花园7-16栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区金鱼岭正街209号院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区龙吟路龙吟·华城小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区南门北街80号蓝光·香江国际小区1-3栋、5栋、11栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区清风北路清泉小区-东区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区清嘉路168号恒大中航城1期北区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区丝绸路6号宿舍区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区双女石路106号清泉佳苑西区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区万年西路93号春风玫瑰园小区14栋、37-44栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区西河北路69号1栋、2栋、3栋、4栋、5栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区延安路359号佳和名苑3栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区延安路391号附7号小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区延安路465号小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区玉桂路天地山水小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区镇江东路二段57号石油新城东-1区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "营山县柏林乡",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区成都房建公寓段广元房建车间广元工区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区曾家营社区圆梦家园小区11栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区惠家沟社区一组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区盘龙镇四组1、2号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区盘龙镇协合村一组1、2、3、4号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区铁路二分会小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区铁路三分会小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区铁路社区车辆小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区文化楼小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西坝街道树仁社区三组、五组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西坝街道下西社区五组、六组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西街道三医院职工宿舍1号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西街道三医院职工宿舍2号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "广元",
-        "areaName": "利州区嘉陵街道下河街社区静心楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇龙凤社区2社",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇龙凤社区3社",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇龙凤社区7社",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇龙凤社区8社",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇双桥村1社西临永宁河大桥至石膏滩段，北临龙凤中心校围墙至关刀田高速路段，东临厦蓉高速1861＋600至1862＋150段，南临头天路罗汪嘴大桥至双桥桥头区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "宜宾",
-        "areaName": "叙州区柏溪街道黄泥小区(翠柏大道与812厂专用铁路之间区域)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "成都",
-        "areaName": "武侯区红牌楼街道佳灵路39号优地A区（含底商）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "南充",
-        "areaName": "高坪区临江南路二段51号泰合·慢城八岛（除36栋、39栋外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南充",
-        "areaName": "嘉陵区于陛路二段6号公园大地小区（除15-18栋外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区锦亭路36号宏凌城市花园小区（除7-16栋外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区南门北街80号蓝光·香江国际小区（除1-3栋、5栋、11栋外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区万年西路93号春风玫瑰园小区（除14栋、37-44栋外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南充",
-        "areaName": "顺庆区延安路474号香榭春天-南区20-22栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "剑阁县普安镇鼓楼社区幸福人家小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "剑阁县普安镇闻溪路179号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区盘龙镇协合村四组56、61、62、63、64号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西坝街道曾家营社区圆梦家园小区1-10栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西坝街道下西社区四组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广元",
-        "areaName": "经开区下西街道西以活力小区与铁路三分会小区之间的无名路为界，南以宝成铁路为界，北以利州西路为界，东以勇进汽车修理厂为界合围区域中除高风险区外的区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "火车南站街道长荣路66号龙湖冠寓小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "郫都区犀浦街道校园路836号棠蓉园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "青羊区少城街道包家巷99号院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "武侯区玉林街道浆洗街16号恒侯巷华西国际（含底商）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "成都",
-        "areaName": "武侯区正成双楠格调（晋吉南路59号）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县龙凤镇双桥村4社",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "泸州",
-        "areaName": "叙永县天池镇柏杨村七社",
-        "dangerLevel": 2
-      }
-    ]
-  },
-  {
     "pinyin": "xinjiang",
     "name": "新疆",
     "provinceName": "新疆维吾尔自治区",
     "provinceShortName": "新疆",
-    "currentConfirmedCount": 287,
-    "confirmedCount": 1642,
+    "currentConfirmedCount": 271,
+    "confirmedCount": 1650,
     "suspectedCount": 0,
-    "curedCount": 1352,
+    "curedCount": 1376,
     "deadCount": 3,
     "comment": "",
     "locationId": 650000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
-    "highDangerCount": 1104,
-    "midDangerCount": 219,
+    "highDangerCount": 1110,
+    "midDangerCount": 221,
     "detectOrgCount": 216,
     "vaccinationOrgCount": 0,
     "cities": [
       {
         "cityName": "乌鲁木齐",
-        "currentConfirmedCount": 297,
-        "confirmedCount": 1267,
+        "currentConfirmedCount": 303,
+        "confirmedCount": 1273,
         "suspectedCount": 0,
         "curedCount": 970,
         "deadCount": 0,
-        "highDangerCount": 808,
-        "midDangerCount": 121,
+        "highDangerCount": 814,
+        "midDangerCount": 123,
         "locationId": 650100,
-        "currentConfirmedCountStr": "297",
+        "currentConfirmedCountStr": "303",
         "fullCityName": "乌鲁木齐市"
       },
       {
         "cityName": "伊犁州",
-        "currentConfirmedCount": 102,
-        "confirmedCount": 149,
+        "currentConfirmedCount": 104,
+        "confirmedCount": 151,
         "suspectedCount": 0,
         "curedCount": 47,
         "deadCount": 0,
         "highDangerCount": 72,
         "midDangerCount": 21,
         "locationId": 654000,
-        "currentConfirmedCountStr": "102",
+        "currentConfirmedCountStr": "104",
         "fullCityName": "伊犁哈萨克自治州"
       },
       {
@@ -7030,19 +6417,29 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -183,
+        "currentConfirmedCount": -207,
         "confirmedCount": 1,
         "suspectedCount": 0,
-        "curedCount": 184,
+        "curedCount": 208,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-183",
+        "currentConfirmedCountStr": "-207",
         "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "北京路街道呈祥社区汉唐天下小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "二道桥街道跃进街社区和平南路58号百官物业小区",
+        "dangerLevel": 1
+      },
       {
         "cityName": "乌鲁木齐",
         "areaName": "高新区(新市区)杭州路街道河北西路社区四建小区",
@@ -7185,11 +6582,6 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": "高新区（新市区）杭州路街道崇文社区万科锦荟里商业楼工地",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": "高新区（新市区）杭州路街道崇文社区新鑫花园小区",
         "dangerLevel": 1
       },
@@ -7300,11 +6692,6 @@
       },
       {
         "cityName": "乌鲁木齐",
-        "areaName": "高新区（新市区）迎宾路街道兰亭社区交建集团家属院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "乌鲁木齐",
         "areaName": "高新区（新市区）迎宾路街道兰亭社区路锦家园小区",
         "dangerLevel": 1
       },
@@ -7381,6 +6768,11 @@
       {
         "cityName": "乌鲁木齐",
         "areaName": "高新区（新市区）长春中路街道长春中路长治路社区宝石花苑",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "解放南路街道永和巷社区永和北巷3号",
         "dangerLevel": 1
       },
       {
@@ -7896,6 +7288,11 @@
       {
         "cityName": "乌鲁木齐",
         "areaName": "米东区长山子镇下梁头村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "南湾街街道大湾北社区蔬菜店",
         "dangerLevel": 1
       },
       {
@@ -9825,6 +9222,11 @@
       },
       {
         "cityName": "乌鲁木齐",
+        "areaName": "团结路街道领馆北社区新华南路698号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
         "areaName": "天山区 大湾街道延安东路社区明华街235号晨光佳苑一期",
         "dangerLevel": 1
       },
@@ -11081,6 +10483,21 @@
       {
         "cityName": "乌鲁木齐",
         "areaName": "天山区燕儿窝街道燕儿窝北路西社区207号乌管处小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "延安路街道中湾街北社区惠民蔬菜店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "长春中路街道锦程社区万泰星辰一、二期小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "长山子镇上梁头村",
         "dangerLevel": 1
       },
       {
@@ -13169,6 +12586,16 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "乌鲁木齐",
+        "areaName": "杭州路街道崇文社区万科锦荟里商业楼工地",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "乌鲁木齐",
+        "areaName": "迎宾路街道兰亭社区交建集团家属院",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "塔城地区",
         "areaName": " 虹桥街道94号院、96号院、幸福小区、博雅小区、和平花园、解放路社区平房区、明珠小区、新华小区、美丽园小区、和谐小区、和平小区、林场家属楼<含虹桥雅苑>、博馨苑小区、人民医院家属楼、虹桥小区、金盾小区、老政府家属院、水榭名苑小区、水榭名苑小区廉租房、老市委家属楼、宜居小区、团结路社区平房区2区、飞云楼",
         "dangerLevel": 2
@@ -13661,14 +13088,672 @@
     ]
   },
   {
+    "pinyin": "sichuan",
+    "name": "四川",
+    "provinceName": "四川省",
+    "provinceShortName": "四川",
+    "currentConfirmedCount": 247,
+    "confirmedCount": 6170,
+    "suspectedCount": 22,
+    "curedCount": 5920,
+    "deadCount": 3,
+    "comment": "",
+    "locationId": 510000,
+    "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
+    "highDangerCount": 51,
+    "midDangerCount": 19,
+    "detectOrgCount": 413,
+    "vaccinationOrgCount": 131,
+    "cities": [
+      {
+        "cityName": "内江",
+        "currentConfirmedCount": 295,
+        "confirmedCount": 317,
+        "suspectedCount": 0,
+        "curedCount": 22,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511000,
+        "currentConfirmedCountStr": "295",
+        "fullCityName": "内江市"
+      },
+      {
+        "cityName": "宜宾",
+        "currentConfirmedCount": 272,
+        "confirmedCount": 285,
+        "suspectedCount": 0,
+        "curedCount": 13,
+        "deadCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 0,
+        "locationId": 511500,
+        "currentConfirmedCountStr": "272",
+        "fullCityName": "宜宾市"
+      },
+      {
+        "cityName": "成都",
+        "currentConfirmedCount": 171,
+        "confirmedCount": 3818,
+        "suspectedCount": 0,
+        "curedCount": 3644,
+        "deadCount": 3,
+        "highDangerCount": 1,
+        "midDangerCount": 5,
+        "locationId": 510100,
+        "currentConfirmedCountStr": "171",
+        "fullCityName": "成都市"
+      },
+      {
+        "cityName": "遂宁",
+        "currentConfirmedCount": 148,
+        "confirmedCount": 170,
+        "suspectedCount": 0,
+        "curedCount": 22,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510900,
+        "currentConfirmedCountStr": "148",
+        "fullCityName": "遂宁市"
+      },
+      {
+        "cityName": "绵阳",
+        "currentConfirmedCount": 131,
+        "confirmedCount": 154,
+        "suspectedCount": 0,
+        "curedCount": 23,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510700,
+        "currentConfirmedCountStr": "131",
+        "fullCityName": "绵阳市"
+      },
+      {
+        "cityName": "阿坝州",
+        "currentConfirmedCount": 109,
+        "confirmedCount": 110,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 513200,
+        "currentConfirmedCountStr": "109",
+        "fullCityName": "阿坝藏族羌族自治州"
+      },
+      {
+        "cityName": "广安",
+        "currentConfirmedCount": 88,
+        "confirmedCount": 262,
+        "suspectedCount": 0,
+        "curedCount": 174,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511600,
+        "currentConfirmedCountStr": "88",
+        "fullCityName": "广安市"
+      },
+      {
+        "cityName": "泸州",
+        "currentConfirmedCount": 83,
+        "confirmedCount": 108,
+        "suspectedCount": 0,
+        "curedCount": 25,
+        "deadCount": 0,
+        "highDangerCount": 5,
+        "midDangerCount": 2,
+        "locationId": 510500,
+        "currentConfirmedCountStr": "83",
+        "fullCityName": "泸州市"
+      },
+      {
+        "cityName": "凉山州",
+        "currentConfirmedCount": 41,
+        "confirmedCount": 56,
+        "suspectedCount": 1,
+        "curedCount": 15,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 513400,
+        "currentConfirmedCountStr": "41",
+        "fullCityName": "凉山彝族自治州"
+      },
+      {
+        "cityName": "资阳",
+        "currentConfirmedCount": 41,
+        "confirmedCount": 47,
+        "suspectedCount": 0,
+        "curedCount": 6,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 512000,
+        "currentConfirmedCountStr": "41",
+        "fullCityName": "资阳市"
+      },
+      {
+        "cityName": "南充",
+        "currentConfirmedCount": 39,
+        "confirmedCount": 79,
+        "suspectedCount": 0,
+        "curedCount": 40,
+        "deadCount": 0,
+        "highDangerCount": 30,
+        "midDangerCount": 6,
+        "locationId": 511300,
+        "currentConfirmedCountStr": "39",
+        "fullCityName": "南充市"
+      },
+      {
+        "cityName": "眉山",
+        "currentConfirmedCount": 34,
+        "confirmedCount": 43,
+        "suspectedCount": 0,
+        "curedCount": 9,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511400,
+        "currentConfirmedCountStr": "34",
+        "fullCityName": "眉山市"
+      },
+      {
+        "cityName": "广元",
+        "currentConfirmedCount": 31,
+        "confirmedCount": 41,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 14,
+        "midDangerCount": 6,
+        "locationId": 510800,
+        "currentConfirmedCountStr": "31",
+        "fullCityName": "广元市"
+      },
+      {
+        "cityName": "德阳",
+        "currentConfirmedCount": 28,
+        "confirmedCount": 49,
+        "suspectedCount": 0,
+        "curedCount": 21,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510600,
+        "currentConfirmedCountStr": "28",
+        "fullCityName": "德阳市"
+      },
+      {
+        "cityName": "甘孜州",
+        "currentConfirmedCount": 17,
+        "confirmedCount": 95,
+        "suspectedCount": 0,
+        "curedCount": 78,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 513300,
+        "currentConfirmedCountStr": "17",
+        "fullCityName": "甘孜藏族自治州"
+      },
+      {
+        "cityName": "自贡",
+        "currentConfirmedCount": 10,
+        "confirmedCount": 20,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510300,
+        "currentConfirmedCountStr": "10",
+        "fullCityName": "自贡市"
+      },
+      {
+        "cityName": "巴中",
+        "currentConfirmedCount": 9,
+        "confirmedCount": 44,
+        "suspectedCount": 0,
+        "curedCount": 35,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511900,
+        "currentConfirmedCountStr": "9",
+        "fullCityName": "巴中市"
+      },
+      {
+        "cityName": "乐山",
+        "currentConfirmedCount": 8,
+        "confirmedCount": 20,
+        "suspectedCount": 0,
+        "curedCount": 12,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511100,
+        "currentConfirmedCountStr": "8",
+        "fullCityName": "乐山市"
+      },
+      {
+        "cityName": "达州",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 49,
+        "suspectedCount": 0,
+        "curedCount": 45,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511700,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "达州市"
+      },
+      {
+        "cityName": "攀枝花",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 20,
+        "suspectedCount": 0,
+        "curedCount": 16,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 510400,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "攀枝花市"
+      },
+      {
+        "cityName": "雅安",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 12,
+        "suspectedCount": 0,
+        "curedCount": 8,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 511800,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "雅安市"
+      },
+      {
+        "cityName": "待明确地区",
+        "currentConfirmedCount": -1320,
+        "confirmedCount": 371,
+        "suspectedCount": 0,
+        "curedCount": 1691,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "-1320",
+        "fullCityName": "待明确地区"
+      }
+    ],
+    "dangerAreas": [
+      {
+        "cityName": "南充",
+        "areaName": "高坪区华佳小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "高坪区临江南路二段51号泰合·慢城八岛36栋、39栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "高坪区通元路228号碧水云天3期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "高坪区逸合·山语城4期、5期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "嘉陵区公园大地小区15-18栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "嘉陵区嘉陵花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "嘉陵区绿地·金澜府1期",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "南充市嘉陵区滨江南路宏凌滨江印象商务楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "南充市顺庆区金鱼岭路黄桷树小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "南充市顺庆区西河南路213号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "南充市顺庆区延安路海润滨江小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "南充市顺庆区正阳东路佳兆业广场小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区和平西路浪高凯悦小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区和平西路长城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区锦亭路36号宏凌城市花园7-16栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区金鱼岭正街209号院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区龙吟路龙吟·华城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区南门北街80号蓝光·香江国际小区1-3栋、5栋、11栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区清风北路清泉小区-东区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区清嘉路168号恒大中航城1期北区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区丝绸路6号宿舍区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区双女石路106号清泉佳苑西区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区万年西路93号春风玫瑰园小区14栋、37-44栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区西河北路69号1栋、2栋、3栋、4栋、5栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区延安路359号佳和名苑3栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区延安路391号附7号小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区延安路465号小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区玉桂路天地山水小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区镇江东路二段57号石油新城东-1区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "南充",
+        "areaName": "营山县柏林乡",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区成都房建公寓段广元房建车间广元工区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区曾家营社区圆梦家园小区11栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区惠家沟社区一组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区盘龙镇四组1、2号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区盘龙镇协合村一组1、2、3、4号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区铁路二分会小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区铁路三分会小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区铁路社区车辆小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区文化楼小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西坝街道树仁社区三组、五组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西坝街道下西社区五组、六组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西街道三医院职工宿舍1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西街道三医院职工宿舍2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "利州区嘉陵街道下河街社区静心楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇龙凤社区2社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇龙凤社区3社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇龙凤社区7社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇龙凤社区8社",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇双桥村1社西临永宁河大桥至石膏滩段，北临龙凤中心校围墙至关刀田高速路段，东临厦蓉高速1861＋600至1862＋150段，南临头天路罗汪嘴大桥至双桥桥头区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宜宾",
+        "areaName": "叙州区柏溪街道黄泥小区(翠柏大道与812厂专用铁路之间区域)",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "成都",
+        "areaName": "武侯区红牌楼街道佳灵路39号优地A区（含底商）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广元",
+        "areaName": "剑阁县普安镇鼓楼社区幸福人家小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "剑阁县普安镇闻溪路179号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区盘龙镇协合村四组56、61、62、63、64号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西坝街道曾家营社区圆梦家园小区1-10栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西坝街道下西社区四组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西街道西以活力小区与铁路三分会小区之间的无名路为界，南以宝成铁路为界，北以利州西路为界，东以勇进汽车修理厂为界合围区域中除高风险区外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "高坪区临江南路二段51号泰合·慢城八岛（除36栋、39栋外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "嘉陵区于陛路二段6号公园大地小区（除15-18栋外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区锦亭路36号宏凌城市花园小区（除7-16栋外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区南门北街80号蓝光·香江国际小区（除1-3栋、5栋、11栋外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区万年西路93号春风玫瑰园小区（除14栋、37-44栋外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南充",
+        "areaName": "顺庆区延安路474号香榭春天-南区20-22栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "火车南站街道长荣路66号龙湖冠寓小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "郫都区犀浦街道校园路836号棠蓉园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "青羊区少城街道包家巷99号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "武侯区玉林街道浆洗街16号恒侯巷华西国际（含底商）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "成都",
+        "areaName": "武侯区正成双楠格调（晋吉南路59号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县龙凤镇双桥村4社",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "泸州",
+        "areaName": "叙永县天池镇柏杨村七社",
+        "dangerLevel": 2
+      }
+    ]
+  },
+  {
     "pinyin": "beijing",
     "name": "北京",
     "provinceName": "北京市",
     "provinceShortName": "北京",
-    "currentConfirmedCount": 248,
-    "confirmedCount": 4567,
+    "currentConfirmedCount": 245,
+    "confirmedCount": 4578,
     "suspectedCount": 164,
-    "curedCount": 4310,
+    "curedCount": 4324,
     "deadCount": 9,
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
@@ -13680,41 +13765,41 @@
     "cities": [
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 760,
-        "confirmedCount": 1241,
+        "currentConfirmedCount": 764,
+        "confirmedCount": 1245,
         "suspectedCount": 3,
         "curedCount": 481,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "760",
+        "currentConfirmedCountStr": "764",
         "fullCityName": "境外输入"
       },
       {
         "cityName": "朝阳区",
-        "currentConfirmedCount": 657,
-        "confirmedCount": 737,
+        "currentConfirmedCount": 661,
+        "confirmedCount": 741,
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 110105,
-        "currentConfirmedCountStr": "657",
+        "currentConfirmedCountStr": "661",
         "fullCityName": "朝阳区"
       },
       {
         "cityName": "丰台区",
-        "currentConfirmedCount": 469,
-        "confirmedCount": 755,
+        "currentConfirmedCount": 471,
+        "confirmedCount": 757,
         "suspectedCount": 0,
         "curedCount": 286,
         "deadCount": 0,
         "highDangerCount": 6,
         "midDangerCount": 7,
         "locationId": 110106,
-        "currentConfirmedCountStr": "469",
+        "currentConfirmedCountStr": "471",
         "fullCityName": "丰台区"
       },
       {
@@ -13760,15 +13845,15 @@
       },
       {
         "cityName": "通州区",
-        "currentConfirmedCount": 100,
-        "confirmedCount": 120,
+        "currentConfirmedCount": 101,
+        "confirmedCount": 121,
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 110112,
-        "currentConfirmedCountStr": "100",
+        "currentConfirmedCountStr": "101",
         "fullCityName": "通州区"
       },
       {
@@ -13920,15 +14005,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -2839,
+        "currentConfirmedCount": -2853,
         "confirmedCount": 143,
         "suspectedCount": 0,
-        "curedCount": 2973,
+        "curedCount": 2987,
         "deadCount": 9,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-2839",
+        "currentConfirmedCountStr": "-2853",
         "fullCityName": "待明确地区"
       }
     ],
@@ -14030,10 +14115,10 @@
     "name": "福建",
     "provinceName": "福建省",
     "provinceShortName": "福建",
-    "currentConfirmedCount": 193,
-    "confirmedCount": 4700,
+    "currentConfirmedCount": 194,
+    "confirmedCount": 4711,
     "suspectedCount": 15,
-    "curedCount": 4506,
+    "curedCount": 4516,
     "deadCount": 1,
     "comment": "",
     "locationId": 350000,
@@ -14045,15 +14130,15 @@
     "cities": [
       {
         "cityName": "境外输入人员",
-        "currentConfirmedCount": 169,
-        "confirmedCount": 2469,
+        "currentConfirmedCount": 171,
+        "confirmedCount": 2480,
         "suspectedCount": 15,
-        "curedCount": 2300,
+        "curedCount": 2309,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "169",
+        "currentConfirmedCountStr": "171",
         "fullCityName": "境外输入人员"
       },
       {
@@ -14172,6 +14257,19 @@
         "locationId": 350400,
         "currentConfirmedCountStr": "0",
         "fullCityName": "三明市"
+      },
+      {
+        "cityName": "待明确地区",
+        "currentConfirmedCount": -1,
+        "confirmedCount": 0,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "-1",
+        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
@@ -14181,10 +14279,10 @@
     "name": "陕西",
     "provinceName": "陕西省",
     "provinceShortName": "陕西",
-    "currentConfirmedCount": 175,
-    "confirmedCount": 3958,
+    "currentConfirmedCount": 179,
+    "confirmedCount": 3974,
     "suspectedCount": 4,
-    "curedCount": 3780,
+    "curedCount": 3792,
     "deadCount": 3,
     "comment": "",
     "locationId": 610000,
@@ -14196,8 +14294,8 @@
     "cities": [
       {
         "cityName": "西安",
-        "currentConfirmedCount": 183,
-        "confirmedCount": 2539,
+        "currentConfirmedCount": 192,
+        "confirmedCount": 2548,
         "suspectedCount": 0,
         "curedCount": 2353,
         "deadCount": 3,
@@ -14210,15 +14308,15 @@
       },
       {
         "cityName": "汉中",
-        "currentConfirmedCount": 115,
-        "confirmedCount": 172,
+        "currentConfirmedCount": 122,
+        "confirmedCount": 179,
         "suspectedCount": 0,
         "curedCount": 57,
         "deadCount": 0,
         "highDangerCount": 49,
         "midDangerCount": 14,
         "locationId": 610700,
-        "currentConfirmedCountStr": "115",
+        "currentConfirmedCountStr": "122",
         "fullCityName": "汉中市"
       },
       {
@@ -14375,15 +14473,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -360,
+        "currentConfirmedCount": -372,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 360,
+        "curedCount": 372,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-360",
+        "currentConfirmedCountStr": "-372",
         "fullCityName": "待明确地区"
       }
     ],
@@ -15800,10 +15898,10 @@
     "name": "云南",
     "provinceName": "云南省",
     "provinceShortName": "云南",
-    "currentConfirmedCount": 162,
-    "confirmedCount": 2633,
+    "currentConfirmedCount": 151,
+    "confirmedCount": 2636,
     "suspectedCount": 23,
-    "curedCount": 2469,
+    "curedCount": 2483,
     "deadCount": 2,
     "comment": "云南卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 530000,
@@ -15841,28 +15939,28 @@
       },
       {
         "cityName": "德宏州",
-        "currentConfirmedCount": 54,
-        "confirmedCount": 433,
+        "currentConfirmedCount": 56,
+        "confirmedCount": 435,
         "suspectedCount": 0,
         "curedCount": 379,
         "deadCount": 0,
         "highDangerCount": 49,
         "midDangerCount": 50,
         "locationId": 533100,
-        "currentConfirmedCountStr": "54",
+        "currentConfirmedCountStr": "56",
         "fullCityName": "德宏傣族景颇族自治州"
       },
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 41,
-        "confirmedCount": 1724,
+        "currentConfirmedCount": 42,
+        "confirmedCount": 1725,
         "suspectedCount": 23,
         "curedCount": 1683,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "41",
+        "currentConfirmedCountStr": "42",
         "fullCityName": "境外输入"
       },
       {
@@ -16023,15 +16121,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -142,
+        "currentConfirmedCount": -156,
         "confirmedCount": 13,
         "suspectedCount": 0,
-        "curedCount": 155,
+        "curedCount": 169,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-142",
+        "currentConfirmedCountStr": "-156",
         "fullCityName": "待明确地区"
       }
     ],
@@ -16664,772 +16762,14 @@
     ]
   },
   {
-    "pinyin": "chongqing",
-    "name": "重庆",
-    "provinceName": "重庆市",
-    "provinceShortName": "重庆",
-    "currentConfirmedCount": 137,
-    "confirmedCount": 1266,
-    "suspectedCount": 15,
-    "curedCount": 1123,
-    "deadCount": 6,
-    "comment": "",
-    "locationId": 500000,
-    "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
-    "highDangerCount": 4,
-    "midDangerCount": 34,
-    "detectOrgCount": 80,
-    "vaccinationOrgCount": 261,
-    "cities": [
-      {
-        "cityName": "渝北区",
-        "currentConfirmedCount": 24,
-        "confirmedCount": 52,
-        "suspectedCount": 0,
-        "curedCount": 28,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 18,
-        "locationId": 500112,
-        "currentConfirmedCountStr": "24",
-        "fullCityName": "渝北区"
-      },
-      {
-        "cityName": "江津区",
-        "currentConfirmedCount": 17,
-        "confirmedCount": 42,
-        "suspectedCount": 0,
-        "curedCount": 25,
-        "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 7,
-        "locationId": 500116,
-        "currentConfirmedCountStr": "17",
-        "fullCityName": "江津区"
-      },
-      {
-        "cityName": "巴南区",
-        "currentConfirmedCount": 16,
-        "confirmedCount": 45,
-        "suspectedCount": 0,
-        "curedCount": 29,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500113,
-        "currentConfirmedCountStr": "16",
-        "fullCityName": "巴南区"
-      },
-      {
-        "cityName": "沙坪坝区",
-        "currentConfirmedCount": 14,
-        "confirmedCount": 129,
-        "suspectedCount": 0,
-        "curedCount": 115,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 2,
-        "locationId": 500106,
-        "currentConfirmedCountStr": "14",
-        "fullCityName": "沙坪坝区"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 147,
-        "suspectedCount": 0,
-        "curedCount": 137,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "境外输入"
-      },
-      {
-        "cityName": "永川区",
-        "currentConfirmedCount": 7,
-        "confirmedCount": 21,
-        "suspectedCount": 0,
-        "curedCount": 14,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500118,
-        "currentConfirmedCountStr": "7",
-        "fullCityName": "永川区"
-      },
-      {
-        "cityName": "九龙坡区",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 67,
-        "suspectedCount": 0,
-        "curedCount": 60,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500107,
-        "currentConfirmedCountStr": "6",
-        "fullCityName": "九龙坡区"
-      },
-      {
-        "cityName": "江北区",
-        "currentConfirmedCount": 5,
-        "confirmedCount": 35,
-        "suspectedCount": 0,
-        "curedCount": 30,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500105,
-        "currentConfirmedCountStr": "5",
-        "fullCityName": "江北区"
-      },
-      {
-        "cityName": "南岸区",
-        "currentConfirmedCount": 5,
-        "confirmedCount": 33,
-        "suspectedCount": 0,
-        "curedCount": 28,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 3,
-        "locationId": 500108,
-        "currentConfirmedCountStr": "5",
-        "fullCityName": "南岸区"
-      },
-      {
-        "cityName": "潼南区",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 27,
-        "suspectedCount": 0,
-        "curedCount": 23,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500152,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "潼南区"
-      },
-      {
-        "cityName": "巫山县",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 26,
-        "suspectedCount": 0,
-        "curedCount": 22,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500237,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "巫山县"
-      },
-      {
-        "cityName": "秀山县",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 8,
-        "suspectedCount": 0,
-        "curedCount": 4,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 2,
-        "locationId": 500241,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "秀山土家族苗族自治县"
-      },
-      {
-        "cityName": "彭水县",
-        "currentConfirmedCount": 3,
-        "confirmedCount": 13,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500243,
-        "currentConfirmedCountStr": "3",
-        "fullCityName": "彭水苗族土家族自治县"
-      },
-      {
-        "cityName": "合川区",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 35,
-        "suspectedCount": 0,
-        "curedCount": 33,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500117,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "合川区"
-      },
-      {
-        "cityName": "奉节县",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 25,
-        "suspectedCount": 0,
-        "curedCount": 23,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500236,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "奉节县"
-      },
-      {
-        "cityName": "垫江县",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 25,
-        "suspectedCount": 0,
-        "curedCount": 23,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500231,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "垫江县"
-      },
-      {
-        "cityName": "万州区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 123,
-        "suspectedCount": 0,
-        "curedCount": 118,
-        "deadCount": 4,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500101,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "万州区"
-      },
-      {
-        "cityName": "渝中区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 48,
-        "suspectedCount": 0,
-        "curedCount": 47,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500103,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "渝中区"
-      },
-      {
-        "cityName": "云阳县",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 30,
-        "suspectedCount": 0,
-        "curedCount": 29,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500235,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "云阳县"
-      },
-      {
-        "cityName": "綦江区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 28,
-        "suspectedCount": 0,
-        "curedCount": 27,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500110,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "綦江区"
-      },
-      {
-        "cityName": "大足区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 17,
-        "suspectedCount": 0,
-        "curedCount": 16,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500111,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "大足区"
-      },
-      {
-        "cityName": "铜梁区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 14,
-        "suspectedCount": 0,
-        "curedCount": 13,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500151,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "铜梁区"
-      },
-      {
-        "cityName": "大渡口区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 10,
-        "suspectedCount": 0,
-        "curedCount": 9,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500104,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "大渡口区"
-      },
-      {
-        "cityName": "梁平区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 8,
-        "suspectedCount": 0,
-        "curedCount": 7,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500155,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "梁平区"
-      },
-      {
-        "cityName": "城口县",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 3,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500229,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "城口县"
-      },
-      {
-        "cityName": "南川区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 3,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500119,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "南川区"
-      },
-      {
-        "cityName": "武隆区",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 2,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500156,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "武隆区"
-      },
-      {
-        "cityName": "酉阳县",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 2,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500242,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "酉阳土家族苗族自治县"
-      },
-      {
-        "cityName": "高新区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 51,
-        "suspectedCount": 0,
-        "curedCount": 51,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 2,
-        "locationId": -1,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "高新区"
-      },
-      {
-        "cityName": "长寿区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 31,
-        "suspectedCount": 0,
-        "curedCount": 31,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500115,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "长寿区"
-      },
-      {
-        "cityName": "开州区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 28,
-        "suspectedCount": 0,
-        "curedCount": 27,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500154,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "开州区"
-      },
-      {
-        "cityName": "忠县",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 22,
-        "suspectedCount": 0,
-        "curedCount": 22,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500233,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "忠县"
-      },
-      {
-        "cityName": "两江新区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 18,
-        "suspectedCount": 0,
-        "curedCount": 18,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "两江新区"
-      },
-      {
-        "cityName": "璧山区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 17,
-        "suspectedCount": 0,
-        "curedCount": 17,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500120,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "璧山区"
-      },
-      {
-        "cityName": "北碚区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 17,
-        "suspectedCount": 0,
-        "curedCount": 17,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500109,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "北碚区"
-      },
-      {
-        "cityName": "巫溪县",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 16,
-        "suspectedCount": 0,
-        "curedCount": 16,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500238,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "巫溪县"
-      },
-      {
-        "cityName": "石柱县",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 15,
-        "suspectedCount": 0,
-        "curedCount": 15,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500240,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "石柱土家族自治县"
-      },
-      {
-        "cityName": "荣昌区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 11,
-        "suspectedCount": 0,
-        "curedCount": 11,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500153,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "荣昌区"
-      },
-      {
-        "cityName": "丰都县",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 10,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500230,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "丰都县"
-      },
-      {
-        "cityName": "涪陵区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 7,
-        "suspectedCount": 0,
-        "curedCount": 7,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500102,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "涪陵区"
-      },
-      {
-        "cityName": "万盛经开区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 3,
-        "suspectedCount": 0,
-        "curedCount": 3,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "万盛街道"
-      },
-      {
-        "cityName": "黔江区",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 2,
-        "suspectedCount": 0,
-        "curedCount": 2,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 500114,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "黔江区"
-      }
-    ],
-    "dangerAreas": [
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇民阜街200号附745号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇农贸市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇下河街25号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇迎宾路186号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "德感街道长冲街上104号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "德感街道长冲街上114号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "德感街道长冲老公社3-2",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "回龙坝镇聚龙城66区5栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "虎溪街道富力城院士廷3B组团（大学城北路51号）8栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "虎溪街道新壹站公寓（景阳路37号）B3栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "南岸区机电一支路6号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "南坪街道南城丽居B栋（4—18楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "双龙湖街道水木香山一期25栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "童家桥街道壮志路33号兰苑9栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "天文街道城南家园6组团2栋3单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "吴滩镇除高风险区以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "仙桃街道金茂国际生态城臻悦1栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "仙桃街道锦域蓝湾9栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "仙桃街道润丰水尚二期20栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "油溪镇吴市龙门街255号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "油溪镇吴市龙门街369号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渝北区",
-        "areaName": "油溪镇吴市新农村11号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲街上104号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲街上114号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲老公社3-2",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇除高风险区以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市龙门街255号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市龙门街369号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市新农村11号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南岸区",
-        "areaName": " 南岸区南坪街道南城丽居B栋（4—18楼）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南岸区",
-        "areaName": "南岸区机电一支路6号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南岸区",
-        "areaName": "南岸区天文街道城南家园6组团2栋3单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "秀山县",
-        "areaName": "秀山大酒店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "秀山县",
-        "areaName": "中和街道宜景花园18栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "高新区",
-        "areaName": "虎溪街道富力城院士廷3B组团（大学城北路51号）8栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "高新区",
-        "areaName": "虎溪街道新壹站公寓（景阳路37号）B3栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "沙坪坝区",
-        "areaName": "回龙坝镇聚龙城66区5栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "沙坪坝区",
-        "areaName": "童家桥街道壮志路33号兰苑9栋",
-        "dangerLevel": 2
-      }
-    ]
-  },
-  {
     "pinyin": "henan",
     "name": "河南",
     "provinceName": "河南省",
     "provinceShortName": "河南",
-    "currentConfirmedCount": 124,
-    "confirmedCount": 3475,
+    "currentConfirmedCount": 115,
+    "confirmedCount": 3481,
     "suspectedCount": 1,
-    "curedCount": 3329,
+    "curedCount": 3344,
     "deadCount": 22,
     "comment": "",
     "locationId": 410000,
@@ -17441,10 +16781,10 @@
     "cities": [
       {
         "cityName": "郑州",
-        "currentConfirmedCount": 90,
-        "confirmedCount": 742,
+        "currentConfirmedCount": 83,
+        "confirmedCount": 747,
         "suspectedCount": 0,
-        "curedCount": 647,
+        "curedCount": 659,
         "deadCount": 5,
         "highDangerCount": 17,
         "midDangerCount": 40,
@@ -17482,6 +16822,20 @@
         "fullCityName": "平顶山市"
       },
       {
+        "cityName": "漯河",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 46,
+        "suspectedCount": 0,
+        "curedCount": 44,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 411100,
+        "notShowCurrentConfirmedCount": true,
+        "currentConfirmedCountStr": "-",
+        "fullCityName": "漯河市"
+      },
+      {
         "cityName": "济源",
         "currentConfirmedCount": 2,
         "confirmedCount": 7,
@@ -17508,20 +16862,6 @@
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
         "fullCityName": "南阳市"
-      },
-      {
-        "cityName": "漯河",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 45,
-        "suspectedCount": 0,
-        "curedCount": 44,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 411100,
-        "notShowCurrentConfirmedCount": true,
-        "currentConfirmedCountStr": "-",
-        "fullCityName": "漯河市"
       },
       {
         "cityName": "鹤壁",
@@ -17704,15 +17044,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": 15,
+        "currentConfirmedCount": 12,
         "confirmedCount": 20,
         "suspectedCount": 0,
-        "curedCount": 5,
+        "curedCount": 8,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "15",
+        "currentConfirmedCountStr": "12",
         "fullCityName": "待明确地区"
       }
     ],
@@ -18039,10 +17379,10 @@
     "name": "浙江",
     "provinceName": "浙江省",
     "provinceShortName": "浙江",
-    "currentConfirmedCount": 108,
-    "confirmedCount": 3546,
+    "currentConfirmedCount": 114,
+    "confirmedCount": 3557,
     "suspectedCount": 68,
-    "curedCount": 3437,
+    "curedCount": 3442,
     "deadCount": 1,
     "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
     "locationId": 330000,
@@ -18054,28 +17394,28 @@
     "cities": [
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 388,
-        "confirmedCount": 694,
+        "currentConfirmedCount": 392,
+        "confirmedCount": 698,
         "suspectedCount": 68,
         "curedCount": 306,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "388",
+        "currentConfirmedCountStr": "392",
         "fullCityName": "境外输入"
       },
       {
         "cityName": "杭州",
-        "currentConfirmedCount": 328,
-        "confirmedCount": 558,
+        "currentConfirmedCount": 329,
+        "confirmedCount": 559,
         "suspectedCount": 0,
         "curedCount": 230,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 330100,
-        "currentConfirmedCountStr": "328",
+        "currentConfirmedCountStr": "329",
         "fullCityName": "杭州市"
       },
       {
@@ -18093,15 +17433,15 @@
       },
       {
         "cityName": "宁波",
-        "currentConfirmedCount": 149,
-        "confirmedCount": 418,
+        "currentConfirmedCount": 153,
+        "confirmedCount": 422,
         "suspectedCount": 0,
         "curedCount": 269,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 330200,
-        "currentConfirmedCountStr": "149",
+        "currentConfirmedCountStr": "153",
         "fullCityName": "宁波市"
       },
       {
@@ -18158,15 +17498,15 @@
       },
       {
         "cityName": "绍兴",
-        "currentConfirmedCount": 26,
-        "confirmedCount": 455,
+        "currentConfirmedCount": 28,
+        "confirmedCount": 457,
         "suspectedCount": 0,
         "curedCount": 429,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 330600,
-        "currentConfirmedCountStr": "26",
+        "currentConfirmedCountStr": "28",
         "fullCityName": "绍兴市"
       },
       {
@@ -18223,19 +17563,777 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1355,
+        "currentConfirmedCount": -1360,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 1355,
+        "curedCount": 1360,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1355",
+        "currentConfirmedCountStr": "-1360",
         "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
+  },
+  {
+    "pinyin": "chongqing",
+    "name": "重庆",
+    "provinceName": "重庆市",
+    "provinceShortName": "重庆",
+    "currentConfirmedCount": 112,
+    "confirmedCount": 1270,
+    "suspectedCount": 15,
+    "curedCount": 1152,
+    "deadCount": 6,
+    "comment": "",
+    "locationId": 500000,
+    "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
+    "highDangerCount": 4,
+    "midDangerCount": 34,
+    "detectOrgCount": 80,
+    "vaccinationOrgCount": 261,
+    "cities": [
+      {
+        "cityName": "渝北区",
+        "currentConfirmedCount": 18,
+        "confirmedCount": 52,
+        "suspectedCount": 0,
+        "curedCount": 34,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 18,
+        "locationId": 500112,
+        "currentConfirmedCountStr": "18",
+        "fullCityName": "渝北区"
+      },
+      {
+        "cityName": "巴南区",
+        "currentConfirmedCount": 15,
+        "confirmedCount": 45,
+        "suspectedCount": 0,
+        "curedCount": 30,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500113,
+        "currentConfirmedCountStr": "15",
+        "fullCityName": "巴南区"
+      },
+      {
+        "cityName": "江津区",
+        "currentConfirmedCount": 15,
+        "confirmedCount": 42,
+        "suspectedCount": 0,
+        "curedCount": 27,
+        "deadCount": 0,
+        "highDangerCount": 4,
+        "midDangerCount": 7,
+        "locationId": 500116,
+        "currentConfirmedCountStr": "15",
+        "fullCityName": "江津区"
+      },
+      {
+        "cityName": "沙坪坝区",
+        "currentConfirmedCount": 12,
+        "confirmedCount": 129,
+        "suspectedCount": 0,
+        "curedCount": 117,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
+        "locationId": 500106,
+        "currentConfirmedCountStr": "12",
+        "fullCityName": "沙坪坝区"
+      },
+      {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 9,
+        "confirmedCount": 147,
+        "suspectedCount": 0,
+        "curedCount": 138,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "9",
+        "fullCityName": "境外输入"
+      },
+      {
+        "cityName": "永川区",
+        "currentConfirmedCount": 7,
+        "confirmedCount": 21,
+        "suspectedCount": 0,
+        "curedCount": 14,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500118,
+        "currentConfirmedCountStr": "7",
+        "fullCityName": "永川区"
+      },
+      {
+        "cityName": "江北区",
+        "currentConfirmedCount": 6,
+        "confirmedCount": 37,
+        "suspectedCount": 0,
+        "curedCount": 31,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500105,
+        "currentConfirmedCountStr": "6",
+        "fullCityName": "江北区"
+      },
+      {
+        "cityName": "南岸区",
+        "currentConfirmedCount": 6,
+        "confirmedCount": 35,
+        "suspectedCount": 0,
+        "curedCount": 29,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 3,
+        "locationId": 500108,
+        "currentConfirmedCountStr": "6",
+        "fullCityName": "南岸区"
+      },
+      {
+        "cityName": "秀山县",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 8,
+        "suspectedCount": 0,
+        "curedCount": 4,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
+        "locationId": 500241,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "秀山土家族苗族自治县"
+      },
+      {
+        "cityName": "彭水县",
+        "currentConfirmedCount": 3,
+        "confirmedCount": 13,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500243,
+        "currentConfirmedCountStr": "3",
+        "fullCityName": "彭水苗族土家族自治县"
+      },
+      {
+        "cityName": "九龙坡区",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 67,
+        "suspectedCount": 0,
+        "curedCount": 64,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500107,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "九龙坡区"
+      },
+      {
+        "cityName": "合川区",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 35,
+        "suspectedCount": 0,
+        "curedCount": 33,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500117,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "合川区"
+      },
+      {
+        "cityName": "潼南区",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 27,
+        "suspectedCount": 0,
+        "curedCount": 25,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500152,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "潼南区"
+      },
+      {
+        "cityName": "巫山县",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 26,
+        "suspectedCount": 0,
+        "curedCount": 24,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500237,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "巫山县"
+      },
+      {
+        "cityName": "万州区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 123,
+        "suspectedCount": 0,
+        "curedCount": 118,
+        "deadCount": 4,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500101,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "万州区"
+      },
+      {
+        "cityName": "云阳县",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 30,
+        "suspectedCount": 0,
+        "curedCount": 29,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500235,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "云阳县"
+      },
+      {
+        "cityName": "奉节县",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 25,
+        "suspectedCount": 0,
+        "curedCount": 24,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500236,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "奉节县"
+      },
+      {
+        "cityName": "垫江县",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 25,
+        "suspectedCount": 0,
+        "curedCount": 24,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500231,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "垫江县"
+      },
+      {
+        "cityName": "铜梁区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 14,
+        "suspectedCount": 0,
+        "curedCount": 13,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500151,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "铜梁区"
+      },
+      {
+        "cityName": "城口县",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 3,
+        "suspectedCount": 0,
+        "curedCount": 2,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500229,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "城口县"
+      },
+      {
+        "cityName": "南川区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 3,
+        "suspectedCount": 0,
+        "curedCount": 2,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500119,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "南川区"
+      },
+      {
+        "cityName": "武隆区",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 2,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500156,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "武隆区"
+      },
+      {
+        "cityName": "酉阳县",
+        "currentConfirmedCount": 1,
+        "confirmedCount": 2,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500242,
+        "currentConfirmedCountStr": "1",
+        "fullCityName": "酉阳土家族苗族自治县"
+      },
+      {
+        "cityName": "高新区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 51,
+        "suspectedCount": 0,
+        "curedCount": 51,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
+        "locationId": -1,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "高新区"
+      },
+      {
+        "cityName": "渝中区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 48,
+        "suspectedCount": 0,
+        "curedCount": 48,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500103,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "渝中区"
+      },
+      {
+        "cityName": "长寿区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 31,
+        "suspectedCount": 0,
+        "curedCount": 31,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500115,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "长寿区"
+      },
+      {
+        "cityName": "綦江区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 28,
+        "suspectedCount": 0,
+        "curedCount": 28,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500110,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "綦江区"
+      },
+      {
+        "cityName": "开州区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 28,
+        "suspectedCount": 0,
+        "curedCount": 27,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500154,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "开州区"
+      },
+      {
+        "cityName": "忠县",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 22,
+        "suspectedCount": 0,
+        "curedCount": 22,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500233,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "忠县"
+      },
+      {
+        "cityName": "两江新区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 18,
+        "suspectedCount": 0,
+        "curedCount": 18,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "两江新区"
+      },
+      {
+        "cityName": "大足区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 17,
+        "suspectedCount": 0,
+        "curedCount": 17,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500111,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "大足区"
+      },
+      {
+        "cityName": "璧山区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 17,
+        "suspectedCount": 0,
+        "curedCount": 17,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500120,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "璧山区"
+      },
+      {
+        "cityName": "北碚区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 17,
+        "suspectedCount": 0,
+        "curedCount": 17,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500109,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "北碚区"
+      },
+      {
+        "cityName": "巫溪县",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 16,
+        "suspectedCount": 0,
+        "curedCount": 16,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500238,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "巫溪县"
+      },
+      {
+        "cityName": "石柱县",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 15,
+        "suspectedCount": 0,
+        "curedCount": 15,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500240,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "石柱土家族自治县"
+      },
+      {
+        "cityName": "荣昌区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 11,
+        "suspectedCount": 0,
+        "curedCount": 11,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500153,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "荣昌区"
+      },
+      {
+        "cityName": "丰都县",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 10,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500230,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "丰都县"
+      },
+      {
+        "cityName": "大渡口区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 10,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500104,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "大渡口区"
+      },
+      {
+        "cityName": "梁平区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 8,
+        "suspectedCount": 0,
+        "curedCount": 8,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500155,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "梁平区"
+      },
+      {
+        "cityName": "涪陵区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 7,
+        "suspectedCount": 0,
+        "curedCount": 7,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500102,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "涪陵区"
+      },
+      {
+        "cityName": "万盛经开区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 3,
+        "suspectedCount": 0,
+        "curedCount": 3,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "万盛街道"
+      },
+      {
+        "cityName": "黔江区",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 2,
+        "suspectedCount": 0,
+        "curedCount": 2,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 500114,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "黔江区"
+      }
+    ],
+    "dangerAreas": [
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇民阜街200号附745号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇农贸市场",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇下河街25号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇迎宾路186号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "德感街道长冲街上104号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "德感街道长冲街上114号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "德感街道长冲老公社3-2",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "回龙坝镇聚龙城66区5栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "虎溪街道富力城院士廷3B组团（大学城北路51号）8栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "虎溪街道新壹站公寓（景阳路37号）B3栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "南岸区机电一支路6号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "南坪街道南城丽居B栋（4—18楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "双龙湖街道水木香山一期25栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "童家桥街道壮志路33号兰苑9栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "天文街道城南家园6组团2栋3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "吴滩镇除高风险区以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "仙桃街道金茂国际生态城臻悦1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "仙桃街道锦域蓝湾9栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "仙桃街道润丰水尚二期20栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "油溪镇吴市龙门街255号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "油溪镇吴市龙门街369号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渝北区",
+        "areaName": "油溪镇吴市新农村11号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "德感街道长冲街上104号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "德感街道长冲街上114号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "德感街道长冲老公社3-2",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇除高风险区以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "油溪镇吴市龙门街255号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "油溪镇吴市龙门街369号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "油溪镇吴市新农村11号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南岸区",
+        "areaName": " 南岸区南坪街道南城丽居B栋（4—18楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南岸区",
+        "areaName": "南岸区机电一支路6号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南岸区",
+        "areaName": "南岸区天文街道城南家园6组团2栋3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "秀山县",
+        "areaName": "秀山大酒店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "秀山县",
+        "areaName": "中和街道宜景花园18栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "虎溪街道富力城院士廷3B组团（大学城北路51号）8栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "虎溪街道新壹站公寓（景阳路37号）B3栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": "回龙坝镇聚龙城66区5栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": "童家桥街道壮志路33号兰苑9栋",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "tianjin",
@@ -18822,9 +18920,9 @@
     "provinceName": "江苏省",
     "provinceShortName": "江苏",
     "currentConfirmedCount": 95,
-    "confirmedCount": 2598,
+    "confirmedCount": 2605,
     "suspectedCount": 3,
-    "curedCount": 2503,
+    "curedCount": 2510,
     "deadCount": 0,
     "comment": "",
     "locationId": 320000,
@@ -18836,23 +18934,23 @@
     "cities": [
       {
         "cityName": "南京",
-        "currentConfirmedCount": 90,
-        "confirmedCount": 485,
+        "currentConfirmedCount": 92,
+        "confirmedCount": 487,
         "suspectedCount": 0,
         "curedCount": 395,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 11,
         "locationId": 320100,
-        "currentConfirmedCountStr": "90",
+        "currentConfirmedCountStr": "92",
         "fullCityName": "南京市"
       },
       {
         "cityName": "境外输入",
         "currentConfirmedCount": 36,
-        "confirmedCount": 411,
+        "confirmedCount": 416,
         "suspectedCount": 1,
-        "curedCount": 375,
+        "curedCount": 380,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
@@ -19018,15 +19116,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -66,
+        "currentConfirmedCount": -68,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 66,
+        "curedCount": 68,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-66",
+        "currentConfirmedCountStr": "-68",
         "fullCityName": "待明确地区"
       }
     ],
@@ -19703,10 +19801,10 @@
     "name": "西藏",
     "provinceName": "西藏自治区",
     "provinceShortName": "西藏",
-    "currentConfirmedCount": 86,
-    "confirmedCount": 1453,
+    "currentConfirmedCount": 85,
+    "confirmedCount": 1454,
     "suspectedCount": 0,
-    "curedCount": 1367,
+    "curedCount": 1369,
     "deadCount": 0,
     "comment": "",
     "locationId": 540000,
@@ -19718,15 +19816,15 @@
     "cities": [
       {
         "cityName": "拉萨",
-        "currentConfirmedCount": 731,
-        "confirmedCount": 768,
+        "currentConfirmedCount": 732,
+        "confirmedCount": 769,
         "suspectedCount": 0,
         "curedCount": 37,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 540100,
-        "currentConfirmedCountStr": "731",
+        "currentConfirmedCountStr": "732",
         "fullCityName": "拉萨市"
       },
       {
@@ -19809,29 +19907,574 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -985,
+        "currentConfirmedCount": -987,
         "confirmedCount": 8,
         "suspectedCount": 0,
-        "curedCount": 993,
+        "curedCount": 995,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-985",
+        "currentConfirmedCountStr": "-987",
         "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": []
   },
   {
+    "pinyin": "hunan",
+    "name": "湖南",
+    "provinceName": "湖南省",
+    "provinceShortName": "湖南",
+    "currentConfirmedCount": 80,
+    "confirmedCount": 1582,
+    "suspectedCount": 2,
+    "curedCount": 1498,
+    "deadCount": 4,
+    "comment": "",
+    "locationId": 430000,
+    "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
+    "highDangerCount": 28,
+    "midDangerCount": 35,
+    "detectOrgCount": 286,
+    "vaccinationOrgCount": 65,
+    "cities": [
+      {
+        "cityName": "邵阳",
+        "currentConfirmedCount": 41,
+        "confirmedCount": 195,
+        "suspectedCount": 0,
+        "curedCount": 153,
+        "deadCount": 1,
+        "highDangerCount": 20,
+        "midDangerCount": 12,
+        "locationId": 430500,
+        "currentConfirmedCountStr": "41",
+        "fullCityName": "邵阳市"
+      },
+      {
+        "cityName": "衡阳",
+        "currentConfirmedCount": 26,
+        "confirmedCount": 79,
+        "suspectedCount": 0,
+        "curedCount": 53,
+        "deadCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 7,
+        "locationId": 430400,
+        "currentConfirmedCountStr": "26",
+        "fullCityName": "衡阳市"
+      },
+      {
+        "cityName": "岳阳",
+        "currentConfirmedCount": 19,
+        "confirmedCount": 178,
+        "suspectedCount": 0,
+        "curedCount": 158,
+        "deadCount": 1,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
+        "locationId": 430600,
+        "currentConfirmedCountStr": "19",
+        "fullCityName": "岳阳市"
+      },
+      {
+        "cityName": "湘西自治州",
+        "currentConfirmedCount": 15,
+        "confirmedCount": 28,
+        "suspectedCount": 0,
+        "curedCount": 13,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 433100,
+        "currentConfirmedCountStr": "15",
+        "fullCityName": "湘西土家族苗族自治州"
+      },
+      {
+        "cityName": "怀化",
+        "currentConfirmedCount": 13,
+        "confirmedCount": 78,
+        "suspectedCount": 0,
+        "curedCount": 65,
+        "deadCount": 0,
+        "highDangerCount": 5,
+        "midDangerCount": 12,
+        "locationId": 431200,
+        "currentConfirmedCountStr": "13",
+        "fullCityName": "怀化市"
+      },
+      {
+        "cityName": "长沙",
+        "currentConfirmedCount": 12,
+        "confirmedCount": 286,
+        "suspectedCount": 0,
+        "curedCount": 272,
+        "deadCount": 2,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 430100,
+        "currentConfirmedCountStr": "12",
+        "fullCityName": "长沙市"
+      },
+      {
+        "cityName": "娄底",
+        "currentConfirmedCount": 12,
+        "confirmedCount": 94,
+        "suspectedCount": 0,
+        "curedCount": 82,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 431300,
+        "currentConfirmedCountStr": "12",
+        "fullCityName": "娄底市"
+      },
+      {
+        "cityName": "永州",
+        "currentConfirmedCount": 12,
+        "confirmedCount": 57,
+        "suspectedCount": 0,
+        "curedCount": 45,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 1,
+        "locationId": 431100,
+        "currentConfirmedCountStr": "12",
+        "fullCityName": "永州市"
+      },
+      {
+        "cityName": "益阳",
+        "currentConfirmedCount": 10,
+        "confirmedCount": 75,
+        "suspectedCount": 0,
+        "curedCount": 65,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 430900,
+        "currentConfirmedCountStr": "10",
+        "fullCityName": "益阳市"
+      },
+      {
+        "cityName": "张家界",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 81,
+        "suspectedCount": 0,
+        "curedCount": 77,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 430800,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "张家界市"
+      },
+      {
+        "cityName": "郴州",
+        "currentConfirmedCount": 3,
+        "confirmedCount": 43,
+        "suspectedCount": 0,
+        "curedCount": 40,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 431000,
+        "currentConfirmedCountStr": "3",
+        "fullCityName": "郴州市"
+      },
+      {
+        "cityName": "湘潭",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 43,
+        "suspectedCount": 0,
+        "curedCount": 41,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 430300,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "湘潭市"
+      },
+      {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 153,
+        "suspectedCount": 2,
+        "curedCount": 153,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "境外输入"
+      },
+      {
+        "cityName": "株洲",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 110,
+        "suspectedCount": 0,
+        "curedCount": 110,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 430200,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "株洲市"
+      },
+      {
+        "cityName": "常德",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 82,
+        "suspectedCount": 0,
+        "curedCount": 82,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
+        "locationId": 430700,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "常德市"
+      },
+      {
+        "cityName": "待明确地区",
+        "currentConfirmedCount": -89,
+        "confirmedCount": 0,
+        "suspectedCount": 0,
+        "curedCount": 89,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "-89",
+        "fullCityName": "待明确地区"
+      }
+    ],
+    "dangerAreas": [
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县白仓镇千秋村毛沙片5组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县白仓镇四丰路运河烟酒商行所在楼栋、观竹村1组、水津村3组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县河伯乡源头村12组22号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县黄荆乡青山村九组、青山村白马片六组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县九公桥镇黎什村七组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇大岭社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇大木山社区建材城20栋2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇凤凰社区：文旅广体局办公楼、老检察院宿舍、老司法局家属楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇桂竹山社区：卖冲龙小区、河西街万宝路108号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇红石社区：天使宝贝幼儿园所在楼栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇双合社区：何家巷B区、老法院家属区、电信局家属区、交通运输管理局、陡水洞岳子岭小区、陡水洞财政局家属区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇沙坪社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇石湾社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇石子江村2组46号，桂竹山社区英子理发店至无限极工作室，桂竹山社区原氮肥厂旁加油站后住宅楼，桂竹山社区河西街欧派门业店、爆护渔具店两栋，桂竹山社区河西街10号1、2单位，桂竹山社区桂西路5号，桂竹山社区桂东路61号，石虎村5组24号，桂竹山社区万保村4组11号，双合社区白虎街老卫校后门旁第四号门，双合社区梨山巷D区9栋，原种场芙蓉学府工地生活区；",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇峡山社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇霞塘云村26组，双河村1组，霞塘云卫生院，塘坪村12组，蔡山团村双河片，蔡山团村朝阳片区8、9、12、13组，真如庵村11组，黄塘村大竹组，梅子院村李园里片",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇向阳村6组、向阳村2组、楠木村楠木林场小区9栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县五丰铺镇田心路252号～316号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县下花桥镇岩门村台上组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县小溪市乡河沿村磨举岭、子背冲、哑吧塘、背里沙",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区电业新村14栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区河西街道怀化经济开发区创新创业园",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区天星华府二期5栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区坨院街道澳海澜庭小区40栋、8栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区舞水龙城3栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "城基巷43号区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "石鼓区潇湘街道桑园街7号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "岳阳",
+        "areaName": "大荆加油站斜对面100米范围内居民区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区北环路天信摩托车年检点",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区电业新村小区除高风险区域外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区怀化绿色货运分拨配送中心",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区怀仁母婴生活馆（健康城店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区河西街道花背村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区河西街道李公湾劳保百货用品店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区河西街道武陵山装饰建材市场1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区天星华府二期小区除高风险区域外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区坨院街道澳海澜庭小区除高风险以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区舞水龙城小区除高风险区域外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区迎丰东路59号（摩托车电动车维修小张车行）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区迎丰街道华峰家园小区6栋2单元、9栋3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县白仓镇观竹村、水津村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县白仓镇千秋村毛沙片",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县河伯乡源头村12组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县黄荆乡青山村除高风险区以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇凤凰社区除高风险外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇红石社区除高风险外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇石虎村5组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇双合社区除高风险外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇石子江村1、2、3组，桂竹山社区工具总厂、原氮肥厂、河西街、桂西路、桂东路粮站、老房产局家属院子、万宝村3、4、7组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县塘渡口镇向阳村、楠木村、霞塘云村、塘坪村、蔡山团村、真如庵村、黄塘村、梅子院村，除高风险区以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "邵阳县小溪市乡河沿村9组、10组、21组、拖洲片",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇桂竹山社区除高风险外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "城基巷43号区域巷道",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "常宁市水口山镇山水苑小区第13、14、17、18 栋区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "界牌片区南阳村柏树组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "明星村东山垅组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "石鼓区潇湘街道桑园街3、11、13、15号区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "石市镇石湾组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "石市镇珍珠村力山塘组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "常德",
+        "areaName": "澧县澧西街道吉美酒店整栋楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "常德",
+        "areaName": "澧县澧阳街道富三和足浴二店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "岳阳",
+        "areaName": "大荆镇大荆村4组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
+        "areaName": "冷水滩区沿江西路20-1、20-2号",
+        "dangerLevel": 2
+      }
+    ]
+  },
+  {
     "pinyin": "liaoning",
     "name": "辽宁",
     "provinceName": "辽宁省",
     "provinceShortName": "辽宁",
-    "currentConfirmedCount": 77,
+    "currentConfirmedCount": 70,
     "confirmedCount": 2020,
     "suspectedCount": 0,
-    "curedCount": 1941,
+    "curedCount": 1948,
     "deadCount": 2,
     "comment": "",
     "locationId": 210000,
@@ -20038,15 +20681,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -136,
+        "currentConfirmedCount": -143,
         "confirmedCount": 13,
         "suspectedCount": 0,
-        "curedCount": 149,
+        "curedCount": 156,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-136",
+        "currentConfirmedCountStr": "-143",
         "fullCityName": "待明确地区"
       }
     ],
@@ -20299,559 +20942,14 @@
     ]
   },
   {
-    "pinyin": "hunan",
-    "name": "湖南",
-    "provinceName": "湖南省",
-    "provinceShortName": "湖南",
-    "currentConfirmedCount": 74,
-    "confirmedCount": 1572,
-    "suspectedCount": 2,
-    "curedCount": 1494,
-    "deadCount": 4,
-    "comment": "",
-    "locationId": 430000,
-    "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
-    "highDangerCount": 28,
-    "midDangerCount": 35,
-    "detectOrgCount": 286,
-    "vaccinationOrgCount": 65,
-    "cities": [
-      {
-        "cityName": "邵阳",
-        "currentConfirmedCount": 36,
-        "confirmedCount": 190,
-        "suspectedCount": 0,
-        "curedCount": 153,
-        "deadCount": 1,
-        "highDangerCount": 20,
-        "midDangerCount": 12,
-        "locationId": 430500,
-        "currentConfirmedCountStr": "36",
-        "fullCityName": "邵阳市"
-      },
-      {
-        "cityName": "衡阳",
-        "currentConfirmedCount": 25,
-        "confirmedCount": 78,
-        "suspectedCount": 0,
-        "curedCount": 53,
-        "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 7,
-        "locationId": 430400,
-        "currentConfirmedCountStr": "25",
-        "fullCityName": "衡阳市"
-      },
-      {
-        "cityName": "岳阳",
-        "currentConfirmedCount": 19,
-        "confirmedCount": 178,
-        "suspectedCount": 0,
-        "curedCount": 158,
-        "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 1,
-        "locationId": 430600,
-        "currentConfirmedCountStr": "19",
-        "fullCityName": "岳阳市"
-      },
-      {
-        "cityName": "湘西自治州",
-        "currentConfirmedCount": 15,
-        "confirmedCount": 28,
-        "suspectedCount": 0,
-        "curedCount": 13,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 433100,
-        "currentConfirmedCountStr": "15",
-        "fullCityName": "湘西土家族苗族自治州"
-      },
-      {
-        "cityName": "娄底",
-        "currentConfirmedCount": 12,
-        "confirmedCount": 94,
-        "suspectedCount": 0,
-        "curedCount": 82,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 431300,
-        "currentConfirmedCountStr": "12",
-        "fullCityName": "娄底市"
-      },
-      {
-        "cityName": "永州",
-        "currentConfirmedCount": 12,
-        "confirmedCount": 57,
-        "suspectedCount": 0,
-        "curedCount": 45,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 1,
-        "locationId": 431100,
-        "currentConfirmedCountStr": "12",
-        "fullCityName": "永州市"
-      },
-      {
-        "cityName": "长沙",
-        "currentConfirmedCount": 11,
-        "confirmedCount": 285,
-        "suspectedCount": 0,
-        "curedCount": 272,
-        "deadCount": 2,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 430100,
-        "currentConfirmedCountStr": "11",
-        "fullCityName": "长沙市"
-      },
-      {
-        "cityName": "益阳",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 75,
-        "suspectedCount": 0,
-        "curedCount": 65,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 430900,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "益阳市"
-      },
-      {
-        "cityName": "怀化",
-        "currentConfirmedCount": 10,
-        "confirmedCount": 75,
-        "suspectedCount": 0,
-        "curedCount": 65,
-        "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 12,
-        "locationId": 431200,
-        "currentConfirmedCountStr": "10",
-        "fullCityName": "怀化市"
-      },
-      {
-        "cityName": "张家界",
-        "currentConfirmedCount": 4,
-        "confirmedCount": 81,
-        "suspectedCount": 0,
-        "curedCount": 77,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 430800,
-        "currentConfirmedCountStr": "4",
-        "fullCityName": "张家界市"
-      },
-      {
-        "cityName": "郴州",
-        "currentConfirmedCount": 3,
-        "confirmedCount": 43,
-        "suspectedCount": 0,
-        "curedCount": 40,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 431000,
-        "currentConfirmedCountStr": "3",
-        "fullCityName": "郴州市"
-      },
-      {
-        "cityName": "湘潭",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 43,
-        "suspectedCount": 0,
-        "curedCount": 41,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 430300,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "湘潭市"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 153,
-        "suspectedCount": 2,
-        "curedCount": 153,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "境外输入"
-      },
-      {
-        "cityName": "株洲",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 110,
-        "suspectedCount": 0,
-        "curedCount": 110,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 430200,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "株洲市"
-      },
-      {
-        "cityName": "常德",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 82,
-        "suspectedCount": 0,
-        "curedCount": 82,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 2,
-        "locationId": 430700,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "常德市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -85,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 85,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "-85",
-        "fullCityName": "待明确地区"
-      }
-    ],
-    "dangerAreas": [
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县白仓镇千秋村毛沙片5组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县白仓镇四丰路运河烟酒商行所在楼栋、观竹村1组、水津村3组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县河伯乡源头村12组22号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县黄荆乡青山村九组、青山村白马片六组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县九公桥镇黎什村七组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇大岭社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇大木山社区建材城20栋2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇凤凰社区：文旅广体局办公楼、老检察院宿舍、老司法局家属楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇桂竹山社区：卖冲龙小区、河西街万宝路108号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇红石社区：天使宝贝幼儿园所在楼栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇双合社区：何家巷B区、老法院家属区、电信局家属区、交通运输管理局、陡水洞岳子岭小区、陡水洞财政局家属区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇沙坪社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇石湾社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇石子江村2组46号，桂竹山社区英子理发店至无限极工作室，桂竹山社区原氮肥厂旁加油站后住宅楼，桂竹山社区河西街欧派门业店、爆护渔具店两栋，桂竹山社区河西街10号1、2单位，桂竹山社区桂西路5号，桂竹山社区桂东路61号，石虎村5组24号，桂竹山社区万保村4组11号，双合社区白虎街老卫校后门旁第四号门，双合社区梨山巷D区9栋，原种场芙蓉学府工地生活区；",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇峡山社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇霞塘云村26组，双河村1组，霞塘云卫生院，塘坪村12组，蔡山团村双河片，蔡山团村朝阳片区8、9、12、13组，真如庵村11组，黄塘村大竹组，梅子院村李园里片",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇向阳村6组、向阳村2组、楠木村楠木林场小区9栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县五丰铺镇田心路252号～316号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县下花桥镇岩门村台上组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县小溪市乡河沿村磨举岭、子背冲、哑吧塘、背里沙",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区电业新村14栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区河西街道怀化经济开发区创新创业园",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区天星华府二期5栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区坨院街道澳海澜庭小区40栋、8栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区舞水龙城3栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "城基巷43号区域",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "石鼓区潇湘街道桑园街7号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "岳阳",
-        "areaName": "大荆加油站斜对面100米范围内居民区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县白仓镇观竹村、水津村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县白仓镇千秋村毛沙片",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县河伯乡源头村12组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县黄荆乡青山村除高风险区以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇凤凰社区除高风险外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇红石社区除高风险外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇石虎村5组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇双合社区除高风险外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇石子江村1、2、3组，桂竹山社区工具总厂、原氮肥厂、河西街、桂西路、桂东路粮站、老房产局家属院子、万宝村3、4、7组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县塘渡口镇向阳村、楠木村、霞塘云村、塘坪村、蔡山团村、真如庵村、黄塘村、梅子院村，除高风险区以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "邵阳县小溪市乡河沿村9组、10组、21组、拖洲片",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "邵阳",
-        "areaName": "塘渡口镇桂竹山社区除高风险外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区北环路天信摩托车年检点",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区电业新村小区除高风险区域外的区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区怀化绿色货运分拨配送中心",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区怀仁母婴生活馆（健康城店）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区河西街道花背村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区河西街道李公湾劳保百货用品店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区河西街道武陵山装饰建材市场1栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区天星华府二期小区除高风险区域外的区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区坨院街道澳海澜庭小区除高风险以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区舞水龙城小区除高风险区域外的区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区迎丰东路59号（摩托车电动车维修小张车行）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "怀化",
-        "areaName": "鹤城区迎丰街道华峰家园小区6栋2单元、9栋3单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "城基巷43号区域巷道",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "常宁市水口山镇山水苑小区第13、14、17、18 栋区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "界牌片区南阳村柏树组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "明星村东山垅组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "石鼓区潇湘街道桑园街3、11、13、15号区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "石市镇石湾组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "衡阳",
-        "areaName": "石市镇珍珠村力山塘组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "常德",
-        "areaName": "澧县澧西街道吉美酒店整栋楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "常德",
-        "areaName": "澧县澧阳街道富三和足浴二店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "岳阳",
-        "areaName": "大荆镇大荆村4组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "冷水滩区沿江西路20-1、20-2号",
-        "dangerLevel": 2
-      }
-    ]
-  },
-  {
     "pinyin": "heilongjiang",
     "name": "黑龙江",
     "provinceName": "黑龙江省",
     "provinceShortName": "黑龙江",
-    "currentConfirmedCount": 58,
+    "currentConfirmedCount": 56,
     "confirmedCount": 3468,
     "suspectedCount": 430,
-    "curedCount": 3397,
+    "curedCount": 3399,
     "deadCount": 13,
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
@@ -20863,28 +20961,28 @@
     "cities": [
       {
         "cityName": "哈尔滨",
-        "currentConfirmedCount": 54,
+        "currentConfirmedCount": 53,
         "confirmedCount": 1494,
         "suspectedCount": 8,
-        "curedCount": 1436,
+        "curedCount": 1437,
         "deadCount": 4,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 230100,
-        "currentConfirmedCountStr": "54",
+        "currentConfirmedCountStr": "53",
         "fullCityName": "哈尔滨市"
       },
       {
         "cityName": "绥化",
-        "currentConfirmedCount": 3,
+        "currentConfirmedCount": 2,
         "confirmedCount": 549,
         "suspectedCount": 0,
-        "curedCount": 542,
+        "curedCount": 543,
         "deadCount": 4,
         "highDangerCount": 3,
         "midDangerCount": 16,
         "locationId": 231200,
-        "currentConfirmedCountStr": "3",
+        "currentConfirmedCountStr": "2",
         "fullCityName": "绥化市"
       },
       {
@@ -21231,16 +21329,16 @@
     "name": "上海",
     "provinceName": "上海市",
     "provinceShortName": "上海",
-    "currentConfirmedCount": 41,
-    "confirmedCount": 64248,
+    "currentConfirmedCount": 39,
+    "confirmedCount": 64253,
     "suspectedCount": 393,
-    "curedCount": 63612,
+    "curedCount": 63619,
     "deadCount": 595,
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 25,
+    "midDangerCount": 20,
     "detectOrgCount": 130,
     "vaccinationOrgCount": 17,
     "cities": [
@@ -21252,7 +21350,7 @@
         "curedCount": 16737,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 310115,
         "currentConfirmedCountStr": "432",
         "fullCityName": "浦东新区"
@@ -21317,7 +21415,7 @@
         "curedCount": 3113,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 5,
+        "midDangerCount": 4,
         "locationId": 310106,
         "currentConfirmedCountStr": "151",
         "fullCityName": "静安区"
@@ -21330,7 +21428,7 @@
         "curedCount": 2282,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 6,
+        "midDangerCount": 5,
         "locationId": 310110,
         "currentConfirmedCountStr": "126",
         "fullCityName": "杨浦区"
@@ -21343,7 +21441,7 @@
         "curedCount": 3068,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 2,
         "locationId": 310113,
         "currentConfirmedCountStr": "89",
         "fullCityName": "宝山区"
@@ -21363,15 +21461,15 @@
       },
       {
         "cityName": "境外输入",
-        "currentConfirmedCount": 24,
-        "confirmedCount": 5515,
+        "currentConfirmedCount": 27,
+        "confirmedCount": 5520,
         "suspectedCount": 8,
-        "curedCount": 5491,
+        "curedCount": 5493,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "24",
+        "currentConfirmedCountStr": "27",
         "fullCityName": "境外输入"
       },
       {
@@ -21493,15 +21591,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1578,
+        "currentConfirmedCount": -1583,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 990,
+        "curedCount": 995,
         "deadCount": 588,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1578",
+        "currentConfirmedCountStr": "-1583",
         "fullCityName": "待明确地区"
       }
     ],
@@ -21514,11 +21612,6 @@
       {
         "cityName": "杨浦区",
         "areaName": "江浦路街道长阳路1199号所在楼栋（包括沿街商铺）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "杨浦区",
-        "areaName": "控江路街道控江六村及其沿街商铺",
         "dangerLevel": 2
       },
       {
@@ -21543,11 +21636,6 @@
       },
       {
         "cityName": "静安区",
-        "areaName": "大宁路街道广延路1199弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "静安区",
         "areaName": "江宁路街道陕西北路1159号-1179号（单号）",
         "dangerLevel": 2
       },
@@ -21559,21 +21647,6 @@
       {
         "cityName": "静安区",
         "areaName": "芷江西路街道中山北路814弄",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "大场镇真大路358弄欧泊花郡小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "高境镇岭南家园（含周边临街商铺）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "宝山区",
-        "areaName": "淞南镇江杨南路2058号",
         "dangerLevel": 2
       },
       {
@@ -21602,16 +21675,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "浦东新区",
-        "areaName": "沪东新村街道朱家门小区（五莲路201弄、浦东大道2970弄、利津路158 弄、莱阳路451弄）及沿街商铺",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "浦东新区",
-        "areaName": "浦兴路街道金桥湾清水苑（长岛路1280弄、台儿庄路363弄、荷泽路828弄）及沿街商铺",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "闵行区",
         "areaName": "古美路街道平阳路50弄",
         "dangerLevel": 2
@@ -21619,6 +21682,16 @@
       {
         "cityName": "闵行区",
         "areaName": "莘庄镇莘东路100号自由公寓",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "高境镇岭南家园（含周边临街商铺）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "宝山区",
+        "areaName": "淞南镇江杨南路2058号",
         "dangerLevel": 2
       },
       {
@@ -21638,10 +21711,10 @@
     "name": "山东",
     "provinceName": "山东省",
     "provinceShortName": "山东",
-    "currentConfirmedCount": 29,
-    "confirmedCount": 3157,
+    "currentConfirmedCount": 28,
+    "confirmedCount": 3160,
     "suspectedCount": 14,
-    "curedCount": 3121,
+    "curedCount": 3125,
     "deadCount": 7,
     "comment": "",
     "locationId": 370000,
@@ -21654,9 +21727,9 @@
       {
         "cityName": "境外输入",
         "currentConfirmedCount": 11,
-        "confirmedCount": 633,
+        "confirmedCount": 635,
         "suspectedCount": 1,
-        "curedCount": 622,
+        "curedCount": 624,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
@@ -21691,17 +21764,17 @@
         "fullCityName": "泰安市"
       },
       {
-        "cityName": "滨州",
+        "cityName": "枣庄",
         "currentConfirmedCount": 2,
-        "confirmedCount": 219,
+        "confirmedCount": 35,
         "suspectedCount": 0,
-        "curedCount": 217,
+        "curedCount": 33,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 371600,
+        "highDangerCount": 2,
+        "midDangerCount": 2,
+        "locationId": 370400,
         "currentConfirmedCountStr": "2",
-        "fullCityName": "滨州市"
+        "fullCityName": "枣庄市"
       },
       {
         "cityName": "济宁",
@@ -21717,17 +21790,17 @@
         "fullCityName": "济宁市"
       },
       {
-        "cityName": "德州",
+        "cityName": "滨州",
         "currentConfirmedCount": 1,
-        "confirmedCount": 119,
+        "confirmedCount": 219,
         "suspectedCount": 0,
-        "curedCount": 116,
-        "deadCount": 2,
-        "highDangerCount": 2,
+        "curedCount": 218,
+        "deadCount": 0,
+        "highDangerCount": 0,
         "midDangerCount": 0,
-        "locationId": 371400,
+        "locationId": 371600,
         "currentConfirmedCountStr": "1",
-        "fullCityName": "德州市"
+        "fullCityName": "滨州市"
       },
       {
         "cityName": "临沂",
@@ -21743,19 +21816,6 @@
         "fullCityName": "临沂市"
       },
       {
-        "cityName": "枣庄",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 34,
-        "suspectedCount": 0,
-        "curedCount": 33,
-        "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 2,
-        "locationId": 370400,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "枣庄市"
-      },
-      {
         "cityName": "青岛",
         "currentConfirmedCount": 0,
         "confirmedCount": 1122,
@@ -21767,6 +21827,19 @@
         "locationId": 370200,
         "currentConfirmedCountStr": "0",
         "fullCityName": "青岛市"
+      },
+      {
+        "cityName": "德州",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 119,
+        "suspectedCount": 0,
+        "curedCount": 117,
+        "deadCount": 2,
+        "highDangerCount": 2,
+        "midDangerCount": 0,
+        "locationId": 371400,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "德州市"
       },
       {
         "cityName": "威海",
@@ -22075,16 +22148,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "日照",
-        "areaName": "莒县城阳街道锦苑华庭小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "日照",
-        "areaName": "莒县阎庄街道锦泰家园社区魏家村小区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "济宁",
         "areaName": "嘉祥县仲山镇李山村",
         "dangerLevel": 2
@@ -22092,6 +22155,16 @@
       {
         "cityName": "济宁",
         "areaName": "嘉祥县仲山镇杨楼村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "日照",
+        "areaName": "莒县城阳街道锦苑华庭小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "日照",
+        "areaName": "莒县阎庄街道锦泰家园社区魏家村小区",
         "dangerLevel": 2
       },
       {
@@ -22106,10 +22179,10 @@
     "name": "贵州",
     "provinceName": "贵州省",
     "provinceShortName": "贵州",
-    "currentConfirmedCount": 26,
+    "currentConfirmedCount": 24,
     "confirmedCount": 944,
     "suspectedCount": 0,
-    "curedCount": 916,
+    "curedCount": 918,
     "deadCount": 2,
     "comment": "3 月 17 日贵阳市新增 1 例境外输入无症状感染者",
     "locationId": 520000,
@@ -22121,15 +22194,15 @@
     "cities": [
       {
         "cityName": "毕节",
-        "currentConfirmedCount": 18,
+        "currentConfirmedCount": 16,
         "confirmedCount": 521,
         "suspectedCount": 0,
-        "curedCount": 503,
+        "curedCount": 505,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 8,
         "locationId": 520500,
-        "currentConfirmedCountStr": "18",
+        "currentConfirmedCountStr": "16",
         "fullCityName": "毕节市"
       },
       {
@@ -22772,10 +22845,10 @@
     "name": "广西",
     "provinceName": "广西壮族自治区",
     "provinceShortName": "广西",
-    "currentConfirmedCount": 12,
+    "currentConfirmedCount": 11,
     "confirmedCount": 2346,
     "suspectedCount": 0,
-    "curedCount": 2332,
+    "curedCount": 2333,
     "deadCount": 2,
     "comment": "",
     "locationId": 450000,
@@ -22825,19 +22898,6 @@
         "fullCityName": "贵港市"
       },
       {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 1037,
-        "suspectedCount": 0,
-        "curedCount": 1036,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "境外输入"
-      },
-      {
         "cityName": "桂林",
         "currentConfirmedCount": 1,
         "confirmedCount": 35,
@@ -22862,6 +22922,19 @@
         "locationId": 451200,
         "currentConfirmedCountStr": "1",
         "fullCityName": "河池市"
+      },
+      {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 1037,
+        "suspectedCount": 0,
+        "curedCount": 1037,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "境外输入"
       },
       {
         "cityName": "北海",
@@ -23001,8 +23074,8 @@
     "name": "湖北",
     "provinceName": "湖北省",
     "provinceShortName": "湖北",
-    "currentConfirmedCount": 7,
-    "confirmedCount": 68437,
+    "currentConfirmedCount": 8,
+    "confirmedCount": 68438,
     "suspectedCount": 25,
     "curedCount": 63918,
     "deadCount": 4512,
@@ -23028,6 +23101,19 @@
         "fullCityName": "襄阳市"
       },
       {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 137,
+        "suspectedCount": 25,
+        "curedCount": 135,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "境外输入"
+      },
+      {
         "cityName": "黄石",
         "currentConfirmedCount": 1,
         "confirmedCount": 1016,
@@ -23039,19 +23125,6 @@
         "locationId": 420200,
         "currentConfirmedCountStr": "1",
         "fullCityName": "黄石市"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 1,
-        "confirmedCount": 136,
-        "suspectedCount": 25,
-        "curedCount": 135,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "1",
-        "fullCityName": "境外输入"
       },
       {
         "cityName": "武汉",
@@ -23256,8 +23329,8 @@
     "name": "安徽",
     "provinceName": "安徽省",
     "provinceShortName": "安徽",
-    "currentConfirmedCount": 3,
-    "confirmedCount": 1514,
+    "currentConfirmedCount": 8,
+    "confirmedCount": 1519,
     "suspectedCount": 2,
     "curedCount": 1505,
     "deadCount": 6,
@@ -23269,6 +23342,19 @@
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
+      {
+        "cityName": "合肥",
+        "currentConfirmedCount": 5,
+        "confirmedCount": 183,
+        "suspectedCount": 0,
+        "curedCount": 177,
+        "deadCount": 1,
+        "highDangerCount": 1,
+        "midDangerCount": 9,
+        "locationId": 340100,
+        "currentConfirmedCountStr": "5",
+        "fullCityName": "合肥市"
+      },
       {
         "cityName": "阜阳",
         "currentConfirmedCount": 3,
@@ -23307,19 +23393,6 @@
         "locationId": 340300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "蚌埠市"
-      },
-      {
-        "cityName": "合肥",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 178,
-        "suspectedCount": 0,
-        "curedCount": 177,
-        "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 9,
-        "locationId": 340100,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "合肥市"
       },
       {
         "cityName": "亳州",
@@ -23554,16 +23627,16 @@
     "name": "宁夏",
     "provinceName": "宁夏回族自治区",
     "provinceShortName": "宁夏",
-    "currentConfirmedCount": 3,
+    "currentConfirmedCount": 2,
     "confirmedCount": 215,
     "suspectedCount": 0,
-    "curedCount": 212,
+    "curedCount": 213,
     "deadCount": 0,
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 47,
-    "midDangerCount": 103,
+    "highDangerCount": 48,
+    "midDangerCount": 105,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
     "cities": [
@@ -23587,8 +23660,8 @@
         "suspectedCount": 0,
         "curedCount": 72,
         "deadCount": 0,
-        "highDangerCount": 30,
-        "midDangerCount": 70,
+        "highDangerCount": 31,
+        "midDangerCount": 72,
         "locationId": 640100,
         "currentConfirmedCountStr": "17",
         "fullCityName": "银川市"
@@ -23647,15 +23720,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -90,
+        "currentConfirmedCount": -91,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 90,
+        "curedCount": 91,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-90",
+        "currentConfirmedCountStr": "-91",
         "fullCityName": "待明确地区"
       }
     ],
@@ -23713,6 +23786,11 @@
       {
         "cityName": "银川",
         "areaName": "金贵镇雄英村温棚园区A区北",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "银川",
+        "areaName": "望远大道（望丰巷以北、双庆路以南）沿街营业房",
         "dangerLevel": 1
       },
       {
@@ -23998,6 +24076,16 @@
       {
         "cityName": "银川",
         "areaName": "茉莉四季酒店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "银川",
+        "areaName": "宁安苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "银川",
+        "areaName": "宁安镇丽景豪城A区",
         "dangerLevel": 2
       },
       {
@@ -24781,16 +24869,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "雄安新区",
-        "areaName": "安新县安新镇小西街村片区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "雄安新区",
-        "areaName": "安新县刘李庄镇大马庄村片区",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "秦皇岛",
         "areaName": "海港区柳村二场行车公寓所在院区",
         "dangerLevel": 1
@@ -24798,6 +24876,16 @@
       {
         "cityName": "秦皇岛",
         "areaName": "开发区西区深河家园（东区）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "雄安新区",
+        "areaName": "安新县安新镇小西街村片区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "雄安新区",
+        "areaName": "安新县刘李庄镇大马庄村片区",
         "dangerLevel": 1
       },
       {
@@ -25680,8 +25768,8 @@
     "comment": "",
     "locationId": 630000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/581/3398299758115524121-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 12,
+    "highDangerCount": 14,
+    "midDangerCount": 15,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -25692,8 +25780,8 @@
         "suspectedCount": 0,
         "curedCount": 114,
         "deadCount": 0,
-        "highDangerCount": 8,
-        "midDangerCount": 10,
+        "highDangerCount": 13,
+        "midDangerCount": 13,
         "locationId": 630100,
         "currentConfirmedCountStr": "0",
         "fullCityName": "西宁市"
@@ -25832,6 +25920,31 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "西宁",
+        "areaName": "城中区红十字医院家属院（南大街55号）5号楼、9号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区合作巷2号宏园二区12号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区莫家街金座碧城一号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区南川东路85号院37号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区青海省红十字医院",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "海东",
         "areaName": "平安区 西宁机场三期项目办公区及生活区",
         "dangerLevel": 1
@@ -25879,6 +25992,21 @@
       {
         "cityName": "西宁",
         "areaName": "城中区福禄巷15号省公路局家属院1—9号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区红十字医院家属院（南大街55号）5号楼、9号楼以外楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区宏园二区12号楼以外楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "城中区南川东路85号院34、35、36、38号楼",
         "dangerLevel": 2
       },
       {
