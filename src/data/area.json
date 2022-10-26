@@ -59,15 +59,15 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 296,
+        "currentConfirmedCount": 281,
         "confirmedCount": 4109,
         "suspectedCount": 3,
-        "curedCount": 3812,
+        "curedCount": 3827,
         "deadCount": 1,
         "highDangerCount": 55,
         "midDangerCount": 62,
         "locationId": 440100,
-        "currentConfirmedCountStr": "296",
+        "currentConfirmedCountStr": "281",
         "fullCityName": "广州市"
       },
       {
@@ -98,15 +98,15 @@
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 152,
+        "currentConfirmedCount": 127,
         "confirmedCount": 4235,
         "suspectedCount": 3,
-        "curedCount": 4080,
+        "curedCount": 4105,
         "deadCount": 3,
         "highDangerCount": 7,
         "midDangerCount": 19,
         "locationId": 440300,
-        "currentConfirmedCountStr": "152",
+        "currentConfirmedCountStr": "127",
         "fullCityName": "深圳市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -720,
+        "currentConfirmedCount": -680,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 720,
+        "curedCount": 680,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-720",
+        "currentConfirmedCountStr": "-680",
         "fullCityName": "待明确地区"
       }
     ],
@@ -1336,7 +1336,7 @@
     "locationId": 140000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
     "highDangerCount": 112,
-    "midDangerCount": 65,
+    "midDangerCount": 66,
     "detectOrgCount": 183,
     "vaccinationOrgCount": 70,
     "cities": [
@@ -1426,7 +1426,7 @@
         "curedCount": 101,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 140700,
         "currentConfirmedCountStr": "7",
         "fullCityName": "晋中市"
@@ -2382,6 +2382,11 @@
         "cityName": "临汾",
         "areaName": "尧都区经济开发区滨河办事处后楼底社区玉秀湾小区",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "晋中",
+        "areaName": "榆次区使赵村",
+        "dangerLevel": 2
       }
     ]
   },
@@ -2398,8 +2403,8 @@
     "comment": "",
     "locationId": 150000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-    "highDangerCount": 319,
-    "midDangerCount": 318,
+    "highDangerCount": 320,
+    "midDangerCount": 321,
     "detectOrgCount": 248,
     "vaccinationOrgCount": 9,
     "cities": [
@@ -2566,8 +2571,8 @@
         "suspectedCount": 0,
         "curedCount": 44,
         "deadCount": 1,
-        "highDangerCount": 1,
-        "midDangerCount": 5,
+        "highDangerCount": 2,
+        "midDangerCount": 8,
         "locationId": 150800,
         "currentConfirmedCountStr": "0",
         "fullCityName": "巴彦淖尔市"
@@ -4166,6 +4171,11 @@
       },
       {
         "cityName": "巴彦淖尔",
+        "areaName": "团结街道健康公寓楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "巴彦淖尔",
         "areaName": "新华街道河大住宅小区1号楼",
         "dangerLevel": 1
       },
@@ -5675,6 +5685,46 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "巴彦淖尔",
+        "areaName": "北环街道天地凤凰城小区北墙永宽路北平房区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "东环街道山河湾小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "汇丰街道金秋华城B区小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "金川街道巴彦淖尔日报社大楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "团结街道今日嘉园小区北区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "团结街道万锦世纪城二期小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "新华街道河大住宅小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴彦淖尔",
+        "areaName": "西环街道四季花城小区一区",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "鄂尔多斯",
         "areaName": "达拉特旗 电厂家属区16号楼1单元",
         "dangerLevel": 2
@@ -5730,31 +5780,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "巴彦淖尔",
-        "areaName": "东环街道山河湾小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "汇丰街道金秋华城B区小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "金川街道巴彦淖尔日报社大楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "团结街道万锦世纪城二期小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "巴彦淖尔",
-        "areaName": "新华街道河大住宅小区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "阿拉善盟",
         "areaName": "高新技术产业开发区 恒安佳苑及周边商铺",
         "dangerLevel": 2
@@ -5775,7 +5800,7 @@
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 3,
+    "midDangerCount": 1,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -5813,7 +5838,7 @@
         "curedCount": 286,
         "deadCount": 0,
         "highDangerCount": 1,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 110106,
         "currentConfirmedCountStr": "471",
         "fullCityName": "丰台区"
@@ -5919,7 +5944,7 @@
         "curedCount": 134,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 110115,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -6041,17 +6066,7 @@
       },
       {
         "cityName": "丰台区",
-        "areaName": "新宫家园南区1号楼5单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "丰台区",
         "areaName": "紫芳园一区除7号楼的其他区域、紫芳园三区1号楼及底商",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "大兴区",
-        "areaName": "熙悦林语18号院6号楼",
         "dangerLevel": 2
       }
     ]
@@ -6069,8 +6084,8 @@
     "comment": "",
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
-    "highDangerCount": 133,
-    "midDangerCount": 133,
+    "highDangerCount": 134,
+    "midDangerCount": 129,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -6095,8 +6110,8 @@
         "suspectedCount": 0,
         "curedCount": 57,
         "deadCount": 0,
-        "highDangerCount": 49,
-        "midDangerCount": 14,
+        "highDangerCount": 51,
+        "midDangerCount": 11,
         "locationId": 610700,
         "currentConfirmedCountStr": "141",
         "fullCityName": "汉中市"
@@ -6122,8 +6137,8 @@
         "suspectedCount": 0,
         "curedCount": 21,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 6,
+        "highDangerCount": 0,
+        "midDangerCount": 5,
         "locationId": 610500,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -6635,11 +6650,6 @@
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县博望街道办事处大西关村乐城公园caca美妆店",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "汉中",
         "areaName": "城固县博望街道办事处大西关村西环三路以东、乐园南路以南、西环二路以西、丰顺小区以北合围区域",
         "dangerLevel": 1
       },
@@ -6660,12 +6670,12 @@
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县博望街道办事处河坎村小河桥蔬菜批发市场",
+        "areaName": "城固县博望街道办事处解放街社区西环一路以东、民主街以南、金华路以西、文化路以北合围区域（马庄口63号除外）",
         "dangerLevel": 1
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县博望街道办事处解放街社区西环一路以东、民主街以南、金华路以西、文化路以北合围区域（马庄口63号除外）",
+        "areaName": "城固县博望街道办事处京馨园小区、春华苑小区、燎原小区除3-7号楼以外楼栋",
         "dangerLevel": 1
       },
       {
@@ -6730,12 +6740,22 @@
       },
       {
         "cityName": "汉中",
+        "areaName": "城固县董家营镇刘草坝村三组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "汉中",
         "areaName": "城固县桔园镇新合村",
         "dangerLevel": 1
       },
       {
         "cityName": "汉中",
         "areaName": "城固县莲花街道办事处博雅社区博雅新居小区20号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "汉中",
+        "areaName": "城固县莲花街道办事处博雅社区原石家坝村南北主巷道以西自建房区域",
         "dangerLevel": 1
       },
       {
@@ -6766,6 +6786,11 @@
       {
         "cityName": "汉中",
         "areaName": "城固县莲花街道办事处东环路社区张骞古城以东、文化路东段以南、东环二路（东兴路）南段以西、竹器巷以北合围区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "汉中",
+        "areaName": "城固县莲花街道办事处丰乐路以东、联大路以南、老北城巷北段以西、老北城巷南段以北合围区域。水利局家属院",
         "dangerLevel": 1
       },
       {
@@ -6926,11 +6951,6 @@
       {
         "cityName": "咸阳",
         "areaName": "三原县城关街道办陕西中衡肥业有限公司三原分公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "渭南",
-        "areaName": "高新区良田街道办庙南村1组",
         "dangerLevel": 1
       },
       {
@@ -7500,6 +7520,16 @@
       },
       {
         "cityName": "汉中",
+        "areaName": "博望街道办事处大西关村乐城公园caca美妆店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "汉中",
+        "areaName": "博望街道办事处河坎村小河桥蔬菜批发市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "汉中",
         "areaName": "城固县博望街道办事处博雅社区博雅新居小区除20号楼以外楼栋",
         "dangerLevel": 2
       },
@@ -7510,42 +7540,12 @@
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县博望街道办事处东寨村3、4组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县博望街道办事处河坎村小河桥蔬菜批发市场对面刘家面皮店整栋楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
         "areaName": "城固县博望街道办事处三村汉橘尚都小区",
         "dangerLevel": 2
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县博望街道办事处三村西六路以东，东寨村五、六组群众自建房以南，西五路以西，太白路以北合围区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
         "areaName": "城固县博望街道办事处胜利街社区朝阳路中段（西至西环二路，东至西环一路）以北沿街商铺",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县博望街道办事处五里庙村山水佳苑建筑工地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县博望街道办事处小西关村粮油市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县博望街道办事处小西关村小西关便利店",
         "dangerLevel": 2
       },
       {
@@ -7565,17 +7565,12 @@
       },
       {
         "cityName": "汉中",
-        "areaName": "城固县三合镇三合园区修正药业大厦",
+        "areaName": "城固县沙河营镇司家铺村四组",
         "dangerLevel": 2
       },
       {
-        "cityName": "渭南",
-        "areaName": " 高新区良田街道办大寨村2组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "渭南",
-        "areaName": " 高新区良田街道办庙南村",
+        "cityName": "汉中",
+        "areaName": "城固县三合镇龙王庙村八组",
         "dangerLevel": 2
       },
       {
@@ -7591,6 +7586,11 @@
       {
         "cityName": "渭南",
         "areaName": "高新区良田街道办庙北村（含庙北小区）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "渭南",
+        "areaName": "高新区良田街道办庙南村1组",
         "dangerLevel": 2
       },
       {
@@ -7613,8 +7613,8 @@
     "comment": "",
     "locationId": 650000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
-    "highDangerCount": 1073,
-    "midDangerCount": 277,
+    "highDangerCount": 1064,
+    "midDangerCount": 284,
     "detectOrgCount": 216,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -7638,8 +7638,8 @@
         "suspectedCount": 0,
         "curedCount": 47,
         "deadCount": 0,
-        "highDangerCount": 65,
-        "midDangerCount": 24,
+        "highDangerCount": 57,
+        "midDangerCount": 28,
         "locationId": 654000,
         "currentConfirmedCountStr": "113",
         "fullCityName": "伊犁哈萨克自治州"
@@ -7651,8 +7651,8 @@
         "suspectedCount": 0,
         "curedCount": 14,
         "deadCount": 0,
-        "highDangerCount": 74,
-        "midDangerCount": 5,
+        "highDangerCount": 73,
+        "midDangerCount": 8,
         "locationId": 652800,
         "currentConfirmedCountStr": "30",
         "fullCityName": "巴州阿瓦提农场"
@@ -12096,21 +12096,6 @@
       },
       {
         "cityName": "巴州",
-        "areaName": " 库尔勒经济技术开发区奋进路以南—开发大道以北—兴民路两侧—金地路以东—东环路以西区域内，包含鹭东苑小区及周边商铺、鹭东苑二期工地、中兴家园小区及周边商铺、梧桐人家小区及周边商铺、五德玉器、阿帕奇武装押运公司、巴音郭楞蒙古自治州纤维检验所及在建工地、新疆国源测绘规划设计院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "巴州",
-        "areaName": " 开发大道以南—安晨大道以北—玉和路以东—东环路以西区域内，包含华景清华园小区、秦淮人家小区、万方经典名苑小区、翰唐锦庭小区、金丰利冷库、时代仓储、捷安建筑机械设备租赁物流园、惠农商贸责任有限公司",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "巴州",
-        "areaName": " 开发大道以南—纪元路以北—218辅道以东—景园路以西区域内，包含大成未来域小区、志远驾校、康博花园小区、辰兴生活家小区、新兴花园小区、辰兴梦想家小区、水木清华小区、左邻右舍小区、天河美居小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "巴州",
         "areaName": " 楼兰街道巴音社区巴音小区",
         "dangerLevel": 1
       },
@@ -12376,332 +12361,17 @@
       },
       {
         "cityName": "巴州",
+        "areaName": "楼兰街道佳鑫社区金鹭小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "巴州",
         "areaName": "丝路街道丝路社区36号小区",
         "dangerLevel": 1
       },
       {
-        "cityName": "伊犁州",
-        "areaName": " 艾兰木巴格街道艾兰木巴格社区飞机场路6号伊犁州广播电视大学家属楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 艾兰木巴格街道胜利街六巷21号1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路11巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路3巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路8巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道福安国际小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道枫景美居社区假日风景2期40号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道锦绣名居小区17号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道锦绣名居小区17号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道民丰社区警盾小区3号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 北京路街道万荣社区万容华府小区6号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 巴彦岱镇墩巴扎村3组铁厂沟路77号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 巴彦岱镇干沟村6组",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 巴彦岱镇干沟村五组一巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 重庆路街道佳和社区福瑞家苑小区25号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 达达木图镇新路村安宁路10巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 都来提巴格街道锦华家园小区3号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 都来提巴格街道契利克社区新华东路3巷9号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 都来提巴格街道塔克其社区胜利街3巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 汉宾乡巴什科瑞克村发展乡街16巷左2巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 汉宾乡巴什科瑞克村黄渠小队养殖场巷道",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 胡地亚于孜镇阔坦塔木村艾加尔布拉克路8巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 胡地亚于孜镇阔坦塔木村巴格路3巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 胡地亚于孜镇阔坦塔木村阔坦塔木路13卷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 解放路街道解放路社区千禧家园小区3号楼4单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吉里于孜镇弓月社区弓月新城小区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吉里于孜镇美郡社区翰林苑B区5号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吉里于孜镇美郡社区美郡小区9号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吉里于孜镇杏苑社区翰林苑小区B1号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 克伯克于孜乡团结村团结路13巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 克伯克于孜乡团结村团结路18巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀尔墩乡花果山路三巷北1巷至北6巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀赞其街道阿依墩社区阿依墩街12巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀赞其街道博斯坦社区新华西路3巷平房区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀赞其街道光明街社区第二电厂家属院2号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀赞其街道光明街四中家属院",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 喀赞其街道喀赞其社区阿依墩街7巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 宁远路街道书香苑社区书香苑小区15号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 宁远路街道谐趣苑社区谐趣苑11号楼3单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 宁远路街道易和澜庭小区9号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 宁远路街道怡心苑社区怡心苑小区30号楼3单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 宁远路雅静苑小区25号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 潘津镇苏拉宫村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 潘津镇下潘津村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 琼科瑞克街道东梁社区巴哈尔后街9巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 琼科瑞克街道惠民小区2号楼4单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 琼科瑞克街道英阿亚提社区公安局家属楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 上海路街道九城社区世纪嘉苑1期4号楼4单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 上海路街道江南社区江南春晓14号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 萨依布依街道协尔克买里社区公园街1巷负横4巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村14巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村16巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村18巷附3巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村2巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 塔什科瑞克乡唐努尔社区星光小区20号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 塔什科瑞克乡唐努尔社区星光小区3号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 温亚尔镇贺加希村46巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 温亚尔镇贺加希村50巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 温亚尔镇贺加希村68巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 伊犁河路街道萨依库尤鲁西社区伊河北岸小区3号楼1单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 伊犁河南岸新区一桥路33号佳弘曦岸33号楼2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 英也尔镇六七段村希望路十三巷97号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 英也尔镇英也尔村萨依路10巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 英也尔镇英也尔村萨依路7巷",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": "英也尔镇界梁子牧业村文明路7巷",
+        "cityName": "巴州",
+        "areaName": "友好街道博爱社区锦灏佳园",
         "dangerLevel": 1
       },
       {
@@ -13007,6 +12677,291 @@
       {
         "cityName": "塔城地区",
         "areaName": "南苑街道万森花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 艾兰木巴格街道艾兰木巴格社区飞机场路6号伊犁州广播电视大学家属楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路11巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路3巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 阿热吾斯塘镇奥依曼巴依托海村奥依曼巴依托海路8巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道福安国际小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道枫景美居社区假日风景2期40号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道锦绣名居小区17号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道民丰社区警盾小区3号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道万荣社区万容华府小区6号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 北京路街道梧桐社区梧桐丽景小区A区11号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 巴彦岱镇墩巴扎村3组铁厂沟路77号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 巴彦岱镇干沟村6组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 巴彦岱镇干沟村五组一巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 重庆路街道佳和社区福瑞家苑小区25号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 达达木图镇新路村安宁路10巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 都来提巴格街道锦华家园小区3号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 都来提巴格街道契利克社区新华东路3巷9号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 都来提巴格街道塔克其社区胜利街3巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 汉宾乡巴什科瑞克村发展乡街16巷左2巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 汉宾乡巴什科瑞克村黄渠小队养殖场巷道",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 胡地亚于孜镇阔坦塔木村艾加尔布拉克路8巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 胡地亚于孜镇阔坦塔木村巴格路3巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 胡地亚于孜镇阔坦塔木村阔坦塔木路13卷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吉里于孜镇弓月社区弓月新城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吉里于孜镇美郡社区翰林苑B区5号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吉里于孜镇美郡社区美郡小区9号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吉里于孜镇杏苑社区翰林苑小区B1号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀赞其街道阿依墩社区阿依墩街12巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀赞其街道博斯坦社区新华西路3巷平房区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀赞其街道光明街四中家属院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀赞其街道喀赞其社区阿依墩街7巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 宁远路街道书香苑社区书香苑小区15号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 宁远路街道易和澜庭小区9号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 宁远路街道怡心苑社区怡心苑小区30号楼3单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 宁远路雅静苑小区25号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 潘津镇苏拉宫村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 潘津镇下潘津村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 琼科瑞克街道东梁社区巴哈尔后街9巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 上海路街道黄河社区金屋紫都城1号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 上海路街道江南社区江南春晓14号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 萨依布依街道天马社区城市花园雅居苑7号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 萨依布依街道协尔克买里社区公园街1巷负横4巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村14巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村16巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村18巷附3巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 吐鲁番于孜乡下吐鲁番于孜村2巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 塔什科瑞克乡唐努尔社区星光小区20号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 塔什科瑞克乡唐努尔社区星光小区3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 温亚尔镇贺加希村46巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 温亚尔镇贺加希村50巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 温亚尔镇贺加希村68巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 伊犁河路街道萨依库尤鲁西社区伊河北岸小区3号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 伊犁河南岸新区一桥路33号佳弘曦岸33号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 英也尔镇六七段村希望路十三巷97号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 英也尔镇英也尔村萨依路10巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 英也尔镇英也尔村萨依路7巷",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": "英也尔镇界梁子牧业村文明路7巷",
         "dangerLevel": 1
       },
       {
@@ -14461,7 +14416,7 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": " 艾兰木巴格街道刑警队小区17号楼3单元",
+        "areaName": " 艾兰木巴格街道胜利街六巷21号1单元",
         "dangerLevel": 2
       },
       {
@@ -14471,7 +14426,7 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": " 北京路街道宁远社区瑞豪城市广场1号楼",
+        "areaName": " 北京路街道锦绣名居小区17号楼1单元",
         "dangerLevel": 2
       },
       {
@@ -14482,11 +14437,6 @@
       {
         "cityName": "伊犁州",
         "areaName": " 巴彦岱镇新桥社区兰景宾馆",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "伊犁州",
-        "areaName": " 重庆路街道二毛社区二毛家属院8号楼1单元",
         "dangerLevel": 2
       },
       {
@@ -14531,7 +14481,7 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": " 解放路街道飞机场路社区江苏路1巷22号",
+        "areaName": " 解放路街道解放路社区千禧家园小区3号楼4单元",
         "dangerLevel": 2
       },
       {
@@ -14541,7 +14491,32 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": " 喀尔墩乡花果山社区",
+        "areaName": " 克伯克于孜乡团结村团结路13巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 克伯克于孜乡团结村团结路18巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀尔墩乡花果山路三巷北1巷至北6巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 喀赞其街道光明街社区第二电厂家属院2号楼1单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 宁远路街道谐趣苑社区谐趣苑11号楼3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "伊犁州",
+        "areaName": " 琼科瑞克街道惠民小区2号楼4单元",
         "dangerLevel": 2
       },
       {
@@ -14551,7 +14526,7 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": " 琼科瑞克街道伊美兰庭小区2号楼3单元",
+        "areaName": " 琼科瑞克街道英阿亚提社区公安局家属楼",
         "dangerLevel": 2
       },
       {
@@ -14576,7 +14551,12 @@
       },
       {
         "cityName": "伊犁州",
-        "areaName": "上海路街道黄河社区临江门肥肠鱼火锅",
+        "areaName": "上海路街道九城社区世纪嘉苑1期4号楼4单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴州",
+        "areaName": "库尔勒经济技术开发区奋进路以南——开发大道以北——兴民路两侧——金地路以东——东环路以西区域内，包含鹭东苑小区及周边商铺、鹭东苑二期工地、中兴家园小区及周边商铺、梧桐人家小区及周边商铺、五德玉器、阿帕奇武装押运公司、巴音郭楞蒙古自治州纤维检验所及在建工地、新疆国源测绘规划设计院",
         "dangerLevel": 2
       },
       {
@@ -14602,6 +14582,16 @@
       {
         "cityName": "巴州",
         "areaName": "库尔勒市迎宾街道蓝湾社区龙腾居",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴州",
+        "areaName": "开发大道以南---安晨大道以北---玉和路以东---东环路以西区域内，包含华景清华园小区、秦淮人家小区、万方经典名苑小区、翰唐锦庭小区、金丰利冷库、时代仓储、捷安建筑机械设备租赁物流园、惠农商贸责任有限公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴州",
+        "areaName": "开发大道以南---纪元路以北---218辅道以东---景园路以西区域内，包含大成未来域小区、志远驾校、康博花园小区、辰兴生活家小区、新兴花园小区、辰兴梦想家小区、水木清华小区、左邻右舍小区、天河美居小区",
         "dangerLevel": 2
       }
     ]
@@ -14638,32 +14628,6 @@
         "fullCityName": "境外输入人员"
       },
       {
-        "cityName": "厦门",
-        "currentConfirmedCount": 7,
-        "confirmedCount": 425,
-        "suspectedCount": 0,
-        "curedCount": 418,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350200,
-        "currentConfirmedCountStr": "7",
-        "fullCityName": "厦门市"
-      },
-      {
-        "cityName": "福州",
-        "currentConfirmedCount": 6,
-        "confirmedCount": 86,
-        "suspectedCount": 0,
-        "curedCount": 79,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 2,
-        "locationId": 350100,
-        "currentConfirmedCountStr": "6",
-        "fullCityName": "福州市"
-      },
-      {
         "cityName": "南平",
         "currentConfirmedCount": 6,
         "confirmedCount": 29,
@@ -14675,6 +14639,32 @@
         "locationId": 350700,
         "currentConfirmedCountStr": "6",
         "fullCityName": "南平市"
+      },
+      {
+        "cityName": "福州",
+        "currentConfirmedCount": 5,
+        "confirmedCount": 86,
+        "suspectedCount": 0,
+        "curedCount": 80,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 2,
+        "locationId": 350100,
+        "currentConfirmedCountStr": "5",
+        "fullCityName": "福州市"
+      },
+      {
+        "cityName": "厦门",
+        "currentConfirmedCount": 4,
+        "confirmedCount": 425,
+        "suspectedCount": 0,
+        "curedCount": 421,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350200,
+        "currentConfirmedCountStr": "4",
+        "fullCityName": "厦门市"
       },
       {
         "cityName": "莆田",
@@ -14766,19 +14756,6 @@
         "locationId": 350600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "漳州市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -4,
-        "confirmedCount": 0,
-        "suspectedCount": 0,
-        "curedCount": 4,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-4",
-        "fullCityName": "待明确地区"
       }
     ],
     "dangerAreas": [
@@ -16907,7 +16884,7 @@
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
     "highDangerCount": 17,
-    "midDangerCount": 22,
+    "midDangerCount": 21,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -17075,7 +17052,7 @@
         "curedCount": 364,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 120112,
         "currentConfirmedCountStr": "6",
         "fullCityName": "津南区"
@@ -17341,18 +17318,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "津南区",
-        "areaName": "八里台镇星耀五洲枫情阳光城70号楼",
+        "cityName": "红桥区",
+        "areaName": "西于庄街秀水苑4号楼、8号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "津南区",
         "areaName": "双港镇善和园2号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "红桥区",
-        "areaName": "西于庄街秀水苑4号楼、8号楼",
         "dangerLevel": 2
       }
     ]
@@ -20175,8 +20147,8 @@
     "comment": "",
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
-    "highDangerCount": 10,
-    "midDangerCount": 15,
+    "highDangerCount": 6,
+    "midDangerCount": 12,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -20200,8 +20172,8 @@
         "suspectedCount": 0,
         "curedCount": 29,
         "deadCount": 0,
-        "highDangerCount": 4,
-        "midDangerCount": 7,
+        "highDangerCount": 0,
+        "midDangerCount": 4,
         "locationId": 500116,
         "currentConfirmedCountStr": "13",
         "fullCityName": "江津区"
@@ -20759,61 +20731,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "江津区",
-        "areaName": "吴滩镇民阜街200号附745号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇农贸市场",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇下河街25号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇迎宾路186号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲街上104号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲街上114号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "德感街道长冲老公社3-2",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "吴滩镇除高风险区以外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市龙门街255号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市龙门街369号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "江津区",
-        "areaName": "油溪镇吴市新农村11号",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "永川区",
         "areaName": "金科天悦府12幢1单元（永川区中山路街道飞龙路388号）",
         "dangerLevel": 2
@@ -20841,6 +20758,26 @@
       {
         "cityName": "永川区",
         "areaName": "永川区金科阳光小镇1期14栋（4单元除外）（金科阳光小镇南区，兴龙大道789号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "民阜街200号附745号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "吴滩镇农贸市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "下河街25号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江津区",
+        "areaName": "迎宾路186号",
         "dangerLevel": 2
       },
       {
@@ -21545,8 +21482,8 @@
     "comment": "",
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-    "highDangerCount": 76,
-    "midDangerCount": 38,
+    "highDangerCount": 86,
+    "midDangerCount": 44,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -21596,8 +21533,8 @@
         "suspectedCount": 0,
         "curedCount": 285,
         "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 2,
+        "highDangerCount": 7,
+        "midDangerCount": 6,
         "locationId": 370800,
         "currentConfirmedCountStr": "1",
         "fullCityName": "济宁市"
@@ -21648,8 +21585,8 @@
         "suspectedCount": 0,
         "curedCount": 117,
         "deadCount": 2,
-        "highDangerCount": 2,
-        "midDangerCount": 0,
+        "highDangerCount": 10,
+        "midDangerCount": 2,
         "locationId": 371400,
         "currentConfirmedCountStr": "0",
         "fullCityName": "德州市"
@@ -22109,8 +22046,53 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "济宁",
-        "areaName": "嘉祥县嘉祥街道嘉和苑东区",
+        "cityName": "德州",
+        "areaName": " 兰山区经济开发区密家庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 兰山区李官镇云泊湖社区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 兰山区兰山街道清馨家园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 兰山区兰山街道台湾城小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 兰山区义堂镇丰源小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 兰山区枣园镇高庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 沂河新区临沂瑞源工贸有限公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 沂河新区梅家埠街道月亮湾社区后道口村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": " 沂河新区梅家埠街道月亮湾社区庄坞村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "德州",
+        "areaName": "兰山区柳青街道开元花半里小区",
         "dangerLevel": 1
       },
       {
@@ -22130,17 +22112,22 @@
       },
       {
         "cityName": "济宁",
+        "areaName": "微山县欢城镇东村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "微山县欢城镇李集村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "济宁",
         "areaName": "邹城市千泉街道东丽花园小区5号楼",
         "dangerLevel": 1
       },
       {
-        "cityName": "德州",
-        "areaName": "禹城市市中街道伦镇丁庄村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "德州",
-        "areaName": "禹城市市中街道群贤居小区及周边附属建筑物",
+        "cityName": "济宁",
+        "areaName": "中国供销微山农商物流园（夏镇街道）",
         "dangerLevel": 1
       },
       {
@@ -22309,6 +22296,36 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "济宁",
+        "areaName": "嘉祥街道嘉和苑东区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "嘉祥县仲山镇李山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "微山县欢城镇於村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "微山县欢城镇吴庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "微山县夏镇街道悦达广场小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "济宁",
+        "areaName": "邹城市千泉街道东丽花园小区除5号楼以外的区域",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "泰安",
         "areaName": "泰山区惠普家园南区",
         "dangerLevel": 2
@@ -22324,13 +22341,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "济宁",
-        "areaName": "嘉祥县仲山镇李山村",
+        "cityName": "德州",
+        "areaName": "柳青街道荣盛花语馨苑",
         "dangerLevel": 2
       },
       {
-        "cityName": "济宁",
-        "areaName": "邹城市千泉街道东丽花园小区除5号楼以外的区域",
+        "cityName": "德州",
+        "areaName": "枣园镇花园村",
         "dangerLevel": 2
       },
       {
@@ -26039,7 +26056,7 @@
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 37,
+    "highDangerCount": 38,
     "midDangerCount": 45,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
@@ -26103,7 +26120,7 @@
         "suspectedCount": 0,
         "curedCount": 1,
         "deadCount": 0,
-        "highDangerCount": 3,
+        "highDangerCount": 4,
         "midDangerCount": 1,
         "locationId": -1,
         "currentConfirmedCountStr": "0",
@@ -26290,6 +26307,11 @@
       {
         "cityName": "宁东",
         "areaName": "宝丰A区（高速公路以西，花马池路以南、以东，宝能路以北）区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "宁东",
+        "areaName": "宝丰能源集团B区焦化项目施工临建区（物流快速通道以东，边沟以南，矸石场以西，运灰路以北）",
         "dangerLevel": 1
       },
       {
