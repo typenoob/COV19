@@ -52,8 +52,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 88,
-    "midDangerCount": 106,
+    "highDangerCount": 100,
+    "midDangerCount": 112,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -64,8 +64,8 @@
         "suspectedCount": 3,
         "curedCount": 3827,
         "deadCount": 1,
-        "highDangerCount": 55,
-        "midDangerCount": 62,
+        "highDangerCount": 66,
+        "midDangerCount": 72,
         "locationId": 440100,
         "currentConfirmedCountStr": "294",
         "fullCityName": "广州市"
@@ -103,8 +103,8 @@
         "suspectedCount": 3,
         "curedCount": 4105,
         "deadCount": 3,
-        "highDangerCount": 7,
-        "midDangerCount": 19,
+        "highDangerCount": 6,
+        "midDangerCount": 14,
         "locationId": 440300,
         "currentConfirmedCountStr": "129",
         "fullCityName": "深圳市"
@@ -129,8 +129,8 @@
         "suspectedCount": 0,
         "curedCount": 113,
         "deadCount": 0,
-        "highDangerCount": 10,
-        "midDangerCount": 5,
+        "highDangerCount": 12,
+        "midDangerCount": 6,
         "locationId": 440700,
         "currentConfirmedCountStr": "84",
         "fullCityName": "江门市"
@@ -407,6 +407,11 @@
       },
       {
         "cityName": "广州",
+        "areaName": "白云区大源街大源东路101—105号（单号），大源东路三亩三三街1号，大源东路三亩三三街一巷8号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "白云区大源街大源田东路一街15号、17号、20号、22号、24号、26号；大源中路41号、41之一号、43号、45号、47号、49号、51号、55号、61号、63号B栋、73号、75号、77号、79号，田心南路1号、2号",
         "dangerLevel": 1
       },
@@ -428,6 +433,11 @@
       {
         "cityName": "广州",
         "areaName": "白云区鹤龙街彭上新村南一巷13号、15号，彭上新村南二巷13号、15号，彭上新村东路22号、24号、26号，彭上中路14号、16号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区黄石街江夏村庙十三巷1—5号（单号），江夏村庙十四巷1号、6号",
         "dangerLevel": 1
       },
       {
@@ -472,7 +482,22 @@
       },
       {
         "cityName": "广州",
+        "areaName": "白云区人和镇矮岗大路口西一巷1号、3—6号、8号，矮岗荔园一巷，矮岗荔园二巷2—6号（双号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "白云区石井街石槎路689号项目部办公区和项目部住宿区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区三元里街三元里村三十五巷6号、8号、8-1号、10号、10-1号，三元里村三十七巷7号、9号，三元里村三十九巷一横8号，三元里村三十九巷三横5号、7号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区松洲街槎龙万龙街7—11号（单号），万龙一巷2—9号、17号",
         "dangerLevel": 1
       },
       {
@@ -493,6 +518,11 @@
       {
         "cityName": "广州",
         "areaName": "白云区钟落潭镇马沥南街东一巷1、3号，马沥南街西35号，马沥南街二巷1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "赤岗街道赤岗路97号大院6-8栋",
         "dangerLevel": 1
       },
       {
@@ -518,6 +548,11 @@
       {
         "cityName": "广州",
         "areaName": "花都区花山镇平西村平西一队旧庄一巷1号之一区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区狮岭镇旗新罗屋路、珠三角环线高速、度假村专用道北合围区域（罗氏书院除外）",
         "dangerLevel": 1
       },
       {
@@ -572,12 +607,17 @@
       },
       {
         "cityName": "广州",
-        "areaName": "花都区新华街新民路94号",
+        "areaName": "花都区新华街田美村坑唇里侨滨苑菜鸟驿站对面三区7巷8号区域",
         "dangerLevel": 1
       },
       {
         "cityName": "广州",
-        "areaName": "花都区新华街馨庭花园F栋",
+        "areaName": "花都区新华街五华村委会北侧附近区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区新华街新民路94号",
         "dangerLevel": 1
       },
       {
@@ -607,12 +647,27 @@
       },
       {
         "cityName": "广州",
+        "areaName": "花都区新雅街镜湖大道石塘村一社二巷至四巷、12-14号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "花都区新雅街朗悦君廷小区A4、A5栋",
         "dangerLevel": 1
       },
       {
         "cityName": "广州",
+        "areaName": "花都区新雅街清?村横马路以南，后街中二街以北，广州煌子西厨设备有限公司以东，清?村后街中心街以西区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "花都区新雅街团结村北区塘口南路东三巷1-3号，东四巷1-3号，东五巷1-3号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区新雅街一塑实业有限公司",
         "dangerLevel": 1
       },
       {
@@ -632,12 +687,22 @@
       },
       {
         "cityName": "江门",
+        "areaName": "鹤山市古劳镇连城村委会大江村一队236号之一",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "江门",
         "areaName": "鹤山市古劳镇连城村委会平安公寓",
         "dangerLevel": 1
       },
       {
         "cityName": "江门",
         "areaName": "鹤山市古劳镇连城村委会天伦村320、321、331、332、367号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "江门",
+        "areaName": "鹤山市古劳镇连城村委会天伦村中的一户无门牌房屋（南至355号、西至368号、北至252号组成的围合区域）。",
         "dangerLevel": 1
       },
       {
@@ -688,11 +753,6 @@
       {
         "cityName": "深圳",
         "areaName": "罗湖区黄贝街道水库社区宁水花园19栋3单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "南山区桃源街道平山村45、46、103、117、118、119、120、121、122、129、130号及观泰明公寓",
         "dangerLevel": 1
       },
       {
@@ -787,7 +847,7 @@
       },
       {
         "cityName": "广州",
-        "areaName": "白云湖街广东外语外贸大学公开学院饭堂所在楼栋",
+        "areaName": "白云区白云湖街广东外语外贸大学公开学院饭堂所在楼栋",
         "dangerLevel": 2
       },
       {
@@ -802,12 +862,22 @@
       },
       {
         "cityName": "广州",
+        "areaName": "白云区大源街上迳西路以南（大源东路口至上迳西路南巷3号），大源东路三亩三三街以北（大源东路105号至三亩三三街12号），大源东路以东至十三社交界处",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "白云区鹤龙街彭上001网格、彭上003网格内彭上南路以北（不包括瑞兴大厦、彭上市场），除高风险区域外",
         "dangerLevel": 2
       },
       {
         "cityName": "广州",
-        "areaName": "白云区黄石街石岗村全域",
+        "areaName": "白云区黄石街东至白社中街，南至白社东街，西至南方电网，北至江夏大园一巷5号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区黄石街石岗村全域（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -842,7 +912,27 @@
       },
       {
         "cityName": "广州",
+        "areaName": "白云区人和镇东至矮岗东街，南至凤岗路，西至矮岗农阅街-矮岗荔园西街，北至矮岗陇西庄一巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区人和镇清湖南街东二巷1号、2号，东三巷1号、3号、5号、6号、7号、8号、10号、12号、14号，东四巷2号、4号；清湖南街2号；清湖南街西4号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "白云区石井街石槎路689号，东至石槎路，西至石井河，潭村宝鸭北路4号施工区和住宿区（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区三元里街三元里村三十三巷4—12号（双号），三元里村三十五巷2号、4号、7号、9号、10-2号、12—15号、17号，三元里村三十七巷2号、3号、5号，三元里村三十九巷三横1号、3号、4号、6号、8—10号、10-1号、11号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云区松洲街槎龙社区002、003、005、007、010网格管理范围",
         "dangerLevel": 2
       },
       {
@@ -892,11 +982,6 @@
       },
       {
         "cityName": "广州",
-        "areaName": "花都区花城街兴隆新村四巷1-6号区域，三巷2、4、6号区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
         "areaName": "花都区花城街杨屋东三中队六巷5号区域",
         "dangerLevel": 2
       },
@@ -918,6 +1003,11 @@
       {
         "cityName": "广州",
         "areaName": "花都区花山镇雅居乐万科热橙31栋、32栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区狮岭镇旗新村草罗街、珠三角环线高速、度假村专用道北合围区域（高风险区除外），度假村专用道北、瑞边村福东街、瑞园路合围区域",
         "dangerLevel": 2
       },
       {
@@ -977,12 +1067,27 @@
       },
       {
         "cityName": "广州",
+        "areaName": "花都区新华街花城北路小区、凤华花园及附近区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "花都区新华街豪骏名苑2栋",
         "dangerLevel": 2
       },
       {
         "cityName": "广州",
         "areaName": "花都区新华街金都花园E7栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区新华街龙珠路以南、建侨路以北、公益路以东、田美河以西区域（银菊花小区、玫瑰苑小区、卫生综合大楼及住宅区、高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区新华街龙珠路以南、云山大道以北、铁路沿线以东、花城路及花城北路以西区域及华南路、建设路、花都湖、铁路线合围区域（高风险区和宝华路以南、云山大道以北、公园前路以东、花城路以西区域除外）",
         "dangerLevel": 2
       },
       {
@@ -1002,12 +1107,12 @@
       },
       {
         "cityName": "广州",
-        "areaName": "花都区新华街馨庭花园小区（高风险区除外）",
+        "areaName": "花都区新华街五华村村委以南、宝华路以北、花城北路以东、五华小学以西区域",
         "dangerLevel": 2
       },
       {
         "cityName": "广州",
-        "areaName": "花都区新华街云山大道、铁路线、华南路、建设路、花都湖北岸、花城路合围区域",
+        "areaName": "花都区新华街馨庭花园F栋",
         "dangerLevel": 2
       },
       {
@@ -1062,12 +1167,22 @@
       },
       {
         "cityName": "广州",
+        "areaName": "花都区新雅街镜湖大道以南、雅瑶支涌以北、一社庄西路以东、无名路以西区域（高风险区除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "花都区新雅街朗悦君廷小区全区全域（高风险区除外）",
         "dangerLevel": 2
       },
       {
         "cityName": "广州",
         "areaName": "花都区新雅街美林轩逸时光小区17栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "花都区新雅街清?村十三队、广州一塑实业有限公司附近区域（高风险区除外）",
         "dangerLevel": 2
       },
       {
@@ -1087,12 +1202,7 @@
       },
       {
         "cityName": "广州",
-        "areaName": "海珠区赤岗街道赤岗路97号大院1-3栋、6-17栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "人和镇清湖南街东二巷1号、2号，东三巷1号、3号、5号、6号、7号、8号、10号、12号、14号，东四巷2号、4号，清湖南街2号，清湖南街西4号",
+        "areaName": "海珠区赤岗街道赤岗路97号大院1-3栋、9-17栋",
         "dangerLevel": 2
       },
       {
@@ -1107,27 +1217,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "宝安区新安街道大浪社区27区6栋、33栋、39栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
         "areaName": "宝安区西乡街道共乐社区宝莲新村五巷2号",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": "宝安区西乡街道龙珠社区龙珠花园1栋、2栋、24栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
         "areaName": "福田区福保街道福保社区帝港海湾豪园D座及裙楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "福田区福保街道福保社区南光名仕苑第9栋",
         "dangerLevel": 2
       },
       {
@@ -1138,11 +1233,6 @@
       {
         "cityName": "深圳",
         "areaName": "福田区沙头街道上沙社区龙秋村10巷7号-10号、11巷9号、12巷6号-8号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "龙岗区横岗街道塘坑社区新马创客园D栋",
         "dangerLevel": 2
       },
       {
@@ -1167,17 +1257,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": "南山区南山街道登良花园南区",
+        "areaName": "南山区桃源街道平山村45、46、103、117、118、119、120、121、122、129、130号及观泰明公寓",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
         "areaName": "南山区桃源街道平山村第295、296、297、298、299、300号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "深圳",
-        "areaName": "南山区桃源街道平山村（除高风险区外）",
         "dangerLevel": 2
       },
       {
@@ -1228,6 +1313,11 @@
       {
         "cityName": "江门",
         "areaName": "鹤山市古劳镇连城村委会天伦村东至330号、南至三连路、西至319号、北至339号围闭区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "江门",
+        "areaName": "鹤山市古劳镇连城村委会天伦村内东至327号、南至311号、西至330号、北至连城幼儿园对面厂房，组成的围合区域。",
         "dangerLevel": 2
       },
       {
@@ -17247,8 +17337,8 @@
     "comment": "",
     "locationId": 430000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
-    "highDangerCount": 186,
-    "midDangerCount": 148,
+    "highDangerCount": 240,
+    "midDangerCount": 199,
     "detectOrgCount": 286,
     "vaccinationOrgCount": 65,
     "cities": [
@@ -17259,8 +17349,8 @@
         "suspectedCount": 0,
         "curedCount": 153,
         "deadCount": 1,
-        "highDangerCount": 180,
-        "midDangerCount": 132,
+        "highDangerCount": 226,
+        "midDangerCount": 153,
         "locationId": 430500,
         "currentConfirmedCountStr": "50",
         "fullCityName": "邵阳市"
@@ -17272,8 +17362,8 @@
         "suspectedCount": 0,
         "curedCount": 65,
         "deadCount": 0,
-        "highDangerCount": 5,
-        "midDangerCount": 12,
+        "highDangerCount": 13,
+        "midDangerCount": 42,
         "locationId": 431200,
         "currentConfirmedCountStr": "42",
         "fullCityName": "怀化市"
@@ -18359,32 +18449,302 @@
       },
       {
         "cityName": "邵阳",
+        "areaName": "白仓社区利民路京东家电白仓店所在楼栋连续三个门面",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "白仓镇何伏村十一组3号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "白仓镇坦湾村5组23号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "白仓镇坦湾村9组13号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "白毛塘村14组20号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "大坝村河伯岭林场安置区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "东道拗片12组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "东道拗片13组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "东道拗片1组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "大田村上石组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "凤凰街206号县政府办公楼外的区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "凤凰社区除凤凰街178号邵阳县委办公楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "金称市镇卫生院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "木山村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "梅子院村1组22号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "梅子院村8组2号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "梅子院村9组1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "千秋村新屋场22组14号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "水津村榜上院子",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "三门村利山组4号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "三门村石山2组4号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "三门村塘家组1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "三门村塘院组11号附2号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "石牛村烟棚组9号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "社田村8组10号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇联合村石矿片10组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇联合村石矿片9组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇霞塘云村21组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇霞塘云村22组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇霞塘云村渣滩街",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塔水桥村原807兵工厂",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘田市镇塘田市居委会",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "田心村双冲组23号、33号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "拖洲片安置区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "文昌村1组26号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "湾塘村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "兴安村11组8号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "兴安村4组5号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "兴安村4组6号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
         "areaName": "下花桥镇岩门村台上组",
         "dangerLevel": 1
       },
       {
-        "cityName": "怀化",
-        "areaName": "鹤城区电业新村14栋",
+        "cityName": "邵阳",
+        "areaName": "玉田村4组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村5组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村6组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村7组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村8组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村9组",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "预制场对面楼栋",
         "dangerLevel": 1
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区河西街道怀化经济开发区创新创业园",
+        "areaName": "鹤城区城北街道桔园新村",
         "dangerLevel": 1
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区天星华府二期5栋",
+        "areaName": "鹤城区城北街道龙泉新苑",
         "dangerLevel": 1
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区坨院街道澳海澜庭小区40栋、8栋",
+        "areaName": "鹤城区城北街道胜利村三区3栋",
         "dangerLevel": 1
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区舞水龙城3栋",
+        "areaName": "鹤城区城南街道盛世华都南区（7栋、24栋）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城南街道杨村、桥梁、水垅区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道东兴街",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道京御名都2栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道汽车西站家属区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道沿河路老木材公司",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道牡丹花园（10栋、11栋）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区锦绣南城区域（锦园路以西、环城南路以北、太平溪以东、刘塘路以南合围区域）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区舞水路及沿河路以北、怀西路以南、教堂巷以东区域",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区盈口乡水木天成香新村4栋",
         "dangerLevel": 1
       },
       {
@@ -19029,7 +19389,32 @@
       },
       {
         "cityName": "邵阳",
+        "areaName": "白仓社区利民路除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
         "areaName": "城区三中（含关协小学）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "大坝村除河伯岭林场安置区外的区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "大田村除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "凤凰街206号县政府办公楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "凤凰社区凤凰街178号邵阳县委办公楼",
         "dangerLevel": 2
       },
       {
@@ -19044,7 +19429,72 @@
       },
       {
         "cityName": "邵阳",
+        "areaName": "何伏村十一组除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
         "areaName": "荷花社区景秀路692号至700号楼栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "金称市镇金峰街除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "联合村除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "梅子院村8组、9组、1组除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "千秋村新屋场除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "水津村榜上组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "三门村利山组、塘家组、塘院组、石山2组除高风险以外其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "石牛村烟棚组除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "社田村8组除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘渡口镇霞塘云村除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塔水桥村除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "塘田居委会除高风险外其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "坦湾村双板桥院子除高风险区外的其他区域",
         "dangerLevel": 2
       },
       {
@@ -19053,63 +19503,228 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "怀化",
-        "areaName": "鹤城区北环路天信摩托车年检点",
+        "cityName": "邵阳",
+        "areaName": "兴安村除高风险外其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "小溪市乡除高风险区外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "邵阳",
+        "areaName": "玉田村除高风险区外的其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区电业新村小区除高风险区域外的区域",
+        "areaName": "鹤城区城北街道步步高商场",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区怀化绿色货运分拨配送中心",
+        "areaName": "鹤城区城北街道胜利村（含菜市场）",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区怀仁母婴生活馆（健康城店）",
+        "areaName": "鹤城区城北街道市政公司家属区",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区河西街道花背村",
+        "areaName": "鹤城区城南街道怀仁大药房（红星南路福星水岸蓝城药店）",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区河西街道李公湾劳保百货用品店",
+        "areaName": "鹤城区城南街道水岸南城小区内兴和便利店",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区河西街道武陵山装饰建材市场1栋",
+        "areaName": "鹤城区城南街道世纪华联超市（家乐广场店）",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区天星华府二期小区除高风险区域外的区域",
+        "areaName": "鹤城区城南街道盛世华都南区（7栋、24栋除外）",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区坨院街道澳海澜庭小区除高风险以外的其他区域",
+        "areaName": "鹤城区城南街道舞水龙城3栋",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区舞水龙城小区除高风险区域外的区域",
+        "areaName": "鹤城区城南街道新世纪优果超市城南店",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区迎丰东路59号（摩托车电动车维修小张车行）",
+        "areaName": "鹤城区城中街道电业新村14栋",
         "dangerLevel": 2
       },
       {
         "cityName": "怀化",
-        "areaName": "鹤城区迎丰街道华峰家园小区6栋2单元、9栋3单元",
+        "areaName": "鹤城区城中街道富城国际B栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道工商局家属区含启航卫校西校区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道航运公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道京御名都后门自建楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道京御名都（2栋除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道凯邦万象城6栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道木材检查站",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道天星坪惠康超市",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道雍景豪庭16栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道印刷厂家属区6栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道榆园小区1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道中心市场16栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区城中街道中心市场步行街怀化蔬菜水果批发市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区怀化经济开发区创新创业园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道翡翠湾小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道黄金新苑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道花溪路世纪小苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道宏宇新城巴萨名门（1栋、26栋）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道牡丹花园小区（10栋、11栋除外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道天龙御园1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道天星华府二期5栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道云集路云集名苑",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星街道综合农场家属区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区红星南路老湖天桥头（汽贸市场后门）楼房",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区佳惠农产品大市场区域（南环路以南、湖天大道以西、青山溪路以北、本业大道以东合围区域）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区坨院街道澳海澜庭小区（40栋、8栋）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区坨院街道山水阳光城小区9栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区迎丰街道东方新城小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区迎丰街道大汉龙城二期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区迎丰街道大汉龙城一期",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区盈口乡茶园垅小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "怀化",
+        "areaName": "鹤城区盈口乡湖天桥村卫生室",
         "dangerLevel": 2
       },
       {
