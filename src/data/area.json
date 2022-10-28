@@ -6275,7 +6275,7 @@
     "locationId": 350000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 3,
+    "midDangerCount": 5,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 156,
     "cities": [
@@ -6339,7 +6339,7 @@
         "curedCount": 80,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 4,
         "locationId": 350100,
         "currentConfirmedCountStr": "10",
         "fullCityName": "福州市"
@@ -6439,12 +6439,22 @@
     "dangerAreas": [
       {
         "cityName": "福州",
+        "areaName": "鳌峰街道锦江新村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "福州",
         "areaName": "老关东铁锅炖（长乐北路140号福霞小区底商）",
         "dangerLevel": 2
       },
       {
         "cityName": "福州",
         "areaName": "闽清县白樟镇云渡村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "福州",
+        "areaName": "万科金融港5号楼",
         "dangerLevel": 2
       },
       {
@@ -20580,8 +20590,8 @@
     "comment": "",
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
-    "highDangerCount": 6,
-    "midDangerCount": 10,
+    "highDangerCount": 16,
+    "midDangerCount": 22,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -20592,8 +20602,8 @@
         "suspectedCount": 0,
         "curedCount": 18,
         "deadCount": 0,
-        "highDangerCount": 6,
-        "midDangerCount": 6,
+        "highDangerCount": 16,
+        "midDangerCount": 18,
         "locationId": 500118,
         "currentConfirmedCountStr": "31",
         "fullCityName": "永川区"
@@ -21135,6 +21145,51 @@
     "dangerAreas": [
       {
         "cityName": "永川区",
+        "areaName": "鸿翔·康桥生活公园19栋（永川区人民大道333号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "嘉和香水湾（2栋、7栋）（永川区和顺大道889号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "江鸿·枫侨郡二期4栋2单元（永川区兴龙大道888号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "金科阳光小镇1期42栋（永川区兴龙大道789号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "竣祥红河枫景（2栋、3栋、9栋、11栋、13栋、17栋）（永川区开发区人民东路168号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "金域蓝湾1期1栋2单元（永川区人民大道468号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "文海·泊金湾3栋（永川区化工路840号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "兴龙湖一号5栋（永川区人民大道768号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "协信中心2栋（永川区兴龙大道123号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
         "areaName": "永川区大安街道奥韵雅苑6栋（大安同安大道8号）",
         "dangerLevel": 1
       },
@@ -21165,12 +21220,72 @@
       },
       {
         "cityName": "永川区",
+        "areaName": "跃华物业2栋（永川区汇龙大道67号附近）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "奥兰半岛12栋（永川区学府大道388号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "鸿翔·康桥生活公园（19栋除外）（永川区人民大道333号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "嘉和香水湾（2栋、7栋除外）（永川区和顺大道889号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "江鸿·枫侨郡二期（4栋2单元除外）（永川区兴龙大道888号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
         "areaName": "金科天悦府12幢1单元（永川区中山路街道飞龙路388号）",
         "dangerLevel": 2
       },
       {
         "cityName": "永川区",
+        "areaName": "金科天悦府（永川区中山路街道飞龙路388号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "金科阳光小镇1期（14栋4单元、42栋除外）（永川区兴龙大道789号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "竣祥红河枫景（2栋、3栋、9栋、11栋、13栋、17栋除外）（永川区开发区人民东路168号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "金域蓝湾1期（1栋2单元除外）（永川区人民大道468号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "文海·泊金湾（3栋除外）（永川区化工路840号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
         "areaName": "万科城-城悦A区19栋（永川区凤凰一路169号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "兴龙湖一号（5栋除外）（永川区人民大道768号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "协信中心（2栋除外）（永川区兴龙大道123号）",
         "dangerLevel": 2
       },
       {
@@ -21191,6 +21306,11 @@
       {
         "cityName": "永川区",
         "areaName": "永川区金科阳光小镇1期14栋（4单元除外）（金科阳光小镇南区，兴龙大道789号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永川区",
+        "areaName": "银山公馆36栋（永川区内环南路777号）",
         "dangerLevel": 2
       },
       {
@@ -21605,8 +21725,8 @@
     "comment": "",
     "locationId": 210000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 10,
+    "highDangerCount": 2,
+    "midDangerCount": 11,
     "detectOrgCount": 192,
     "vaccinationOrgCount": 204,
     "cities": [
@@ -21630,8 +21750,8 @@
         "suspectedCount": 0,
         "curedCount": 6,
         "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 211300,
         "currentConfirmedCountStr": "37",
         "fullCityName": "朝阳市"
@@ -21821,6 +21941,16 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "朝阳",
+        "areaName": "双塔区红旗街道淮南花园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳",
+        "areaName": "双塔区红旗街道毓水蓬莱小区",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "葫芦岛",
         "areaName": "连山区钢屯镇钢南村",
         "dangerLevel": 2
@@ -21868,6 +21998,11 @@
       {
         "cityName": "锦州",
         "areaName": "黑山县黑山街道中国石化锦州双山加油站",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳",
+        "areaName": "双塔区红旗街道友谊大街一段以东、朝阳大街一段以西、长青路三段以南、长江路三段以北区域及华东逸园小区（除高风险区及辽宁中泽朝纺、长江医院、朝阳市政工程公司外）",
         "dangerLevel": 2
       }
     ]
@@ -23985,8 +24120,8 @@
     "comment": "",
     "locationId": 630000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/581/3398299758115524121-135.json",
-    "highDangerCount": 154,
-    "midDangerCount": 111,
+    "highDangerCount": 174,
+    "midDangerCount": 128,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 0,
     "cities": [
@@ -23997,8 +24132,8 @@
         "suspectedCount": 0,
         "curedCount": 114,
         "deadCount": 0,
-        "highDangerCount": 120,
-        "midDangerCount": 82,
+        "highDangerCount": 140,
+        "midDangerCount": 99,
         "locationId": 630100,
         "currentConfirmedCountStr": "10",
         "fullCityName": "西宁市"
@@ -24111,602 +24246,702 @@
     "dangerAreas": [
       {
         "cityName": "西宁",
-        "areaName": "城北区 北园小区183栋",
+        "areaName": " 安宁路百韵华居31号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北国际村冬梅园12号楼",
+        "areaName": " 安泰华庭小区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北国际村秋芙园5号楼2单元",
+        "areaName": " 宝光翡翠华庭2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北区生产资料家属院4单元",
+        "areaName": " 城北法院家属院南楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 柴达木路214号6号楼3单元",
+        "areaName": " 城北国际村冬梅园12号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 朝阳西路10号路桥公司家属院4号楼5单元",
+        "areaName": " 城北国际村秋芙园5号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 朝阳西路14号果洛总段家属院2号楼",
+        "areaName": " 城北区北园小区183栋",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 大堡子村（西至拥军路，东至大堡子小市场巷道，北至梅家十字，南至柴达木路）",
+        "areaName": " 城北区恒大名都15号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 恒大名都15号楼",
+        "areaName": " 城北区金座雅园二期5号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 红旗小区2号楼4单元",
+        "areaName": " 城北区生产资料家属院4单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 湟水路6号幸福小区4号楼",
+        "areaName": " 城北区三其村433号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 九州河畔64号楼",
+        "areaName": " 城北区深圳印象7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 金座雅园二期5号楼",
+        "areaName": " 城北区西钢新村96号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 丽阳天下小区4号楼5单元",
+        "areaName": " 城北区小桥新村3号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 马坊新村3号",
+        "areaName": " 柴达木路214号6号楼3单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 马坊新村三巷14-1号",
+        "areaName": " 柴达木路311号威隆太阳城小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 祁家城村小区1号楼和4号楼",
+        "areaName": " 晨光小区5号楼、7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 青唐小镇南苑20号楼2单元",
+        "areaName": " 朝阳东路16号家属院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 青藏高原农副产品集散中心",
+        "areaName": " 翠雍星城北区3、4、9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 萨尔斯堡西区4期39号楼",
+        "areaName": " 朝阳西路10号路桥公司家属院4号楼5单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 三其村365号",
+        "areaName": " 朝阳西路14号果洛总段家属院2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 三其村433号",
+        "areaName": " 大堡子村（南至柴达木路，东至城北区文化馆，西至大堡子村彩门口主路，北至大堡子村安置小区（北区））",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城1号楼",
+        "areaName": " 大堡子村（西至拥军路，东至大堡子小市场巷道，北至梅家十字，南至柴达木路）",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城25号楼",
+        "areaName": " 东府嘉和小区4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城5号院142号楼、165号楼",
+        "areaName": " 东关大街14号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城CD区3号楼1单元",
+        "areaName": " 东关大街18号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城G区3号楼",
+        "areaName": " 福禄巷15号省公路局家属院10号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城H区30号楼",
+        "areaName": " 奉青花园35号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盛世华城H区39号楼",
+        "areaName": " 泛泰依山郡23号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 生物园区新乐花园小区24号楼",
+        "areaName": " 国际村小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 深圳印象7号楼",
+        "areaName": " 贵南小区5号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 天津路67号山水阳光人家2号楼",
+        "areaName": " 尕寺巷1号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 威隆太阳城13号楼",
+        "areaName": " 红光村140号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 西钢高速路口出口往西200米出租屋（东至西钢高速出口处，西至原大堡子派出所西侧，南至柴达木路，北至原大堡子派出所北侧）",
+        "areaName": " 虎恒花苑1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 西钢新村96号楼",
+        "areaName": " 海湖花园9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 小马坊1号",
+        "areaName": " 黄河花园9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 小桥新村3号楼",
+        "areaName": " 海宏壹号C区5号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 阳光丽景10号楼2单元",
+        "areaName": " 海宏壹号E区8号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盐庄村5号楼2单元",
+        "areaName": " 和美家苑1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盐庄平房区6排和8排",
+        "areaName": " 红旗小区2号楼4单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区柴达木路311号威龙?太阳城小区1号楼",
+        "areaName": " 湟水路6号幸福小区4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区青藏高原农副产品集散中心水果区",
+        "areaName": " 和盛园小区68号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区生物园区经二路金岸银座小区1号楼",
+        "areaName": " 红十字医院家属院2号楼、7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 翠雍星城北区3、4、9号楼",
+        "areaName": " 红十字医院家属院（南大街55号）5号楼、9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 东府嘉和小区4号楼",
+        "areaName": " 汇通家园6号楼3单元、12号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 虎恒花苑1号楼",
+        "areaName": " 红星天铂1期西区18号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 花园南街13号院",
+        "areaName": " 花园北街12号4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 冷库家属院4号楼",
+        "areaName": " 后营街4—6号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 丽康瑞居18、27号楼",
+        "areaName": " 花园南街13号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 毛纺厂小区34号楼",
+        "areaName": " 合作巷2号宏园二区12号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 宁信院9号楼",
+        "areaName": " 建材巷7号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 清风院8号楼",
+        "areaName": " 建材巷7号院2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 清风院小区",
+        "areaName": " 锦峰滨河苑1期5、7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 三源小区1号楼",
+        "areaName": " 景岳公寓13号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 永腾小区1期6号楼",
+        "areaName": " 景悦湟水湾2号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 怡心园小区",
+        "areaName": " 九州河畔64号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区东府嘉和小区4号楼",
+        "areaName": " 金座雅园三期17号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区东关大街14号",
+        "areaName": " 金座雅园三期7号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区东关大街18号楼",
+        "areaName": " 金座雅园一期1号楼5单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区泛泰依山郡23号楼",
+        "areaName": " 康尔素家园6号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区虎恒花苑1号楼",
+        "areaName": " 卢浮公馆1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区和盛园小区68号",
+        "areaName": " 逯家寨村21号，逯家寨村西边沟巷94号、94—1号、118—1号、253号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区花园南街13号院",
+        "areaName": " 冷库家属院4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区锦峰滨河苑1期5、7号楼",
+        "areaName": " 丽康瑞居18、27号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区金汇路益寿堂药店",
+        "areaName": " 丽阳天下小区4号楼5单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区冷库家属院4号楼",
+        "areaName": " 面粉厂小区2号楼4单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区丽康瑞居18、27号楼",
+        "areaName": " 毛纺厂小区34号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区毛纺厂小区34号楼",
+        "areaName": " 马坊新村3号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区宁信院9号楼",
+        "areaName": " 马坊新村三巷14-1号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区清风院8号楼",
+        "areaName": " 民惠城2号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区三源小区1号楼",
+        "areaName": " 民惠城二期4号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区吾悦华府果然鲜水果店",
+        "areaName": " 莫家街金座碧城一号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区新颜路牦牛壮骨汤店",
+        "areaName": " 南川东路11号南苑小区9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 安泰华庭小区2号楼",
+        "areaName": " 南川东路85号院37号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 晨光小区5号楼、7号楼",
+        "areaName": " 南川东路河湟小镇7号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 尕寺巷1号院",
+        "areaName": " 南川东路同心家园9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 海宏壹号C区5号楼",
+        "areaName": " 南大街56号中石花园1—6单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 海宏壹号E区8号楼",
+        "areaName": " 南山路21号院2号楼、6号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 卢浮公馆1号楼",
+        "areaName": " 南山路32号2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 盛达国际新城21号楼",
+        "areaName": " 南山路35号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 晟世达金融中心临街办公大厅（正在装修）",
+        "areaName": " 南山路鸣翠柳山庄12号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 三榆山水文园一期8号楼",
+        "areaName": " 南山路阳光小区6号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 西北园小区1号楼、4号楼",
+        "areaName": " 宁信院9号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 西川南路海湖逸景小区6号楼",
+        "areaName": " 南酉山新村二巷西三户",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 新宁路2号青核花园9号楼",
+        "areaName": " 清风院8号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 园树巷12号院4号楼",
+        "areaName": " 清风院小区",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 园树巷14号金九花园1号楼、3号楼",
+        "areaName": " 青海省红十字医院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 安宁路百韵华居31号楼2单元",
+        "areaName": " 祁家城村小区1号楼和4号楼；小马坊1号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 宝光翡翠华庭2号楼",
+        "areaName": " 青唐小镇南苑20号楼2单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 奉青花园35号楼",
+        "areaName": " 青藏高原农副产品集散中心",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 丰泽园小区20—21号楼",
+        "areaName": " 人民街3号院1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 红光村140号院",
+        "areaName": " 盛达国际新城21号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 海湖花园9号楼",
+        "areaName": " 萨尔斯堡西区4期39号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 黄河花园9号楼",
+        "areaName": " 萨尔斯堡西区二期36号楼、39号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 汇通家园6号楼3单元、12号楼1单元",
+        "areaName": " 三其村316号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 红星天铂1期西区18号楼",
+        "areaName": " 三其村365号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 花园北街12号4号楼",
+        "areaName": " 三其村80号",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 后营街4—6号楼",
+        "areaName": " 晟世达金融中心临街办公大厅（正在装修）",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 建材巷7号院2号楼",
+        "areaName": " 盛世华城1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南川东路河湟小镇7号楼",
+        "areaName": " 盛世华城25号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南川东路同心家园9号楼",
+        "areaName": " 盛世华城5号院142号楼、165号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路21号院2号楼、6号楼",
+        "areaName": " 盛世华城CD区3号楼1单元",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路32号2号楼",
+        "areaName": " 盛世华城G区17号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路35号院",
+        "areaName": " 盛世华城G区3号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路鸣翠柳山庄12号楼",
+        "areaName": " 盛世华城H区30号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路阳光小区6号楼",
+        "areaName": " 盛世华城H区34号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南酉山新村二巷西三户",
+        "areaName": " 盛世华城H区39号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 人民街3号院1号楼",
+        "areaName": " 生物园区经二路金岸银座小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 沈新巷26号、69号院",
+        "areaName": " 生物园区新乐花园小区24号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 香格里拉4期13号楼",
+        "areaName": " 沈新巷26号、69号院",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 香格里拉7期6号楼",
+        "areaName": " 三榆山水文园一期8号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 兴隆巷5号楼1单元",
+        "areaName": " 三源小区1号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 饮马街东街星座",
+        "areaName": " 天津路67号山水阳光人家2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 元树巷3号楼",
+        "areaName": " 威隆太阳城13号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区福禄巷15号省公路局家属院10号楼",
+        "areaName": " 吾悦华府果然鲜水果店、新颜路牦牛壮骨汤店、金汇路益寿堂药店",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区红十字医院家属院（南大街55号）5号楼、9号楼",
+        "areaName": " 西北园小区1号楼、4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区合作巷2号宏园二区12号楼",
+        "areaName": " 西川南路海湖逸景小区6号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区莫家街金座碧城一号楼",
+        "areaName": " 西钢高速路口出口往西200米出租屋（东至西钢高速出口处，西至原大堡子派出所西侧，南至柴达木路，北至原大堡子派出所北侧）",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区南川东路85号院37号楼",
+        "areaName": " 香格里拉4期13号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区青海省红十字医院",
+        "areaName": " 香格里拉7期6号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 西矿904家属院3号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 兴隆巷5号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 小马坊29号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 小马坊村三巷14号院;三其村转运站147号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 新宁路2号青核花园9号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 新千国际广场23号楼、新千国际二手车交易市场",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 阳光丽景10号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 阳光丽景26号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 饮马街东街星座",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 园树巷12号院4号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 园树巷14号金九花园1号楼、3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 元树巷3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 永腾小区1期6号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 怡心园小区",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄村5号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄平房区6排和8排",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄小区7号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 紫恒帝景花园49号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 紫御蘭庭6号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "丰泽园小区20—21号楼",
         "dangerLevel": 1
       },
       {
@@ -24881,412 +25116,497 @@
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北国际村冬梅园11号楼",
+        "areaName": " 安泰华庭小区（步行街以东区域）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北国际村秋芙园5号楼1单元、3单元",
+        "areaName": " 宝丰绿洲小区1号楼、2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 城北区生产资料家属院（不含4单元）",
+        "areaName": " 城北法院家属院南楼2、3、4单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 柴达木路214号6号楼（不含3单元）",
+        "areaName": " 城北国际村冬梅园11号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 朝阳西路10号路桥公司家属院4号楼4单元和6单元",
+        "areaName": " 城北国际村秋芙园5号楼1单元、3单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 朝阳西路14号果洛总段家属院1号楼和3号楼",
+        "areaName": " 城北区恒大名都14号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 大堡子村（东至西钢高速出口，西至拥军路西侧，南至柴达木路，北至艺柏花卉基地）",
+        "areaName": " 城北区金座雅园二期6号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 恒大名都14号楼",
+        "areaName": " 城北区生产资料家属院（不含4单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 红旗小区2号楼3单元和5单元",
+        "areaName": " 城北区三其村泉儿路以南、无名小巷以西、垃圾站出口以东、433号以北三排民房",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 湟水路6号幸福小区（不含4号楼）",
+        "areaName": " 城北区深圳印象12号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 九州河畔63、65号楼",
+        "areaName": " 城北区小桥新村4号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 金座雅园二期6号楼",
+        "areaName": " 柴达木路214号6号楼（不含3单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 丽阳天下小区4号楼（不含5单元）",
+        "areaName": " 柴达木路311号威隆太阳城小区（不含1号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 马坊二巷（不含马坊新村3号）",
+        "areaName": " 晨光小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 马坊新村三巷（不含14-1号）",
+        "areaName": " 翠雍星城北区除3、4、9号楼以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 祁家城村小区7号楼和8号楼",
+        "areaName": " 朝阳西路10号路桥公司家属院4号楼4单元和6单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 青唐小镇南苑（不含20号楼2单元）",
+        "areaName": " 朝阳西路14号果洛总段家属院1号楼和3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 萨尔斯堡西区4期32号、38号、45、号、46号、47号楼",
+        "areaName": " 大堡子村（东至西钢高速出口，西至拥军路西侧，南至柴达木路，北至艺柏花卉基地）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 三其村柴达木路以南、兴茂路以东、五四西路延长段以南区域（不含三其村365号）",
+        "areaName": " 东府嘉和小区3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 三其村泉儿路以南、无名小巷以西、垃圾站出口以东、433号以北三排民房",
+        "areaName": " 东关大街12号（包括临街商铺）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 生物园区新乐花园小区（不含24号楼）",
+        "areaName": " 东关大街20号",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 深圳印象12号楼",
+        "areaName": " 福禄巷15号省公路局家属院1—9号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 小马坊地区（柴达木路以北、宋家寨基本农田以南、寺儿沟桥以西、西钢匝道以东）",
+        "areaName": " 奉青花园1—8号楼、11—17号楼、19—34号楼、36—38号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 小桥新村4号楼",
+        "areaName": " 泛泰依山郡21、24号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 阳光丽景10号楼1单元",
+        "areaName": " 国际村小区除1号楼以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盐庄村5号楼（不含2单元）",
+        "areaName": " 贵南小区5号楼1单元和3单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区 盐庄平房区（不含6排和8排）",
+        "areaName": " 黄河花园9号楼以外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区柴达木路311号威龙?太阳城小区（不含1号楼）",
+        "areaName": " 海湖花园9号楼之外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区青藏高原农副产品集散中心（不含水果区）",
+        "areaName": " 虎恒花苑除1号楼以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区盛世华城小区等（铁道南小区以北、柴达木路以南、湟水路以东、汪家大沟以西区域）",
+        "areaName": " 黄河路21号西建苑小区；西北园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区生物园区经二路金岸银座小区2号楼",
+        "areaName": " 海宏壹号C区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城北区：天津路67号山水阳光人家小区1号楼、3号楼",
+        "areaName": " 海宏壹号E区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 翠雍星城北区除3、4、9号楼以外区域",
+        "areaName": " 和美家园2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 东府嘉和小区3号楼",
+        "areaName": " 红旗小区2号楼3单元和5单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 东关大街20号；",
+        "areaName": " 湟水路6号幸福小区（不含4号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 泛泰依山郡21、24号楼；",
+        "areaName": " 和盛园小区59、61、62、64、65、66、69、70、71、72号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 虎恒花苑除1号楼以外区域",
+        "areaName": " 红十字医院家属院（南大街55号）5号楼、9号楼以外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 和盛园小区59、61、62、64、65、66、69、70、71、72号楼",
+        "areaName": " 汇鑫市场",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 汇鑫市场",
+        "areaName": " 宏园二区12号楼以外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 锦峰滨河苑1期除5、7号楼以外区域",
+        "areaName": " 后营街4—6号楼同院的其他楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 冷库家属院1、2、3号楼",
+        "areaName": " 锦程嘉苑小区4号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 丽康瑞居物业公司",
+        "areaName": " 锦峰滨河苑1期除5、7号楼以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 毛纺厂小区28号楼",
+        "areaName": " 景岳公寓小区（不含13号楼1单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 宁信院除9号楼以外区域",
+        "areaName": " 景悦湟水湾小区（不含2号楼1单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 南庄子平房区、天池花园",
+        "areaName": " 建苑小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 清风院除8号楼以外区域",
+        "areaName": " 九州河畔63、65号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 三源小区2、3号楼",
+        "areaName": " 金座雅园三期（不含7号楼1单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区 永腾小区1期除6号楼以外区域",
+        "areaName": " 金座雅园一期（不含1号楼5单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区东关大街12号（包括临街商铺）",
+        "areaName": " 康尔素家园（不含6号楼2单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区建苑小区",
+        "areaName": " 卢浮公馆2号楼、5号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城东区吾悦华府",
+        "areaName": " 逯家寨村21号，逯家寨村西边沟巷94号、94—1号、118—1号、253号以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 安泰华庭小区（步行街以东区域）",
+        "areaName": " 冷库家属院1、2、3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 宝丰绿洲小区1号楼、2号楼",
+        "areaName": " 丽康瑞居物业公司",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 晨光小区",
+        "areaName": " 丽阳天下小区4号楼（不含5单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 黄河路21号西建苑小区",
+        "areaName": " 毛纺厂小区28号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 海宏壹号C区",
+        "areaName": " 面粉厂小区2号楼（不含4单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 海宏壹号E区",
+        "areaName": " 马坊二巷（不含马坊新村3号）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 锦程嘉苑小区4号楼",
+        "areaName": " 马坊新村三巷（不含14-1号）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 卢浮公馆2号楼、5号楼",
+        "areaName": " 南川东路11号南苑小区11号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 盛达国际新城",
+        "areaName": " 南川东路85号院34、35、36、38号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 三榆山水文园一期",
+        "areaName": " 南山路21号院2号楼、6号楼之外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 西北园小区",
+        "areaName": " 宁信院除9号楼以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 西川南路海湖逸景小区",
+        "areaName": " 南酉山村一巷",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 新宁路2号青核花园",
+        "areaName": " 南庄子平房区、天池花园",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 园树巷12号院",
+        "areaName": " 祁家城村小区7号楼和8号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区 园树巷14号金九花园",
+        "areaName": " 青唐小镇南苑（不含20号楼2单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城西区西城名邸小区",
+        "areaName": " 人民街3号院1号楼以外楼栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 奉青花园1—8号楼、11—17号楼、19—34号楼、36—38号楼",
+        "areaName": " 盛达国际新城",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 丰泽园小区20—21号楼以外楼栋",
+        "areaName": " 萨尔斯堡西区4期32号、38号、45、号、46号、47号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 黄河花园9号楼以外楼栋",
+        "areaName": " 萨尔斯堡西区二期（不含36号楼、39号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 海湖花园9号楼之外楼栋",
+        "areaName": " 三其村柴达木路以南、兴茂路以东、五四西路延长段以南区域（不含三其村365号）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 后营街4—6号楼同院的其他楼栋",
+        "areaName": " 三其村（转运站铁路以南，柴达木路以北，海子沟乡间公路以东，公厕以西）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南山路21号院2号楼、6号楼之外楼栋",
+        "areaName": " 盛世华城小区等（铁道南小区以北、柴达木路以南、湟水路以东、汪家大沟以西区域）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 南酉山村一巷",
+        "areaName": " 生物园区经二路金岸银座小区2号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 人民街3号院1号楼以外楼栋",
+        "areaName": " 生物园区新乐花园小区（不含24号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区 沈新巷除26号、69号院以外区域",
+        "areaName": " 沈新巷除26号、69号院以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区福禄巷15号省公路局家属院1—9号楼",
+        "areaName": " 三榆山水文园一期",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区红十字医院家属院（南大街55号）5号楼、9号楼以外楼栋",
+        "areaName": " 三源小区2、3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区宏园二区12号楼以外楼栋",
+        "areaName": " 天津路67号山水阳光人家小区1号楼、3号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区南川东路85号院34、35、36、38号楼",
+        "areaName": " 吾悦华府",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区总寨镇新庄村集贸市场",
+        "areaName": " 西城名邸小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西宁",
-        "areaName": "城中区：兴隆巷 5 号 2、3、4 单元",
+        "areaName": " 西川南路海湖逸景小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 西矿904家属院（不含3号楼2单元）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 兴隆巷 5 号 2、3、4 单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 小马坊地区（柴达木路以北、宋家寨基本农田以南、寺儿沟桥以西、西钢匝道以东）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 新宁路2号青核花园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 新千国际广场除23号楼、二手车交易市场以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 阳光丽景10号楼1单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 阳光丽景26号楼2单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 园树巷12号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 园树巷14号金九花园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 永腾小区1期除6号楼以外区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄村5号楼（不含2单元）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄平房区（不含6排和8排）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 盐庄小区（不含7号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 紫恒帝景花园49号楼2单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 紫御蘭庭6号楼2单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": " 总寨镇新庄村集贸市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西宁",
+        "areaName": "丰泽园小区20—21号楼以外楼栋",
         "dangerLevel": 2
       },
       {
