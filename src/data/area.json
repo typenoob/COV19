@@ -52,8 +52,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 100,
-    "midDangerCount": 111,
+    "highDangerCount": 108,
+    "midDangerCount": 120,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -64,8 +64,8 @@
         "suspectedCount": 3,
         "curedCount": 3838,
         "deadCount": 1,
-        "highDangerCount": 66,
-        "midDangerCount": 72,
+        "highDangerCount": 73,
+        "midDangerCount": 79,
         "locationId": 440100,
         "currentConfirmedCountStr": "306",
         "fullCityName": "广州市"
@@ -103,8 +103,8 @@
         "suspectedCount": 3,
         "curedCount": 4128,
         "deadCount": 3,
-        "highDangerCount": 6,
-        "midDangerCount": 13,
+        "highDangerCount": 7,
+        "midDangerCount": 15,
         "locationId": 440300,
         "currentConfirmedCountStr": "113",
         "fullCityName": "深圳市"
@@ -672,7 +672,42 @@
       },
       {
         "cityName": "广州",
+        "areaName": "鹤龙街：福门北一巷16-28号（双号），福门北二巷8-22号（双号），福门北三巷2号、2-2号、4号、6号、8号，黄边南路一街26号、28号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "黄石街：余贵里1号、3（5）号、4号、6—8号，余中里2号、6—8号，安和里8号，马务联和西街北四巷7-11号（单号），马务联和西街北五巷7-11号（单号），马务联和西街北六巷11号，江夏白社东15号，江夏白社东四巷4-8号（双号），江夏白社东三巷2号、3号、5号、6号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "海珠区赤岗街道赤岗路97号大院4栋、5栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "金沙街：横沙村中约八巷19号、21号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "石井街：石潭西路17号、19号，石潭西路1-1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "松洲街：西洲中路68号公寓楼A、B、C栋，增槎路槎龙社区南楼804号，槎龙万龙六巷16号、18号、22号、24号、28号、30号、33号、37号、39号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "棠景街：景丽街9号、11号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "新市街：黄沙岗六巷12号，七巷12号、14—16号",
         "dangerLevel": 1
       },
       {
@@ -763,6 +798,11 @@
       {
         "cityName": "深圳",
         "areaName": "南山区招商街道文竹园小区19栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "粤海街道后海村第85、86、87、90、91、92、112号",
         "dangerLevel": 1
       },
       {
@@ -1202,7 +1242,42 @@
       },
       {
         "cityName": "广州",
+        "areaName": "鹤龙街：福门北一巷至六巷",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "黄石街：东至余富里12号连接余和里9号、南至余和里连接余祥里、西至马务北街、北至余通里连接余富里，东至江夏白社东二巷、南至黄石东路、西至江夏白社东四巷、北至江夏白社东街，马务联和西街北三巷3号、7号、9号、23号，马务联和西街北四巷5号、13号，马务联和西街北五巷5号、13号，马务联合西街北六巷13号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "海珠区赤岗街道赤岗路97号大院1-3栋、9-17栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "金沙街：横沙村中约八巷15号、16号，横沙村中约十巷10号、15号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "石井街：张村新庄002、003、004、005网格及石潭西路1-2号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "松洲街：槎龙社区南楼802号、806号，槎龙社区北楼810-814号（双号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "棠景街：翠逸家园小区（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "新市街：黄沙岗六巷4-10号（双号）、16号，黄沙岗七巷4-8号（双号）",
         "dangerLevel": 2
       },
       {
@@ -1268,6 +1343,16 @@
       {
         "cityName": "深圳",
         "areaName": "南山区招商街道文竹园小区（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南油B区32栋101和招商街道后海市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "粤海街道后海村中片区（除高风险区外）",
         "dangerLevel": 2
       },
       {
