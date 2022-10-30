@@ -52,8 +52,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 95,
-    "midDangerCount": 115,
+    "highDangerCount": 101,
+    "midDangerCount": 121,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -64,8 +64,8 @@
         "suspectedCount": 3,
         "curedCount": 3895,
         "deadCount": 1,
-        "highDangerCount": 53,
-        "midDangerCount": 72,
+        "highDangerCount": 59,
+        "midDangerCount": 78,
         "locationId": 440100,
         "currentConfirmedCountStr": "371",
         "fullCityName": "广州市"
@@ -347,6 +347,11 @@
     "dangerAreas": [
       {
         "cityName": "广州",
+        "areaName": "白云湖街：南悦花苑中一街4号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "白云区白云湖街石丰花园东区A7栋",
         "dangerLevel": 1
       },
@@ -607,7 +612,32 @@
       },
       {
         "cityName": "广州",
+        "areaName": "黄石街：白社东三巷5号，白社东四巷8号、9号，白社东街15—19号（单号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "海珠区赤岗街道赤岗路97号大院4-5栋、6-8栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "人和镇：东华村大田东三十巷13—17号（单号），南兴东二巷3—7号（单号），大田东三十二巷13、17号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "石井街：南新五巷4号，南新六巷4号、5号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "松洲街：槎龙天枢街27号、29—33号，秋湖前巷2号、4号，打银巷1号，蚬岗2号、4号，丽景街17号、19号、20号、26号、32号，西洲北路241号旺江楼，聚龙街13—17号（单号）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "新市街：大埔南约1号、1号-1、2号、3号、3号-1、5号、7号",
         "dangerLevel": 1
       },
       {
@@ -819,6 +849,11 @@
         "cityName": "佛山",
         "areaName": "顺德区大良街道飞鹅工业区C座携创电机制造有限公司厂区",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "白云湖街：南悦花苑中一街2号",
+        "dangerLevel": 2
       },
       {
         "cityName": "广州",
@@ -1177,7 +1212,32 @@
       },
       {
         "cityName": "广州",
+        "areaName": "黄石街：白社中街18号-中街2号-白社东一巷1号-东街7号合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
         "areaName": "海珠区赤岗街道赤岗路97号大院1-3栋、9-17栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "人和镇：东华村沿东至人和东成街，沿南至大田东二十八巷15号，沿西至东祥街，沿北至南兴东四巷5号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "石井街：南新五巷3号、5号，南新六巷3号、6号，南新七巷3-5号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "松洲街：渔民新村，西洲中路20号，聚龙街19号、21—23号、25号、27号、32号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广州",
+        "areaName": "新市街：东至大埔南九巷，南至南约大街，西至牛角塘车场，北至大埔北八巷19号，大埔南约九巷3号",
         "dangerLevel": 2
       },
       {
