@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 7783325,
-    "confirmedCount": 7810077,
+    "currentConfirmedCount": 7810832,
+    "confirmedCount": 7837658,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 13010,
+    "deadCount": 13084,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 334433,
-    "confirmedCount": 436934,
+    "currentConfirmedCount": 334827,
+    "confirmedCount": 437339,
     "suspectedCount": 181,
     "curedCount": 92073,
-    "deadCount": 10428,
+    "deadCount": 10439,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -7592,8 +7592,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 12,
-    "midDangerCount": 10,
+    "highDangerCount": 20,
+    "midDangerCount": 28,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -7684,8 +7684,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 1,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 4,
         "locationId": 110112,
         "currentConfirmedCountStr": "119",
         "fullCityName": "通州区"
@@ -7737,7 +7737,7 @@
         "curedCount": 134,
         "deadCount": 0,
         "highDangerCount": 3,
-        "midDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 110115,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -7751,7 +7751,7 @@
         "curedCount": 7,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 8,
         "locationId": 110118,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -7764,8 +7764,8 @@
         "suspectedCount": 0,
         "curedCount": 15,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 2,
         "locationId": 110107,
         "currentConfirmedCountStr": "22",
         "fullCityName": "石景山区"
@@ -7791,8 +7791,8 @@
         "suspectedCount": 0,
         "curedCount": 0,
         "deadCount": 0,
-        "highDangerCount": 8,
-        "midDangerCount": 5,
+        "highDangerCount": 14,
+        "midDangerCount": 11,
         "locationId": 110117,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -7873,42 +7873,72 @@
       },
       {
         "cityName": "平谷区",
-        "areaName": "平谷镇香墅湾一号地东区1号楼",
+        "areaName": "平谷(渔阳地区)镇平翔东路61号楼小院包含61号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "平翔东路61号楼小院包含61号楼",
+        "areaName": "平谷(渔阳地区)镇太和东园4号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "瑞丰华花园14号楼",
+        "areaName": "平谷(渔阳地区)镇香墅湾一号地",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "山东庄镇 山东庄村",
+        "areaName": "平谷（渔阳地区）镇北环东路24号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "太和东园4号楼",
+        "areaName": "平谷（渔阳地区）镇仁和家园2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "兴谷街道 金乡西小区53号楼",
+        "areaName": "平谷（渔阳地区）镇万德福东区2号楼",
         "dangerLevel": 1
       },
       {
         "cityName": "平谷区",
-        "areaName": "峪口镇南杨桥村",
+        "areaName": "山东庄镇山东庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道金乡西小区53号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道瑞丰华花园14号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道兴谷开发区德意精品工厂内2层楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道永安家园3号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道燕谷嘉苑1号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "峪口（地区）镇南杨桥村",
         "dangerLevel": 1
       },
       {
         "cityName": "大兴区",
-        "areaName": "高米店街道旭辉御府小区全域",
+        "areaName": "高米店街道旭辉御府小区4-6、10-13、22号楼",
         "dangerLevel": 1
       },
       {
@@ -7927,43 +7957,143 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "通州区",
+        "areaName": "宋庄镇师姑庄村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "石景山区",
+        "areaName": "苹果园街道海特花园57号楼1、2单元",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "平谷区",
-        "areaName": "鲁各庄村除高风险以外区域",
+        "areaName": "大兴庄镇鲁各庄村除高风险以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "平谷区",
-        "areaName": "利农胡同以东、利农胡同平房以北、平谷区医院以北、康乐街小公园及平谷区四园以西",
+        "areaName": "平谷(渔阳地区)镇太和东园2号楼、3号楼、5—10号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "平谷区",
-        "areaName": "瑞丰华花园13号楼、15号楼",
+        "areaName": "平谷（渔阳地区）镇北环东路24号向南、拥军路向北之间民房",
         "dangerLevel": 2
       },
       {
         "cityName": "平谷区",
-        "areaName": "太和东园2号楼、3号楼、5-10号楼",
+        "areaName": "平谷（渔阳地区）镇仁和家园1号、3-6号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "平谷区",
-        "areaName": "峪口（地区）镇 厂门口村",
+        "areaName": "平谷（渔阳地区）镇万德福东区3、4、6、7、8、10号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道利农胡同以东、利农胡同平房以北、医院以北、康乐街小公园及四园以西",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道瑞丰华花园13号楼、15号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道兴谷开发区德意精品工厂内2层楼以外地区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道永安家园1-2号楼、4-10号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "兴谷街道燕谷嘉苑2号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "平谷区",
+        "areaName": "峪口(地区)镇厂门口村",
         "dangerLevel": 2
       },
       {
         "cityName": "密云区",
-        "areaName": "鼓楼街道 行宫南区",
+        "areaName": "鼓楼街道解放胡同",
         "dangerLevel": 2
       },
       {
         "cityName": "密云区",
-        "areaName": "果园街道 瑞海姆小区",
+        "areaName": "鼓楼街道绿地朗山健康产业园2号院",
         "dangerLevel": 2
       },
       {
         "cityName": "密云区",
-        "areaName": "果园街道 通用博园小区",
+        "areaName": "鼓楼街道西城根胡同",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "鼓楼街道行宫南区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "鼓楼街道育教胡同",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "鼓楼街道长安东区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "果园街道瑞海姆小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "果园街道通用博园小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "宋庄镇北刘各庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "宋庄镇大邓各庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "宋庄镇小邓各庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "宋庄镇摇不动村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "石景山区",
+        "areaName": "八角街道八角北路特钢社区9号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "石景山区",
+        "areaName": "苹果园街道海特花园57号楼3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "大兴区",
+        "areaName": "高米店街道旭辉御府小区除4、5、6、10、11、12、13、22号楼以外的楼栋",
         "dangerLevel": 2
       },
       {
@@ -22755,8 +22885,8 @@
     "comment": "",
     "locationId": 120000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-    "highDangerCount": 51,
-    "midDangerCount": 41,
+    "highDangerCount": 52,
+    "midDangerCount": 42,
     "detectOrgCount": 101,
     "vaccinationOrgCount": 16,
     "cities": [
@@ -22793,8 +22923,8 @@
         "suspectedCount": 0,
         "curedCount": 28,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 1,
+        "midDangerCount": 1,
         "locationId": 120103,
         "currentConfirmedCountStr": "34",
         "fullCityName": "河西区"
@@ -23265,6 +23395,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "河西区",
+        "areaName": "挂甲寺街海景雅苑8号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "滨海新区",
         "areaName": "胡家园街道滨尚花园10号楼",
         "dangerLevel": 2
@@ -23467,6 +23602,11 @@
       {
         "cityName": "北辰区",
         "areaName": "宜兴埠镇万达家园小区除高风险区域以外的其他区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "河西区",
+        "areaName": "挂甲寺街海景雅苑除8号楼以外的其他楼",
         "dangerLevel": 2
       }
     ]
