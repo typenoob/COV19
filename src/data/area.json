@@ -24,10 +24,10 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 334827,
+    "currentConfirmedCount": 334522,
     "confirmedCount": 437339,
     "suspectedCount": 181,
-    "curedCount": 92073,
+    "curedCount": 92378,
     "deadCount": 10439,
     "comment": "",
     "locationId": 810000,
@@ -44,10 +44,10 @@
     "name": "广东",
     "provinceName": "广东省",
     "provinceShortName": "广东",
-    "currentConfirmedCount": 1383,
-    "confirmedCount": 12591,
+    "currentConfirmedCount": 1552,
+    "confirmedCount": 12819,
     "suspectedCount": 25,
-    "curedCount": 11200,
+    "curedCount": 11259,
     "deadCount": 8,
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
@@ -59,54 +59,54 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 1018,
-        "confirmedCount": 5018,
+        "currentConfirmedCount": 1188,
+        "confirmedCount": 5188,
         "suspectedCount": 3,
         "curedCount": 3999,
         "deadCount": 1,
         "highDangerCount": 43,
         "midDangerCount": 66,
         "locationId": 440100,
-        "currentConfirmedCountStr": "1018",
+        "currentConfirmedCountStr": "1188",
         "fullCityName": "广州市"
       },
       {
         "cityName": "佛山",
-        "currentConfirmedCount": 221,
-        "confirmedCount": 636,
+        "currentConfirmedCount": 222,
+        "confirmedCount": 637,
         "suspectedCount": 1,
         "curedCount": 415,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 2,
         "locationId": 440600,
-        "currentConfirmedCountStr": "221",
+        "currentConfirmedCountStr": "222",
         "fullCityName": "佛山市"
       },
       {
         "cityName": "湛江",
-        "currentConfirmedCount": 182,
-        "confirmedCount": 324,
+        "currentConfirmedCount": 183,
+        "confirmedCount": 325,
         "suspectedCount": 2,
         "curedCount": 142,
         "deadCount": 0,
         "highDangerCount": 1,
         "midDangerCount": 1,
         "locationId": 440800,
-        "currentConfirmedCountStr": "182",
+        "currentConfirmedCountStr": "183",
         "fullCityName": "湛江市"
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 154,
-        "confirmedCount": 4378,
+        "currentConfirmedCount": 165,
+        "confirmedCount": 4389,
         "suspectedCount": 3,
         "curedCount": 4221,
         "deadCount": 3,
         "highDangerCount": 15,
         "midDangerCount": 21,
         "locationId": 440300,
-        "currentConfirmedCountStr": "154",
+        "currentConfirmedCountStr": "165",
         "fullCityName": "深圳市"
       },
       {
@@ -136,6 +136,32 @@
         "fullCityName": "江门市"
       },
       {
+        "cityName": "茂名",
+        "currentConfirmedCount": 81,
+        "confirmedCount": 133,
+        "suspectedCount": 0,
+        "curedCount": 52,
+        "deadCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 4,
+        "locationId": 440900,
+        "currentConfirmedCountStr": "81",
+        "fullCityName": "茂名市"
+      },
+      {
+        "cityName": "汕头",
+        "currentConfirmedCount": 74,
+        "confirmedCount": 105,
+        "suspectedCount": 0,
+        "curedCount": 31,
+        "deadCount": 0,
+        "highDangerCount": 8,
+        "midDangerCount": 1,
+        "locationId": 440500,
+        "currentConfirmedCountStr": "74",
+        "fullCityName": "汕头市"
+      },
+      {
         "cityName": "珠海",
         "currentConfirmedCount": 67,
         "confirmedCount": 504,
@@ -147,19 +173,6 @@
         "locationId": 440400,
         "currentConfirmedCountStr": "67",
         "fullCityName": "珠海市"
-      },
-      {
-        "cityName": "茂名",
-        "currentConfirmedCount": 63,
-        "confirmedCount": 115,
-        "suspectedCount": 0,
-        "curedCount": 52,
-        "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 4,
-        "locationId": 440900,
-        "currentConfirmedCountStr": "63",
-        "fullCityName": "茂名市"
       },
       {
         "cityName": "梅州",
@@ -175,17 +188,17 @@
         "fullCityName": "梅州市"
       },
       {
-        "cityName": "汕头",
-        "currentConfirmedCount": 48,
-        "confirmedCount": 79,
-        "suspectedCount": 0,
-        "curedCount": 31,
-        "deadCount": 0,
-        "highDangerCount": 8,
+        "cityName": "东莞",
+        "currentConfirmedCount": 35,
+        "confirmedCount": 531,
+        "suspectedCount": 1,
+        "curedCount": 495,
+        "deadCount": 1,
+        "highDangerCount": 4,
         "midDangerCount": 1,
-        "locationId": 440500,
-        "currentConfirmedCountStr": "48",
-        "fullCityName": "汕头市"
+        "locationId": 441900,
+        "currentConfirmedCountStr": "35",
+        "fullCityName": "东莞市"
       },
       {
         "cityName": "韶关",
@@ -199,19 +212,6 @@
         "locationId": 440200,
         "currentConfirmedCountStr": "35",
         "fullCityName": "韶关市"
-      },
-      {
-        "cityName": "东莞",
-        "currentConfirmedCount": 34,
-        "confirmedCount": 530,
-        "suspectedCount": 1,
-        "curedCount": 495,
-        "deadCount": 1,
-        "highDangerCount": 4,
-        "midDangerCount": 1,
-        "locationId": 441900,
-        "currentConfirmedCountStr": "34",
-        "fullCityName": "东莞市"
       },
       {
         "cityName": "中山",
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -819,
+        "currentConfirmedCount": -878,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 819,
+        "curedCount": 878,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-819",
+        "currentConfirmedCountStr": "-878",
         "fullCityName": "待明确地区"
       }
     ],
@@ -696,6 +696,21 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "茂名",
+        "areaName": "茂南区东汇·名雅城15栋、16栋、17栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "茂名",
+        "areaName": "茂南区公馆镇蒲炉塘村卫生站及旁边的余某、朱某店",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "茂名",
+        "areaName": "茂南区茂名碧桂园碧湖春晓31街14栋",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "梅州",
         "areaName": "汤坑镇滨江湾花园豪雅轩",
         "dangerLevel": 1
@@ -723,21 +738,6 @@
       {
         "cityName": "江门",
         "areaName": "蓬江区环市街里村社区凤山水岸二期8栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "茂名",
-        "areaName": "茂南区东汇·名雅城15栋、16栋、17栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "茂名",
-        "areaName": "茂南区公馆镇蒲炉塘村卫生站及旁边的余某、朱某店",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "茂名",
-        "areaName": "茂南区茂名碧桂园碧湖春晓31街14栋",
         "dangerLevel": 1
       },
       {
@@ -1261,26 +1261,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "梅州",
-        "areaName": "埔寨镇",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "梅州",
-        "areaName": "汤坑镇（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "梅州",
-        "areaName": "汤南镇",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "梅州",
-        "areaName": "汤西镇",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "茂名",
         "areaName": "茂南区东汇·名雅城（除高风险区外）",
         "dangerLevel": 2
@@ -1298,6 +1278,26 @@
       {
         "cityName": "茂名",
         "areaName": "茂南区新华街道",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "梅州",
+        "areaName": "埔寨镇",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "梅州",
+        "areaName": "汤坑镇（除高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "梅州",
+        "areaName": "汤南镇",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "梅州",
+        "areaName": "汤西镇",
         "dangerLevel": 2
       },
       {
@@ -1326,6 +1326,16 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "惠州",
+        "areaName": "惠城区江北街道万科金域3期1栋A、B单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "惠州",
+        "areaName": "惠城区龙丰街道碧桂园盛汇广场",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "佛山",
         "areaName": "飞鹅工业区C座携创电机制造有限公司厂区",
         "dangerLevel": 2
@@ -1346,23 +1356,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "惠州",
-        "areaName": "惠城区江北街道万科金域3期1栋A、B单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "惠州",
-        "areaName": "惠城区龙丰街道碧桂园盛汇广场",
+        "cityName": "汕头",
+        "areaName": "陈店镇其他区域",
         "dangerLevel": 2
       },
       {
         "cityName": "东莞",
         "areaName": "东骏路-宏伟一路-台心路-环城路-宏伟七路合围区域（除高风险区外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "陈店镇其他区域",
         "dangerLevel": 2
       },
       {
@@ -27943,9 +27943,9 @@
     "provinceName": "上海市",
     "provinceShortName": "上海",
     "currentConfirmedCount": 51,
-    "confirmedCount": 64306,
+    "confirmedCount": 64312,
     "suspectedCount": 393,
-    "curedCount": 63660,
+    "curedCount": 63666,
     "deadCount": 595,
     "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
     "locationId": 310000,
@@ -28060,6 +28060,19 @@
         "fullCityName": "宝山区"
       },
       {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 44,
+        "confirmedCount": 5570,
+        "suspectedCount": 8,
+        "curedCount": 5526,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "44",
+        "fullCityName": "境外输入"
+      },
+      {
         "cityName": "长宁区",
         "currentConfirmedCount": 44,
         "confirmedCount": 2406,
@@ -28071,19 +28084,6 @@
         "locationId": 310105,
         "currentConfirmedCountStr": "44",
         "fullCityName": "长宁区"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 43,
-        "confirmedCount": 5564,
-        "suspectedCount": 8,
-        "curedCount": 5521,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "43",
-        "fullCityName": "境外输入"
       },
       {
         "cityName": "普陀区",
@@ -28204,15 +28204,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1596,
+        "currentConfirmedCount": -1597,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 1008,
+        "curedCount": 1009,
         "deadCount": 588,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1596",
+        "currentConfirmedCountStr": "-1597",
         "fullCityName": "待明确地区"
       }
     ],
@@ -28268,11 +28268,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "徐汇区",
-        "areaName": "斜土路街道日晖二村及其北门零陵路沿街商铺（大木桥路-茶陵路双号）",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "杨浦区",
         "areaName": "大桥街道长阳路1315弄 (包括沿街商铺 )",
         "dangerLevel": 2
@@ -28285,6 +28280,11 @@
       {
         "cityName": "闵行区",
         "areaName": "江川路街道华宁路111号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "徐汇区",
+        "areaName": "斜土路街道日晖二村及其北门零陵路沿街商铺（大木桥路-茶陵路双号）",
         "dangerLevel": 2
       }
     ]
