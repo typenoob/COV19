@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 7836300,
-    "confirmedCount": 7863193,
+    "currentConfirmedCount": 7860598,
+    "confirmedCount": 7887538,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 13151,
+    "deadCount": 13198,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -7772,8 +7772,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 20,
-    "midDangerCount": 28,
+    "highDangerCount": 35,
+    "midDangerCount": 38,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -7797,8 +7797,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 16,
+        "midDangerCount": 14,
         "locationId": 110105,
         "currentConfirmedCountStr": "760",
         "fullCityName": "朝阳区"
@@ -7864,8 +7864,8 @@
         "suspectedCount": 0,
         "curedCount": 20,
         "deadCount": 0,
-        "highDangerCount": 2,
-        "midDangerCount": 4,
+        "highDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 110112,
         "currentConfirmedCountStr": "121",
         "fullCityName": "通州区"
@@ -8047,6 +8047,86 @@
     ],
     "dangerAreas": [
       {
+        "cityName": "朝阳区",
+        "areaName": "安贞街道安华西里二区10号楼，外馆西街2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡单店西路1号院恒大江湾4号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡东泽园1号院2号楼2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡东泽园2号院",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡高杨树北里平房1-5排",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡华瀚福园D区424号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡汇景苑三区2号楼3单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡锦安家园1区2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡金驹家园F区209号楼1单元、207号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡鑫方盛五金建材（朝阳分公司）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东湖街道南湖东园一区107号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "黑庄户（地区）乡双桥温泉东里小区6号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏（地区）乡金泽家园A区2号楼、5号楼、1号楼、7号楼、8号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏（地区）乡金泽家园C区8号楼、308号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "来广营（地区）乡北苑6号院2号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "六里屯街道六里屯北里12号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "平谷区",
         "areaName": "大兴庄镇鲁各庄社区卫生服务站东侧路与南侧路交叉区域、鲁各庄村东北方向的网格内区域",
         "dangerLevel": 1
@@ -8132,19 +8212,84 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "通州区",
-        "areaName": "神龙辛屯小区南区5号楼、7号楼、11号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "宋庄镇师姑庄村",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "石景山区",
         "areaName": "苹果园街道海特花园57号楼1、2单元",
         "dangerLevel": 1
+      },
+      {
+        "cityName": "通州区",
+        "areaName": "马驹桥镇神龙辛屯小区南区5号楼、7号楼、11号楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "安贞街道外馆西街1号楼停车场旁岗亭、保安岗亭旁烟酒店、泼辣江城重庆火锅店（外馆斜街店）及东侧公共卫生间、安华学校",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡北京轻工商业大厦其他楼宇（除外鑫方盛五金建材）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡单店西路1号院恒大江湾5号楼、6号楼、7号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡东泽园1号院2号楼其他单元及东泽园1号院1号楼、4号楼、5号楼、7号楼、8号楼（含底商）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡华瀚福园D区（除外424号楼）及底商",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡汇景苑三区2号楼（除外3单元）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡锦安家园1区（除外2号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东坝（地区）乡金驹家园F区及底商（除外209号楼1单元、207号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "东湖街道南湖东园一区及底商（除外107号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "黑庄户（地区）乡双桥温泉东里小区(除外6号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏（地区）乡金泽家园A区其他楼宇及底商（除外1号楼、2号楼、5号楼、7号楼、8号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏（地区）乡金泽家园B区（含底商）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "金盏（地区）乡金泽家园C区其他楼宇及底商（除外8号楼、308号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "来广营（地区）乡北苑6号院（除外2号楼）",
+        "dangerLevel": 2
       },
       {
         "cityName": "平谷区",
@@ -8239,26 +8384,6 @@
       {
         "cityName": "密云区",
         "areaName": "果园街道通用博园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "宋庄镇北刘各庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "宋庄镇大邓各庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "宋庄镇小邓各庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "通州区",
-        "areaName": "宋庄镇摇不动村",
         "dangerLevel": 2
       },
       {
