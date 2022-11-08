@@ -53,7 +53,7 @@
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
     "highDangerCount": 145,
-    "midDangerCount": 152,
+    "midDangerCount": 149,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -143,7 +143,7 @@
         "curedCount": 113,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 441300,
         "currentConfirmedCountStr": "110",
         "fullCityName": "惠州市"
@@ -260,7 +260,7 @@
         "curedCount": 53,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 3,
+        "midDangerCount": 1,
         "locationId": 441700,
         "currentConfirmedCountStr": "13",
         "fullCityName": "阳江市"
@@ -1031,16 +1031,6 @@
         "dangerLevel": 1
       },
       {
-        "cityName": "阳江",
-        "areaName": "春湾镇石龙路两边前后三排建筑（具体以围蔽范围为准）",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "阳江",
-        "areaName": "春湾镇新明村委会东风自然村水田以东、县道602线以西、下岗村路口树林以南、新明明发商店南侧巷子以北（具体以围蔽范围为准）",
-        "dangerLevel": 1
-      },
-      {
         "cityName": "清远",
         "areaName": "黎埠镇圩镇全域及周边部分村落区域",
         "dangerLevel": 1
@@ -1068,6 +1058,16 @@
       {
         "cityName": "揭阳",
         "areaName": "普宁市占陇镇占苏村水门仔路北第2街、第3街范围内厝座",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "阳江",
+        "areaName": "春湾镇石龙路两边前后三排建筑（具体以围蔽范围为准）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "阳江",
+        "areaName": "春湾镇新明村委会东风自然村水田以东、县道602线以西、下岗村路口树林以南、新明明发商店南侧巷子以北（具体以围蔽范围为准）",
         "dangerLevel": 1
       },
       {
@@ -1607,7 +1607,7 @@
       },
       {
         "cityName": "深圳",
-        "areaName": " 福田区福田街道口岸社区皇御苑第5栋-第6栋裙楼",
+        "areaName": " 福田区福田街道口岸社区皇御苑第6栋（裙楼除外）",
         "dangerLevel": 2
       },
       {
@@ -1617,12 +1617,12 @@
       },
       {
         "cityName": "深圳",
-        "areaName": " 光明区玉塘街道田寮社区长塘路二巷22号范围",
+        "areaName": " 光明区马田街道石家社区南环路9号峰荟花园4栋",
         "dangerLevel": 2
       },
       {
         "cityName": "深圳",
-        "areaName": " 龙岗区布吉街道布吉社区和兴街16号",
+        "areaName": " 光明区玉塘街道田寮社区长塘路二巷22号范围",
         "dangerLevel": 2
       },
       {
@@ -1781,21 +1781,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "阳江",
-        "areaName": "春湾镇新明村委会东风自然村（除高风险区域外）以及急水自然村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阳江",
-        "areaName": "江城区市区高凉路69号房屋以东，丰盈科技公司以西，高凉路以南，市特殊学校北边围墙以北的平排商铺区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "阳江",
-        "areaName": "阳东区东城镇京源上景小区5幢一单元",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "揭阳",
         "areaName": "普宁市东至占棉路，北至占苏村育新路，西至文德路，南至324国道",
         "dangerLevel": 2
@@ -1821,13 +1806,13 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "惠州",
-        "areaName": "惠城区龙丰街道碧桂园盛汇广场",
+        "cityName": "清远",
+        "areaName": "洲心街道东至滨江路、凤鸣路、广清大道，南至人民二路、三路、四路，西至城西大道，北至北江二路、三路范围内 ",
         "dangerLevel": 2
       },
       {
-        "cityName": "清远",
-        "areaName": "洲心街道东至滨江路、凤鸣路、广清大道，南至人民二路、三路、四路，西至城西大道，北至北江二路、三路范围内 ",
+        "cityName": "阳江",
+        "areaName": "阳春市春湾镇新明村委会东风自然村（除高风险区域外）以及急水自然村",
         "dangerLevel": 2
       }
     ]
@@ -7757,8 +7742,8 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 67,
-    "midDangerCount": 75,
+    "highDangerCount": 68,
+    "midDangerCount": 78,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -7782,8 +7767,8 @@
         "suspectedCount": 0,
         "curedCount": 80,
         "deadCount": 0,
-        "highDangerCount": 44,
-        "midDangerCount": 37,
+        "highDangerCount": 45,
+        "midDangerCount": 40,
         "locationId": 110105,
         "currentConfirmedCountStr": "795",
         "fullCityName": "朝阳区"
@@ -8252,6 +8237,11 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "朝阳区",
+        "areaName": "定福庄西里1号院15号楼",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "平谷区",
         "areaName": " 北环东路24号楼",
         "dangerLevel": 1
@@ -8548,7 +8538,22 @@
       },
       {
         "cityName": "朝阳区",
+        "areaName": "安苑东里一区5号楼、6号楼、7号楼及平房区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
         "areaName": "垂杨柳南里小区（除外9号楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "定福庄西里1号院及底商（除15号楼外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "朝阳区",
+        "areaName": "小店村网格8区230号、232号、网格6区143号、144号、145号",
         "dangerLevel": 2
       },
       {
@@ -8757,7 +8762,7 @@
     "locationId": 410000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
     "highDangerCount": 21,
-    "midDangerCount": 71,
+    "midDangerCount": 66,
     "detectOrgCount": 197,
     "vaccinationOrgCount": 234,
     "cities": [
@@ -8769,7 +8774,7 @@
         "curedCount": 683,
         "deadCount": 5,
         "highDangerCount": 15,
-        "midDangerCount": 71,
+        "midDangerCount": 66,
         "locationId": 410100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -9161,6 +9166,16 @@
       },
       {
         "cityName": "郑州",
+        "areaName": " 二七区蜜蜂张街道西工房社区西工房小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "郑州",
+        "areaName": " 二七区蜜蜂张街道西工房社区中原东路120号院（外六楼）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "郑州",
         "areaName": " 二七区马寨镇坟上社区东邢花园",
         "dangerLevel": 2
       },
@@ -9176,6 +9191,11 @@
       },
       {
         "cityName": "郑州",
+        "areaName": " 二七区嵩山路街道瑞民社区升龙城10号院1号楼一单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "郑州",
         "areaName": " 二七区长江路街道航海中路社区高寨农贸市场",
         "dangerLevel": 2
       },
@@ -9186,22 +9206,7 @@
       },
       {
         "cityName": "郑州",
-        "areaName": " 管城回族区北下街街道办事处北顺城社区法院后街42号楼及法院后街35号院1号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": " 管城回族区金岱街道办事处七里河村七里河小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
         "areaName": " 管城回族区十八里河街道办事处刘湾村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": " 管城回族区紫荆山南路街道办事处蓉湾社区正商芙蓉湾小区",
         "dangerLevel": 2
       },
       {
@@ -9246,7 +9251,7 @@
       },
       {
         "cityName": "郑州",
-        "areaName": " 金水区东风路街道宋砦小区2号院",
+        "areaName": " 金水区南阳新村街道三北社区",
         "dangerLevel": 2
       },
       {
@@ -9262,11 +9267,6 @@
       {
         "cityName": "郑州",
         "areaName": " 新密市超化镇申沟村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": " 新密市大隗镇陈庄村",
         "dangerLevel": 2
       },
       {
@@ -9396,11 +9396,6 @@
       },
       {
         "cityName": "郑州",
-        "areaName": " 中原区汝河路街道汝河小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
         "areaName": " 中原区汝河路街道桐淮小区",
         "dangerLevel": 2
       },
@@ -9481,22 +9476,7 @@
       },
       {
         "cityName": "郑州",
-        "areaName": "蜜蜂张街道西工房社区西工房小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": "蜜蜂张街道西工房社区中原东路120号院(外六楼)",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": "南阳新村街道三北社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "郑州",
-        "areaName": "嵩山路街道瑞民社区升龙城10号院1号楼一单元",
+        "areaName": "中原区汝河路街道汝河小区",
         "dangerLevel": 2
       }
     ]
@@ -9515,7 +9495,7 @@
     "locationId": 500000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
     "highDangerCount": 12,
-    "midDangerCount": 129,
+    "midDangerCount": 183,
     "detectOrgCount": 80,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -9527,7 +9507,7 @@
         "curedCount": 129,
         "deadCount": 0,
         "highDangerCount": 5,
-        "midDangerCount": 61,
+        "midDangerCount": 116,
         "locationId": 500106,
         "currentConfirmedCountStr": "84",
         "fullCityName": "沙坪坝区"
@@ -9553,7 +9533,7 @@
         "curedCount": 17,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 2,
         "locationId": 500111,
         "currentConfirmedCountStr": "48",
         "fullCityName": "大足区"
@@ -9566,7 +9546,7 @@
         "curedCount": 66,
         "deadCount": 1,
         "highDangerCount": 0,
-        "midDangerCount": 32,
+        "midDangerCount": 11,
         "locationId": 500107,
         "currentConfirmedCountStr": "18",
         "fullCityName": "九龙坡区"
@@ -9696,7 +9676,7 @@
         "curedCount": 47,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 4,
         "locationId": 500113,
         "currentConfirmedCountStr": "6",
         "fullCityName": "巴南区"
@@ -9709,7 +9689,7 @@
         "curedCount": 35,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 500108,
         "currentConfirmedCountStr": "6",
         "fullCityName": "南岸区"
@@ -9722,7 +9702,7 @@
         "curedCount": 31,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 500115,
         "currentConfirmedCountStr": "4",
         "fullCityName": "长寿区"
@@ -9852,7 +9832,7 @@
         "curedCount": 51,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 10,
+        "midDangerCount": 22,
         "locationId": -1,
         "currentConfirmedCountStr": "0",
         "fullCityName": "高新区"
@@ -10129,467 +10109,692 @@
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "凤天大道天骄年华兰园F栋",
+        "areaName": " 陈家桥街道金科天宸10街区1栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "宏城名都小区C区10栋",
+        "areaName": " 磁器口街道百年世家小区9、10栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "翰林景园小区12单元",
+        "areaName": " 磁器口街道百年世家小区B栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "金磁路8号金悦府4栋",
+        "areaName": " 磁器口街道国盛三千城小区3栋、7栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "九鼎名都小区2栋",
+        "areaName": " 丰文街道国盛绣美丰文5栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "经济桥社区83号",
+        "areaName": " 丰文街道学府悦园D组团6栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "金星社区金悦景城3栋",
+        "areaName": " 丰文街道学府悦园E组团10栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "金悦城小区1期8栋",
+        "areaName": " 歌乐山街道全域",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "联芳花园六期42栋3单元",
+        "areaName": " 井口街道宏城名都C区10栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "联芳街道联芳桥22栋",
+        "areaName": " 井口街道宏城名都小区C区10栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "美丽阳光家园3期26栋",
+        "areaName": " 井口街道华宇温莎小镇一期1栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "苹果派2期48号1单元",
+        "areaName": " 井口街道经济桥111-3-2",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "石井坡街道大河沟120号",
+        "areaName": " 井口街道经济桥83号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区歌乐山街道全域",
+        "areaName": " 井口街道经济桥社区83号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区井口街道经济桥111-3-2",
+        "areaName": " 井口街道美丽阳光家园2期22栋、3期26栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区井口街道美丽阳光家园一期3栋",
+        "areaName": " 井口街道美丽阳光家园3期26栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区井口街道南溪村郭家岚1号",
+        "areaName": " 井口街道美丽阳光家园一二期5栋、8栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区井口街道南溪村檬梓堡12号",
+        "areaName": " 井口街道美丽阳光家园一期3栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区青木关镇青东路9号附1-2号",
+        "areaName": " 井口街道南溪村郭家岚1号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区石井坡街道俊峰?香格里拉35栋81号",
+        "areaName": " 井口街道南溪村檬梓堡12号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区沙坪坝街道劳动路宏浩大厦二单元A栋",
+        "areaName": " 井口街道新升南苑7栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区覃家岗街道凤鸣香山6栋",
+        "areaName": " 联芳街道联芳花园六期42栋3单元",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区覃家岗街道怡润居2栋",
+        "areaName": " 联芳街道联芳桥22栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区覃家岗街道：童话里D区2栋",
+        "areaName": " 联芳街道苹果派2期48号1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区覃家岗街道：万科金色悦城2期2栋",
+        "areaName": " 联芳街道逸静花开香地小区6栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区童家桥街道安居小苑2号楼",
+        "areaName": " 联芳街道中房千寻小区物业公司集体宿舍",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区童家桥街道阳光水城一期六幢2单元",
+        "areaName": " 青木关镇青东路9号附1-2号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土湾街道财信沙滨城市C区",
+        "areaName": " 双碑街道堆金村471号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土湾街道工人村64号",
+        "areaName": " 双碑街道大石村9号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土湾街道金沙时代南苑2栋和7栋",
+        "areaName": " 双碑街道詹家溪29号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道锦绣天城小区4栋",
+        "areaName": " 山洞街道全域",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道蓝溪谷地32栋",
+        "areaName": " 石井坡街道大河沟120号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道荔枝园A栋",
+        "areaName": " 石井坡街道俊峰?香格里拉35栋81号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道沙坪坝区东原ARC3栋",
+        "areaName": " 石井坡街道马桑岚垭13号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道小龙坎正街237号",
+        "areaName": " 石井坡街道石井坡234号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区天星桥街道小龙坎正街398号",
+        "areaName": " 沙坪坝街道重庆大学建筑规划设计研究总院十栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土主街道和睦街15号",
+        "areaName": " 沙坪坝街道劳动路79号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土主街道金科天宸3街区1栋",
+        "areaName": " 沙坪坝街道劳动路恒邦C元素小区",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区土主街道龙湖好城时光3栋",
+        "areaName": " 沙坪坝街道劳动路宏浩大厦二单元A栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区小龙坎街道小正街187号居民楼及临街商铺",
+        "areaName": " 沙坪坝街道沙北街94号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区小龙坎街道：小龙坎石小路56号隆鑫天雨方5栋",
+        "areaName": " 沙坪坝街道思源村6号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区小龙坎街道：小龙坎新村路交机村84-132号",
+        "areaName": " 沙坪坝街道沙正街91号",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道煌华新纪元4栋",
+        "areaName": " 覃家岗街道凤鸣香山6栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道宏信大厦A栋",
+        "areaName": " 覃家岗街道凤天大道凤西路华宇城1号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道俊峰·龙凤华庭2期12号楼及底层商铺",
+        "areaName": " 覃家岗街道凤天大道天骄年华兰园F栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道沙南街4号金港大厦",
+        "areaName": " 覃家岗街道金磁路8号金悦府4栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道三峡广场老基地火锅（银座店）",
+        "areaName": " 覃家岗街道金星社区金悦景城3栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道渝碚路135号信诚宠物诊所",
+        "areaName": " 覃家岗街道金悦锦城3栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道渝碚路南开苑B1栋",
+        "areaName": " 覃家岗街道畔山桃园4栋、6栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道杨公桥西城丽景5幢",
+        "areaName": " 覃家岗街道童话里D区2栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道：汉渝路7号（皮带楼片区）",
+        "areaName": " 覃家岗街道童话里D区5栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道：小新街64号及一楼商户",
+        "areaName": " 覃家岗街道童话里D区除2栋、4栋、5栋、6栋以外区域",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "沙坪坝区渝碚路街道：小新街68号",
+        "areaName": " 覃家岗街道童话里E区1栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "覃家岗街道：童话里D区5栋",
+        "areaName": " 覃家岗街道万科金色悦城2期2栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "童家桥街道：壮志路33号（除上述高风险区以外区域）",
+        "areaName": " 覃家岗街道怡润居2栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "土主街道首创光合城2期5栋",
+        "areaName": " 童家桥街道大水井59号4栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "新桥街道上桥新街39号附4号",
+        "areaName": " 童家桥街道翰林景园小区12单元",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "渝碚路街道渝碚路南开苑B3栋、渝碚路135号",
+        "areaName": " 童家桥街道九鼎名都小区2栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "阳光水城2期1栋",
+        "areaName": " 童家桥街道金悦城小区1期8栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "中房千寻小区物业公司集体宿舍",
+        "areaName": " 童家桥街道金悦城一期9栋",
         "dangerLevel": 2
       },
       {
         "cityName": "沙坪坝区",
-        "areaName": "中梁镇天蓝雅园1栋4单元（不含外围底商）",
+        "areaName": " 童家桥街道林泉雅舍7栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "奥园金域1栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 童家桥街道童家桥正街2号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "春风与湖13栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 童家桥街道阳光水城2期1栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "盾安九龙城B区5栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 童家桥街道阳光水城3期4栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "高科创业园D栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 童家桥街道阳光水城一期六幢2单元",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "恒大雅苑五组团38幢",
+        "cityName": "沙坪坝区",
+        "areaName": " 童家桥街道壮志路33号（除上述高风险区以外区域）",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "黄桷坪街道官家林24栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土湾街道财信沙滨城市C区",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "华宇大厦B栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土湾街道工人村64号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "科园一路73号渝高广场F座",
+        "cityName": "沙坪坝区",
+        "areaName": " 土湾街道金沙时代南苑2栋和7栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "龙城静园2栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道锦绣天城小区4栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "龙井湾小区B栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道蓝溪谷地32栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "龙泉社区轻港佳苑南楼",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道荔枝园A栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "龙腾大道81号华奥小区",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道融汇温泉城上筑4栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "隆鑫西城汇6栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道沙坪坝区东原ARC3栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "龙樾湾洋房区41栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道小龙坎正街237号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "民安华福A区23栋、A区15栋、A区21栋、D区40栋、D区45栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道小龙坎正街398号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "盘龙三村245号2栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道雅豪丽景雅观2栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "盘龙兴苑小区3栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 天星桥街道紫荆花园1栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "首创西江阅一期2栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道恒大优活城2期10栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "双龙苑小区9栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道和睦街15号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "铜罐驿镇冬笋街89号-7",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道金科天宸3街区1栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "同天观云邸7栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道龙湖好城时光3栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "万昌商住楼（石杨路17号）",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道首创光合城2期5栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "兴堰路1号筑锦尚堰A区1栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 土主街道微电园龙湖好城时光6栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "渝高香州32栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道黄桷湾179号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "渝高·同心家园A组团7栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道上土湾路97号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "渝高·同心家园B组团1栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道天一阁小区B栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "渝高·同心家园B组团2栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道小龙坎石小路56号隆鑫天雨方5栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "冶金二村34栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道小龙坎新村路交机村84-132号",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "冶金二村金桥彼岸13栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 小龙坎街道小正街187号居民楼及临街商铺",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "杨家坪街道西郊支路3号2栋、杨正街11号五环大厦",
+        "cityName": "沙坪坝区",
+        "areaName": " 新桥街道三陵雅园B区A栋1单元",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "银燕社区三期安置房A区8栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 新桥街道上桥2村41栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "九龙坡区",
-        "areaName": "紫薇北苑2栋",
+        "cityName": "沙坪坝区",
+        "areaName": " 新桥街道上桥东风新2村上佳双子鑫座A栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 新桥街道上桥新街39号附4号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 新桥街道新怡康居小区B栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道煌华新纪元1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道煌华新纪元4栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道宏信大厦A栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道汉渝路66号江渝酒店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道汉渝路7号（皮带楼片区）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道俊峰·龙凤华庭2期12号楼及底层商铺",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道金阳牛津街小区4栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道利得尔大厦",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道沙南街43号附1号汉庭酒店（重大店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道沙南街4号金港大厦",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道三峡广场老基地火锅（银座店）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道双巷子街14号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道小新街64号及一楼商户",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道小新街68号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道渝碚路135号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道渝碚路135号信诚宠物诊所",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道渝碚路南开苑B1栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道渝碚路南开苑B3栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 渝碚路街道杨公桥西城丽景5幢",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": " 中梁镇天蓝雅园1栋4单元（不含外围底商）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "沙坪坝区",
+        "areaName": "中梁镇天蓝雅园1栋3单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 曾家镇金科廊桥水乡3组团D4栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 虎溪街道富力城二期第一区7栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 虎溪街道富力城时光里13栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 虎溪街道富力城天禧小区11栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 虎溪街道院士廷3B组团4栋、8栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇凤祥居A区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇凤祥居B区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇凤祥居C区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇凤苑路14号附1号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇高新大道、新凤大道、新州大道及高龙大道合围区域",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇九凤村8社50号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇金凤佳园A区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇金凤佳园B区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇金凤苑A区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 金凤镇金凤苑B区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 西永街道华润置地润西山A区7栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 西永街道石柱安置房",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": " 西永街道熙地锦绣城666号5栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "巴福镇西城新苑2期13栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "贝蒙天地小区9栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "名都世纪小区4栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "高新区",
+        "areaName": "熙地锦绣城777号7栋",
         "dangerLevel": 2
       },
       {
@@ -10653,53 +10858,58 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇凤祥居A区",
+        "cityName": "九龙坡区",
+        "areaName": " 二郎街道高科创业园D栋、同天观云邸7栋、渝高香州32栋、华宇大厦B栋、春风与湖13栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇凤祥居B区",
+        "cityName": "九龙坡区",
+        "areaName": " 黄桷坪街道官家林24栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇凤祥居C区",
+        "cityName": "九龙坡区",
+        "areaName": " 华岩镇民安华福A区23栋、A区15栋、A区21栋、D区40栋、D区45栋，龙樾湾洋房区41栋，恒大雅苑五组团38幢",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇凤苑路14号附1号",
+        "cityName": "九龙坡区",
+        "areaName": " 九龙街道龙泉社区轻港佳苑南楼、盘龙兴苑小区3栋、兴堰路1号筑锦尚堰A区1栋、双龙苑小区9栋、盘龙三村245号2栋、龙城静园2栋、隆鑫西城汇6栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇金凤佳园A区",
+        "cityName": "九龙坡区",
+        "areaName": " 石坪桥街道冶金二村34栋、冶金二村金桥彼岸13栋、奥园金域1栋、龙腾大道81号华奥小区",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇金凤佳园B区",
+        "cityName": "九龙坡区",
+        "areaName": " 石桥铺街道紫薇北苑2栋、渝高·同心家园A组团7栋、渝高·同心家园B组团2栋、渝高·同心家园B组团1栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇金凤苑A区",
+        "cityName": "九龙坡区",
+        "areaName": " 铜罐驿镇冬笋街89号-7",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区金凤镇金凤苑B区",
+        "cityName": "九龙坡区",
+        "areaName": " 西彭镇首创西江阅一期2栋、银燕社区三期安置房A区8栋",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区西城新苑2期13栋",
+        "cityName": "九龙坡区",
+        "areaName": " 杨家坪街道西郊支路3号2栋、杨正街11号五环大厦",
         "dangerLevel": 2
       },
       {
-        "cityName": "高新区",
-        "areaName": "高新区西永街道华润置地润西山A区7栋",
+        "cityName": "九龙坡区",
+        "areaName": " 渝州路街道万昌商住楼（石杨路17号）、科园一路73号渝高广场F座、龙井湾小区B栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "九龙坡区",
+        "areaName": "中梁山街道盾安九龙城B区5栋",
         "dangerLevel": 2
       },
       {
@@ -10738,6 +10948,26 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "巴南区",
+        "areaName": "都和广场1栋（李家沱街道林荫村18号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴南区",
+        "areaName": "李家沱街道石坝滩14栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴南区",
+        "areaName": "群乐新村4栋（李家沱街道群乐路25号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "巴南区",
+        "areaName": "融科金色时代2栋（花溪街道聚金路39号）",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "永川区",
         "areaName": "嘉和香水湾2栋、7栋（永川区和顺大道889号）",
         "dangerLevel": 2
@@ -10768,8 +10998,28 @@
         "dangerLevel": 2
       },
       {
+        "cityName": "大足区",
+        "areaName": "龙水镇幸光路500号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "大足区",
+        "areaName": "石马镇场镇范围",
+        "dangerLevel": 2
+      },
+      {
         "cityName": "北碚区",
         "areaName": "蔡家岗街道嘉皇小区5栋1单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南岸区",
+        "areaName": "铜元局街道金辉御江府小区6栋2单元、9栋1单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "长寿区",
+        "areaName": "长寿湖镇龙沟村6组新市坪湾5号",
         "dangerLevel": 2
       }
     ]
@@ -18379,7 +18629,7 @@
     "locationId": 430000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
     "highDangerCount": 245,
-    "midDangerCount": 203,
+    "midDangerCount": 202,
     "detectOrgCount": 286,
     "vaccinationOrgCount": 65,
     "cities": [
@@ -18417,7 +18667,7 @@
         "curedCount": 53,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 0,
+        "midDangerCount": 1,
         "locationId": 430400,
         "currentConfirmedCountStr": "27",
         "fullCityName": "衡阳市"
@@ -18443,7 +18693,7 @@
         "curedCount": 45,
         "deadCount": 0,
         "highDangerCount": 5,
-        "midDangerCount": 41,
+        "midDangerCount": 39,
         "locationId": 431100,
         "currentConfirmedCountStr": "17",
         "fullCityName": "永州市"
@@ -20470,6 +20720,16 @@
       },
       {
         "cityName": "永州",
+        "areaName": " 零陵区安泰砼业有限公司",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
+        "areaName": " 零陵区碧桂园正央公园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
         "areaName": " 零陵区博士后嘉园",
         "dangerLevel": 2
       },
@@ -20480,7 +20740,7 @@
       },
       {
         "cityName": "永州",
-        "areaName": " 零陵区朝阳街道蒋家田村",
+        "areaName": " 零陵区朝阳街道桃江村7组",
         "dangerLevel": 2
       },
       {
@@ -20505,7 +20765,22 @@
       },
       {
         "cityName": "永州",
+        "areaName": " 零陵区黄泥桥社区仁田里村33组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
+        "areaName": " 零陵区黄田铺镇涧山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
         "areaName": " 零陵区河西朝阳街道潇湘御园",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
+        "areaName": " 零陵区菱角塘镇龙江寺村",
         "dangerLevel": 2
       },
       {
@@ -20540,6 +20815,11 @@
       },
       {
         "cityName": "永州",
+        "areaName": " 零陵区七层坡安置小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
         "areaName": " 零陵区七层坡市场",
         "dangerLevel": 2
       },
@@ -20555,7 +20835,7 @@
       },
       {
         "cityName": "永州",
-        "areaName": " 零陵区石山脚街道华源村",
+        "areaName": " 零陵区苏通国际聚贤苑",
         "dangerLevel": 2
       },
       {
@@ -20580,6 +20860,11 @@
       },
       {
         "cityName": "永州",
+        "areaName": " 零陵区徐家井街道黄古山中路金山之家",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
         "areaName": " 零陵区香山郡",
         "dangerLevel": 2
       },
@@ -20591,6 +20876,11 @@
       {
         "cityName": "永州",
         "areaName": " 零陵区政府后门文化村小区（潇水中路以北，东山路以南合围区域）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "永州",
+        "areaName": " 零陵区自来水公司家属区七栋",
         "dangerLevel": 2
       },
       {
@@ -20620,57 +20910,7 @@
       },
       {
         "cityName": "永州",
-        "areaName": "零陵区安泰砼业有限公司",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区碧桂园正央公园",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区朝阳街道桃江村7组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区黄泥桥社区仁田里村33组",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区黄田铺镇涧山村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区菱角塘镇龙江寺村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区七层坡安置小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
         "areaName": "零陵区时代旺角商业步行街北楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区苏通国际聚贤苑",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区徐家井街道黄古山中路金山之家",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "永州",
-        "areaName": "零陵区自来水公司家属区七栋",
         "dangerLevel": 2
       },
       {
@@ -20832,6 +21072,11 @@
         "cityName": "长沙",
         "areaName": "浏阳市淮川街道城东社区龙头组6号",
         "dangerLevel": 2
+      },
+      {
+        "cityName": "衡阳",
+        "areaName": "珠晖区湖南高速铁路职业技术学院",
+        "dangerLevel": 2
       }
     ]
   },
@@ -20849,7 +21094,7 @@
     "locationId": 510000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
     "highDangerCount": 8,
-    "midDangerCount": 15,
+    "midDangerCount": 28,
     "detectOrgCount": 413,
     "vaccinationOrgCount": 131,
     "cities": [
@@ -20900,7 +21145,7 @@
         "curedCount": 23,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 510700,
         "currentConfirmedCountStr": "193",
         "fullCityName": "绵阳市"
@@ -21017,7 +21262,7 @@
         "curedCount": 10,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 7,
+        "midDangerCount": 22,
         "locationId": 510800,
         "currentConfirmedCountStr": "34",
         "fullCityName": "广元市"
@@ -21183,12 +21428,67 @@
       },
       {
         "cityName": "广元",
-        "areaName": " 经开区下西坝街道曾家营社区圆梦家园小区1-10栋",
+        "areaName": " 经开区成都房建公寓段广元房建车间广元工区",
         "dangerLevel": 2
       },
       {
         "cityName": "广元",
-        "areaName": " 经开区下西街道西以活力小区与铁路三分会小区之间的无名路为界，南以宝成铁路为界，北以利州西路为界，东以勇进汽车修理厂为界合围区域中除高风险区外的区域",
+        "areaName": " 经开区曾家营社区圆梦家园小区11栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区惠家沟社区2组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区惠家沟社区5组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区惠家沟社区一组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区铁路二分会小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区铁路三分会小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区铁路社区车辆小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区文化楼小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区下西坝街道树仁社区三组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区下西坝街道树仁社区五组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区下西街道三医院职工宿舍1号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 经开区下西街道三医院职工宿舍2号楼",
         "dangerLevel": 2
       },
       {
@@ -21198,7 +21498,17 @@
       },
       {
         "cityName": "广元",
-        "areaName": " 利州区河西街道东风坪社区一组除张家街居民点1、2排自建房外其他区域",
+        "areaName": " 利州区河西街道东风坪社区一组张家街居民点1、2排自建房",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 利州区河西街道龙泉社区五组居民安置点",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 利州区河西街道杨家岩社区周家沟小区",
         "dangerLevel": 2
       },
       {
@@ -21213,7 +21523,17 @@
       },
       {
         "cityName": "广元",
-        "areaName": "利州区嘉陵街道将军桥社区金鱼山阳光小区",
+        "areaName": " 利州区嘉陵街道将军桥社区金鱼山阳光小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": " 利州区雪峰街道九华社区团结居民小组",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "广元",
+        "areaName": "经开区下西坝街道铁路社区活力小区",
         "dangerLevel": 2
       },
       {
@@ -21245,16 +21565,6 @@
         "cityName": "成都",
         "areaName": "成华区青龙街道上东一号一期蓉华上林10栋、12-15栋、17-18栋及底商",
         "dangerLevel": 2
-      },
-      {
-        "cityName": "绵阳",
-        "areaName": " 安州区 雎水镇场镇",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "绵阳",
-        "areaName": " 安州区 雎水镇红云村",
-        "dangerLevel": 2
       }
     ]
   },
@@ -21272,7 +21582,7 @@
     "locationId": 610000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
     "highDangerCount": 26,
-    "midDangerCount": 88,
+    "midDangerCount": 83,
     "detectOrgCount": 276,
     "vaccinationOrgCount": 26,
     "cities": [
@@ -21284,7 +21594,7 @@
         "curedCount": 2353,
         "deadCount": 3,
         "highDangerCount": 17,
-        "midDangerCount": 41,
+        "midDangerCount": 39,
         "locationId": 610100,
         "notShowCurrentConfirmedCount": true,
         "currentConfirmedCountStr": "-",
@@ -21298,7 +21608,7 @@
         "curedCount": 57,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 3,
+        "midDangerCount": 0,
         "locationId": 610700,
         "currentConfirmedCountStr": "162",
         "fullCityName": "汉中市"
@@ -21602,207 +21912,197 @@
       },
       {
         "cityName": "西安",
-        "areaName": "碑林区南院门街道钟楼社区西木头市41号院",
+        "areaName": " 碑林区南院门街道钟楼社区西木头市41号院",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "碑林区南院门街道钟楼社区钟楼小区3号楼1单元",
+        "areaName": " 碑林区南院门街道钟楼社区钟楼小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "碑林区南院门街道钟楼社区钟楼小区（除3号楼1单元）",
+        "areaName": " 碑林区长安路街道新西里社区中贸广场6号楼一单元及8、10、12号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "碑林区长安路街道新西里社区中贸广场6号楼一单元及8、10、12号楼",
+        "areaName": " 碑林区张家村街道融信社区大学东路138号院小区9栋5单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "碑林区张家村街道融信社区大学东路138号院9栋5单元",
+        "areaName": " 灞桥区洪庆街道向阳二区小区92、93号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "灞桥区洪庆街道向阳二区小区92、93号楼",
+        "areaName": " 灞桥区洪庆街道向阳青年公寓1号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "灞桥区洪庆街道向阳青年公寓1号楼",
+        "areaName": " 灞桥区洪庆街道向阳三区小区114号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "灞桥区洪庆街道向阳三区小区114号楼",
+        "areaName": " 灞桥区席王街道高科绿水东城三期小区5号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "灞桥区席王街道高科绿水东城三期小区5号楼1单元",
+        "areaName": " 高陵区崇皇街道高墙村2组",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高陵区崇皇街道高墙村2组",
+        "areaName": " 高陵区泾渭街道赧王寨社区龙江秀水园小区（除11号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高陵区泾渭街道赧王寨社区龙江秀水园小区（除11号楼）",
+        "areaName": " 高新区兴隆街道邓店新村（除东二街4排6单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高新区兴隆街道邓店新村（除东二街4排6单元）",
+        "areaName": " 高新区丈八街道枫林绿洲社区万达?天樾一期南区（除5号楼2单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高新区丈八街道枫林绿洲社区万达天樾一期南区（除5号楼2单元）",
+        "areaName": " 高新区丈八街道锦业路69号A座及D座1楼餐厅",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高新区丈八街道锦业路69号A座及D座1楼餐厅",
+        "areaName": " 高新区丈八街道袁旗寨社区（除38排）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "高新区丈八街道袁旗寨社区（除38排）",
+        "areaName": " 经开区经发新北居小区（除2号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "经开区经发新北居小区（除2号楼）",
+        "areaName": " 经开区紫薇苑欧洲世家小区6号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "经开区紫薇苑欧洲世家小区6号楼1单元",
+        "areaName": " 莲湖区北广济街以西，庙后街以北，西仓南巷、西仓东巷以东、教场门以南区域，红埠街全段、土车巷全段",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区北广济街以西，庙后街以北，西仓南巷、西仓东巷以东、教场门以南区域，红埠街全段、土车巷全段",
+        "areaName": " 莲湖区北院门街道双仁府社区双仁府小区北区",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区北院门街道洒金桥社区光明巷58号院1单元",
+        "areaName": " 莲湖区北院门街道双仁府社区甜水井大有巷10号院南楼4单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区北院门街道双仁府社区双仁府小区北区",
+        "areaName": " 莲湖区红庙坡街道白家口社区世纪锦绣小区东区（除3号楼2单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区北院门街道双仁府社区甜水井大有巷10号院南楼4单元",
+        "areaName": " 莲湖区青年路街道习武园社区习武园34号院3号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区红庙坡街道白家口社区世纪锦绣小区东区（除3号楼2单元）",
+        "areaName": " 莲湖区土门街道惠民北坊社区丰镐西路420号院和丰镐西路422号院（除1号楼2单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区青年路街道习武园社区习武园34号院3号楼1单元",
+        "areaName": " 莲湖区桃园开发区管委会高新一路三号裙楼",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区土门街道惠民北坊社区丰镐西路420号院和丰镐西路422号院（除1号楼2单元）",
+        "areaName": " 莲湖区西关街道西关社区丰庆小区2号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区桃园开发区管委会高新一路三号裙楼",
+        "areaName": " 曲江新区万科城市之光社区万科城市之光小区北区（除6号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "莲湖区西关街道西关社区丰庆小区2号楼1单元",
+        "areaName": " 曲江新区一曲江山社区中海观园A区小区3号楼1单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "曲江新区万科城市之光社区万科城市之光小区北区（除6号楼）",
+        "areaName": " 曲江新区紫汀苑社区聚馨苑小区",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "曲江新区一曲江山社区中海观园A区小区3号楼1单元",
+        "areaName": " 未央区汉城街道杨家社区金源御景华府小区（除11号楼1单元）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "曲江新区紫汀苑社区聚馨苑小区",
+        "areaName": " 未央区辛家庙街道新广路社区景观城小区68号楼3单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "未央区汉城街道杨家社区金源御景华府小区（除11号楼1单元）",
+        "areaName": " 新城区长乐中路街道西光社区西光广场小区（除2号楼）",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "未央区辛家庙街道新广路社区景观城小区68号楼3单元",
+        "areaName": " 西咸新区沣东新城建章路街道芊域阳光社区芊域阳光北区1号楼2单元",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "新城区长乐中路街道西光社区西光广场小区（除2号楼）",
+        "areaName": " 西咸新区泾河新城崇文镇崇文佳苑三社区A6栋",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
-        "areaName": "西咸新区沣东新城建章路街道芊域阳光社区芊域阳光北区1号楼2单元",
+        "areaName": " 雁塔区电子城街道徐家庄村负20号、负30号、31号、32号、33号院",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": " 雁塔区小寨路街道含光南路社区含光小区2号楼1单元",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": " 雁塔区漳浒寨街道华洲城云天社区华洲城天峰小区1号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": " 雁塔区长延堡街道农林巷社区福苑小区（除2号楼4单元）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": " 雁塔区长延堡街道瓦胡同社区瓦胡同小区西区（除10号楼2单元）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "西安",
+        "areaName": " 长安区韦曲街道简王井村及简王井工业园区",
         "dangerLevel": 2
       },
       {
         "cityName": "西安",
         "areaName": "西咸新区沣东新城建章路街道芊域阳光社区芊域阳光南区16号楼2单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "西咸新区泾河新城崇文镇崇文佳苑三社区A6栋",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区电子城街道徐家庄村负20号、负30号、31号、32号、33号院",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区小寨路街道含光南路社区含光小区2号楼1单元",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区漳浒寨街道华洲城云天社区华洲城天峰小区1号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区长延堡街道农林巷社区福苑小区（除2号楼4单元）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "雁塔区长延堡街道瓦胡同社区瓦胡同小区西区（除10号楼2单元）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "西安",
-        "areaName": "长安区韦曲街道简王井村及简王井工业园区",
         "dangerLevel": 2
       },
       {
@@ -22018,21 +22318,6 @@
       {
         "cityName": "咸阳",
         "areaName": "三原县城关街道办和平村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县博望街道办事处丰顺小区、烟厂家属院。",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县莲花街道办事处莲花新村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汉中",
-        "areaName": "城固县三合镇龙王庙村",
         "dangerLevel": 2
       },
       {
@@ -22714,7 +22999,7 @@
     "locationId": 320000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
     "highDangerCount": 0,
-    "midDangerCount": 11,
+    "midDangerCount": 8,
     "detectOrgCount": 395,
     "vaccinationOrgCount": 261,
     "cities": [
@@ -22726,7 +23011,7 @@
         "curedCount": 395,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 10,
+        "midDangerCount": 7,
         "locationId": 320100,
         "currentConfirmedCountStr": "212",
         "fullCityName": "南京市"
@@ -22917,52 +23202,37 @@
     "dangerAreas": [
       {
         "cityName": "南京",
-        "areaName": "鼓楼区幕府山街道盛世花园小区(幕府东路96号)",
+        "areaName": " 鼓楼区幕府山街道盛世花园小区（幕府东路96号）",
         "dangerLevel": 2
       },
       {
         "cityName": "南京",
-        "areaName": "栖霞区迈皋桥街道凤和东园小区",
+        "areaName": " 栖霞区迈皋桥街道凤和东园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "南京",
-        "areaName": "栖霞区迈皋桥街道通州四建熙湲路工地",
+        "areaName": " 栖霞区迈皋桥街道燕歌园小区（1园、2园）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南京",
+        "areaName": " 栖霞区迈皋桥街道燕舞园小区（1园、2园）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南京",
+        "areaName": " 栖霞区铁路货运尧化门站货场(南京经济技术开发区恒广路与仙新路交叉路口西300米)",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "南京",
+        "areaName": " 栖霞区尧化街道月桂园小区",
         "dangerLevel": 2
       },
       {
         "cityName": "南京",
         "areaName": "栖霞区迈皋桥街道馨合家园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "栖霞区迈皋桥街道燕歌园小区（1园、2园）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "栖霞区迈皋桥街道燕舞园小区（1园、2园）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "栖霞区尧化街道和苑小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "栖霞区尧化街道月桂园小区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "栖霞区燕子矶街道联珠村28号-1",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "南京",
-        "areaName": "铁路货运尧化门站货场（南京经济技术开发区恒广路与仙新路交叉路口西300米）",
         "dangerLevel": 2
       },
       {
@@ -28118,7 +28388,7 @@
     "locationId": 370000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
     "highDangerCount": 96,
-    "midDangerCount": 132,
+    "midDangerCount": 130,
     "detectOrgCount": 221,
     "vaccinationOrgCount": 113,
     "cities": [
@@ -28247,7 +28517,7 @@
         "curedCount": 86,
         "deadCount": 0,
         "highDangerCount": 11,
-        "midDangerCount": 24,
+        "midDangerCount": 21,
         "locationId": 371300,
         "currentConfirmedCountStr": "0",
         "fullCityName": "临沂市"
@@ -28299,7 +28569,7 @@
         "curedCount": 38,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 2,
+        "midDangerCount": 0,
         "locationId": 371500,
         "currentConfirmedCountStr": "0",
         "fullCityName": "聊城市"
@@ -28325,7 +28595,7 @@
         "curedCount": 37,
         "deadCount": 0,
         "highDangerCount": 2,
-        "midDangerCount": 9,
+        "midDangerCount": 12,
         "locationId": 371100,
         "currentConfirmedCountStr": "0",
         "fullCityName": "日照市"
@@ -29202,6 +29472,11 @@
       },
       {
         "cityName": "临沂",
+        "areaName": " 费县费城街道自由市场",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
         "areaName": " 河东区九曲街道甘家屯村",
         "dangerLevel": 2
       },
@@ -29212,7 +29487,7 @@
       },
       {
         "cityName": "临沂",
-        "areaName": " 兰山区柳青街道军联农贸市场",
+        "areaName": " 兰山区柳青街道环球金水湾小区",
         "dangerLevel": 2
       },
       {
@@ -29237,12 +29512,57 @@
       },
       {
         "cityName": "临沂",
-        "areaName": " 罗庄区盛庄街道吴白庄村南区",
+        "areaName": " 蒙阴县常路镇大张台村",
         "dangerLevel": 2
       },
       {
         "cityName": "临沂",
-        "areaName": " 沂河新区梅家埠街道月亮湾社区后道口村",
+        "areaName": " 蒙阴县常路镇台庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县联城镇类家城子村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道安泰花园小区11号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道八达峪村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道黄沟高家山村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道刘家峪村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道万德福超市北城店",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道万家沟村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道祥和汽修厂",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "临沂",
+        "areaName": " 蒙阴县蒙阴街道兴华商场",
         "dangerLevel": 2
       },
       {
@@ -29252,72 +29572,7 @@
       },
       {
         "cityName": "临沂",
-        "areaName": " 沂河新区梅家埠街道月亮湾社区庄坞村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "常路镇大张台村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "费城街道自由市场",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "黄沟高家山村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "联城镇类家城子村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "刘家峪村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "罗庄区盛庄街道吴白庄村西区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "蒙阴街道安泰花园小区 11 号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "蒙阴街道八达峪村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "蒙阴街道祥和汽修厂",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "台庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "万德福超市北城店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "万家沟村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "临沂",
-        "areaName": "兴华商场",
+        "areaName": "兰山区柳青街道军联农贸市场",
         "dangerLevel": 2
       },
       {
@@ -29382,47 +29637,62 @@
       },
       {
         "cityName": "日照",
+        "areaName": " 东港区安泰名筑小区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "日照",
         "areaName": " 东港区大学城夜市",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": " 莒县刘官庄镇五花营村",
+        "areaName": " 东港区浮来春公馆小区16号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "东港区双清学府小区",
+        "areaName": " 东港区海景花园大酒店",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "浮来春公馆小区16号楼",
+        "areaName": " 东港区济南路66号许家楼生活一区北沿街",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "海景花园大酒店",
+        "areaName": " 东港区日照植物园",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "济南路66号许家楼生活一区北沿街",
+        "areaName": " 东港区双清学府小区",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "山海天阳光佳日小区2号楼",
+        "areaName": " 东港区双清学府小区7号楼",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "山海天阳光佳日小区9号楼",
+        "areaName": " 东港区天宁首府小区",
         "dangerLevel": 2
       },
       {
         "cityName": "日照",
-        "areaName": "双清学府小区7号楼",
+        "areaName": " 山海天阳光佳日小区2号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "日照",
+        "areaName": " 山海天阳光佳日小区9号楼",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "日照",
+        "areaName": "高新区河山镇草坡村",
         "dangerLevel": 2
       },
       {
@@ -29468,16 +29738,6 @@
       {
         "cityName": "泰安",
         "areaName": "泰山区徐家楼街道新华城南郡（龙潭路与泰玻大街交汇处南）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "聊城",
-        "areaName": "东鲁街道赵庄村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "聊城",
-        "areaName": "俎店镇林楼村",
         "dangerLevel": 2
       },
       {
@@ -31136,7 +31396,7 @@
     "locationId": 620000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
     "highDangerCount": 38,
-    "midDangerCount": 47,
+    "midDangerCount": 50,
     "detectOrgCount": 236,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -31148,7 +31408,7 @@
         "curedCount": 876,
         "deadCount": 2,
         "highDangerCount": 8,
-        "midDangerCount": 37,
+        "midDangerCount": 40,
         "locationId": 620100,
         "currentConfirmedCountStr": "27",
         "fullCityName": "兰州市"
@@ -31547,12 +31807,27 @@
       },
       {
         "cityName": "兰州",
+        "areaName": " 城关区白银路街道王马巷1—109号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "兰州",
+        "areaName": " 城关区白银路街道永昌路120—122号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "兰州",
         "areaName": " 城关区东岗街道东岗镇223号",
         "dangerLevel": 2
       },
       {
         "cityName": "兰州",
         "areaName": " 城关区广武门街道南滨河东路507—515号（单号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "兰州",
+        "areaName": " 城关区火车站街道红三村48-132号",
         "dangerLevel": 2
       },
       {
@@ -31568,6 +31843,11 @@
       {
         "cityName": "兰州",
         "areaName": " 城关区火车站街道红山根西村231—232号",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "兰州",
+        "areaName": " 城关区酒泉路街道（井儿街1-7号、静宁路177-3至177-6号）",
         "dangerLevel": 2
       },
       {
@@ -31633,11 +31913,6 @@
       {
         "cityName": "兰州",
         "areaName": " 城关区雁园街道雁北路400号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "兰州",
-        "areaName": " 城关区雁园街道（刘家滩1-536号、刘家滩新村1-265号）自建房",
         "dangerLevel": 2
       },
       {
@@ -34110,8 +34385,8 @@
     "comment": "",
     "locationId": 340000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-    "highDangerCount": 0,
-    "midDangerCount": 0,
+    "highDangerCount": 2,
+    "midDangerCount": 20,
     "detectOrgCount": 412,
     "vaccinationOrgCount": 161,
     "cities": [
@@ -34265,8 +34540,8 @@
         "suspectedCount": 0,
         "curedCount": 28,
         "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
+        "highDangerCount": 2,
+        "midDangerCount": 20,
         "locationId": 340600,
         "currentConfirmedCountStr": "0",
         "fullCityName": "淮北市"
@@ -34337,7 +34612,118 @@
         "fullCityName": "宣城市"
       }
     ],
-    "dangerAreas": []
+    "dangerAreas": [
+      {
+        "cityName": "淮北",
+        "areaName": "百善镇百善村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "淮北",
+        "areaName": "百善镇前营村",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县茶安村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县道口村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县丁楼村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县郭屯村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县黄新庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县龙北村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县鲁店村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县龙桥村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县龙沱村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县柳孜村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县马乡村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县桥头村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县青卫村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县宋庙村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县苇波村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县王司村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县徐楼村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县闫集村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": " 濉溪县张庄村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "淮北",
+        "areaName": "濉溪县百善镇叶刘湖村",
+        "dangerLevel": 2
+      }
+    ]
   },
   {
     "pinyin": "ningxia",
@@ -34353,7 +34739,7 @@
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
     "highDangerCount": 11,
-    "midDangerCount": 21,
+    "midDangerCount": 14,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
     "cities": [
@@ -34365,7 +34751,7 @@
         "curedCount": 5,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 640500,
         "currentConfirmedCountStr": "73",
         "fullCityName": "中卫市"
@@ -34378,7 +34764,7 @@
         "curedCount": 72,
         "deadCount": 0,
         "highDangerCount": 4,
-        "midDangerCount": 4,
+        "midDangerCount": 2,
         "locationId": 640100,
         "currentConfirmedCountStr": "17",
         "fullCityName": "银川市"
@@ -34391,7 +34777,7 @@
         "curedCount": 38,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 6,
+        "midDangerCount": 3,
         "locationId": 640300,
         "currentConfirmedCountStr": "12",
         "fullCityName": "吴忠市"
@@ -34417,7 +34803,7 @@
         "curedCount": 5,
         "deadCount": 0,
         "highDangerCount": 0,
-        "midDangerCount": 1,
+        "midDangerCount": 0,
         "locationId": 640400,
         "currentConfirmedCountStr": "0",
         "fullCityName": "固原市"
@@ -34557,32 +34943,12 @@
       },
       {
         "cityName": "吴忠",
-        "areaName": " 青铜峡市 峡口镇巴闸村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吴忠",
-        "areaName": "利通区 安置楼四期门口叶兵烤饼店",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吴忠",
         "areaName": "利通区 金积镇安置楼四期",
         "dangerLevel": 2
       },
       {
         "cityName": "吴忠",
         "areaName": "利通区 吴忠市精神卫生康复中心项目工地",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "吴忠",
-        "areaName": "青铜峡市 峡口镇任桥村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "银川",
-        "areaName": "兴庆区 兴隆洁具市场",
         "dangerLevel": 2
       },
       {
@@ -34593,21 +34959,6 @@
       {
         "cityName": "银川",
         "areaName": "永宁县 望远人家A区49号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "银川",
-        "areaName": "永宁县 西魏西路33号",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "中卫",
-        "areaName": "常乐镇大路街村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "固原",
-        "areaName": "彭阳县 新集乡张化村（刘庄组、河流组、上洼组）",
         "dangerLevel": 2
       }
     ]
