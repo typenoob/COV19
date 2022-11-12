@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 7969307,
-    "confirmedCount": 7996490,
+    "currentConfirmedCount": 7988455,
+    "confirmedCount": 8015698,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 13441,
+    "deadCount": 13501,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 337488,
-    "confirmedCount": 441912,
+    "currentConfirmedCount": 338231,
+    "confirmedCount": 442661,
     "suspectedCount": 181,
     "curedCount": 93913,
-    "deadCount": 10511,
+    "deadCount": 10517,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -52,8 +52,8 @@
     "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 440000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-    "highDangerCount": 197,
-    "midDangerCount": 205,
+    "highDangerCount": 207,
+    "midDangerCount": 201,
     "detectOrgCount": 120,
     "vaccinationOrgCount": 42,
     "cities": [
@@ -64,8 +64,8 @@
         "suspectedCount": 3,
         "curedCount": 4495,
         "deadCount": 1,
-        "highDangerCount": 58,
-        "midDangerCount": 87,
+        "highDangerCount": 65,
+        "midDangerCount": 85,
         "locationId": 440100,
         "currentConfirmedCountStr": "3350",
         "fullCityName": "广州市"
@@ -90,8 +90,8 @@
         "suspectedCount": 0,
         "curedCount": 31,
         "deadCount": 0,
-        "highDangerCount": 17,
-        "midDangerCount": 7,
+        "highDangerCount": 14,
+        "midDangerCount": 6,
         "locationId": 440500,
         "currentConfirmedCountStr": "265",
         "fullCityName": "汕头市"
@@ -117,7 +117,7 @@
         "curedCount": 4271,
         "deadCount": 3,
         "highDangerCount": 0,
-        "midDangerCount": 4,
+        "midDangerCount": 3,
         "locationId": 440300,
         "currentConfirmedCountStr": "194",
         "fullCityName": "深圳市"
@@ -207,7 +207,7 @@
         "suspectedCount": 1,
         "curedCount": 495,
         "deadCount": 1,
-        "highDangerCount": 8,
+        "highDangerCount": 14,
         "midDangerCount": 6,
         "locationId": 441900,
         "currentConfirmedCountStr": "43",
@@ -977,6 +977,11 @@
       },
       {
         "cityName": "广州",
+        "areaName": "和苑社区四街5号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
         "areaName": "海珠区赤岗街道客村社区",
         "dangerLevel": 1
       },
@@ -1041,6 +1046,106 @@
         "dangerLevel": 1
       },
       {
+        "cityName": "广州",
+        "areaName": "西村街环市西苑小区G7、G8、G9栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "西湾路四十一街1号、2号，环市西路59号、61号、63号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "站前街黑山七街12号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "站前街黑山三街23-27号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "站前街克山九街10-15号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "广州",
+        "areaName": "站前街中狮里、中发里、中宁里、中达里、四约大街10-72号、西站二街2-4号、电台街33-39号、西站三街2、6、7、12、13号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大岭山镇鸡翅岭百片三巷5、7号、鸡翅岭百片四巷8、10号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大岭山镇金立工业园5栋、7栋、8栋、10栋、11栋、12栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大岭山镇香韵路1号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大朗镇富民中路193号14栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大朗镇美景中路555号写字楼",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "大朗镇长盛南路68号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "龙江榄塘巷20号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "农二南二巷32号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "农二南一巷9号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "万江区万江墟社区育才路116、118号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "万江区中海十里溪境6栋",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "新兴一巷23号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "西正路92号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "东莞",
+        "areaName": "振华路36号",
+        "dangerLevel": 1
+      },
+      {
         "cityName": "汕头",
         "areaName": "潮南区陈店镇陈店社区",
         "dangerLevel": 1
@@ -1052,17 +1157,7 @@
       },
       {
         "cityName": "汕头",
-        "areaName": "潮南区陈店镇陈围村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "汕头",
         "areaName": "潮南区陈店镇定安社区",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮南区陈店镇浮草村",
         "dangerLevel": 1
       },
       {
@@ -1118,51 +1213,6 @@
       {
         "cityName": "汕头",
         "areaName": "潮南区陈店镇洋新村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮南区峡山街道上陇自然村",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大岭山镇鸡翅岭百片三巷5、7号、鸡翅岭百片四巷8、10号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大岭山镇金立工业园5栋、7栋、8栋、10栋、11栋、12栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大岭山镇香韵路1号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大朗镇富民中路193号14栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大朗镇美景中路555号写字楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "大朗镇长盛南路68号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "万江区万江墟社区育才路116、118号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "东莞",
-        "areaName": "万江区中海十里溪境6栋",
         "dangerLevel": 1
       },
       {
@@ -1637,11 +1687,6 @@
       },
       {
         "cityName": "广州",
-        "areaName": "花都区花城街石岗安置区二期（高风险区除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
         "areaName": "花都区花城街雪域澜庭A2区（雪域澜庭A2区8栋除外）",
         "dangerLevel": 2
       },
@@ -1703,11 +1748,6 @@
       {
         "cityName": "广州",
         "areaName": "花都区新雅街云峰花园二期C1-C14、C16-C17栋（云峰社区党群服务中心除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "广州",
-        "areaName": "花都区新雅街长鸿工业园A区",
         "dangerLevel": 2
       },
       {
@@ -2181,41 +2221,6 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "汕头",
-        "areaName": "潮南区陈店镇除高风险村居之外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮南区峡山街道华桥村除上陇自然村之外的其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮阳区贵屿镇其他区域",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮阳区和平镇潮联社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "潮阳区和平镇临昆上社区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "贵屿镇湄洲村",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "汕头",
-        "areaName": "和平镇练北社区",
-        "dangerLevel": 2
-      },
-      {
         "cityName": "东莞",
         "areaName": "大岭山镇东莞联昱兴运动用品有限公司",
         "dangerLevel": 2
@@ -2246,23 +2251,33 @@
         "dangerLevel": 2
       },
       {
-        "cityName": "深圳",
-        "areaName": "福田区南园街道沙埔头社区沙埔头村西第40栋",
+        "cityName": "汕头",
+        "areaName": "潮南区陈店镇除高风险村居之外的其他区域",
         "dangerLevel": 2
       },
       {
-        "cityName": "深圳",
-        "areaName": "光明区玉塘街道维也纳酒店玉律店（玉律社区玉昌东路20-15号）",
+        "cityName": "汕头",
+        "areaName": "潮阳区贵屿镇其他区域",
         "dangerLevel": 2
       },
       {
-        "cityName": "深圳",
-        "areaName": "南山区南山街道南山村正巷第19、20、22、23、24、25、33、34、35、40、41-1、41-2号",
+        "cityName": "汕头",
+        "areaName": "潮阳区和平镇潮联社区",
         "dangerLevel": 2
       },
       {
-        "cityName": "深圳",
-        "areaName": "南山区粤海街道后海村第43、46、47、51、52A、52B、53、54、55、57、60、61、62、63、64、65、66、67、68号",
+        "cityName": "汕头",
+        "areaName": "潮阳区和平镇临昆上社区",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "汕头",
+        "areaName": "贵屿镇湄洲村",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "汕头",
+        "areaName": "和平镇练北社区",
         "dangerLevel": 2
       },
       {
@@ -2323,6 +2338,21 @@
       {
         "cityName": "惠州",
         "areaName": "惠东县吉隆镇光明路-明珠路-文明三路-明华路围合区域（除以上高风险区外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "福田区南园街道沙埔头社区沙埔头村西第40栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "光明区玉塘街道维也纳酒店玉律店（玉律社区玉昌东路20-15号）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "深圳",
+        "areaName": "南山区南山街道南山村正巷第19、20、22、23、24、25、33、34、35、40、41-1、41-2号",
         "dangerLevel": 2
       },
       {
@@ -21646,7 +21676,7 @@
     "locationId": 350000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
     "highDangerCount": 39,
-    "midDangerCount": 129,
+    "midDangerCount": 127,
     "detectOrgCount": 59,
     "vaccinationOrgCount": 156,
     "cities": [
@@ -21658,7 +21688,7 @@
         "curedCount": 171,
         "deadCount": 1,
         "highDangerCount": 39,
-        "midDangerCount": 129,
+        "midDangerCount": 127,
         "locationId": 350100,
         "currentConfirmedCountStr": "229",
         "fullCityName": "福州市"
@@ -22500,17 +22530,7 @@
       },
       {
         "cityName": "福州",
-        "areaName": "晋安区王庄街道世欧王庄一区3号楼",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "福州",
         "areaName": "晋安区新店镇东至磐石路，西至原厝尾巷，南至秀峰路，北至南平东路的合围区域（高风险区盘南小区、秀峰路16号除外）",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "福州",
-        "areaName": "晋安区新店镇西凤路68号地质勘探院宿舍19号楼",
         "dangerLevel": 2
       },
       {
@@ -25607,7 +25627,7 @@
     "locationId": 530000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json",
     "highDangerCount": 33,
-    "midDangerCount": 47,
+    "midDangerCount": 46,
     "detectOrgCount": 397,
     "vaccinationOrgCount": 2,
     "cities": [
@@ -25684,7 +25704,7 @@
         "curedCount": 39,
         "deadCount": 0,
         "highDangerCount": 3,
-        "midDangerCount": 2,
+        "midDangerCount": 1,
         "locationId": 532500,
         "currentConfirmedCountStr": "12",
         "fullCityName": "红河哈尼族彝族自治州"
@@ -26222,11 +26242,6 @@
       {
         "cityName": "昭通",
         "areaName": "鲁甸县砚池街道辖区",
-        "dangerLevel": 2
-      },
-      {
-        "cityName": "红河州",
-        "areaName": "金河镇虾洞联防所执勤区域",
         "dangerLevel": 2
       },
       {
@@ -27153,8 +27168,8 @@
     "comment": "黑龙江卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
     "locationId": 230000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-    "highDangerCount": 627,
-    "midDangerCount": 395,
+    "highDangerCount": 625,
+    "midDangerCount": 398,
     "detectOrgCount": 315,
     "vaccinationOrgCount": 1,
     "cities": [
@@ -27165,8 +27180,8 @@
         "suspectedCount": 8,
         "curedCount": 1501,
         "deadCount": 4,
-        "highDangerCount": 29,
-        "midDangerCount": 51,
+        "highDangerCount": 27,
+        "midDangerCount": 54,
         "locationId": 230100,
         "currentConfirmedCountStr": "58",
         "fullCityName": "哈尔滨市"
@@ -30263,17 +30278,7 @@
       },
       {
         "cityName": "哈尔滨",
-        "areaName": "道里区城乡路405号城安小区4栋",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "哈尔滨",
         "areaName": "道里区工农大街146号理想0451小区8号楼",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "哈尔滨",
-        "areaName": "道里区丽江路2842号宏润·翠湖天地翠园小区12栋",
         "dangerLevel": 1
       },
       {
@@ -32098,6 +32103,16 @@
       },
       {
         "cityName": "哈尔滨",
+        "areaName": "城安小区4栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "翠湖天地璞园小区37栋、38栋",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
         "areaName": "道里区城乡路405号城安小区（除4栋外）",
         "dangerLevel": 2
       },
@@ -32129,6 +32144,11 @@
       {
         "cityName": "哈尔滨",
         "areaName": "道里区友谊西路660号富力江湾新城小区（除12号楼外）",
+        "dangerLevel": 2
+      },
+      {
+        "cityName": "哈尔滨",
+        "areaName": "宏润·翠湖天地翠园小区12栋",
         "dangerLevel": 2
       },
       {
@@ -40268,15 +40288,15 @@
       },
       {
         "cityName": "昌都",
-        "currentConfirmedCount": 3,
-        "confirmedCount": 218,
+        "currentConfirmedCount": 4,
+        "confirmedCount": 219,
         "suspectedCount": 0,
         "curedCount": 215,
         "deadCount": 0,
         "highDangerCount": 2,
         "midDangerCount": 1,
         "locationId": 540300,
-        "currentConfirmedCountStr": "3",
+        "currentConfirmedCountStr": "4",
         "fullCityName": "昌都市"
       },
       {
@@ -40307,15 +40327,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1074,
-        "confirmedCount": 9,
+        "currentConfirmedCount": -1075,
+        "confirmedCount": 8,
         "suspectedCount": 0,
         "curedCount": 1083,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1074",
+        "currentConfirmedCountStr": "-1075",
         "fullCityName": "待明确地区"
       }
     ],
