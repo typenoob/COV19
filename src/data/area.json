@@ -4,11 +4,11 @@
     "name": "台湾",
     "provinceName": "台湾",
     "provinceShortName": "台湾",
-    "currentConfirmedCount": 8042055,
-    "confirmedCount": 8069442,
+    "currentConfirmedCount": 8064662,
+    "confirmedCount": 8092118,
     "suspectedCount": 485,
     "curedCount": 13742,
-    "deadCount": 13645,
+    "deadCount": 13714,
     "comment": "",
     "locationId": 710000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -24,11 +24,11 @@
     "name": "香港",
     "provinceName": "香港",
     "provinceShortName": "香港",
-    "currentConfirmedCount": 339689,
-    "confirmedCount": 445041,
+    "currentConfirmedCount": 340661,
+    "confirmedCount": 446021,
     "suspectedCount": 181,
     "curedCount": 94803,
-    "deadCount": 10549,
+    "deadCount": 10557,
     "comment": "",
     "locationId": 810000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/331/3398299755968040033-135.json",
@@ -59,15 +59,15 @@
     "cities": [
       {
         "cityName": "广州",
-        "currentConfirmedCount": 5227,
+        "currentConfirmedCount": 4979,
         "confirmedCount": 10249,
         "suspectedCount": 3,
-        "curedCount": 5021,
+        "curedCount": 5269,
         "deadCount": 1,
         "highDangerCount": 158,
         "midDangerCount": 0,
         "locationId": 440100,
-        "currentConfirmedCountStr": "5227",
+        "currentConfirmedCountStr": "4979",
         "fullCityName": "广州市"
       },
       {
@@ -124,15 +124,15 @@
       },
       {
         "cityName": "深圳",
-        "currentConfirmedCount": 179,
+        "currentConfirmedCount": 160,
         "confirmedCount": 4521,
         "suspectedCount": 3,
-        "curedCount": 4339,
+        "curedCount": 4358,
         "deadCount": 3,
         "highDangerCount": 13,
         "midDangerCount": 0,
         "locationId": 440300,
-        "currentConfirmedCountStr": "179",
+        "currentConfirmedCountStr": "160",
         "fullCityName": "深圳市"
       },
       {
@@ -332,15 +332,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1285,
+        "currentConfirmedCount": -1018,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 1285,
+        "curedCount": 1018,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1285",
+        "currentConfirmedCountStr": "-1018",
         "fullCityName": "待明确地区"
       }
     ],
@@ -22111,7 +22111,7 @@
     "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
     "locationId": 110000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-    "highDangerCount": 298,
+    "highDangerCount": 299,
     "midDangerCount": 0,
     "detectOrgCount": 300,
     "vaccinationOrgCount": 2,
@@ -22269,7 +22269,7 @@
         "suspectedCount": 0,
         "curedCount": 7,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 110118,
         "notShowCurrentConfirmedCount": true,
@@ -23873,6 +23873,11 @@
       {
         "cityName": "延庆区",
         "areaName": "香水园街道中交富力雅郡5号院1号楼1单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "密云区",
+        "areaName": "鼓楼街道花园小区3号楼",
         "dangerLevel": 1
       }
     ]
@@ -41634,15 +41639,15 @@
       },
       {
         "cityName": "福州",
-        "currentConfirmedCount": 127,
+        "currentConfirmedCount": 116,
         "confirmedCount": 411,
         "suspectedCount": 0,
-        "curedCount": 283,
+        "curedCount": 294,
         "deadCount": 1,
         "highDangerCount": 13,
         "midDangerCount": 0,
         "locationId": 350100,
-        "currentConfirmedCountStr": "127",
+        "currentConfirmedCountStr": "116",
         "fullCityName": "福州市"
       },
       {
@@ -41660,29 +41665,16 @@
       },
       {
         "cityName": "泉州",
-        "currentConfirmedCount": 13,
+        "currentConfirmedCount": 11,
         "confirmedCount": 1235,
         "suspectedCount": 0,
-        "curedCount": 1222,
+        "curedCount": 1224,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 350500,
-        "currentConfirmedCountStr": "13",
+        "currentConfirmedCountStr": "11",
         "fullCityName": "泉州市"
-      },
-      {
-        "cityName": "南平",
-        "currentConfirmedCount": 13,
-        "confirmedCount": 57,
-        "suspectedCount": 0,
-        "curedCount": 44,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 350700,
-        "currentConfirmedCountStr": "13",
-        "fullCityName": "南平市"
       },
       {
         "cityName": "平潭",
@@ -41696,6 +41688,19 @@
         "locationId": 0,
         "currentConfirmedCountStr": "11",
         "fullCityName": "平潭县"
+      },
+      {
+        "cityName": "南平",
+        "currentConfirmedCount": 9,
+        "confirmedCount": 57,
+        "suspectedCount": 0,
+        "curedCount": 48,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 350700,
+        "currentConfirmedCountStr": "9",
+        "fullCityName": "南平市"
       },
       {
         "cityName": "漳州",
@@ -41764,15 +41769,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -29,
+        "currentConfirmedCount": -12,
         "confirmedCount": 0,
         "suspectedCount": 0,
-        "curedCount": 29,
+        "curedCount": 12,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-29",
+        "currentConfirmedCountStr": "-12",
         "fullCityName": "待明确地区"
       }
     ],
@@ -56265,15 +56270,15 @@
       },
       {
         "cityName": "昌都",
-        "currentConfirmedCount": 19,
-        "confirmedCount": 234,
+        "currentConfirmedCount": 21,
+        "confirmedCount": 236,
         "suspectedCount": 0,
         "curedCount": 215,
         "deadCount": 0,
         "highDangerCount": 17,
         "midDangerCount": 0,
         "locationId": 540300,
-        "currentConfirmedCountStr": "19",
+        "currentConfirmedCountStr": "21",
         "fullCityName": "昌都市"
       },
       {
@@ -56317,15 +56322,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -1075,
-        "confirmedCount": 10,
+        "currentConfirmedCount": -1077,
+        "confirmedCount": 8,
         "suspectedCount": 0,
         "curedCount": 1085,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": -1,
-        "currentConfirmedCountStr": "-1075",
+        "currentConfirmedCountStr": "-1077",
         "fullCityName": "待明确地区"
       }
     ],
@@ -63242,7 +63247,7 @@
     "comment": "",
     "locationId": 640000,
     "statisticsData": "https://file1.dxycdn.com/2020/0223/353/3398299755968455019-135.json",
-    "highDangerCount": 11,
+    "highDangerCount": 12,
     "midDangerCount": 0,
     "detectOrgCount": 27,
     "vaccinationOrgCount": 5,
@@ -63293,7 +63298,7 @@
         "suspectedCount": 0,
         "curedCount": 5,
         "deadCount": 0,
-        "highDangerCount": 0,
+        "highDangerCount": 1,
         "midDangerCount": 0,
         "locationId": 640400,
         "currentConfirmedCountStr": "0",
@@ -63380,6 +63385,11 @@
       {
         "cityName": "银川",
         "areaName": "永宁县 四季鲜农产品综合批发市场干果区25-1号（百果嘉源）",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "固原",
+        "areaName": "西吉县震湖乡苏堡村新农村组",
         "dangerLevel": 1
       }
     ]
