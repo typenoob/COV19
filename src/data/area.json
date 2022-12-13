@@ -20160,14 +20160,339 @@
     ]
   },
   {
+    "pinyin": "liaoning",
+    "name": "辽宁",
+    "provinceName": "辽宁省",
+    "provinceShortName": "辽宁",
+    "currentConfirmedCount": 345,
+    "confirmedCount": 3003,
+    "suspectedCount": 0,
+    "curedCount": 2656,
+    "deadCount": 2,
+    "comment": "",
+    "locationId": 210000,
+    "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
+    "highDangerCount": 19,
+    "midDangerCount": 0,
+    "detectOrgCount": 192,
+    "vaccinationOrgCount": 204,
+    "cities": [
+      {
+        "cityName": "沈阳",
+        "currentConfirmedCount": 624,
+        "confirmedCount": 870,
+        "suspectedCount": 0,
+        "curedCount": 246,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210100,
+        "currentConfirmedCountStr": "624",
+        "fullCityName": "沈阳市"
+      },
+      {
+        "cityName": "铁岭",
+        "currentConfirmedCount": 172,
+        "confirmedCount": 186,
+        "suspectedCount": 0,
+        "curedCount": 14,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 211200,
+        "currentConfirmedCountStr": "172",
+        "fullCityName": "铁岭市"
+      },
+      {
+        "cityName": "大连",
+        "currentConfirmedCount": 74,
+        "confirmedCount": 694,
+        "suspectedCount": 0,
+        "curedCount": 620,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210200,
+        "currentConfirmedCountStr": "74",
+        "fullCityName": "大连市"
+      },
+      {
+        "cityName": "盘锦",
+        "currentConfirmedCount": 68,
+        "confirmedCount": 82,
+        "suspectedCount": 0,
+        "curedCount": 14,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 211100,
+        "currentConfirmedCountStr": "68",
+        "fullCityName": "盘锦市"
+      },
+      {
+        "cityName": "抚顺",
+        "currentConfirmedCount": 58,
+        "confirmedCount": 59,
+        "suspectedCount": 0,
+        "curedCount": 1,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210400,
+        "currentConfirmedCountStr": "58",
+        "fullCityName": "抚顺市"
+      },
+      {
+        "cityName": "朝阳",
+        "currentConfirmedCount": 42,
+        "confirmedCount": 49,
+        "suspectedCount": 0,
+        "curedCount": 6,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 211300,
+        "currentConfirmedCountStr": "42",
+        "fullCityName": "朝阳市"
+      },
+      {
+        "cityName": "境外输入",
+        "currentConfirmedCount": 27,
+        "confirmedCount": 367,
+        "suspectedCount": 0,
+        "curedCount": 340,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 0,
+        "currentConfirmedCountStr": "27",
+        "fullCityName": "境外输入"
+      },
+      {
+        "cityName": "阜新",
+        "currentConfirmedCount": 26,
+        "confirmedCount": 36,
+        "suspectedCount": 0,
+        "curedCount": 10,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210900,
+        "currentConfirmedCountStr": "26",
+        "fullCityName": "阜新市"
+      },
+      {
+        "cityName": "鞍山",
+        "currentConfirmedCount": 23,
+        "confirmedCount": 42,
+        "suspectedCount": 0,
+        "curedCount": 19,
+        "deadCount": 0,
+        "highDangerCount": 3,
+        "midDangerCount": 0,
+        "locationId": 210300,
+        "currentConfirmedCountStr": "23",
+        "fullCityName": "鞍山市"
+      },
+      {
+        "cityName": "本溪",
+        "currentConfirmedCount": 22,
+        "confirmedCount": 27,
+        "suspectedCount": 0,
+        "curedCount": 5,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210500,
+        "currentConfirmedCountStr": "22",
+        "fullCityName": "本溪市"
+      },
+      {
+        "cityName": "锦州",
+        "currentConfirmedCount": 14,
+        "confirmedCount": 29,
+        "suspectedCount": 0,
+        "curedCount": 15,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210700,
+        "currentConfirmedCountStr": "14",
+        "fullCityName": "锦州市"
+      },
+      {
+        "cityName": "丹东",
+        "currentConfirmedCount": 5,
+        "confirmedCount": 88,
+        "suspectedCount": 0,
+        "curedCount": 83,
+        "deadCount": 0,
+        "highDangerCount": 16,
+        "midDangerCount": 0,
+        "locationId": 210600,
+        "currentConfirmedCountStr": "5",
+        "fullCityName": "丹东市"
+      },
+      {
+        "cityName": "葫芦岛",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 229,
+        "suspectedCount": 0,
+        "curedCount": 226,
+        "deadCount": 1,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 211400,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "葫芦岛市"
+      },
+      {
+        "cityName": "辽阳",
+        "currentConfirmedCount": 2,
+        "confirmedCount": 14,
+        "suspectedCount": 0,
+        "curedCount": 12,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 211000,
+        "currentConfirmedCountStr": "2",
+        "fullCityName": "辽阳市"
+      },
+      {
+        "cityName": "营口",
+        "currentConfirmedCount": 0,
+        "confirmedCount": 218,
+        "suspectedCount": 0,
+        "curedCount": 218,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": 210800,
+        "currentConfirmedCountStr": "0",
+        "fullCityName": "营口市"
+      },
+      {
+        "cityName": "待明确地区",
+        "currentConfirmedCount": -814,
+        "confirmedCount": 13,
+        "suspectedCount": 0,
+        "curedCount": 827,
+        "deadCount": 0,
+        "highDangerCount": 0,
+        "midDangerCount": 0,
+        "locationId": -1,
+        "currentConfirmedCountStr": "-814",
+        "fullCityName": "待明确地区"
+      }
+    ],
+    "dangerAreas": [
+      {
+        "cityName": "丹东",
+        "areaName": " 广济街道平安街24号2单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 广济街道县前街73号3单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 九道街道北府花园35号楼4单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 临江街道韩国城小区17号楼二单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 帽盔山街道福寿西路1号三单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 帽盔山街道益荣家园小区53号楼一单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 汤池镇洋子新村小区1号楼一单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 同兴镇变电村3组761号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 纤维街道春六路4号一单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 纤维街道地质路300号",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 纤维街道地质路与致富路交汇处右侧第二列第二排平房",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 鸭绿江街道八三小区1号楼4单元2、3层",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 鸭绿江街道绿云嘉园小区16号楼2单元3、4、5层",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 站前街道宝石花小区12号楼一单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": " 珍珠街道丹建新时代A区1单元1层、2层、3层",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "丹东",
+        "areaName": "临江街道青年大街124号一单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "立山区深沟寺街道深沟寺四区曙光路10栋(家和天下小区5号楼)4单元",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "立山区沙河街道沁园春小区8号楼(鞍千路126栋)",
+        "dangerLevel": 1
+      },
+      {
+        "cityName": "鞍山",
+        "areaName": "立山区双山街道建国大道353栋2单元",
+        "dangerLevel": 1
+      }
+    ]
+  },
+  {
     "pinyin": "hunan",
     "name": "湖南",
     "provinceName": "湖南省",
     "provinceShortName": "湖南",
-    "currentConfirmedCount": 359,
-    "confirmedCount": 2432,
+    "currentConfirmedCount": 329,
+    "confirmedCount": 2441,
     "suspectedCount": 2,
-    "curedCount": 2069,
+    "curedCount": 2108,
     "deadCount": 4,
     "comment": "",
     "locationId": 430000,
@@ -20374,15 +20699,15 @@
       },
       {
         "cityName": "待明确地区",
-        "currentConfirmedCount": -648,
-        "confirmedCount": 0,
+        "currentConfirmedCount": -678,
+        "confirmedCount": 9,
         "suspectedCount": 0,
-        "curedCount": 648,
+        "curedCount": 687,
         "deadCount": 0,
         "highDangerCount": 0,
         "midDangerCount": 0,
         "locationId": 0,
-        "currentConfirmedCountStr": "-648",
+        "currentConfirmedCountStr": "-678",
         "fullCityName": "待明确地区"
       }
     ],
@@ -20970,331 +21295,6 @@
       {
         "cityName": "郴州",
         "areaName": " 苏仙区栖凤渡镇草田村",
-        "dangerLevel": 1
-      }
-    ]
-  },
-  {
-    "pinyin": "liaoning",
-    "name": "辽宁",
-    "provinceName": "辽宁省",
-    "provinceShortName": "辽宁",
-    "currentConfirmedCount": 345,
-    "confirmedCount": 3003,
-    "suspectedCount": 0,
-    "curedCount": 2656,
-    "deadCount": 2,
-    "comment": "",
-    "locationId": 210000,
-    "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-    "highDangerCount": 19,
-    "midDangerCount": 0,
-    "detectOrgCount": 192,
-    "vaccinationOrgCount": 204,
-    "cities": [
-      {
-        "cityName": "沈阳",
-        "currentConfirmedCount": 624,
-        "confirmedCount": 870,
-        "suspectedCount": 0,
-        "curedCount": 246,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210100,
-        "currentConfirmedCountStr": "624",
-        "fullCityName": "沈阳市"
-      },
-      {
-        "cityName": "铁岭",
-        "currentConfirmedCount": 172,
-        "confirmedCount": 186,
-        "suspectedCount": 0,
-        "curedCount": 14,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 211200,
-        "currentConfirmedCountStr": "172",
-        "fullCityName": "铁岭市"
-      },
-      {
-        "cityName": "大连",
-        "currentConfirmedCount": 74,
-        "confirmedCount": 694,
-        "suspectedCount": 0,
-        "curedCount": 620,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210200,
-        "currentConfirmedCountStr": "74",
-        "fullCityName": "大连市"
-      },
-      {
-        "cityName": "盘锦",
-        "currentConfirmedCount": 68,
-        "confirmedCount": 82,
-        "suspectedCount": 0,
-        "curedCount": 14,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 211100,
-        "currentConfirmedCountStr": "68",
-        "fullCityName": "盘锦市"
-      },
-      {
-        "cityName": "抚顺",
-        "currentConfirmedCount": 58,
-        "confirmedCount": 59,
-        "suspectedCount": 0,
-        "curedCount": 1,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210400,
-        "currentConfirmedCountStr": "58",
-        "fullCityName": "抚顺市"
-      },
-      {
-        "cityName": "朝阳",
-        "currentConfirmedCount": 42,
-        "confirmedCount": 49,
-        "suspectedCount": 0,
-        "curedCount": 6,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 211300,
-        "currentConfirmedCountStr": "42",
-        "fullCityName": "朝阳市"
-      },
-      {
-        "cityName": "境外输入",
-        "currentConfirmedCount": 27,
-        "confirmedCount": 367,
-        "suspectedCount": 0,
-        "curedCount": 340,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 0,
-        "currentConfirmedCountStr": "27",
-        "fullCityName": "境外输入"
-      },
-      {
-        "cityName": "阜新",
-        "currentConfirmedCount": 26,
-        "confirmedCount": 36,
-        "suspectedCount": 0,
-        "curedCount": 10,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210900,
-        "currentConfirmedCountStr": "26",
-        "fullCityName": "阜新市"
-      },
-      {
-        "cityName": "鞍山",
-        "currentConfirmedCount": 23,
-        "confirmedCount": 42,
-        "suspectedCount": 0,
-        "curedCount": 19,
-        "deadCount": 0,
-        "highDangerCount": 3,
-        "midDangerCount": 0,
-        "locationId": 210300,
-        "currentConfirmedCountStr": "23",
-        "fullCityName": "鞍山市"
-      },
-      {
-        "cityName": "本溪",
-        "currentConfirmedCount": 22,
-        "confirmedCount": 27,
-        "suspectedCount": 0,
-        "curedCount": 5,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210500,
-        "currentConfirmedCountStr": "22",
-        "fullCityName": "本溪市"
-      },
-      {
-        "cityName": "锦州",
-        "currentConfirmedCount": 14,
-        "confirmedCount": 29,
-        "suspectedCount": 0,
-        "curedCount": 15,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210700,
-        "currentConfirmedCountStr": "14",
-        "fullCityName": "锦州市"
-      },
-      {
-        "cityName": "丹东",
-        "currentConfirmedCount": 5,
-        "confirmedCount": 88,
-        "suspectedCount": 0,
-        "curedCount": 83,
-        "deadCount": 0,
-        "highDangerCount": 16,
-        "midDangerCount": 0,
-        "locationId": 210600,
-        "currentConfirmedCountStr": "5",
-        "fullCityName": "丹东市"
-      },
-      {
-        "cityName": "葫芦岛",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 229,
-        "suspectedCount": 0,
-        "curedCount": 226,
-        "deadCount": 1,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 211400,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "葫芦岛市"
-      },
-      {
-        "cityName": "辽阳",
-        "currentConfirmedCount": 2,
-        "confirmedCount": 14,
-        "suspectedCount": 0,
-        "curedCount": 12,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 211000,
-        "currentConfirmedCountStr": "2",
-        "fullCityName": "辽阳市"
-      },
-      {
-        "cityName": "营口",
-        "currentConfirmedCount": 0,
-        "confirmedCount": 218,
-        "suspectedCount": 0,
-        "curedCount": 218,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": 210800,
-        "currentConfirmedCountStr": "0",
-        "fullCityName": "营口市"
-      },
-      {
-        "cityName": "待明确地区",
-        "currentConfirmedCount": -814,
-        "confirmedCount": 13,
-        "suspectedCount": 0,
-        "curedCount": 827,
-        "deadCount": 0,
-        "highDangerCount": 0,
-        "midDangerCount": 0,
-        "locationId": -1,
-        "currentConfirmedCountStr": "-814",
-        "fullCityName": "待明确地区"
-      }
-    ],
-    "dangerAreas": [
-      {
-        "cityName": "丹东",
-        "areaName": " 广济街道平安街24号2单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 广济街道县前街73号3单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 九道街道北府花园35号楼4单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 临江街道韩国城小区17号楼二单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 帽盔山街道福寿西路1号三单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 帽盔山街道益荣家园小区53号楼一单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 汤池镇洋子新村小区1号楼一单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 同兴镇变电村3组761号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 纤维街道春六路4号一单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 纤维街道地质路300号",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 纤维街道地质路与致富路交汇处右侧第二列第二排平房",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 鸭绿江街道八三小区1号楼4单元2、3层",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 鸭绿江街道绿云嘉园小区16号楼2单元3、4、5层",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 站前街道宝石花小区12号楼一单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": " 珍珠街道丹建新时代A区1单元1层、2层、3层",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "丹东",
-        "areaName": "临江街道青年大街124号一单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "鞍山",
-        "areaName": "立山区深沟寺街道深沟寺四区曙光路10栋(家和天下小区5号楼)4单元",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "鞍山",
-        "areaName": "立山区沙河街道沁园春小区8号楼(鞍千路126栋)",
-        "dangerLevel": 1
-      },
-      {
-        "cityName": "鞍山",
-        "areaName": "立山区双山街道建国大道353栋2单元",
         "dangerLevel": 1
       }
     ]
